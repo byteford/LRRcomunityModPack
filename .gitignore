@@ -1,0 +1,7 @@
+*.log
+crash-reports/
+journeymap/data/sp/lag test/DIM0/1/0,0.png
+journeymap/data/
+logs/
+saves/
+screenshots/
