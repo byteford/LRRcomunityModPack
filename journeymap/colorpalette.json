@@ -1,7 +1,7 @@
 var colorpalette={
   "version": 5.4,
   "name": "JourneyMap Color Palette",
-  "generated": "Generated using JourneyMap 1.12-5.4.9 for 1.12 on Sun Jul 30 16:15:39 BST 2017",
+  "generated": "Generated using JourneyMap 1.12-5.4.9 for 1.12 on Sun Jul 30 17:35:19 BST 2017",
   "description": [
     "This file can be used to keep map colors consistent when changing resource packs.",
     "Edit at your own risk. You can view it using the colorpalette.html file.",
@@ -11,7 +11,7 @@ var colorpalette={
   ],
   "permanent": false,
   "resourcePacks": "Lrr_Community:folder",
-  "modNames": "Actually Additions:1.12-r117, AntiGhost:1.0, Applied Energistics 2 Core:rv5-alpha-1, Applied Energistics 2:rv5-alpha-1, Aroma1997\u0027s Dimensional World:1.3.0.0.b37, Aroma1997Core:1.3.0.0.b94, Aroma1997Core|Helper:1.3.0.0.b94, AutoRegLib:1.3-13, Baby Animals Model Swapper:1.11-2, Better Builder\u0027s Wands:0.11.1, BiblioCraft:2.4.3, Bird\u0027s Foods:2.4.2 [1.12], CTM:MC1.12-0.2.0.3, Chameleon Creepers:1.4.1, Chameleon:1.12-4.1.3, Cheese Mod:1.0, Chest Cow:1.0, Chest Transporter:2.8.6, Chisel:MC1.12-0.0.13.14, Chisels \u0026 Bits:14.4, CoFH Core:4.3.3, CoFH World:1.0.0, CodeChicken Lib:3.1.1.288, Cooking for Blockheads:6.3.2, CreativeCore:1.7.4, CreativeCoreDummy:1.0.0, Creeper Confetti:1.4.1, Creeperade:1.2, Cucumber:1.0.0, Custom Main Menu:2.0.6, Cyclops Core:0.10.10, DeepResonance:1.4.9, Default Options:9.2.1, Doggy Talents:1.14.0.206, Dooglamoo Worlds:1.0a, Doomlike Dungeons:1.9.3, Edible Tools:1.0.1, ElecCore:1.8.429, Elevator Mod:1.3.4, EnderStorage:1.0, EvilCraft-Compat:1.0.0, EvilCraft:0.10.30, Extra Utilities 2:1.0, Extreme Reactors:1.12-0.4.5.34, Fast Food:0.2.22050900, Food Expansion:1.3, Forge Mod Loader:8.0.99.99, GPS:3.1.0.0.b21, Global XP:v1.2, Gravestone Mod:1.8.4, Grue:1.3.5, Immersive Engineering:0.12-69, Immersive Petroleum:1.1.2, Iron Chest:1.12-7.0.31.818, JourneyMap:1.12-5.4.9, Just Enough Items:4.7.2.77, Just a Few Fish:1.7_for_1.12, KleeSlabs:5.3.2, Mankini:1.3.2, Mantle:1.12-1.3.0.15, Minecraft Coder Pack:9.19, Minecraft Forge:14.21.1.2426, Minecraft:1.12, Mo\u0027 Bends:0.24, Morpheus:1.12-3.3.2, Mystical Agriculture:1.6.2, Pam\u0027s HarvestCraft:1.12a, Personal Cars:1.3, PetRock:0.2.0, Player Revive:1.0, Psi:r1.1-52, Quark:r1.2-103, RFTools Dimensions:5.04, RFTools:6.12, Redstone Arsenal:2.3.3, Redstone Flux:2.0.1, Refined Storage:1.5.13, Rustic:0.4, Salty Mod:1.12_c, Squake:1.0.4, Storage Drawers:1.12-5.2.5, Stupid Things:1.1.1, Subaraki\u0027s Common Library:1.2.0.1, The One Probe:1.4.15, Thermal Cultivation:0.1.0, Thermal Dynamics:2.3.3, Thermal Expansion:5.3.3, Thermal Foundation:2.3.3, Tinkers\u0027 Construct:1.12-2.7.1.9, Traverse:1.2.1, Tree Growing Simulator 2016:0.0.4, Waystones:4.0.11, Wearable Backpacks:3.0.4, What Are We Looking At:2.5.239, Zero CORE:1.12-0.1.0.9, fashion mod:1.11.2 0.1.2.0, muchmorechickens:1.7, trolloresreborn:4.0.4, §3Dynamic Surroundings:3.4.6.0, §3Presets!:3.4.6.0",
+  "modNames": "Actually Additions:1.12-r117, AntiGhost:1.0, AppleSkin:1.0.7, Applied Energistics 2 Core:rv5-alpha-1, Applied Energistics 2:rv5-alpha-1, Aroma1997\u0027s Dimensional World:1.3.0.0.b37, Aroma1997Core:1.3.0.0.b94, Aroma1997Core|Helper:1.3.0.0.b94, Astral Sorcery:1.6.1, AutoRegLib:1.3-13, Baby Animals Model Swapper:1.11-2, Better Builder\u0027s Wands:0.11.1, BiblioCraft:2.4.3, Bird\u0027s Foods:2.4.2 [1.12], Bookshelf:2.0.415, CTM:MC1.12-0.2.0.3, Chameleon Creepers:1.4.1, Chameleon:1.12-4.1.3, Cheese Mod:1.0, Chest Cow:1.0, Chest Transporter:2.8.6, Chisel:MC1.12-0.0.13.14, Chisels \u0026 Bits:14.4, CoFH Core:4.3.3, CoFH World:1.0.0, CodeChicken Lib:3.1.1.288, Cooking for Blockheads:6.3.2, CreativeCore:1.7.4, CreativeCoreDummy:1.0.0, Creeper Confetti:1.4.1, Creeperade:1.2, Cucumber:1.0.0, Custom Main Menu:2.0.6, Cyclops Core:0.10.10, Dark Utilities:1.6.167, DeepResonance:1.4.9, Default Options:9.2.1, Doggy Talents:1.14.0.206, Edible Tools:1.0.1, ElecCore:1.8.429, Elevator Mod:1.3.4, Embers:0.221, EnderStorage:1.0, EvilCraft-Compat:1.0.0, EvilCraft:0.10.30, Exchangers:1.12-2.2, Extra Utilities 2:1.0, Fast Food:0.2.22050900, FoamFix:@VERSION@, FoamFixCore:7.7.4, Food Expansion:1.3, Forge Mod Loader:8.0.99.99, GPS:3.1.0.0.b21, Global XP:v1.2, Gravestone Mod:1.8.4, Grue:1.3.5, Immersive Engineering:0.12-69, Immersive Petroleum:1.1.2, Iron Chest:1.12-7.0.31.818, IvToolkit:1.3.3-1.12, JourneyMap:1.12-5.4.9, Just Enough Items:4.7.2.77, Just a Few Fish:1.7_for_1.12, KleeSlabs:5.3.2, Mankini:1.3.2, Mantle:1.12-1.3.0.15, Minecraft Coder Pack:9.19, Minecraft Forge:14.21.1.2426, Minecraft:1.12, Mo\u0027 Bends:0.24, Mystical Agriculture:1.6.2, NetherEx:2.1.10.11, Pam\u0027s HarvestCraft:1.12a, Personal Cars:1.3, PetRock:0.2.0, Player Revive:1.0, Psi:r1.1-52, Quark:r1.2-103, RFTools Dimensions:5.04, RFTools:6.12, Recurrent Complex:1.4.4, Redstone Arsenal:2.3.3, Redstone Flux:2.0.1, Refined Storage:1.5.13, Roots 2:0.025, Rustic:0.4, Salty Mod:1.12_c, SpawnerCraft:4.0.0, Squake:1.0.4, Storage Drawers:1.12-5.2.5, Stupid Things:1.1.1, Subaraki\u0027s Common Library:1.2.0.1, The Lost Cities:0.0.19beta, The One Probe:1.4.15, Thermal Cultivation:0.1.0, Thermal Dynamics:2.3.3, Thermal Expansion:5.3.3, Thermal Foundation:2.3.3, Tinkers\u0027 Construct:1.12-2.7.1.9, TorchMaster:1.4.3.8, Traverse:1.2.1, Tree Growing Simulator 2016:0.0.4, Uncrafting Table:1.8-beta4, Waystones:4.0.11, Wearable Backpacks:3.0.4, What Are We Looking At:2.5.239, Zero CORE:1.12-0.1.0.9, badwithernocookiereloaded:1.0, fashion mod:1.11.2 0.1.2.0, muchmorechickens:1.7, trolloresreborn:4.0.4, §3Dynamic Surroundings:3.4.6.0, §3Presets!:3.4.6.0",
   "blockColors": [
     {
       "uid": "actuallyadditions:block_atomic_reconstructor",
@@ -1515,327 +1515,151 @@ var colorpalette={
       "alpha": 1.0
     },
     {
-      "uid": "bigreactors:blockmetals",
-      "name": "Yellorium Block",
-      "color": "#bce02e",
+      "uid": "astralsorcery:blockaltar",
+      "name": "[NoName-Endgame] Altar",
+      "color": "#dbdbdb",
+      "alpha": 1.0
+    },
+    {
+      "uid": "astralsorcery:blockattunementrelay",
+      "name": "Spectral Relay",
+      "color": "#5d482d",
+      "alpha": 0.4
+    },
+    {
+      "uid": "astralsorcery:blockblackmarble",
+      "name": "Sooty Marble",
+      "color": "#0a0a0a",
+      "alpha": 1.0
+    },
+    {
+      "uid": "astralsorcery:blockcelestialgateway",
+      "name": "Celestial Gateway",
+      "color": "#8b772c",
+      "alpha": 1.0
+    },
+    {
+      "uid": "astralsorcery:blockcustomflower",
+      "name": "Faint Amaranth",
+      "color": "#7da86a",
+      "alpha": 1.0
+    },
+    {
+      "uid": "astralsorcery:blockcustomore",
+      "name": "Rock Crystal Ore",
+      "color": "#9b9b9b",
       "alpha": 1.0,
       "variants": [
         {
-          "name": "Blutonium Block",
-          "color": "#251be4"
-        },
-        {
-          "name": "Cyanite Block",
-          "color": "#2c9ab5"
-        },
-        {
-          "name": "Graphite Block",
-          "color": "#232323"
-        },
-        {
-          "name": "Ludicrite Block",
-          "color": "#df2eab"
-        },
-        {
-          "name": "Steel Block",
-          "color": "#5a5a5a"
+          "name": "Starmetal Ore",
+          "color": "#6c6f7a"
         }
       ]
     },
     {
-      "uid": "bigreactors:brore",
-      "name": "Yellorite Ore",
-      "color": "#7f806c",
+      "uid": "astralsorcery:blockcustomsandore",
+      "name": "Aquamarine Shale",
+      "color": "#c3cbb3",
+      "alpha": 1.0
+    },
+    {
+      "uid": "astralsorcery:blocklens",
+      "name": "Lens",
+      "color": "#a39384",
+      "alpha": 1.0
+    },
+    {
+      "uid": "astralsorcery:blockmarble",
+      "name": "Marble Pillar",
+      "color": "#dbdbdb",
       "alpha": 1.0,
       "variants": [
         {
-          "name": "Anglesite Ore",
-          "color": "#d4d197"
+          "name": "Chiseled Marble",
+          "color": "#d8d8d8"
         },
         {
-          "name": "Benitoite Ore",
-          "color": "#674643"
+          "name": "Engraved Marble",
+          "color": "#d3d3d3"
+        },
+        {
+          "name": "Marble Arch",
+          "color": "#d5d5d5"
+        },
+        {
+          "name": "Marble Bricks",
+          "color": "#d7d7d7"
+        },
+        {
+          "name": "Runed Marble",
+          "color": "#a9a9a9"
         }
       ]
     },
     {
-      "uid": "bigreactors:cyanite",
+      "uid": "astralsorcery:blockmarbledoubleslab",
       "name": "Air",
-      "color": "#4f94b5",
+      "color": "#d7d7d7",
       "alpha": 1.0
     },
     {
-      "uid": "bigreactors:reactoraccessport",
-      "name": "Reactor Access Port (Basic)",
-      "color": "#343f4a",
-      "alpha": 1.0,
-      "variants": [
-        {
-          "color": "#414638"
-        }
-      ]
-    },
-    {
-      "uid": "bigreactors:reactorcasing",
-      "name": "Reactor Casing (Basic)",
-      "color": "#505057",
-      "alpha": 1.0,
-      "variants": [
-        {
-          "color": "#515158"
-        },
-        {
-          "color": "#53535a"
-        },
-        {
-          "color": "#5c5c64"
-        }
-      ]
-    },
-    {
-      "uid": "bigreactors:reactorcomputerport",
-      "name": "Reactor Computer Port (Basic)",
-      "color": "#5a5557",
+      "uid": "astralsorcery:blockmarbleslab",
+      "name": "Marble Slab",
+      "color": "#d7d7d7",
       "alpha": 1.0
     },
     {
-      "uid": "bigreactors:reactorcontroller",
-      "name": "Reactor Controller (Legacy)",
-      "color": "#2f2f31",
-      "alpha": 1.0,
-      "variants": [
-        {
-          "name": "Reactor Controller (Basic)",
-          "color": "#422a2c"
-        },
-        {
-          "name": "Reactor Controller (Basic)",
-          "color": "#4e5042"
-        },
-        {
-          "name": "Reactor Controller (Basic)",
-          "color": "#68373a"
-        },
-        {
-          "color": "#3b5547"
-        },
-        {
-          "color": "#523c40"
-        }
-      ]
-    },
-    {
-      "uid": "bigreactors:reactorcontrolrod",
-      "name": "Reactor Control Rod (Basic)",
-      "color": "#505154",
+      "uid": "astralsorcery:blockmarblestairs",
+      "name": "Marble Stairs",
+      "color": "#d7d7d7",
       "alpha": 1.0
     },
     {
-      "uid": "bigreactors:reactorcoolantport",
-      "name": "Reactor Coolant Port (Basic)",
-      "color": "#324a4e",
-      "alpha": 1.0,
-      "variants": [
-        {
-          "color": "#473539"
-        }
-      ]
-    },
-    {
-      "uid": "bigreactors:reactorcreativecoolantport",
-      "name": "Reactor Creative Coolant Port (Basic)",
-      "color": "#46334e",
-      "alpha": 1.0,
-      "variants": [
-        {
-          "color": "#473549"
-        }
-      ]
-    },
-    {
-      "uid": "bigreactors:reactorfuelrod",
-      "name": "Reactor Fuel Rod (Basic)",
-      "color": "#212121",
+      "uid": "astralsorcery:blockprism",
+      "name": "PrismLens",
+      "color": "#a39384",
       "alpha": 1.0
     },
     {
-      "uid": "bigreactors:reactorglass",
-      "name": "Reactor Glass (Basic)",
-      "color": "#55555c",
-      "alpha": 0.4,
-      "variants": [
-        {
-          "color": "#5c5b41"
-        }
-      ]
-    },
-    {
-      "uid": "bigreactors:reactorpowertaprf",
-      "name": "Reactor Redstone Flux Power Tap (Basic)",
-      "color": "#4a4c46",
-      "alpha": 1.0,
-      "variants": [
-        {
-          "color": "#504745"
-        }
-      ]
-    },
-    {
-      "uid": "bigreactors:reactorpowertaptesla",
-      "name": "Reactor Tesla Power Tap (Legacy)",
-      "color": "#474e4c",
-      "alpha": 1.0,
-      "variants": [
-        {
-          "name": "Reactor Tesla Power Tap (Basic)",
-          "color": "#4a4c46"
-        },
-        {
-          "name": "Reactor Tesla Power Tap (Basic)",
-          "color": "#504745"
-        },
-        {
-          "color": "#494c4d"
-        }
-      ]
-    },
-    {
-      "uid": "bigreactors:reactorrednetport",
-      "name": "Reactor RedNet Port (Basic)",
-      "color": "#5c4840",
+      "uid": "astralsorcery:blockrituallink",
+      "name": "Ritual Anchor",
+      "color": "#dbd8cc",
       "alpha": 1.0
     },
     {
-      "uid": "bigreactors:reactorredstoneport",
-      "name": "Reactor Redstone Port (Basic)",
-      "color": "#4d4b50",
-      "alpha": 1.0,
-      "variants": [
-        {
-          "color": "#534a4f"
-        }
-      ]
-    },
-    {
-      "uid": "bigreactors:turbinebearing",
-      "name": "Turbine Rotor Bearing (Basic)",
-      "color": "#6c7c80",
+      "uid": "astralsorcery:blockritualpedestal",
+      "name": "Ritual Pedestal",
+      "color": "#d7d7d6",
       "alpha": 1.0
     },
     {
-      "uid": "bigreactors:turbinecomputerport",
-      "name": "Turbine Computer Port (Basic)",
-      "color": "#7a787b",
+      "uid": "astralsorcery:blockstarlightinfuser",
+      "name": "Starlight Infuser",
+      "color": "#bfbfba",
       "alpha": 1.0
     },
     {
-      "uid": "bigreactors:turbinecontroller",
-      "name": "Turbine Controller (Basic)",
-      "color": "#616469",
-      "alpha": 1.0,
-      "variants": [
-        {
-          "color": "#667773"
-        },
-        {
-          "color": "#736b70"
-        }
-      ]
-    },
-    {
-      "uid": "bigreactors:turbinecreativesteamgenerator",
-      "name": "Turbine Creative Steam Generator (Basic)",
-      "color": "#725b80",
+      "uid": "astralsorcery:blocktreebeacon",
+      "name": "Tree Beacon",
+      "color": "#7e8c46",
       "alpha": 1.0
     },
     {
-      "uid": "bigreactors:turbinefluidport",
-      "name": "Turbine Fluid Port (Basic)",
-      "color": "#576876",
-      "alpha": 1.0,
-      "variants": [
-        {
-          "color": "#685d61"
-        }
-      ]
-    },
-    {
-      "uid": "bigreactors:turbineglass",
-      "name": "Turbine Glass (Basic)",
-      "color": "#35424a",
-      "alpha": 0.4,
-      "variants": [
-        {
-          "color": "#55555c"
-        }
-      ]
-    },
-    {
-      "uid": "bigreactors:turbinehousing",
-      "name": "Turbine Housing (Basic)",
-      "color": "#6b7279",
-      "alpha": 1.0,
-      "variants": [
-        {
-          "color": "#767c82"
-        },
-        {
-          "color": "#777c82"
-        },
-        {
-          "color": "#797d84"
-        },
-        {
-          "color": "#87898f"
-        }
-      ]
-    },
-    {
-      "uid": "bigreactors:turbinepowertaprf",
-      "name": "Turbine Redstone Flux Power Tap (Basic)",
-      "color": "#737a76",
-      "alpha": 1.0,
-      "variants": [
-        {
-          "color": "#7a7475"
-        }
-      ]
-    },
-    {
-      "uid": "bigreactors:turbinepowertaptesla",
-      "name": "Turbine Tesla Power Tap (Legacy)",
-      "color": "#707c7c",
-      "alpha": 1.0,
-      "variants": [
-        {
-          "name": "Turbine Tesla Power Tap (Basic)",
-          "color": "#6c7b7c"
-        },
-        {
-          "name": "Turbine Tesla Power Tap (Basic)",
-          "color": "#72767a"
-        },
-        {
-          "color": "#727a7d"
-        }
-      ]
-    },
-    {
-      "uid": "bigreactors:turbinerotorblade",
-      "name": "Turbine Rotor Blade (Basic)",
-      "color": "#545358",
+      "uid": "astralsorcery:blockwell",
+      "name": "Lightwell",
+      "color": "#b9baba",
       "alpha": 1.0
     },
     {
-      "uid": "bigreactors:turbinerotorshaft",
-      "name": "Turbine Rotor Shaft (Basic)",
-      "color": "#545358",
+      "uid": "astralsorcery:blockworldilluminator",
+      "name": "Cave Illuminator",
+      "color": "#f4ec26",
       "alpha": 1.0
     },
     {
-      "uid": "bigreactors:yellorium",
+      "uid": "astralsorcery:fluidblockliquidstarlight",
       "name": "Air",
-      "color": "#b5b34f",
+      "color": "#d5dadb",
       "alpha": 1.0
     },
     {
@@ -7624,6 +7448,268 @@ var colorpalette={
       "alpha": 1.0
     },
     {
+      "uid": "darkutils:anti_slime",
+      "name": "Anti-Slime Block",
+      "color": "#18191a",
+      "alpha": 1.0
+    },
+    {
+      "uid": "darkutils:ender_hopper",
+      "name": "Ender Hopper",
+      "color": "#14121d",
+      "alpha": 1.0
+    },
+    {
+      "uid": "darkutils:fake_tnt",
+      "name": "TNT",
+      "color": "#a95c47",
+      "alpha": 1.0
+    },
+    {
+      "uid": "darkutils:filter",
+      "name": "Mob Filter",
+      "color": "#18191a",
+      "alpha": 1.0
+    },
+    {
+      "uid": "darkutils:filter_inverted",
+      "name": "Inverted Mob Filter",
+      "color": "#fcfcfc",
+      "alpha": 1.0
+    },
+    {
+      "uid": "darkutils:grate",
+      "name": "Item Grate",
+      "color": "#6d6c6a",
+      "alpha": 1.0
+    },
+    {
+      "uid": "darkutils:pearl_block",
+      "name": "Pearl Block",
+      "color": "#cfcfba",
+      "alpha": 1.0,
+      "variants": [
+        {
+          "name": "Carved Pearl Block",
+          "color": "#d1d2bd"
+        },
+        {
+          "name": "Chiseled Pearl Block",
+          "color": "#cfcfb9"
+        },
+        {
+          "name": "Pearl Brick",
+          "color": "#d0d1bc"
+        }
+      ]
+    },
+    {
+      "uid": "darkutils:slime_dyed",
+      "name": "White Slime Block",
+      "color": "#d5d5d5",
+      "alpha": 1.0,
+      "variants": [
+        {
+          "name": "Black Slime Block",
+          "color": "#8f8d8d"
+        },
+        {
+          "name": "Blue Slime Block",
+          "color": "#9294ae"
+        },
+        {
+          "name": "Brown Slime Block",
+          "color": "#9b938d"
+        },
+        {
+          "name": "Cyan Slime Block",
+          "color": "#92a5ad"
+        },
+        {
+          "name": "Gray Slime Block",
+          "color": "#979797"
+        },
+        {
+          "name": "Green Slime Block",
+          "color": "#93988c"
+        },
+        {
+          "name": "Light Gray Slime Block",
+          "color": "#b1b3b3"
+        },
+        {
+          "name": "Lime Slime Block",
+          "color": "#97b794"
+        },
+        {
+          "name": "Magenta Slime Block",
+          "color": "#bb99be"
+        },
+        {
+          "name": "Orange Slime Block",
+          "color": "#cdaa93"
+        },
+        {
+          "name": "Pink Slime Block",
+          "color": "#c6a7af"
+        },
+        {
+          "name": "Purple Slime Block",
+          "color": "#a996ba"
+        },
+        {
+          "name": "Red Slime Block",
+          "color": "#bb9796"
+        },
+        {
+          "name": "SlimeDyed",
+          "color": "#9eabc4"
+        },
+        {
+          "name": "Yellow Slime Block",
+          "color": "#cac694"
+        }
+      ]
+    },
+    {
+      "uid": "darkutils:sneaky",
+      "name": "Sneaky Block",
+      "color": "#18191a",
+      "alpha": 1.0
+    },
+    {
+      "uid": "darkutils:sneaky_bedrock",
+      "name": "Sneaky Bedrock",
+      "color": "#18191a",
+      "alpha": 1.0
+    },
+    {
+      "uid": "darkutils:sneaky_ghost",
+      "name": "Sneaky False Block",
+      "color": "#18191a",
+      "alpha": 1.0
+    },
+    {
+      "uid": "darkutils:sneaky_lever",
+      "name": "Sneaky Lever",
+      "color": "#18191a",
+      "alpha": 1.0
+    },
+    {
+      "uid": "darkutils:sneaky_obsidian",
+      "name": "Sneaky Obsidian",
+      "color": "#18191a",
+      "alpha": 1.0
+    },
+    {
+      "uid": "darkutils:sneaky_plate",
+      "name": "Sneaky Pressure Plate",
+      "color": "#18191a",
+      "alpha": 1.0
+    },
+    {
+      "uid": "darkutils:sneaky_torch",
+      "name": "Sneaky Torch",
+      "color": "#18191a",
+      "alpha": 1.0
+    },
+    {
+      "uid": "darkutils:timer",
+      "name": "Timer",
+      "color": "#987a7a",
+      "alpha": 1.0,
+      "variants": [
+        {
+          "color": "#937a7a"
+        }
+      ]
+    },
+    {
+      "uid": "darkutils:trap_move",
+      "name": "Vector Plate",
+      "color": "#18191a",
+      "alpha": 1.0
+    },
+    {
+      "uid": "darkutils:trap_move_fast",
+      "name": "Fast Vector Plate",
+      "color": "#18191a",
+      "alpha": 1.0
+    },
+    {
+      "uid": "darkutils:trap_move_hyper",
+      "name": "Extreme Vector Plate",
+      "color": "#18191a",
+      "alpha": 1.0
+    },
+    {
+      "uid": "darkutils:trap_tile",
+      "name": "Poison Trap",
+      "color": "#182a17",
+      "alpha": 1.0,
+      "variants": [
+        {
+          "name": "Damage Trap",
+          "color": "#211717"
+        },
+        {
+          "name": "Flame Trap",
+          "color": "#26211a"
+        },
+        {
+          "name": "Slowness Trap",
+          "color": "#192425"
+        },
+        {
+          "name": "Weakness Trap",
+          "color": "#222324"
+        },
+        {
+          "name": "Wither Trap",
+          "color": "#161717"
+        }
+      ]
+    },
+    {
+      "uid": "darkutils:update_detector",
+      "name": "Block Update Detector",
+      "color": "#987a7a",
+      "alpha": 1.0,
+      "variants": [
+        {
+          "color": "#937a7a"
+        }
+      ]
+    },
+    {
+      "uid": "darkutils:wither_block",
+      "name": "Wither Dust Block",
+      "color": "#18191a",
+      "alpha": 1.0,
+      "variants": [
+        {
+          "name": "Carved Wither Dust Block",
+          "color": "#161718"
+        },
+        {
+          "name": "Checkered Wither Dust Block",
+          "color": "#131414"
+        },
+        {
+          "name": "Chiseled Wither Dust Block",
+          "color": "#121313"
+        },
+        {
+          "name": "Corrupted Wither Dust Block",
+          "color": "#3a2346"
+        },
+        {
+          "name": "Wither Dust Bricks",
+          "color": "#151617"
+        }
+      ]
+    },
+    {
       "uid": "deepresonance:crystalizer",
       "name": "Crystalizer",
       "color": "#737275",
@@ -7922,6 +8008,676 @@ var colorpalette={
       "uid": "elevatorid:elevator_yellow",
       "name": "Yellow Elevator",
       "color": "#decb1b",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:advanced_edge",
+      "name": "AdvancedEdge",
+      "color": "#786c54",
+      "alpha": 1.0,
+      "variants": [
+        {
+          "color": "#9f6035"
+        }
+      ]
+    },
+    {
+      "uid": "embers:alchemy_pedestal",
+      "name": "Alchemy Pedestal",
+      "color": "#a16832",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:alchemy_tablet",
+      "name": "Exchange Tablet",
+      "color": "#986b30",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:aluminum",
+      "name": "Air",
+      "color": "#b5b5b5",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:archaic_bricks",
+      "name": "Archaic Bricks",
+      "color": "#4a3d3a",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:archaic_edge",
+      "name": "Archaic Edge",
+      "color": "#503f3a",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:archaic_light",
+      "name": "Archaic Light",
+      "color": "#693e29",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:archaic_tile",
+      "name": "Archaic Tile",
+      "color": "#514340",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:ashen_brick",
+      "name": "Ashen Brick",
+      "color": "#221f1f",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:ashen_brick_slab",
+      "name": "Ashen Brick Slab",
+      "color": "#221f1f",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:ashen_brick_slab_double",
+      "name": "Ashen Brick Double Slab",
+      "color": "#221f1f",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:ashen_stone",
+      "name": "Ashen Stone",
+      "color": "#211d1d",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:ashen_stone_slab",
+      "name": "Ashen Stone Slab",
+      "color": "#211d1d",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:ashen_stone_slab_double",
+      "name": "Ashen Stone Double Slab",
+      "color": "#211d1d",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:ashen_tile",
+      "name": "Ashen Tile",
+      "color": "#1d1a1a",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:ashen_tile_slab",
+      "name": "Ashen Tile Slab",
+      "color": "#1d1a1a",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:ashen_tile_slab_double",
+      "name": "Ashen Tile Double Slab",
+      "color": "#1d1a1a",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:auto_hammer",
+      "name": "Automatic Hammer",
+      "color": "#775740",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:beam_cannon",
+      "name": "Beam Cannon",
+      "color": "#8f562e",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:beam_splitter",
+      "name": "Beam Splitter",
+      "color": "#5b4f4b",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:bin",
+      "name": "Bin",
+      "color": "#5b5c60",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:block_aluminum",
+      "name": "Aluminum Block",
+      "color": "#a97063",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:block_bronze",
+      "name": "Bronze Block",
+      "color": "#906a40",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:block_caminite_brick",
+      "name": "Caminite Bricks",
+      "color": "#786c54",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:block_caminite_brick_slab",
+      "name": "Caminite Brick Slab",
+      "color": "#786c54",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:block_caminite_brick_slab_double",
+      "name": "Caminite Brick Double Slab",
+      "color": "#786c54",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:block_copper",
+      "name": "Copper Block",
+      "color": "#a6663a",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:block_dawnstone",
+      "name": "Dawnstone Block",
+      "color": "#a57334",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:block_electrum",
+      "name": "Electrum Block",
+      "color": "#af9e57",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:block_furnace",
+      "name": "Melter",
+      "color": "#676257",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:block_lantern",
+      "name": "Ember Lantern",
+      "color": "#54514c",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:block_lead",
+      "name": "Lead Block",
+      "color": "#595163",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:block_mithril",
+      "name": "Mithril Block",
+      "color": "#9aaa89",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:block_nickel",
+      "name": "Nickel Block",
+      "color": "#79806b",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:block_silver",
+      "name": "Silver Block",
+      "color": "#7c8b90",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:block_tank",
+      "name": "Fluid Vessel",
+      "color": "#676257",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:block_tin",
+      "name": "Tin Block",
+      "color": "#959997",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:boiler",
+      "name": "Pressure Refinery",
+      "color": "#9f6035",
+      "alpha": 1.0,
+      "variants": [
+        {
+          "color": "#555559"
+        }
+      ]
+    },
+    {
+      "uid": "embers:breaker",
+      "name": "Automatic Breaker",
+      "color": "#57565d",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:bronze",
+      "name": "Air",
+      "color": "#b5b5b5",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:caminite_lever",
+      "name": "Caminite Lever",
+      "color": "#635a4a",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:catalyzer",
+      "name": "Catalysis Chamber",
+      "color": "#585f63",
+      "alpha": 1.0,
+      "variants": [
+        {
+          "color": "#54514c"
+        }
+      ]
+    },
+    {
+      "uid": "embers:charger",
+      "name": "Copper Charger",
+      "color": "#955a33",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:cinder_plinth",
+      "name": "Cinder Plinth",
+      "color": "#55505e",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:combustor",
+      "name": "Combustion Chamber",
+      "color": "#84593d",
+      "alpha": 1.0,
+      "variants": [
+        {
+          "color": "#54514c"
+        }
+      ]
+    },
+    {
+      "uid": "embers:copper",
+      "name": "Air",
+      "color": "#b5b5b5",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:copper_cell",
+      "name": "Copper Cell",
+      "color": "#714e31",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:creative_ember_source",
+      "name": "Creative Ember Source",
+      "color": "#9d5e43",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:crystal_cell",
+      "name": "Crystal Cell",
+      "color": "#96692f",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:dawnstone",
+      "name": "Air",
+      "color": "#dd9142",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:dawnstone_anvil",
+      "name": "Dawnstone Anvil",
+      "color": "#a37132",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:electrum",
+      "name": "Air",
+      "color": "#b5b5b5",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:ember_activator",
+      "name": "Ember Activator",
+      "color": "#484443",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:ember_bore",
+      "name": "Ember Bore",
+      "color": "#786c54",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:ember_emitter",
+      "name": "Ember Emitter",
+      "color": "#615141",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:ember_gauge",
+      "name": "Ember Dial",
+      "color": "#705d56",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:ember_injector",
+      "name": "Ember Injector",
+      "color": "#7d684d",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:ember_pulser",
+      "name": "Ember Ejector",
+      "color": "#615141",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:ember_receiver",
+      "name": "Ember Receptor",
+      "color": "#615141",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:ember_relay",
+      "name": "Ember Relay",
+      "color": "#704e32",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:field_chart",
+      "name": "Field Chart",
+      "color": "#786c54",
+      "alpha": 1.0,
+      "variants": [
+        {
+          "color": "#34251f"
+        },
+        {
+          "color": "#51433f"
+        }
+      ]
+    },
+    {
+      "uid": "embers:fluid_gauge",
+      "name": "Fluid Dial",
+      "color": "#705d56",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:gold",
+      "name": "Air",
+      "color": "#b5b5b5",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:heat_coil",
+      "name": "Hearth Coil",
+      "color": "#786c54",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:inferno_forge",
+      "name": "Inferno Forge",
+      "color": "#90602d",
+      "alpha": 1.0,
+      "variants": [
+        {
+          "color": "#786c54"
+        }
+      ]
+    },
+    {
+      "uid": "embers:inferno_forge_edge",
+      "name": "InfernoForgeEdge",
+      "color": "#90602d",
+      "alpha": 1.0,
+      "variants": [
+        {
+          "color": "#786c54"
+        },
+        {
+          "color": "#9a6b30"
+        }
+      ]
+    },
+    {
+      "uid": "embers:iron",
+      "name": "Air",
+      "color": "#b5b5b5",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:item_dropper",
+      "name": "Item Dropper",
+      "color": "#54514c",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:item_pipe",
+      "name": "Item Pipe",
+      "color": "#4a4344",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:item_pump",
+      "name": "Item Extractor",
+      "color": "#4a4344",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:item_transfer",
+      "name": "Item Transfer",
+      "color": "#665d71",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:large_tank",
+      "name": "Reservoir",
+      "color": "#786c54",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:lead",
+      "name": "Air",
+      "color": "#b5b5b5",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:mech_accessor",
+      "name": "Machine Accessor",
+      "color": "#54514c",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:mech_core",
+      "name": "Mechanical Core",
+      "color": "#524f4a",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:mech_edge",
+      "name": "MechEdge",
+      "color": "#786c54",
+      "alpha": 1.0,
+      "variants": [
+        {
+          "color": "#ffffff"
+        }
+      ]
+    },
+    {
+      "uid": "embers:mixer",
+      "name": "Mixer Centrifuge",
+      "color": "#5b5c5f",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:nickel",
+      "name": "Air",
+      "color": "#b5b5b5",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:ore_aluminum",
+      "name": "Aluminum Ore",
+      "color": "#867d7b",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:ore_copper",
+      "name": "Copper Ore",
+      "color": "#857b74",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:ore_lead",
+      "name": "Lead Ore",
+      "color": "#79787b",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:ore_nickel",
+      "name": "Nickel Ore",
+      "color": "#80817d",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:ore_quartz",
+      "name": "Quartz Ore",
+      "color": "#93918f",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:ore_silver",
+      "name": "Silver Ore",
+      "color": "#848787",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:ore_tin",
+      "name": "Tin Ore",
+      "color": "#858686",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:pipe",
+      "name": "Fluid Pipe",
+      "color": "#524f4a",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:pump",
+      "name": "Fluid Extractor",
+      "color": "#524f4a",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:reactor",
+      "name": "Ignem Reactor",
+      "color": "#75563f",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:sealed_planks",
+      "name": "Sealed Planks",
+      "color": "#2f231c",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:silver",
+      "name": "Air",
+      "color": "#b5b5b5",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:stairs_ashen_brick",
+      "name": "Ashen Brick Stairs",
+      "color": "#221f1f",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:stairs_ashen_stone",
+      "name": "Ashen Stone Stairs",
+      "color": "#211d1d",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:stairs_ashen_tile",
+      "name": "Ashen Tile Stairs",
+      "color": "#1d1a1a",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:stairs_caminite_brick",
+      "name": "Caminite Brick Stairs",
+      "color": "#786c54",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:stamper",
+      "name": "Stamper",
+      "color": "#54514c",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:stamper_base",
+      "name": "Stamp Base",
+      "color": "#54514c",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:stone_edge",
+      "name": "Caminite Ring",
+      "color": "#786c54",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:tin",
+      "name": "Air",
+      "color": "#b5b5b5",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:vacuum",
+      "name": "Item Vacuum",
+      "color": "#575061",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:wall_ashen_brick",
+      "name": "Ashen Brick Wall",
+      "color": "#221f1f",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:wall_ashen_stone",
+      "name": "Ashen Stone Wall",
+      "color": "#211d1d",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:wall_ashen_tile",
+      "name": "Ashen Tile Wall",
+      "color": "#1d1a1a",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:wall_caminite_brick",
+      "name": "Caminite Brick Wall",
+      "color": "#786c54",
+      "alpha": 1.0
+    },
+    {
+      "uid": "embers:wrapped_sealed_planks",
+      "name": "Reinforced Sealed Planks",
+      "color": "#362e2a",
       "alpha": 1.0
     },
     {
@@ -14345,6 +15101,29 @@ var colorpalette={
       ]
     },
     {
+      "uid": "mysticalagriculture:aquamarine_crop",
+      "name": "Aquamarine Crop",
+      "color": "#01a201",
+      "alpha": 1.0,
+      "variants": [
+        {
+          "color": "#00530c"
+        },
+        {
+          "color": "#009100"
+        },
+        {
+          "color": "#02570d"
+        },
+        {
+          "color": "#0b6f0c"
+        },
+        {
+          "color": "#116755"
+        }
+      ]
+    },
+    {
       "uid": "mysticalagriculture:ardite_crop",
       "name": "Ardite Crop",
       "color": "#01a201",
@@ -15787,6 +16566,29 @@ var colorpalette={
       ]
     },
     {
+      "uid": "mysticalagriculture:rock_crystal_crop",
+      "name": "Rock Crystal Crop",
+      "color": "#01a201",
+      "alpha": 1.0,
+      "variants": [
+        {
+          "color": "#00530c"
+        },
+        {
+          "color": "#009100"
+        },
+        {
+          "color": "#02570d"
+        },
+        {
+          "color": "#0b6f0c"
+        },
+        {
+          "color": "#45764d"
+        }
+      ]
+    },
+    {
       "uid": "mysticalagriculture:saltpeter_crop",
       "name": "Saltpeter Crop",
       "color": "#01a201",
@@ -16058,6 +16860,29 @@ var colorpalette={
         },
         {
           "color": "#0e4111"
+        }
+      ]
+    },
+    {
+      "uid": "mysticalagriculture:starmetal_crop",
+      "name": "Starmetal Crop",
+      "color": "#01a201",
+      "alpha": 1.0,
+      "variants": [
+        {
+          "color": "#00530c"
+        },
+        {
+          "color": "#009100"
+        },
+        {
+          "color": "#02570d"
+        },
+        {
+          "color": "#0a4a27"
+        },
+        {
+          "color": "#0b6f0c"
         }
       ]
     },
@@ -16487,29 +17312,6 @@ var colorpalette={
       ]
     },
     {
-      "uid": "mysticalagriculture:yellorium_crop",
-      "name": "Yellorium Crop",
-      "color": "#01a201",
-      "alpha": 1.0,
-      "variants": [
-        {
-          "color": "#00530c"
-        },
-        {
-          "color": "#009100"
-        },
-        {
-          "color": "#02570d"
-        },
-        {
-          "color": "#0b6f0c"
-        },
-        {
-          "color": "#246112"
-        }
-      ]
-    },
-    {
       "uid": "mysticalagriculture:zombie_crop",
       "name": "Zombie Crop",
       "color": "#01a201",
@@ -16529,6 +17331,562 @@ var colorpalette={
         },
         {
           "color": "#0c4d1b"
+        }
+      ]
+    },
+    {
+      "uid": "nex:block_amethyst",
+      "name": "Nether Amethyst Block",
+      "color": "#a06fc0",
+      "alpha": 1.0
+    },
+    {
+      "uid": "nex:block_basalt",
+      "name": "Basalt",
+      "color": "#111111",
+      "alpha": 1.0,
+      "variants": [
+        {
+          "name": "Basalt Pillar",
+          "color": "#141414"
+        },
+        {
+          "name": "Smooth Basalt",
+          "color": "#131313"
+        }
+      ]
+    },
+    {
+      "uid": "nex:block_bone_chunk",
+      "name": "Bone Chunk",
+      "color": "#e0dcc8",
+      "alpha": 1.0
+    },
+    {
+      "uid": "nex:block_bone_sliver",
+      "name": "Bone Sliver",
+      "color": "#e0dcc8",
+      "alpha": 1.0
+    },
+    {
+      "uid": "nex:block_brick_nether",
+      "name": "Fiery Nether Bricks",
+      "color": "#1c0308",
+      "alpha": 1.0,
+      "variants": [
+        {
+          "name": "Gloomy Nether Bricks",
+          "color": "#26151a"
+        },
+        {
+          "name": "Icy Nether Bricks",
+          "color": "#28171a"
+        },
+        {
+          "name": "Lively Nether Bricks",
+          "color": "#251129"
+        }
+      ]
+    },
+    {
+      "uid": "nex:block_fire_blue",
+      "name": "Air",
+      "color": "#6ca1f7",
+      "alpha": 1.0
+    },
+    {
+      "uid": "nex:block_glass_pane_soul",
+      "name": "Soul Glass Pane",
+      "color": "#23170d",
+      "alpha": 0.4
+    },
+    {
+      "uid": "nex:block_glass_soul",
+      "name": "Soul Glass",
+      "color": "#23170d",
+      "alpha": 0.4
+    },
+    {
+      "uid": "nex:block_hyphae",
+      "name": "Hyphae",
+      "color": "#6b4853",
+      "alpha": 1.0
+    },
+    {
+      "uid": "nex:block_ice_frostburn",
+      "name": "Frostburn Ice",
+      "color": "#9b93a5",
+      "alpha": 0.8
+    },
+    {
+      "uid": "nex:block_iron_worn",
+      "name": "Worn Iron Block",
+      "color": "#44413f",
+      "alpha": 1.0
+    },
+    {
+      "uid": "nex:block_netherrack",
+      "name": "Fiery Netherrack",
+      "color": "#6b3b29",
+      "alpha": 1.0,
+      "variants": [
+        {
+          "name": "Gloomy Netherrack",
+          "color": "#4c3023"
+        },
+        {
+          "name": "Icy Netherrack",
+          "color": "#614241"
+        },
+        {
+          "name": "Lively Netherrack",
+          "color": "#703d4d"
+        }
+      ]
+    },
+    {
+      "uid": "nex:block_netherrack_path",
+      "name": "Trodden Netherrack",
+      "color": "#843d3b",
+      "alpha": 1.0,
+      "variants": [
+        {
+          "name": "Fiery Trodden Netherrack",
+          "color": "#7f3e22"
+        },
+        {
+          "name": "Gloomy Trodden Netherrack",
+          "color": "#4e3126"
+        },
+        {
+          "name": "Icy Trodden Netherrack",
+          "color": "#86635c"
+        },
+        {
+          "name": "Lively Trodden Netherrack",
+          "color": "#915f67"
+        }
+      ]
+    },
+    {
+      "uid": "nex:block_portal_nether",
+      "name": "Air",
+      "color": "#590cc0",
+      "alpha": 1.0
+    },
+    {
+      "uid": "nex:block_rime",
+      "name": "Nether Rime Block",
+      "color": "#7396ea",
+      "alpha": 1.0
+    },
+    {
+      "uid": "nex:block_sand_soul_tilled",
+      "name": "Tilled Soul Sand",
+      "color": "#544033",
+      "alpha": 1.0
+    },
+    {
+      "uid": "nex:fence_basalt",
+      "name": "Basalt Fence",
+      "color": "#111111",
+      "alpha": 0.4,
+      "variants": [
+        {
+          "name": "Basalt Pillar Fence",
+          "color": "#141414"
+        },
+        {
+          "name": "Smooth Basalt Fence",
+          "color": "#131313"
+        }
+      ]
+    },
+    {
+      "uid": "nex:fence_brick_nether",
+      "name": "Fiery Nether Brick Fence",
+      "color": "#1c0308",
+      "alpha": 0.4,
+      "variants": [
+        {
+          "name": "Gloomy Nether Brick Fence",
+          "color": "#26151a"
+        },
+        {
+          "name": "Icy Nether Brick Fence",
+          "color": "#28171a"
+        },
+        {
+          "name": "Lively Nether Brick Fence",
+          "color": "#251129"
+        }
+      ]
+    },
+    {
+      "uid": "nex:fence_gate_basalt_brick",
+      "name": "Basalt Brick Fence Gate",
+      "color": "#141414",
+      "alpha": 0.4
+    },
+    {
+      "uid": "nex:fence_gate_basalt_normal",
+      "name": "Basalt Fence Gate",
+      "color": "#111111",
+      "alpha": 0.4
+    },
+    {
+      "uid": "nex:fence_gate_basalt_pillar",
+      "name": "Basalt Pillar Fence Gate",
+      "color": "#141414",
+      "alpha": 0.4
+    },
+    {
+      "uid": "nex:fence_gate_basalt_smooth",
+      "name": "Smooth Basalt Fence Gate",
+      "color": "#131313",
+      "alpha": 0.4
+    },
+    {
+      "uid": "nex:fence_gate_brick_nether",
+      "name": "Nether Brick Fence Gate",
+      "color": "#2c161a",
+      "alpha": 0.4
+    },
+    {
+      "uid": "nex:fence_gate_brick_nether_fiery",
+      "name": "Fiery Nether Brick Fence Gate",
+      "color": "#1c0308",
+      "alpha": 0.4
+    },
+    {
+      "uid": "nex:fence_gate_brick_nether_gloomy",
+      "name": "Gloomy Nether Brick Fence Gate",
+      "color": "#26151a",
+      "alpha": 0.4
+    },
+    {
+      "uid": "nex:fence_gate_brick_nether_icy",
+      "name": "Icy Nether Brick Fence Gate",
+      "color": "#28171a",
+      "alpha": 0.4
+    },
+    {
+      "uid": "nex:fence_gate_brick_nether_lively",
+      "name": "Lively Nether Brick Fence Gate",
+      "color": "#251129",
+      "alpha": 0.4
+    },
+    {
+      "uid": "nex:fence_gate_brick_nether_red",
+      "name": "Red Nether Brick Fence Gate",
+      "color": "#440406",
+      "alpha": 0.4
+    },
+    {
+      "uid": "nex:fence_gate_quartz",
+      "name": "Quartz Fence Gate",
+      "color": "#e7e4db",
+      "alpha": 0.4
+    },
+    {
+      "uid": "nex:fence_vanilla",
+      "name": "Quartz Fence",
+      "color": "#e7e4db",
+      "alpha": 0.4,
+      "variants": [
+        {
+          "name": "Red Nether Brick Fence",
+          "color": "#440406"
+        }
+      ]
+    },
+    {
+      "uid": "nex:fluid_ichor",
+      "name": "Ichor",
+      "color": "#420101",
+      "alpha": 0.3
+    },
+    {
+      "uid": "nex:ore_amethyst",
+      "name": "Nether Amethyst Ore",
+      "color": "#703b42",
+      "alpha": 1.0
+    },
+    {
+      "uid": "nex:ore_quartz",
+      "name": "Fiery Quartz Ore",
+      "color": "#7c5849",
+      "alpha": 1.0,
+      "variants": [
+        {
+          "name": "Gloomy Quartz Ore",
+          "color": "#644e44"
+        },
+        {
+          "name": "Icy Quartz Ore",
+          "color": "#735c5b"
+        },
+        {
+          "name": "Lively Quartz Ore",
+          "color": "#7d5762"
+        }
+      ]
+    },
+    {
+      "uid": "nex:ore_rime",
+      "name": "Nether Rime Ore",
+      "color": "#674a53",
+      "alpha": 1.0
+    },
+    {
+      "uid": "nex:plant_mushroom_elder",
+      "name": "Brown Elder Mushroom",
+      "color": "#806956",
+      "alpha": 1.0,
+      "variants": [
+        {
+          "name": "Red Elder Mushroom",
+          "color": "#934d42"
+        }
+      ]
+    },
+    {
+      "uid": "nex:plant_mushroom_elder_cap",
+      "name": "Brown Elder Mushroom Cap",
+      "color": "#5d4333",
+      "alpha": 1.0,
+      "variants": [
+        {
+          "name": "Red Elder Mushroom Cap",
+          "color": "#73261d"
+        }
+      ]
+    },
+    {
+      "uid": "nex:plant_mushroom_elder_stem",
+      "name": "Elder Mushroom Stem",
+      "color": "#b9a397",
+      "alpha": 1.0
+    },
+    {
+      "uid": "nex:plant_mushroom_enoki_cap",
+      "name": "Enoki Mushroom Cap",
+      "color": "#c4c2a9",
+      "alpha": 1.0
+    },
+    {
+      "uid": "nex:plant_mushroom_enoki_stem",
+      "name": "Enoki Mushroom Stem",
+      "color": "#c4c2a9",
+      "alpha": 1.0
+    },
+    {
+      "uid": "nex:plant_thornstalk",
+      "name": "Thornstalk",
+      "color": "#68584b",
+      "alpha": 1.0,
+      "variants": [
+        {
+          "color": "#625144"
+        },
+        {
+          "color": "#655447"
+        }
+      ]
+    },
+    {
+      "uid": "nex:slab_basalt",
+      "name": "Basalt Slab",
+      "color": "#111111",
+      "alpha": 1.0,
+      "variants": [
+        {
+          "color": "#131313"
+        },
+        {
+          "color": "#141414"
+        }
+      ]
+    },
+    {
+      "uid": "nex:slab_basalt_double",
+      "name": "Basalt Slabs",
+      "color": "#111111",
+      "alpha": 1.0,
+      "variants": [
+        {
+          "name": "Basalt Pillar Slabs",
+          "color": "#141414"
+        },
+        {
+          "name": "Smooth Basalt Slabs",
+          "color": "#131313"
+        }
+      ]
+    },
+    {
+      "uid": "nex:slab_brick_nether",
+      "name": "Fiery Nether Brick Slab",
+      "color": "#1c0308",
+      "alpha": 1.0,
+      "variants": [
+        {
+          "color": "#251129"
+        },
+        {
+          "color": "#26151a"
+        },
+        {
+          "color": "#28171a"
+        }
+      ]
+    },
+    {
+      "uid": "nex:slab_brick_nether_double",
+      "name": "Fiery Nether Brick Slabs",
+      "color": "#1c0308",
+      "alpha": 1.0,
+      "variants": [
+        {
+          "name": "Gloomy Nether Brick Slabs",
+          "color": "#26151a"
+        },
+        {
+          "name": "Icy Nether Brick Slabs",
+          "color": "#28171a"
+        },
+        {
+          "name": "Lively Nether Brick Slabs",
+          "color": "#251129"
+        }
+      ]
+    },
+    {
+      "uid": "nex:slab_vanilla",
+      "name": "Red Nether Brick Slab",
+      "color": "#440406",
+      "alpha": 1.0
+    },
+    {
+      "uid": "nex:slab_vanilla_double",
+      "name": "Red Nether Brick Slabs",
+      "color": "#440406",
+      "alpha": 1.0
+    },
+    {
+      "uid": "nex:stairs_basalt_brick",
+      "name": "Basalt Brick Stairs",
+      "color": "#141414",
+      "alpha": 1.0
+    },
+    {
+      "uid": "nex:stairs_basalt_normal",
+      "name": "Basalt Stairs",
+      "color": "#111111",
+      "alpha": 1.0
+    },
+    {
+      "uid": "nex:stairs_basalt_pillar",
+      "name": "Basalt Pillar Stairs",
+      "color": "#141414",
+      "alpha": 1.0
+    },
+    {
+      "uid": "nex:stairs_basalt_smooth",
+      "name": "Smooth Basalt Stairs",
+      "color": "#131313",
+      "alpha": 1.0
+    },
+    {
+      "uid": "nex:stairs_brick_nether_fiery",
+      "name": "Fiery Nether Brick Stairs",
+      "color": "#1c0308",
+      "alpha": 1.0
+    },
+    {
+      "uid": "nex:stairs_brick_nether_gloomy",
+      "name": "Gloomy Nether Brick Stairs",
+      "color": "#26151a",
+      "alpha": 1.0
+    },
+    {
+      "uid": "nex:stairs_brick_nether_icy",
+      "name": "Icy Nether Brick Stairs",
+      "color": "#28171a",
+      "alpha": 1.0
+    },
+    {
+      "uid": "nex:stairs_brick_nether_lively",
+      "name": "Lively Nether Brick Stairs",
+      "color": "#251129",
+      "alpha": 1.0
+    },
+    {
+      "uid": "nex:stairs_brick_nether_red",
+      "name": "Red Nether Brick Stairs",
+      "color": "#440406",
+      "alpha": 1.0
+    },
+    {
+      "uid": "nex:tile_urn_sorrow",
+      "name": "Urn of Sorrow",
+      "color": "#f5f3f0",
+      "alpha": 1.0,
+      "variants": [
+        {
+          "color": "#f1ebf0"
+        }
+      ]
+    },
+    {
+      "uid": "nex:wall_basalt",
+      "name": "Basalt Wall",
+      "color": "#111111",
+      "alpha": 1.0,
+      "variants": [
+        {
+          "name": "Basalt Pillar Wall",
+          "color": "#141414"
+        },
+        {
+          "name": "Smooth Basalt Wall",
+          "color": "#131313"
+        }
+      ]
+    },
+    {
+      "uid": "nex:wall_brick_nether",
+      "name": "Fiery Nether Brick Wall",
+      "color": "#1c0308",
+      "alpha": 1.0,
+      "variants": [
+        {
+          "name": "Gloomy Nether Brick Wall",
+          "color": "#26151a"
+        },
+        {
+          "name": "Icy Nether Brick Wall",
+          "color": "#28171a"
+        },
+        {
+          "name": "Lively Nether Brick Wall",
+          "color": "#251129"
+        }
+      ]
+    },
+    {
+      "uid": "nex:wall_vanilla",
+      "name": "Quartz Wall",
+      "color": "#e7e4db",
+      "alpha": 1.0,
+      "variants": [
+        {
+          "name": "Nether Brick Wall",
+          "color": "#2c161a"
+        },
+        {
+          "name": "Red Nether Brick Wall",
+          "color": "#440406"
         }
       ]
     },
@@ -19042,6 +20400,166 @@ var colorpalette={
       ]
     },
     {
+      "uid": "reccomplex:generic_solid",
+      "name": "Solid (0 ~ Natural Floor)",
+      "color": "#bea553",
+      "alpha": 1.0,
+      "variants": [
+        {
+          "name": "Solid (1 ~ Barrier)",
+          "color": "#d06161"
+        },
+        {
+          "name": "Solid (10)",
+          "color": "#8f5eb8"
+        },
+        {
+          "name": "Solid (11)",
+          "color": "#5e68b7"
+        },
+        {
+          "name": "Solid (12)",
+          "color": "#b18465"
+        },
+        {
+          "name": "Solid (13)",
+          "color": "#92b164"
+        },
+        {
+          "name": "Solid (14)",
+          "color": "#b8615e"
+        },
+        {
+          "name": "Solid (15)",
+          "color": "#928484"
+        },
+        {
+          "name": "Solid (2)",
+          "color": "#ad62b3"
+        },
+        {
+          "name": "Solid (3)",
+          "color": "#627db4"
+        },
+        {
+          "name": "Solid (4)",
+          "color": "#c3ba53"
+        },
+        {
+          "name": "Solid (5)",
+          "color": "#65b85e"
+        },
+        {
+          "name": "Solid (6)",
+          "color": "#b26479"
+        },
+        {
+          "name": "Solid (7)",
+          "color": "#8b8b8b"
+        },
+        {
+          "name": "Solid (8)",
+          "color": "#888e8e"
+        },
+        {
+          "name": "Solid (9)",
+          "color": "#609db6"
+        }
+      ]
+    },
+    {
+      "uid": "reccomplex:generic_space",
+      "name": "Space (15)",
+      "color": "#191616",
+      "alpha": 1.0,
+      "variants": [
+        {
+          "name": "Space (0 ~ Negative Space)",
+          "color": "#a7f2ff"
+        },
+        {
+          "name": "Space (1 ~ Natural Air)",
+          "color": "#0079ff"
+        },
+        {
+          "name": "Space (10)",
+          "color": "#7e3db5"
+        },
+        {
+          "name": "Space (11)",
+          "color": "#2e388d"
+        },
+        {
+          "name": "Space (12)",
+          "color": "#4f321f"
+        },
+        {
+          "name": "Space (13)",
+          "color": "#35461b"
+        },
+        {
+          "name": "Space (14)",
+          "color": "#963430"
+        },
+        {
+          "name": "Space (2)",
+          "color": "#b350bc"
+        },
+        {
+          "name": "Space (3)",
+          "color": "#6a8ac9"
+        },
+        {
+          "name": "Space (4)",
+          "color": "#b1a627"
+        },
+        {
+          "name": "Space (5)",
+          "color": "#41ae38"
+        },
+        {
+          "name": "Space (6)",
+          "color": "#d08499"
+        },
+        {
+          "name": "Space (7)",
+          "color": "#404040"
+        },
+        {
+          "name": "Space (8)",
+          "color": "#9aa1a1"
+        },
+        {
+          "name": "Space (9)",
+          "color": "#2e6e89"
+        }
+      ]
+    },
+    {
+      "uid": "reccomplex:maze_generator",
+      "name": "Maze Generator",
+      "color": "#b49664",
+      "alpha": 1.0
+    },
+    {
+      "uid": "reccomplex:spawn_script",
+      "name": "Script Block",
+      "color": "#ada564",
+      "alpha": 1.0
+    },
+    {
+      "uid": "reccomplex:structure_generator",
+      "name": "Structure Generator",
+      "color": "#ada564",
+      "alpha": 1.0
+    },
+    {
+      "uid": "reccomplex:weighted_command_block",
+      "name": "SpawnCommand",
+      "color": "#856c43",
+      "alpha": 1.0
+    },
+    {
       "uid": "redstonearsenal:storage",
       "name": "Storage",
       "color": "#ca953a",
@@ -20181,6 +21699,207 @@ var colorpalette={
       "alpha": 1.0
     },
     {
+      "uid": "roots:aubergine",
+      "name": "Aubergine",
+      "color": "#294c28",
+      "alpha": 1.0,
+      "variants": [
+        {
+          "color": "#315c31"
+        },
+        {
+          "color": "#356335"
+        },
+        {
+          "color": "#376637"
+        },
+        {
+          "color": "#3a6340"
+        },
+        {
+          "color": "#3a6c3a"
+        },
+        {
+          "color": "#3b524d"
+        },
+        {
+          "color": "#457144"
+        }
+      ]
+    },
+    {
+      "uid": "roots:bonfire",
+      "name": "Pyre",
+      "color": "#644b24",
+      "alpha": 1.0
+    },
+    {
+      "uid": "roots:chiseled_runestone",
+      "name": "Chiseled Runestone",
+      "color": "#373a42",
+      "alpha": 1.0
+    },
+    {
+      "uid": "roots:imbuer",
+      "name": "Imbuer",
+      "color": "#63553c",
+      "alpha": 1.0
+    },
+    {
+      "uid": "roots:moonglow",
+      "name": "Moonglow",
+      "color": "#4b527a",
+      "alpha": 1.0,
+      "variants": [
+        {
+          "color": "#505883"
+        },
+        {
+          "color": "#5a6292"
+        },
+        {
+          "color": "#5e6697"
+        },
+        {
+          "color": "#60689a"
+        },
+        {
+          "color": "#646da1"
+        },
+        {
+          "color": "#666fa3"
+        },
+        {
+          "color": "#6f78ae"
+        }
+      ]
+    },
+    {
+      "uid": "roots:mortar",
+      "name": "Mortar",
+      "color": "#333434",
+      "alpha": 1.0
+    },
+    {
+      "uid": "roots:pereskia",
+      "name": "Pereskia Flower",
+      "color": "#164c1a",
+      "alpha": 1.0,
+      "variants": [
+        {
+          "color": "#19571e"
+        },
+        {
+          "color": "#1c6021"
+        },
+        {
+          "color": "#1d6523"
+        },
+        {
+          "color": "#235a26"
+        },
+        {
+          "color": "#4b4234"
+        },
+        {
+          "color": "#88334f"
+        },
+        {
+          "color": "#ad4a70"
+        }
+      ]
+    },
+    {
+      "uid": "roots:runestone",
+      "name": "Runestone",
+      "color": "#3f434b",
+      "alpha": 1.0
+    },
+    {
+      "uid": "roots:runestone_brick",
+      "name": "Runestone Brick",
+      "color": "#41454d",
+      "alpha": 1.0
+    },
+    {
+      "uid": "roots:spirit_herb",
+      "name": "Spirit Herb",
+      "color": "#1c2f25",
+      "alpha": 1.0,
+      "variants": [
+        {
+          "color": "#203126"
+        },
+        {
+          "color": "#243529"
+        },
+        {
+          "color": "#354334"
+        },
+        {
+          "color": "#404e3c"
+        }
+      ]
+    },
+    {
+      "uid": "roots:structure_marker",
+      "name": "StructureMarker",
+      "color": "#333434",
+      "alpha": 1.0
+    },
+    {
+      "uid": "roots:terra_moss",
+      "name": "Terra Moss",
+      "color": "#1c381f",
+      "alpha": 1.0,
+      "variants": [
+        {
+          "color": "#1f3d22"
+        },
+        {
+          "color": "#203f23"
+        },
+        {
+          "color": "#254828"
+        },
+        {
+          "color": "#284e2c"
+        },
+        {
+          "color": "#2b542f"
+        },
+        {
+          "color": "#2d5932"
+        },
+        {
+          "color": "#305f35"
+        }
+      ]
+    },
+    {
+      "uid": "roots:thatch",
+      "name": "Thatch",
+      "color": "#9b9467",
+      "alpha": 1.0
+    },
+    {
+      "uid": "roots:wildroot",
+      "name": "Wildroot",
+      "color": "#33b12a",
+      "alpha": 1.0,
+      "variants": [
+        {
+          "color": "#36ba2c"
+        },
+        {
+          "color": "#39c52f"
+        },
+        {
+          "color": "#47bc35"
+        }
+      ]
+    },
+    {
       "uid": "rustic:ale_wort",
       "name": "Ale Wort",
       "color": "#562f00",
@@ -21156,6 +22875,12 @@ var colorpalette={
       "uid": "saltmod:saltwort",
       "name": "Air",
       "color": "#ffffff",
+      "alpha": 1.0
+    },
+    {
+      "uid": "spawnercraft:mob_cage",
+      "name": "Empty Spawner",
+      "color": "#1a2731",
       "alpha": 1.0
     },
     {
@@ -22681,6 +24406,30 @@ var colorpalette={
       ]
     },
     {
+      "uid": "torchmaster:dread_lamp",
+      "name": "Dread Lamp",
+      "color": "#14121d",
+      "alpha": 1.0
+    },
+    {
+      "uid": "torchmaster:mega_torch",
+      "name": "Mega Torch",
+      "color": "#957a3d",
+      "alpha": 1.0,
+      "variants": [
+        {
+          "name": "Unlit Mega Torch",
+          "color": "#6c5a39"
+        }
+      ]
+    },
+    {
+      "uid": "torchmaster:terrain_lighter",
+      "name": "Terrain Lighter",
+      "color": "#7d7669",
+      "alpha": 1.0
+    },
+    {
       "uid": "traverse:brown_autumnal_leaves",
       "name": "Brown Autumnal Leaves",
       "color": "#51301c",
@@ -22791,6 +24540,12 @@ var colorpalette={
       "uid": "traverse:yellow_autumnal_sapling",
       "name": "Yellow Autumnal Sapling",
       "color": "#827514",
+      "alpha": 1.0
+    },
+    {
+      "uid": "uncraftingtable:uncrafting_table",
+      "name": "Uncrafting Table",
+      "color": "#575757",
       "alpha": 1.0
     }
   ]
