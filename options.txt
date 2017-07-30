@@ -92,16 +92,6 @@ key_cfg.keybind.ChunkBorders:67
 key_presets.cfg.keybind.Presets:25
 key_Toggle GPS:65
 key_psimisc.keybind:46
-key_quark.keybind.toggleAutojump:48
-key_quark.keybind.lockBuilding:37
-key_quark.keybind.dropoff:0
-key_quark.keybind.changeHotbar:44
-key_quark.keybind.chestSort:0
-key_quark.keybind.chestDropoff:0
-key_quark.keybind.chestMerge:0
-key_quark.keybind.chestRestock:0
-key_quark.keybind.chestExtract:0
-key_quark.keybind.playerSort:0
 key_quark.keybind.emote.wave:0
 key_quark.keybind.emote.salute:0
 key_quark.keybind.emote.yes:0
@@ -112,6 +102,16 @@ key_quark.keybind.emote.point:0
 key_quark.keybind.emote.shrug:0
 key_quark.keybind.emote.facepalm:0
 key_quark.keybind.emote.headbang:0
+key_quark.keybind.dropoff:0
+key_quark.keybind.changeHotbar:44
+key_quark.keybind.chestSort:0
+key_quark.keybind.chestDropoff:0
+key_quark.keybind.chestMerge:0
+key_quark.keybind.chestRestock:0
+key_quark.keybind.chestExtract:0
+key_quark.keybind.playerSort:0
+key_quark.keybind.toggleAutojump:48
+key_quark.keybind.lockBuilding:37
 key_doggytalents.key.come:200
 key_doggytalents.key.stay:208
 key_doggytalents.key.ok:203
@@ -122,6 +122,14 @@ key_Horn:35
 key_Start engine:40
 key_Open car inventory:34
 key_key.wearablebackpacks.open:48
+key_key.jei.toggleOverlay:24:CONTROL
+key_key.jei.focusSearch:33:CONTROL
+key_key.jei.showRecipe:19
+key_key.jei.showUses:22
+key_key.jei.recipeBack:14
+key_key.jei.toggleCheatMode:0
+key_key.jei.previousPage:201
+key_key.jei.nextPage:209
 key_bbw.key.mode:50
 key_bbw.key.fluidmode:33
 key_mod.chiselsandbits.chiselmode.single:0
@@ -154,14 +162,7 @@ key_mod.chiselsandbits.other.add_to_clipboard:0
 key_key.cofh.multimode:47
 key_Toggle Farting:25
 key_key.evilcraft.exaltedCrafting:46
-key_key.jei.toggleOverlay:24:CONTROL
-key_key.jei.focusSearch:33:CONTROL
-key_key.jei.showRecipe:19
-key_key.jei.showUses:22
-key_key.jei.recipeBack:14
-key_key.jei.toggleCheatMode:0
-key_key.jei.previousPage:201
-key_key.jei.nextPage:209
+key_key.exchangermode:51
 key_key.toggleLiquids:41
 key_key.toggleVisible:0
 key_key.immersiveengineering.magnetEquip:31
