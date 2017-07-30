@@ -1,7 +1,7 @@
 var colorpalette={
   "version": 5.4,
   "name": "JourneyMap Color Palette",
-  "generated": "Generated using JourneyMap 1.12-5.4.9 for 1.12 on Sat Jul 29 20:24:05 BST 2017",
+  "generated": "Generated using JourneyMap 1.12-5.4.9 for 1.12 on Sun Jul 30 11:59:47 BST 2017",
   "description": [
     "This file can be used to keep map colors consistent when changing resource packs.",
     "Edit at your own risk. You can view it using the colorpalette.html file.",
@@ -11,7 +11,7 @@ var colorpalette={
   ],
   "permanent": false,
   "resourcePacks": "Lrr_Community:folder",
-  "modNames": "Actually Additions:1.12-r117, Aroma1997\u0027s Dimensional World:1.3.0.0.b37, Aroma1997Core:1.3.0.0.b94, Aroma1997Core|Helper:1.3.0.0.b94, AutoRegLib:1.3-13, Baby Animals Model Swapper:1.11-2, Better Builder\u0027s Wands:0.11.1, BiblioCraft:2.4.3, Bird\u0027s Foods:2.4.2 [1.12], Bonfires:1.1.2, CTM:MC1.12-0.2.0.3, Chameleon Creepers:1.4.1, Chameleon:1.12-4.1.3, Cheese Mod:1.0, Chest Cow:1.0, Chest Transporter:2.8.6, Chisel:MC1.12-0.0.13.14, Chisels \u0026 Bits:14.4, CoFH Core:4.3.3, CoFH World:1.0.0, CodeChicken Lib:3.1.1.288, CreativeCore:1.7.4, CreativeCoreDummy:1.0.0, Creeper Confetti:1.4.1, Creeperade:1.2, Cucumber:1.0.0, Custom Main Menu:2.0.6, Cyclops Core:0.10.10, DeepResonance:1.4.9, Default Options:9.2.1, Dooglamoo Worlds:1.0a, Doomlike Dungeons:1.9.3, Edible Tools:1.0.1, ElecCore:1.8.429, Elevator Mod:1.3.4, EnderStorage:1.0, EvilCraft-Compat:1.0.0, EvilCraft:0.10.30, Extra Utilities 2:1.0, Extreme Reactors:1.12-0.4.5.34, Fast Food:0.2.22050900, Forge Mod Loader:8.0.99.99, GPS:3.1.0.0.b21, Global XP:v1.2, Gravestone Mod:1.8.4, Grue:1.3.5, Immersive Engineering:0.12-69, Immersive Petroleum:1.1.2, Iron Chest:1.12-7.0.31.818, JourneyMap:1.12-5.4.9, Just Enough Items:4.7.2.77, Just a Few Fish:1.7_for_1.12, KleeSlabs:5.3.2, Mankini:1.3.2, Mantle:1.12-1.3.0.15, Minecraft Coder Pack:9.19, Minecraft Forge:14.21.1.2426, Minecraft:1.12, Mo\u0027 Bends:0.24, Morpheus:1.12-3.3.2, Mystical Agriculture:1.6.2, Pam\u0027s HarvestCraft:1.12a, Personal Cars:1.3, PetRock:0.2.0, Player Revive:1.0, Psi:r1.1-52, Quark:r1.2-103, RFTools Dimensions:5.04, RFTools:6.12, Redstone Arsenal:2.3.3, Redstone Flux:2.0.1, Refined Storage:1.5.13, Rustic:0.4, Salty Mod:1.12_c, Sounds Extended:1.8.2-1.12, Squake:1.0.4, Storage Drawers:1.12-5.2.5, Stupid Things:1.1.1, Subaraki\u0027s Common Library:1.2.0.1, The One Probe:1.4.15, Thermal Dynamics:2.3.3, Thermal Expansion:5.3.3, Thermal Foundation:2.3.3, Tinkers\u0027 Construct:1.12-2.7.1.9, Traverse:1.2.1, Tree Growing Simulator 2016:0.0.4, Waystones:4.0.11, Wearable Backpacks:3.0.4, What Are We Looking At:2.5.239, Zero CORE:1.12-0.1.0.9, fashion mod:1.11.2 0.1.2.0, muchmorechickens:1.7, trolloresreborn:4.0.4, §3Dynamic Surroundings:3.4.6.0, §3Presets!:3.4.6.0",
+  "modNames": "Actually Additions:1.12-r117, AntiGhost:1.0, Applied Energistics 2 Core:rv5-alpha-1, Applied Energistics 2:rv5-alpha-1, Aroma1997\u0027s Dimensional World:1.3.0.0.b37, Aroma1997Core:1.3.0.0.b94, Aroma1997Core|Helper:1.3.0.0.b94, AutoRegLib:1.3-13, Baby Animals Model Swapper:1.11-2, Better Builder\u0027s Wands:0.11.1, BiblioCraft:2.4.3, Bird\u0027s Foods:2.4.2 [1.12], CTM:MC1.12-0.2.0.3, Chameleon Creepers:1.4.1, Chameleon:1.12-4.1.3, Cheese Mod:1.0, Chest Cow:1.0, Chest Transporter:2.8.6, Chisel:MC1.12-0.0.13.14, Chisels \u0026 Bits:14.4, CoFH Core:4.3.3, CoFH World:1.0.0, CodeChicken Lib:3.1.1.288, CreativeCore:1.7.4, CreativeCoreDummy:1.0.0, Creeper Confetti:1.4.1, Creeperade:1.2, Cucumber:1.0.0, Custom Main Menu:2.0.6, Cyclops Core:0.10.10, DeepResonance:1.4.9, Default Options:9.2.1, Doggy Talents:1.14.0.206, Dooglamoo Worlds:1.0a, Doomlike Dungeons:1.9.3, Edible Tools:1.0.1, ElecCore:1.8.429, Elevator Mod:1.3.4, EnderStorage:1.0, EvilCraft-Compat:1.0.0, EvilCraft:0.10.30, Extra Utilities 2:1.0, Extreme Reactors:1.12-0.4.5.34, Fast Food:0.2.22050900, Food Expansion:1.3, Forge Mod Loader:8.0.99.99, GPS:3.1.0.0.b21, Global XP:v1.2, Gravestone Mod:1.8.4, Grue:1.3.5, Immersive Engineering:0.12-69, Immersive Petroleum:1.1.2, Iron Chest:1.12-7.0.31.818, JourneyMap:1.12-5.4.9, Just Enough Items:4.7.2.77, Just a Few Fish:1.7_for_1.12, KleeSlabs:5.3.2, Mankini:1.3.2, Mantle:1.12-1.3.0.15, Minecraft Coder Pack:9.19, Minecraft Forge:14.21.1.2426, Minecraft:1.12, Mo\u0027 Bends:0.24, Morpheus:1.12-3.3.2, Mystical Agriculture:1.6.2, Pam\u0027s HarvestCraft:1.12a, Personal Cars:1.3, PetRock:0.2.0, Player Revive:1.0, Psi:r1.1-52, Quark:r1.2-103, RFTools Dimensions:5.04, RFTools:6.12, Redstone Arsenal:2.3.3, Redstone Flux:2.0.1, Refined Storage:1.5.13, Rustic:0.4, Salty Mod:1.12_c, Squake:1.0.4, Storage Drawers:1.12-5.2.5, Stupid Things:1.1.1, Subaraki\u0027s Common Library:1.2.0.1, The One Probe:1.4.15, Thermal Cultivation:0.1.0, Thermal Dynamics:2.3.3, Thermal Expansion:5.3.3, Thermal Foundation:2.3.3, Tinkers\u0027 Construct:1.12-2.7.1.9, Traverse:1.2.1, Tree Growing Simulator 2016:0.0.4, Waystones:4.0.11, Wearable Backpacks:3.0.4, What Are We Looking At:2.5.239, Zero CORE:1.12-0.1.0.9, fashion mod:1.11.2 0.1.2.0, muchmorechickens:1.7, trolloresreborn:4.0.4, §3Dynamic Surroundings:3.4.6.0, §3Presets!:3.4.6.0",
   "blockColors": [
     {
       "uid": "actuallyadditions:block_atomic_reconstructor",
@@ -957,6 +957,552 @@ var colorpalette={
       ]
     },
     {
+      "uid": "appliedenergistics2:cable_bus",
+      "name": "AE2 Cable and/or Bus",
+      "color": "#9088a6",
+      "alpha": 1.0
+    },
+    {
+      "uid": "appliedenergistics2:cell_workbench",
+      "name": "Cell Workbench",
+      "color": "#4d555b",
+      "alpha": 1.0
+    },
+    {
+      "uid": "appliedenergistics2:charged_quartz_ore",
+      "name": "Charged Certus Quartz Ore",
+      "color": "#868a8e",
+      "alpha": 1.0
+    },
+    {
+      "uid": "appliedenergistics2:charger",
+      "name": "Charger",
+      "color": "#484848",
+      "alpha": 1.0
+    },
+    {
+      "uid": "appliedenergistics2:chest",
+      "name": "ME Chest",
+      "color": "#4a4846",
+      "alpha": 1.0
+    },
+    {
+      "uid": "appliedenergistics2:chiseled_quartz_block",
+      "name": "Chiseled Certus Quartz Block",
+      "color": "#c4d1eb",
+      "alpha": 1.0
+    },
+    {
+      "uid": "appliedenergistics2:chiseled_quartz_double_slab",
+      "name": "Air",
+      "color": "#c4d1eb",
+      "alpha": 1.0
+    },
+    {
+      "uid": "appliedenergistics2:chiseled_quartz_slab",
+      "name": "Chiseled Certus Quartz Slabs",
+      "color": "#c4d1eb",
+      "alpha": 1.0
+    },
+    {
+      "uid": "appliedenergistics2:chiseled_quartz_stairs",
+      "name": "Chiseled Certus Quartz Stairs",
+      "color": "#c4d1eb",
+      "alpha": 1.0
+    },
+    {
+      "uid": "appliedenergistics2:condenser",
+      "name": "Matter Condenser",
+      "color": "#9779af",
+      "alpha": 1.0
+    },
+    {
+      "uid": "appliedenergistics2:controller",
+      "name": "ME Controller",
+      "color": "#555555",
+      "alpha": 1.0
+    },
+    {
+      "uid": "appliedenergistics2:crafting_accelerator",
+      "name": "Crafting Co-Processing Unit",
+      "color": "#8a5794",
+      "alpha": 1.0,
+      "variants": [
+        {
+          "color": "#5f5f5f"
+        }
+      ]
+    },
+    {
+      "uid": "appliedenergistics2:crafting_monitor",
+      "name": "Crafting Monitor",
+      "color": "#897c8f",
+      "alpha": 1.0,
+      "variants": [
+        {
+          "color": "#5f5f5f"
+        }
+      ]
+    },
+    {
+      "uid": "appliedenergistics2:crafting_storage_16k",
+      "name": "16k Crafting Storage",
+      "color": "#6a9755",
+      "alpha": 1.0,
+      "variants": [
+        {
+          "color": "#5f5f5f"
+        }
+      ]
+    },
+    {
+      "uid": "appliedenergistics2:crafting_storage_1k",
+      "name": "1k Crafting Storage",
+      "color": "#927a67",
+      "alpha": 1.0,
+      "variants": [
+        {
+          "color": "#5f5f5f"
+        }
+      ]
+    },
+    {
+      "uid": "appliedenergistics2:crafting_storage_4k",
+      "name": "4k Crafting Storage",
+      "color": "#989555",
+      "alpha": 1.0,
+      "variants": [
+        {
+          "color": "#5f5f5f"
+        }
+      ]
+    },
+    {
+      "uid": "appliedenergistics2:crafting_storage_64k",
+      "name": "64k Crafting Storage",
+      "color": "#61978f",
+      "alpha": 1.0,
+      "variants": [
+        {
+          "color": "#5f5f5f"
+        }
+      ]
+    },
+    {
+      "uid": "appliedenergistics2:crafting_unit",
+      "name": "Crafting Unit",
+      "color": "#757371",
+      "alpha": 1.0,
+      "variants": [
+        {
+          "color": "#5f5f5f"
+        }
+      ]
+    },
+    {
+      "uid": "appliedenergistics2:crank",
+      "name": "Wooden Crank",
+      "color": "#b8945e",
+      "alpha": 1.0
+    },
+    {
+      "uid": "appliedenergistics2:creative_energy_cell",
+      "name": "Creative Energy Cell",
+      "color": "#504f53",
+      "alpha": 1.0
+    },
+    {
+      "uid": "appliedenergistics2:dense_energy_cell",
+      "name": "Dense Energy Cell",
+      "color": "#695f8e",
+      "alpha": 1.0,
+      "variants": [
+        {
+          "color": "#6c5e8e"
+        },
+        {
+          "color": "#705e8e"
+        },
+        {
+          "color": "#745e8e"
+        },
+        {
+          "color": "#775e8e"
+        },
+        {
+          "color": "#7b5e8e"
+        },
+        {
+          "color": "#7f5e8e"
+        },
+        {
+          "color": "#835e8e"
+        }
+      ]
+    },
+    {
+      "uid": "appliedenergistics2:drive",
+      "name": "ME Drive",
+      "color": "#545250",
+      "alpha": 1.0
+    },
+    {
+      "uid": "appliedenergistics2:energy_acceptor",
+      "name": "Energy Acceptor",
+      "color": "#7c7a7a",
+      "alpha": 1.0
+    },
+    {
+      "uid": "appliedenergistics2:energy_cell",
+      "name": "Energy Cell",
+      "color": "#6f757f",
+      "alpha": 1.0,
+      "variants": [
+        {
+          "color": "#656b97"
+        },
+        {
+          "color": "#666697"
+        },
+        {
+          "color": "#666f92"
+        },
+        {
+          "color": "#68738e"
+        },
+        {
+          "color": "#69768b"
+        },
+        {
+          "color": "#6b7686"
+        },
+        {
+          "color": "#6d7583"
+        }
+      ]
+    },
+    {
+      "uid": "appliedenergistics2:fluix_block",
+      "name": "Fluix Block",
+      "color": "#8336b1",
+      "alpha": 1.0
+    },
+    {
+      "uid": "appliedenergistics2:fluix_double_slab",
+      "name": "Air",
+      "color": "#8336b1",
+      "alpha": 1.0
+    },
+    {
+      "uid": "appliedenergistics2:fluix_slab",
+      "name": "Fluix Slabs",
+      "color": "#8336b1",
+      "alpha": 1.0
+    },
+    {
+      "uid": "appliedenergistics2:fluix_stairs",
+      "name": "Fluix Stairs",
+      "color": "#8336b1",
+      "alpha": 1.0
+    },
+    {
+      "uid": "appliedenergistics2:grindstone",
+      "name": "Quartz Grindstone",
+      "color": "#595959",
+      "alpha": 1.0
+    },
+    {
+      "uid": "appliedenergistics2:inscriber",
+      "name": "Inscriber",
+      "color": "#484848",
+      "alpha": 1.0
+    },
+    {
+      "uid": "appliedenergistics2:interface",
+      "name": "ME Interface",
+      "color": "#62615e",
+      "alpha": 1.0
+    },
+    {
+      "uid": "appliedenergistics2:io_port",
+      "name": "ME IO Port",
+      "color": "#53524e",
+      "alpha": 1.0
+    },
+    {
+      "uid": "appliedenergistics2:light_detector",
+      "name": "Light Detecting Fixture",
+      "color": "#cbe8fa",
+      "alpha": 1.0
+    },
+    {
+      "uid": "appliedenergistics2:molecular_assembler",
+      "name": "Molecular Assembler",
+      "color": "#5d5d5d",
+      "alpha": 1.0
+    },
+    {
+      "uid": "appliedenergistics2:paint",
+      "name": "Paint",
+      "color": "#d1d1d1",
+      "alpha": 1.0
+    },
+    {
+      "uid": "appliedenergistics2:quantum_link",
+      "name": "ME Quantum Link Chamber",
+      "color": "#464746",
+      "alpha": 1.0,
+      "variants": [
+        {
+          "color": "#636261"
+        }
+      ]
+    },
+    {
+      "uid": "appliedenergistics2:quantum_ring",
+      "name": "ME Quantum Ring",
+      "color": "#464746",
+      "alpha": 1.0
+    },
+    {
+      "uid": "appliedenergistics2:quartz_block",
+      "name": "Certus Quartz Block",
+      "color": "#d3ddf1",
+      "alpha": 1.0
+    },
+    {
+      "uid": "appliedenergistics2:quartz_double_slab",
+      "name": "Air",
+      "color": "#d3ddf1",
+      "alpha": 1.0
+    },
+    {
+      "uid": "appliedenergistics2:quartz_fixture",
+      "name": "Charged Quartz Fixture",
+      "color": "#cbe8fa",
+      "alpha": 1.0
+    },
+    {
+      "uid": "appliedenergistics2:quartz_glass",
+      "name": "Quartz Glass",
+      "color": "#352f25",
+      "alpha": 0.4
+    },
+    {
+      "uid": "appliedenergistics2:quartz_growth_accelerator",
+      "name": "Crystal Growth Accelerator",
+      "color": "#433949",
+      "alpha": 1.0,
+      "variants": [
+        {
+          "color": "#473a4e"
+        }
+      ]
+    },
+    {
+      "uid": "appliedenergistics2:quartz_ore",
+      "name": "Certus Quartz Ore",
+      "color": "#85888c",
+      "alpha": 1.0
+    },
+    {
+      "uid": "appliedenergistics2:quartz_pillar",
+      "name": "Certus Quartz Pillar",
+      "color": "#c9d4ec",
+      "alpha": 1.0
+    },
+    {
+      "uid": "appliedenergistics2:quartz_pillar_double_slab",
+      "name": "Air",
+      "color": "#c9d4ec",
+      "alpha": 1.0
+    },
+    {
+      "uid": "appliedenergistics2:quartz_pillar_slab",
+      "name": "Certus Quartz Pillar Slabs",
+      "color": "#c9d4ec",
+      "alpha": 1.0
+    },
+    {
+      "uid": "appliedenergistics2:quartz_pillar_stairs",
+      "name": "Certus Quartz Pillar Stairs",
+      "color": "#c9d4ec",
+      "alpha": 1.0
+    },
+    {
+      "uid": "appliedenergistics2:quartz_slab",
+      "name": "Certus Quartz Slabs",
+      "color": "#d3ddf1",
+      "alpha": 1.0
+    },
+    {
+      "uid": "appliedenergistics2:quartz_stairs",
+      "name": "Certus Quartz Stairs",
+      "color": "#d3ddf1",
+      "alpha": 1.0
+    },
+    {
+      "uid": "appliedenergistics2:quartz_vibrant_glass",
+      "name": "Vibrant Quartz Glass",
+      "color": "#352f25",
+      "alpha": 0.4
+    },
+    {
+      "uid": "appliedenergistics2:security_station",
+      "name": "ME Security Terminal",
+      "color": "#887044",
+      "alpha": 1.0
+    },
+    {
+      "uid": "appliedenergistics2:sky_compass",
+      "name": "Meteorite Compass",
+      "color": "#2a82a1",
+      "alpha": 1.0
+    },
+    {
+      "uid": "appliedenergistics2:sky_stone_block",
+      "name": "Sky Stone",
+      "color": "#1b1c1c",
+      "alpha": 1.0
+    },
+    {
+      "uid": "appliedenergistics2:sky_stone_brick",
+      "name": "Sky Stone Brick",
+      "color": "#474747",
+      "alpha": 1.0
+    },
+    {
+      "uid": "appliedenergistics2:sky_stone_brick_double_slab",
+      "name": "Air",
+      "color": "#474747",
+      "alpha": 1.0
+    },
+    {
+      "uid": "appliedenergistics2:sky_stone_brick_slab",
+      "name": "Sky Stone Brick Slabs",
+      "color": "#474747",
+      "alpha": 1.0
+    },
+    {
+      "uid": "appliedenergistics2:sky_stone_brick_stairs",
+      "name": "Sky Stone Brick Stairs",
+      "color": "#474747",
+      "alpha": 1.0
+    },
+    {
+      "uid": "appliedenergistics2:sky_stone_chest",
+      "name": "Sky Stone Chest",
+      "color": "#1b1c1c",
+      "alpha": 1.0
+    },
+    {
+      "uid": "appliedenergistics2:sky_stone_double_slab",
+      "name": "Air",
+      "color": "#1b1c1c",
+      "alpha": 1.0
+    },
+    {
+      "uid": "appliedenergistics2:sky_stone_slab",
+      "name": "Sky Stone Slabs",
+      "color": "#1b1c1c",
+      "alpha": 1.0
+    },
+    {
+      "uid": "appliedenergistics2:sky_stone_small_brick",
+      "name": "Sky Stone Small Brick",
+      "color": "#444444",
+      "alpha": 1.0
+    },
+    {
+      "uid": "appliedenergistics2:sky_stone_small_brick_double_slab",
+      "name": "Air",
+      "color": "#444444",
+      "alpha": 1.0
+    },
+    {
+      "uid": "appliedenergistics2:sky_stone_small_brick_slab",
+      "name": "Sky Stone Small Brick Slabs",
+      "color": "#444444",
+      "alpha": 1.0
+    },
+    {
+      "uid": "appliedenergistics2:sky_stone_small_brick_stairs",
+      "name": "Sky Stone Small Brick Stairs",
+      "color": "#444444",
+      "alpha": 1.0
+    },
+    {
+      "uid": "appliedenergistics2:sky_stone_stairs",
+      "name": "Sky Stone Stairs",
+      "color": "#1b1c1c",
+      "alpha": 1.0
+    },
+    {
+      "uid": "appliedenergistics2:smooth_sky_stone_block",
+      "name": "Sky Stone Block",
+      "color": "#484848",
+      "alpha": 1.0
+    },
+    {
+      "uid": "appliedenergistics2:smooth_sky_stone_chest",
+      "name": "Sky Stone Block Chest",
+      "color": "#484848",
+      "alpha": 1.0
+    },
+    {
+      "uid": "appliedenergistics2:smooth_sky_stone_double_slab",
+      "name": "Air",
+      "color": "#484848",
+      "alpha": 1.0
+    },
+    {
+      "uid": "appliedenergistics2:smooth_sky_stone_slab",
+      "name": "Sky Stone Block Slabs",
+      "color": "#484848",
+      "alpha": 1.0
+    },
+    {
+      "uid": "appliedenergistics2:smooth_sky_stone_stairs",
+      "name": "Sky Stone Block Stairs",
+      "color": "#484848",
+      "alpha": 1.0
+    },
+    {
+      "uid": "appliedenergistics2:spatial_io_port",
+      "name": "Spatial IO Port",
+      "color": "#575353",
+      "alpha": 1.0
+    },
+    {
+      "uid": "appliedenergistics2:spatial_pylon",
+      "name": "Spatial Pylon",
+      "color": "#332c4f",
+      "alpha": 1.0
+    },
+    {
+      "uid": "appliedenergistics2:tiny_tnt",
+      "name": "Tiny TNT",
+      "color": "#a95c47",
+      "alpha": 1.0
+    },
+    {
+      "uid": "appliedenergistics2:vibration_chamber",
+      "name": "Vibration Chamber",
+      "color": "#555555",
+      "alpha": 1.0,
+      "variants": [
+        {
+          "color": "#7b6952"
+        }
+      ]
+    },
+    {
+      "uid": "appliedenergistics2:wireless_access_point",
+      "name": "ME Wireless Access Point",
+      "color": "#49474a",
+      "alpha": 1.0
+    },
+    {
       "uid": "aroma1997sdimension:portalframe",
       "name": "Portal Frame",
       "color": "#578e8c",
@@ -1290,18 +1836,6 @@ var colorpalette={
       "uid": "bigreactors:yellorium",
       "name": "Air",
       "color": "#b5b34f",
-      "alpha": 1.0
-    },
-    {
-      "uid": "bonfires:ash_block",
-      "name": "Block of Ash",
-      "color": "#949081",
-      "alpha": 1.0
-    },
-    {
-      "uid": "bonfires:ash_bone_pile",
-      "name": "Pile of Bone and Ash",
-      "color": "#949081",
       "alpha": 1.0
     },
     {
@@ -7094,6 +7628,24 @@ var colorpalette={
       "uid": "deepresonance:valve",
       "name": "Valve",
       "color": "#546d62",
+      "alpha": 1.0
+    },
+    {
+      "uid": "doggytalents:dog_bath",
+      "name": "Dog Bath",
+      "color": "#dbdbdb",
+      "alpha": 1.0
+    },
+    {
+      "uid": "doggytalents:dog_bed",
+      "name": "Dog Bed",
+      "color": "#9c7f4e",
+      "alpha": 1.0
+    },
+    {
+      "uid": "doggytalents:food_bowl",
+      "name": "Food Bowl",
+      "color": "#616161",
       "alpha": 1.0
     },
     {
@@ -13797,6 +14349,29 @@ var colorpalette={
       ]
     },
     {
+      "uid": "mysticalagriculture:certus_quartz_crop",
+      "name": "Certus Quartz Crop",
+      "color": "#01a201",
+      "alpha": 1.0,
+      "variants": [
+        {
+          "color": "#00530c"
+        },
+        {
+          "color": "#009100"
+        },
+        {
+          "color": "#02570d"
+        },
+        {
+          "color": "#0b6f0c"
+        },
+        {
+          "color": "#326740"
+        }
+      ]
+    },
+    {
       "uid": "mysticalagriculture:chicken_crop",
       "name": "Chicken Crop",
       "color": "#01a201",
@@ -14267,6 +14842,29 @@ var colorpalette={
         },
         {
           "color": "#215910"
+        }
+      ]
+    },
+    {
+      "uid": "mysticalagriculture:fluix_crop",
+      "name": "Fluix Crop",
+      "color": "#01a201",
+      "alpha": 1.0,
+      "variants": [
+        {
+          "color": "#00530c"
+        },
+        {
+          "color": "#009100"
+        },
+        {
+          "color": "#02570d"
+        },
+        {
+          "color": "#0b6f0c"
+        },
+        {
+          "color": "#245139"
         }
       ]
     },
@@ -20266,208 +20864,119 @@ var colorpalette={
     {
       "uid": "saltmod:extractor",
       "name": "Evaporator",
-      "color": "#606060",
-      "alpha": 1.0,
-      "variants": [
-        {
-          "color": "#717171"
-        }
-      ]
+      "color": "#ffffff",
+      "alpha": 1.0
     },
     {
       "uid": "saltmod:extractor_lit",
       "name": "Air",
-      "color": "#7b6f62",
-      "alpha": 1.0,
-      "variants": [
-        {
-          "color": "#717171"
-        }
-      ]
+      "color": "#ffffff",
+      "alpha": 1.0
     },
     {
       "uid": "saltmod:extractor_steam",
       "name": "Air",
-      "color": "#7b6f62",
-      "alpha": 1.0,
-      "variants": [
-        {
-          "color": "#717171"
-        }
-      ]
+      "color": "#ffffff",
+      "alpha": 1.0
     },
     {
       "uid": "saltmod:mud_block",
       "name": "Mineral Mud Block",
-      "color": "#272f2d",
+      "color": "#ffffff",
       "alpha": 1.0
     },
     {
       "uid": "saltmod:salt_block",
-      "name": "Block Of Salt",
-      "color": "#b6cbbc",
-      "alpha": 1.0,
-      "variants": [
-        {
-          "name": "Chiseled Salt Block",
-          "color": "#b9ccbf"
-        },
-        {
-          "name": "Chiseled Salt Brick",
-          "color": "#b3c7b8"
-        },
-        {
-          "name": "Cracked Salt Block",
-          "color": "#b2c8b8"
-        },
-        {
-          "name": "Cracked Salt Brick",
-          "color": "#adc3b4"
-        },
-        {
-          "name": "Salt Brick",
-          "color": "#b0c5b6"
-        },
-        {
-          "name": "Salt Chapiter",
-          "color": "#b1c6b7"
-        }
-      ]
+      "name": "Salt Chapiter",
+      "color": "#ffffff",
+      "alpha": 1.0
     },
     {
       "uid": "saltmod:salt_brick_stairs",
       "name": "SaltBrickStair",
-      "color": "#b0c5b6",
+      "color": "#ffffff",
       "alpha": 1.0
     },
     {
       "uid": "saltmod:salt_crystal",
       "name": "Salt Crystals",
-      "color": "#bccbbb",
-      "alpha": 1.0,
-      "variants": [
-        {
-          "color": "#c4d3c3"
-        },
-        {
-          "color": "#d0decf"
-        }
-      ]
+      "color": "#ffffff",
+      "alpha": 1.0
     },
     {
       "uid": "saltmod:salt_dirt",
-      "name": "Saline Soil",
-      "color": "#a38464",
-      "alpha": 1.0,
-      "variants": [
-        {
-          "name": "Salt Lake Bottom",
-          "color": "#aa9780"
-        }
-      ]
+      "name": "Salt Lake Bottom",
+      "color": "#ffffff",
+      "alpha": 1.0
     },
     {
       "uid": "saltmod:salt_dirt_lite",
       "name": "Slightly Saline Soil",
-      "color": "#886446",
-      "alpha": 1.0,
-      "variants": [
-        {
-          "color": "#8f6c4e"
-        },
-        {
-          "color": "#967557"
-        },
-        {
-          "color": "#a38c73"
-        }
-      ]
+      "color": "#ffffff",
+      "alpha": 1.0
     },
     {
       "uid": "saltmod:salt_grass",
       "name": "Overgrown Slightly Saline Soil",
-      "color": "#7f6444",
-      "alpha": 1.0,
-      "variants": [
-        {
-          "color": "#9b8d71"
-        }
-      ]
+      "color": "#ffffff",
+      "alpha": 1.0
     },
     {
       "uid": "saltmod:salt_lake",
       "name": "Salt Lake Bottom",
-      "color": "#8f928f",
-      "alpha": 1.0
+      "color": "#ffffff",
+      "alpha": 1.0,
+      "variants": [
+        {
+          "color": "#8f928f"
+        }
+      ]
     },
     {
       "uid": "saltmod:salt_lamp",
       "name": "Salt Lamp",
-      "color": "#bfcfb7",
+      "color": "#ffffff",
       "alpha": 1.0
     },
     {
       "uid": "saltmod:salt_ore",
       "name": "Salt Ore",
-      "color": "#878987",
-      "alpha": 1.0
+      "color": "#ffffff",
+      "alpha": 1.0,
+      "variants": [
+        {
+          "color": "#878987"
+        }
+      ]
     },
     {
       "uid": "saltmod:salt_pot",
       "name": "Air",
       "color": "#764133",
-      "alpha": 1.0
+      "alpha": 1.0,
+      "variants": [
+        {
+          "color": "#ffffff"
+        }
+      ]
     },
     {
       "uid": "saltmod:salt_slab",
       "name": "Salt Slab",
-      "color": "#b7cbbd",
-      "alpha": 1.0,
-      "variants": [
-        {
-          "color": "#b0c5b6"
-        },
-        {
-          "color": "#b1c6b7"
-        }
-      ]
+      "color": "#ffffff",
+      "alpha": 1.0
     },
     {
       "uid": "saltmod:salt_slab_double",
       "name": "Air",
-      "color": "#b7cbbd",
-      "alpha": 1.0,
-      "variants": [
-        {
-          "color": "#b0c5b6"
-        },
-        {
-          "color": "#b1c6b7"
-        }
-      ]
+      "color": "#ffffff",
+      "alpha": 1.0
     },
     {
       "uid": "saltmod:saltwort",
       "name": "Air",
-      "color": "#718333",
-      "alpha": 1.0,
-      "variants": [
-        {
-          "color": "#6f7d37"
-        },
-        {
-          "color": "#727938"
-        },
-        {
-          "color": "#728236"
-        },
-        {
-          "color": "#787036"
-        },
-        {
-          "color": "#7a7440"
-        }
-      ]
+      "color": "#ffffff",
+      "alpha": 1.0
     },
     {
       "uid": "storagedrawers:basicdrawers",
@@ -21693,6 +22202,20 @@ var colorpalette={
       "variants": [
         {
           "color": "#7b6339"
+        }
+      ]
+    },
+    {
+      "uid": "thermalcultivation:soil",
+      "name": "Soil",
+      "color": "#744226",
+      "alpha": 1.0,
+      "variants": [
+        {
+          "color": "#59320d"
+        },
+        {
+          "color": "#6a3618"
         }
       ]
     },
