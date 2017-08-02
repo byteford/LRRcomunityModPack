@@ -10,3 +10,4 @@ minecraftinstance.json
 config/jei/worldSettings.cfg
 mods/
 usercache.json
+*.psd
