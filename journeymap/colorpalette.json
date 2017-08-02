@@ -1,7 +1,7 @@
 var colorpalette={
   "version": 5.4,
   "name": "JourneyMap Color Palette",
-  "generated": "Generated using JourneyMap 1.12-5.4.9 for 1.12 on Sun Jul 30 20:08:10 BST 2017",
+  "generated": "Generated using JourneyMap 1.12-5.4.9 for 1.12 on Wed Aug 02 11:47:57 BST 2017",
   "description": [
     "This file can be used to keep map colors consistent when changing resource packs.",
     "Edit at your own risk. You can view it using the colorpalette.html file.",
@@ -11,7 +11,7 @@ var colorpalette={
   ],
   "permanent": false,
   "resourcePacks": "Lrr_Community:folder",
-  "modNames": "Actually Additions:1.12-r117, AntiGhost:1.0, AppleSkin:1.0.7, Applied Energistics 2 Core:rv5-alpha-1, Applied Energistics 2:rv5-alpha-1, Aroma1997\u0027s Dimensional World:1.3.0.0.b37, Aroma1997Core:1.3.0.0.b94, Aroma1997Core|Helper:1.3.0.0.b94, Astral Sorcery:1.6.1, AutoRegLib:1.3-13, Baby Animals Model Swapper:1.11-2, Better Builder\u0027s Wands:0.11.1, BiblioCraft:2.4.3, Bird\u0027s Foods:2.4.2 [1.12], Bookshelf:2.0.415, CTM:MC1.12-0.2.1.5, Chameleon Creepers:1.4.1, Chameleon:1.12-4.1.3, Cheese Mod:1.1, Chest Cow:1.0, Chest Transporter:2.8.6, Chisel:MC1.12-0.0.13.14, Chisels \u0026 Bits:14.4, CoFH Core:4.3.3, CoFH World:1.0.0, CodeChicken Lib:3.1.1.288, Cooking for Blockheads:6.3.2, Creeper Confetti:1.4.1, Creeperade:1.2, Cucumber:1.0.0, Custom Main Menu:2.0.6, Cyclops Core:0.10.11, Dark Utilities:1.6.167, DeepResonance:1.4.9, Default Options:9.2.1, Doggy Talents:1.14.0.206, Edible Tools:1.0.1, ElecCore:1.8.429, Elevator Mod:1.3.4, Embers:0.221, EnderStorage:1.0, EvilCraft-Compat:1.0.0, EvilCraft:0.10.31, Exchangers:1.12-2.2, Extra Utilities 2:1.0, Fast Food:0.2.22050900, FoamFix:@VERSION@, FoamFixCore:7.7.4, Food Expansion:1.3, Forge Mod Loader:8.0.99.99, GPS:3.1.0.0.b21, Global XP:v1.2, Gravestone Mod:1.8.4, Grue:1.3.5, Immersive Engineering:0.12-69, Immersive Petroleum:1.1.2, Iron Chest:1.12-7.0.31.818, IvToolkit:1.3.3-1.12, JourneyMap:1.12-5.4.9, Just Enough Items:4.7.4.80, Just a Few Fish:1.7_for_1.12, KleeSlabs:5.3.2, Mankini:1.3.2, Mantle:1.12-1.3.1.18, Minecraft Coder Pack:9.19, Minecraft Forge:14.21.1.2428, Minecraft:1.12, Mo\u0027 Bends:0.24, Mystical Agriculture:1.6.2, NetherEx:2.1.10.11, Pam\u0027s HarvestCraft:1.12b, Personal Cars:1.3, PetRock:0.2.0, Psi:r1.1-52, Quark:r1.2-104, RFTools Dimensions:5.04, RFTools:6.12, Recurrent Complex:1.4.4, Redstone Arsenal:2.3.3, Redstone Flux:2.0.1, Refined Storage:1.5.13, Roots 2:0.025, Rustic:0.4.1, Salty Mod:1.12_c, SpawnerCraft:4.0.0, Squake:1.0.4, Storage Drawers:1.12-5.2.5, Stupid Things:1.1.1, Subaraki\u0027s Common Library:1.2.0.1, The Lost Cities:0.0.19beta, The One Probe:1.4.15, Thermal Cultivation:0.1.0, Thermal Dynamics:2.3.3, Thermal Expansion:5.3.3, Thermal Foundation:2.3.3, Tinkers\u0027 Construct:1.12-2.7.2.15, TorchMaster:1.4.3.8, Traverse:1.2.1, Tree Growing Simulator 2016:0.0.4, Uncrafting Table:1.8-beta4, Waystones:4.0.12, Wearable Backpacks:3.0.4, What Are We Looking At:2.5.239, Zero CORE:1.12-0.1.0.9, badwithernocookiereloaded:1.0, fashion mod:1.11.2 0.1.2.0, muchmorechickens:1.7, trolloresreborn:4.0.4, §3Dynamic Surroundings:3.4.6.0, §3Presets!:3.4.6.0",
+  "modNames": "Actually Additions:1.12-r117, AntiGhost:1.1, AppleSkin:1.0.7, Applied Energistics 2 Core:rv5-alpha-1, Applied Energistics 2:rv5-alpha-1, Aroma1997\u0027s Dimensional World:1.3.0.0.b37, Aroma1997Core:1.3.0.0.b94, Aroma1997Core|Helper:1.3.0.0.b94, Astral Sorcery:1.6.1, AutoRegLib:1.3-13, Baby Animals Model Swapper:1.11-2, Baubles:1.5.0, Better Builder\u0027s Wands:0.11.1, BiblioCraft:2.4.3, Bookshelf:2.0.415, CT-GUI:1.0.0, CTM:MC1.12-0.2.1.5, Chameleon Creepers:1.4.1, Chameleon:1.12-4.1.3, Chest Cow:1.0, Chest Transporter:2.8.6, Chisel:MC1.12-0.0.13.14, Chisels \u0026 Bits:14.4, CoFH Core:4.3.3, CoFH World:1.0.0, CodeChicken Lib:3.1.1.288, CommonCapabilities:1.3.4, Controlling:3.0.1, Cooking for Blockheads:6.3.2, CraftTweaker2:4.0.2, Creeper Confetti:1.4.1, Creeperade:1.2, Cucumber:1.0.0, Custom Main Menu:2.0.6, Cyclops Core:0.10.11, Dark Utilities:1.6.167, DeepResonance:1.4.9, Default Options:9.2.1, Doggy Talents:1.14.1.214, ElecCore:1.8.429, Elevator Mod:1.3.4, Embers:0.221, EnderStorage:1.0, EvilCraft-Compat:1.0.0, EvilCraft:0.10.31, Exchangers:1.12-2.3.1, Extra Utilities 2:1.0, FoamFix:@VERSION@, FoamFixCore:7.7.4, Food Expansion:1.3, Forge Mod Loader:8.0.99.99, GPS:3.1.0.0.b21, Global XP:v1.2, Gravestone Mod:1.8.4, Grue:1.3.5, Immersive Engineering:0.12-70, Immersive Petroleum:1.1.2, Integrated Dynamics:0.8.3, Integrated Tunnels:1.2.5, IntegratedDynamics-Compat:1.0.0, Iron Chest:1.12-7.0.31.818, IvToolkit:1.3.3-1.12, JourneyMap:1.12-5.4.9, Just Enough Items:4.7.4.80, Just a Few Fish:1.7_for_1.12, KleeSlabs:5.3.2, Mankini:1.3.2, Mantle:1.12-1.3.1.18, Minecraft Coder Pack:9.19, Minecraft Forge:14.21.1.2428, Minecraft:1.12, Mo\u0027 Bends:0.24, Mystical Agriculture:1.6.2, NetherEx:2.1.10.11, Pam\u0027s HarvestCraft:1.12b, Personal Cars:1.3, PetRock:0.2.0, Psi:r1.1-52, Quark:r1.2-104, RFTools Dimensions:5.04, RFTools:6.12, Ranged Pumps:0.5, Recurrent Complex:1.4.4, Redstone Arsenal:2.3.3, Redstone Flux:2.0.1, Refined Storage:1.5.13, Roots 2:0.025, Rustic:0.4.1, Squake:1.0.4, Storage Drawers:1.12-5.2.5, Stupid Things:1.1.1, Subaraki\u0027s Common Library:1.2.0.1, The BOM Plugin:0.1.0, The Lost Cities:0.0.19beta, The One Probe:1.4.15, Thermal Cultivation:0.1.0, Thermal Dynamics:2.3.3, Thermal Expansion:5.3.3, Thermal Foundation:2.3.3, Tinkers\u0027 Construct:1.12-2.7.2.15, TorchMaster:1.4.3.8, Traverse:1.2.1, Tree Growing Simulator 2016:0.0.4, Uncrafting Table:1.8-beta4, Waystones:4.0.12, Wearable Backpacks:3.0.4, What Are We Looking At:2.5.239, XNet:1.3.5, Zero CORE:1.12-0.1.0.9, badwithernocookiereloaded:1.0, fashion mod:1.11.2 0.1.2.0, muchmorechickens:1.7, §3Dynamic Surroundings:3.4.6.0, §3Presets!:3.4.6.0",
   "blockColors": [
     {
       "uid": "actuallyadditions:block_atomic_reconstructor",
@@ -1660,66 +1660,6 @@ var colorpalette={
       "uid": "astralsorcery:fluidblockliquidstarlight",
       "name": "Air",
       "color": "#d5dadb",
-      "alpha": 1.0
-    },
-    {
-      "uid": "cheesemod:cheese_block",
-      "name": "Cheese Block",
-      "color": "#a69946",
-      "alpha": 1.0
-    },
-    {
-      "uid": "cheesemod:cheese_metal_block",
-      "name": "Cheese Metal Block",
-      "color": "#c9c4a0",
-      "alpha": 1.0
-    },
-    {
-      "uid": "cheesemod:cheese_metal_grill",
-      "name": "Cheese Metal Grill WIP",
-      "color": "#c9c4a0",
-      "alpha": 1.0
-    },
-    {
-      "uid": "cheesemod:cheese_metal_ore",
-      "name": "Cheese Metal Ore",
-      "color": "#827f77",
-      "alpha": 1.0
-    },
-    {
-      "uid": "cheesemod:cheese_stairs",
-      "name": "Cheese Stairs",
-      "color": "#a69946",
-      "alpha": 1.0
-    },
-    {
-      "uid": "cheesemod:grill",
-      "name": "Grill WIP",
-      "color": "#dbdbdb",
-      "alpha": 1.0
-    },
-    {
-      "uid": "cheesemod:grilled_cheese_block",
-      "name": "Grilled Cheese Block",
-      "color": "#7f7122",
-      "alpha": 1.0
-    },
-    {
-      "uid": "cheesemod:grilled_cheese_metal_block",
-      "name": "Grilled Cheese Metal Block",
-      "color": "#938836",
-      "alpha": 1.0
-    },
-    {
-      "uid": "cheesemod:grilled_cheese_metal_ore",
-      "name": "Grilled Cheese Metal Ore",
-      "color": "#847f6b",
-      "alpha": 1.0
-    },
-    {
-      "uid": "cheesemod:grilled_cheese_stairs",
-      "name": "Grilled Cheese Stairs",
-      "color": "#7f7122",
       "alpha": 1.0
     },
     {
@@ -9367,88 +9307,6 @@ var colorpalette={
       ]
     },
     {
-      "uid": "fastfood:churn",
-      "name": "Churn",
-      "color": "#978360",
-      "alpha": 1.0
-    },
-    {
-      "uid": "fastfood:cookingoil",
-      "name": "Air",
-      "color": "#f1ef92",
-      "alpha": 0.3
-    },
-    {
-      "uid": "fastfood:counter",
-      "name": "Counter",
-      "color": "#978360",
-      "alpha": 1.0
-    },
-    {
-      "uid": "fastfood:fryer",
-      "name": "Fryer",
-      "color": "#9f9292",
-      "alpha": 1.0,
-      "variants": [
-        {
-          "color": "#9e9e9e"
-        }
-      ]
-    },
-    {
-      "uid": "fastfood:grill",
-      "name": "Grill",
-      "color": "#9ea098",
-      "alpha": 1.0
-    },
-    {
-      "uid": "fastfood:grinder",
-      "name": "Meat Grinder",
-      "color": "#978360",
-      "alpha": 1.0
-    },
-    {
-      "uid": "fastfood:mill",
-      "name": "Flour Mill",
-      "color": "#978360",
-      "alpha": 1.0
-    },
-    {
-      "uid": "fastfood:press",
-      "name": "Press",
-      "color": "#978360",
-      "alpha": 1.0
-    },
-    {
-      "uid": "fastfood:tomatocrop",
-      "name": "CropTomato",
-      "color": "#478332",
-      "alpha": 1.0,
-      "variants": [
-        {
-          "color": "#43842e"
-        },
-        {
-          "color": "#468331"
-        },
-        {
-          "color": "#488835"
-        },
-        {
-          "color": "#53912d"
-        },
-        {
-          "color": "#75602a"
-        },
-        {
-          "color": "#867b38"
-        },
-        {
-          "color": "#8aa929"
-        }
-      ]
-    },
-    {
       "uid": "globalxp:xp_block",
       "name": "XP Block",
       "color": "#6d6c6a",
@@ -11190,6 +11048,24 @@ var colorpalette={
       "alpha": 1.0
     },
     {
+      "uid": "immersiveengineering:aluminum_scaffolding_stairs0",
+      "name": "Aluminium Scaffolding Stairs",
+      "color": "#a9b7b6",
+      "alpha": 1.0
+    },
+    {
+      "uid": "immersiveengineering:aluminum_scaffolding_stairs1",
+      "name": "Aluminium Scaffolding Stairs",
+      "color": "#a9b7b6",
+      "alpha": 1.0
+    },
+    {
+      "uid": "immersiveengineering:aluminum_scaffolding_stairs2",
+      "name": "Aluminium Scaffolding Stairs",
+      "color": "#a9b7b6",
+      "alpha": 1.0
+    },
+    {
       "uid": "immersiveengineering:cloth_device",
       "name": "Strip Curtain",
       "color": "#e5c9a7",
@@ -11304,7 +11180,7 @@ var colorpalette={
         },
         {
           "name": "Heavy Engineering Block",
-          "color": "#3b3a38"
+          "color": "#4e4c47"
         },
         {
           "name": "High-Voltage Coil Block",
@@ -11312,7 +11188,7 @@ var colorpalette={
         },
         {
           "name": "Light Engineering Block",
-          "color": "#6b5645"
+          "color": "#71685c"
         },
         {
           "name": "Radiator Block",
@@ -11320,7 +11196,7 @@ var colorpalette={
         },
         {
           "name": "Redstone Engineering Block",
-          "color": "#662525"
+          "color": "#694d4d"
         }
       ]
     },
@@ -11345,6 +11221,18 @@ var colorpalette={
       ]
     },
     {
+      "uid": "immersiveengineering:metal_decoration1_slab",
+      "name": "IEScaffoldSlab",
+      "color": "#ffffff",
+      "alpha": 1.0,
+      "variants": [
+        {
+          "name": "Aluminium Scaffolding Slab",
+          "color": "#484848"
+        }
+      ]
+    },
+    {
       "uid": "immersiveengineering:metal_decoration2",
       "name": "Steel Post",
       "color": "#404040",
@@ -11353,6 +11241,10 @@ var colorpalette={
         {
           "name": "Aluminium Post",
           "color": "#656a6b"
+        },
+        {
+          "name": "Engineer\u0027s Toolbox",
+          "color": "#525252"
         },
         {
           "name": "Engineer\u0027s Toolbox",
@@ -11428,6 +11320,10 @@ var colorpalette={
         },
         {
           "name": "External Heater",
+          "color": "#515256"
+        },
+        {
+          "name": "External Heater",
           "color": "#5b5351"
         },
         {
@@ -11463,7 +11359,7 @@ var colorpalette={
     {
       "uid": "immersiveengineering:metal_multiblock",
       "name": "Mixer",
-      "color": "#ffffff",
+      "color": "#525252",
       "alpha": 1.0,
       "variants": [
         {
@@ -11481,6 +11377,9 @@ var colorpalette={
         {
           "name": "Bucket Wheel",
           "color": "#515451"
+        },
+        {
+          "color": "#ffffff"
         }
       ]
     },
@@ -11621,6 +11520,24 @@ var colorpalette={
       ]
     },
     {
+      "uid": "immersiveengineering:steel_scaffolding_stairs0",
+      "name": "Steel Scaffolding Stairs",
+      "color": "#444444",
+      "alpha": 1.0
+    },
+    {
+      "uid": "immersiveengineering:steel_scaffolding_stairs1",
+      "name": "Steel Scaffolding Stairs",
+      "color": "#444444",
+      "alpha": 1.0
+    },
+    {
+      "uid": "immersiveengineering:steel_scaffolding_stairs2",
+      "name": "Steel Scaffolding Stairs",
+      "color": "#444444",
+      "alpha": 1.0
+    },
+    {
       "uid": "immersiveengineering:stone_decoration",
       "name": "Coke Brick",
       "color": "#474747",
@@ -11742,7 +11659,7 @@ var colorpalette={
     },
     {
       "uid": "immersiveengineering:stone_device",
-      "name": "Coke Oven",
+      "name": "Core Sample",
       "color": "#474747",
       "alpha": 1.0,
       "variants": [
@@ -11755,12 +11672,11 @@ var colorpalette={
           "color": "#776d66"
         },
         {
-          "name": "Core Sample",
-          "color": "#ffffff"
-        },
-        {
           "name": "Crude Blast Furnace",
           "color": "#3e1f15"
+        },
+        {
+          "color": "#ffffff"
         }
       ]
     },
@@ -12005,6 +11921,210 @@ var colorpalette={
       "name": "Asphalt Concrete",
       "color": "#2d2d2d",
       "alpha": 1.0
+    },
+    {
+      "uid": "integrateddynamics:block_liquid_chorus",
+      "name": "Liquid Chorus",
+      "color": "#ce9ece",
+      "alpha": 0.3
+    },
+    {
+      "uid": "integrateddynamics:block_menril_resin",
+      "name": "Menril Resin",
+      "color": "#7ecde1",
+      "alpha": 0.3
+    },
+    {
+      "uid": "integrateddynamics:cable",
+      "name": "Logic Cable",
+      "color": "#3f6569",
+      "alpha": 0.4
+    },
+    {
+      "uid": "integrateddynamics:coal_generator",
+      "name": "Generator",
+      "color": "#415f6b",
+      "alpha": 1.0,
+      "variants": [
+        {
+          "color": "#3c535d"
+        },
+        {
+          "color": "#405f6d"
+        }
+      ]
+    },
+    {
+      "uid": "integrateddynamics:creative_energy_battery",
+      "name": "Creative Energy Battery",
+      "color": "#ef9bf7",
+      "alpha": 1.0
+    },
+    {
+      "uid": "integrateddynamics:crystalized_chorus_block",
+      "name": "Block of Crystalized Chorus",
+      "color": "#9a6a9a",
+      "alpha": 1.0
+    },
+    {
+      "uid": "integrateddynamics:crystalized_chorus_block_stairs",
+      "name": "Crystalized Chorus Stairs",
+      "color": "#9a6a9a",
+      "alpha": 1.0
+    },
+    {
+      "uid": "integrateddynamics:crystalized_chorus_brick",
+      "name": "Crystalized Chorus Brick",
+      "color": "#946494",
+      "alpha": 1.0
+    },
+    {
+      "uid": "integrateddynamics:crystalized_chorus_brick_stairs",
+      "name": "Crystalized Chorus Brick Stairs",
+      "color": "#946494",
+      "alpha": 1.0
+    },
+    {
+      "uid": "integrateddynamics:crystalized_menril_block",
+      "name": "Block of Crystalized Menril",
+      "color": "#5192b1",
+      "alpha": 1.0
+    },
+    {
+      "uid": "integrateddynamics:crystalized_menril_block_stairs",
+      "name": "Crystalized Menril Stairs",
+      "color": "#5192b1",
+      "alpha": 1.0
+    },
+    {
+      "uid": "integrateddynamics:crystalized_menril_brick",
+      "name": "Crystalized Menril Brick",
+      "color": "#498eac",
+      "alpha": 1.0
+    },
+    {
+      "uid": "integrateddynamics:crystalized_menril_brick_stairs",
+      "name": "Crystalized Menril Brick Stairs",
+      "color": "#498eac",
+      "alpha": 1.0
+    },
+    {
+      "uid": "integrateddynamics:delay",
+      "name": "Delayer",
+      "color": "#3f555c",
+      "alpha": 1.0,
+      "variants": [
+        {
+          "color": "#424847"
+        }
+      ]
+    },
+    {
+      "uid": "integrateddynamics:drying_basin",
+      "name": "Drying Basin",
+      "color": "#44392e",
+      "alpha": 1.0
+    },
+    {
+      "uid": "integrateddynamics:energy_battery",
+      "name": "Energy Battery",
+      "color": "#0182b6",
+      "alpha": 1.0,
+      "variants": [
+        {
+          "color": "#0598c7"
+        },
+        {
+          "color": "#0da7cd"
+        }
+      ]
+    },
+    {
+      "uid": "integrateddynamics:logic_programmer",
+      "name": "Logic Programmer",
+      "color": "#44585f",
+      "alpha": 0.4
+    },
+    {
+      "uid": "integrateddynamics:materializer",
+      "name": "Materializer",
+      "color": "#424c4c",
+      "alpha": 1.0,
+      "variants": [
+        {
+          "color": "#3b5057"
+        },
+        {
+          "color": "#414c4d"
+        }
+      ]
+    },
+    {
+      "uid": "integrateddynamics:menril_leaves",
+      "name": "Menril Leaves",
+      "color": "#609198",
+      "alpha": 1.0
+    },
+    {
+      "uid": "integrateddynamics:menril_log",
+      "name": "Menril Log",
+      "color": "#44392e",
+      "alpha": 1.0
+    },
+    {
+      "uid": "integrateddynamics:menril_log_filled",
+      "name": "Enriched Menril Log",
+      "color": "#44392e",
+      "alpha": 1.0
+    },
+    {
+      "uid": "integrateddynamics:menril_planks",
+      "name": "Menril Plank",
+      "color": "#4f6479",
+      "alpha": 1.0
+    },
+    {
+      "uid": "integrateddynamics:menril_planks_stairs",
+      "name": "Menril Plank Stairs",
+      "color": "#4f6479",
+      "alpha": 1.0
+    },
+    {
+      "uid": "integrateddynamics:menril_sapling",
+      "name": "Menril Sapling",
+      "color": "#376267",
+      "alpha": 1.0
+    },
+    {
+      "uid": "integrateddynamics:proxy",
+      "name": "Proxy",
+      "color": "#424c4c",
+      "alpha": 1.0,
+      "variants": [
+        {
+          "color": "#3a4e55"
+        },
+        {
+          "color": "#414c4d"
+        }
+      ]
+    },
+    {
+      "uid": "integrateddynamics:squeezer",
+      "name": "Squeezer",
+      "color": "#44392e",
+      "alpha": 1.0
+    },
+    {
+      "uid": "integrateddynamics:variablestore",
+      "name": "Variable Store",
+      "color": "#415155",
+      "alpha": 1.0,
+      "variants": [
+        {
+          "color": "#3f575f"
+        }
+      ]
     },
     {
       "uid": "ironchest:iron_chest",
@@ -20418,6 +20538,12 @@ var colorpalette={
       ]
     },
     {
+      "uid": "rangedpumps:pump",
+      "name": "Pump",
+      "color": "#141c2a",
+      "alpha": 1.0
+    },
+    {
       "uid": "reccomplex:generic_solid",
       "name": "Solid (0 ~ Natural Floor)",
       "color": "#bea553",
@@ -22779,129 +22905,6 @@ var colorpalette={
       ]
     },
     {
-      "uid": "saltmod:extractor",
-      "name": "Evaporator",
-      "color": "#ffffff",
-      "alpha": 1.0
-    },
-    {
-      "uid": "saltmod:extractor_lit",
-      "name": "Air",
-      "color": "#ffffff",
-      "alpha": 1.0
-    },
-    {
-      "uid": "saltmod:extractor_steam",
-      "name": "Air",
-      "color": "#ffffff",
-      "alpha": 1.0
-    },
-    {
-      "uid": "saltmod:mud_block",
-      "name": "Mineral Mud Block",
-      "color": "#ffffff",
-      "alpha": 1.0
-    },
-    {
-      "uid": "saltmod:salt_block",
-      "name": "Salt Chapiter",
-      "color": "#ffffff",
-      "alpha": 1.0
-    },
-    {
-      "uid": "saltmod:salt_brick_stairs",
-      "name": "SaltBrickStair",
-      "color": "#ffffff",
-      "alpha": 1.0
-    },
-    {
-      "uid": "saltmod:salt_crystal",
-      "name": "Salt Crystals",
-      "color": "#ffffff",
-      "alpha": 1.0
-    },
-    {
-      "uid": "saltmod:salt_dirt",
-      "name": "Salt Lake Bottom",
-      "color": "#ffffff",
-      "alpha": 1.0
-    },
-    {
-      "uid": "saltmod:salt_dirt_lite",
-      "name": "Slightly Saline Soil",
-      "color": "#ffffff",
-      "alpha": 1.0
-    },
-    {
-      "uid": "saltmod:salt_grass",
-      "name": "Overgrown Slightly Saline Soil",
-      "color": "#ffffff",
-      "alpha": 1.0
-    },
-    {
-      "uid": "saltmod:salt_lake",
-      "name": "Salt Lake Bottom",
-      "color": "#ffffff",
-      "alpha": 1.0,
-      "variants": [
-        {
-          "color": "#8f928f"
-        }
-      ]
-    },
-    {
-      "uid": "saltmod:salt_lamp",
-      "name": "Salt Lamp",
-      "color": "#ffffff",
-      "alpha": 1.0
-    },
-    {
-      "uid": "saltmod:salt_ore",
-      "name": "Salt Ore",
-      "color": "#ffffff",
-      "alpha": 1.0,
-      "variants": [
-        {
-          "color": "#878987"
-        }
-      ]
-    },
-    {
-      "uid": "saltmod:salt_pot",
-      "name": "Air",
-      "color": "#764133",
-      "alpha": 1.0,
-      "variants": [
-        {
-          "color": "#ffffff"
-        }
-      ]
-    },
-    {
-      "uid": "saltmod:salt_slab",
-      "name": "Salt Slab",
-      "color": "#ffffff",
-      "alpha": 1.0
-    },
-    {
-      "uid": "saltmod:salt_slab_double",
-      "name": "Air",
-      "color": "#ffffff",
-      "alpha": 1.0
-    },
-    {
-      "uid": "saltmod:saltwort",
-      "name": "Air",
-      "color": "#ffffff",
-      "alpha": 1.0
-    },
-    {
-      "uid": "spawnercraft:mob_cage",
-      "name": "Empty Spawner",
-      "color": "#1a2731",
-      "alpha": 1.0
-    },
-    {
       "uid": "storagedrawers:basicdrawers",
       "name": "Basic Drawer",
       "color": "#3c2612",
@@ -24559,6 +24562,46 @@ var colorpalette={
       "name": "Uncrafting Table",
       "color": "#575757",
       "alpha": 1.0
+    },
+    {
+      "uid": "xnet:controller",
+      "name": "Controller",
+      "color": "#656669",
+      "alpha": 1.0,
+      "variants": [
+        {
+          "color": "#5d726d"
+        },
+        {
+          "color": "#6b6c6f"
+        },
+        {
+          "color": "#7f595c"
+        }
+      ]
+    },
+    {
+      "uid": "xnet:redstone_proxy",
+      "name": "Redstone Proxy",
+      "color": "#546c63",
+      "alpha": 1.0
+    },
+    {
+      "uid": "xnet:router",
+      "name": "Router",
+      "color": "#656669",
+      "alpha": 1.0,
+      "variants": [
+        {
+          "color": "#647974"
+        },
+        {
+          "color": "#6b6c6f"
+        },
+        {
+          "color": "#866b6e"
+        }
+      ]
     }
   ]
 }
