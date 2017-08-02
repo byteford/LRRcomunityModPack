@@ -92,6 +92,8 @@ key_cfg.keybind.ChunkBorders:67
 key_presets.cfg.keybind.Presets:25
 key_Toggle GPS:65
 key_psimisc.keybind:46
+key_quark.keybind.toggleAutojump:48
+key_quark.keybind.lockBuilding:37
 key_quark.keybind.emote.wave:0
 key_quark.keybind.emote.salute:0
 key_quark.keybind.emote.yes:0
@@ -110,8 +112,7 @@ key_quark.keybind.chestMerge:0
 key_quark.keybind.chestRestock:0
 key_quark.keybind.chestExtract:0
 key_quark.keybind.playerSort:0
-key_quark.keybind.toggleAutojump:48
-key_quark.keybind.lockBuilding:37
+key_keybind.baublesinventory:48
 key_doggytalents.key.come:200
 key_doggytalents.key.stay:208
 key_doggytalents.key.ok:203
@@ -122,6 +123,7 @@ key_Horn:35
 key_Start engine:40
 key_Open car inventory:34
 key_key.wearablebackpacks.open:48
+key_key.reveal:34
 key_key.jei.toggleOverlay:24:CONTROL
 key_key.jei.focusSearch:33:CONTROL
 key_key.jei.showRecipe:19
@@ -166,6 +168,8 @@ key_key.exchangermode:51
 key_key.toggleLiquids:41
 key_key.toggleVisible:0
 key_key.immersiveengineering.magnetEquip:31
+key_key.integrateddynamics.logic_programmer_focus_search:33:ALT
+key_key.integrateddynamics.logic_programmer_open_rename:19:ALT
 key_Mo'Bends Menu:34
 key_key.refinedstorage.focusSearchBar:15
 key_key.porterNextDestination:27
