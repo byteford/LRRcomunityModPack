@@ -1,7 +1,7 @@
 var colorpalette={
   "version": 5.4,
   "name": "JourneyMap Color Palette",
-  "generated": "Generated using JourneyMap 1.12-5.4.9 for 1.12 on Thu Aug 03 16:33:14 BST 2017",
+  "generated": "Generated using JourneyMap 1.12-5.4.9 for 1.12 on Thu Aug 03 17:21:12 BST 2017",
   "description": [
     "This file can be used to keep map colors consistent when changing resource packs.",
     "Edit at your own risk. You can view it using the colorpalette.html file.",
@@ -11,7 +11,7 @@ var colorpalette={
   ],
   "permanent": false,
   "resourcePacks": "Fashion Base Pack 1.11.zip:zip, Lrr_Community:folder",
-  "modNames": "Actually Additions:1.12-r117, AntiGhost:1.1, AppleSkin:1.0.7, Applied Energistics 2 Core:rv5-alpha-1, Applied Energistics 2:rv5-alpha-1, Aroma1997\u0027s Dimensional World:1.3.0.0.b37, Aroma1997Core:1.3.0.0.b94, Aroma1997Core|Helper:1.3.0.0.b94, Astral Sorcery:1.6.1, AutoRegLib:1.3-13, Baby Animals Model Swapper:1.11-2, Baubles:1.5.1, Better Builder\u0027s Wands:0.11.1, Better Than Weagles:1.12-0.0.1.0, BiblioCraft:2.4.3, Bookshelf:2.0.415, CT-GUI:1.0.0, CTM:MC1.12-0.2.1.5, Chameleon Creepers:1.4.1, Chameleon:1.12-4.1.3, Chest Cow:1.0, Chest Transporter:2.8.6, Chisel:MC1.12-0.0.13.14, Chisels \u0026 Bits:14.4, CoFH Core:4.3.3, CoFH World:1.0.0, CodeChicken Lib:3.1.1.288, CommonCapabilities:1.3.4, Controlling:3.0.2, Cooking for Blockheads:6.3.2, CraftTweaker2:4.0.2, Creeper Confetti:1.4.1, Creeperade:1.2, Cucumber:1.0.0, Custom Main Menu:2.0.6, Cyclops Core:0.10.11, Dark Utilities:1.6.167, DeepResonance:1.4.9, Default Options:9.2.1, Doggy Talents:1.14.1.214, ElecCore:1.8.429, Elevator Mod:1.3.4, Embers:0.221, EnderStorage:1.0, Environmental Tech:1.12-2.0.0b, EvilCraft-Compat:1.0.0, EvilCraft:0.10.31, Exchangers:1.12-2.3.1, Extra Utilities 2:1.0, FoamFix:@VERSION@, FoamFixCore:7.7.4, Food Expansion:1.3, Forge Mod Loader:8.0.99.99, GPS:3.1.0.0.b21, Global XP:v1.2.1, Gravestone Mod:1.8.4, Grue:1.3.5, Immersive Engineering:0.12-70, Immersive Petroleum:1.1.2, Integrated Dynamics:0.8.3, Integrated Tunnels:1.2.5, IntegratedDynamics-Compat:1.0.0, Iron Chest:1.12-7.0.31.818, IvToolkit:1.3.3-1.12, JourneyMap:1.12-5.4.9, Just Enough Items:4.7.4.81, Just a Few Fish:1.7_for_1.12, KleeSlabs:5.3.2, Mankini:1.3.2, Mantle:1.12-1.3.1.18, Minecraft Coder Pack:9.19, Minecraft Forge:14.21.1.2428, Minecraft:1.12, Mo\u0027 Bends:0.24, Mod Name Tooltip:1.8.1, Mystical Agriculture:1.6.2, NetherEx:2.1.11.12, Pam\u0027s HarvestCraft:1.12c, Personal Cars:1.3, PetRock:0.2.0, Psi:r1.1-52, Quark:r1.2-104, RFTools Dimensions:5.04, RFTools:6.12, Ranged Pumps:0.5, Recurrent Complex:1.4.4, Redstone Arsenal:2.3.3, Redstone Flux:2.0.1, Refined Storage:1.5.13, Roots 2:0.025, Rustic:0.4.1, Squake:1.0.4, Storage Drawers:1.12-5.2.5, Stupid Things:1.1.1, Subaraki\u0027s Common Library:1.2.0.1, The BOM Plugin:0.1.2, The Lost Cities:0.0.19beta, The One Probe:1.4.15, Thermal Cultivation:0.1.0, Thermal Dynamics:2.3.3, Thermal Expansion:5.3.3, Thermal Foundation:2.3.3, Tinkers\u0027 Construct:1.12-2.7.2.15, TorchMaster:1.4.3.8, Traverse:1.2.1, Tree Growing Simulator 2016:0.0.4, Uncrafting Table:1.8-beta4, Valkyrie Lib:1.12-2.0.0c, Waystones:4.0.12, Wearable Backpacks:3.0.4, What Are We Looking At:2.5.239, XNet:1.3.5, Zero CORE:1.12-0.1.0.9, badwithernocookiereloaded:1.0, fashion mod:1.11.2 0.1.2.0, §3Dynamic Surroundings:3.4.6.1, §3Presets!:3.4.6.1",
+  "modNames": "Actually Additions:1.12-r117, AntiGhost:1.1, AppleSkin:1.0.7, Applied Energistics 2 Core:rv5-alpha-1, Applied Energistics 2:rv5-alpha-1, Aroma1997\u0027s Dimensional World:1.3.0.0.b37, Aroma1997Core:1.3.0.0.b94, Aroma1997Core|Helper:1.3.0.0.b94, Astral Sorcery:1.6.1, AutoRegLib:1.3-13, Baby Animals Model Swapper:1.11-2, Baubles:1.5.1, Better Builder\u0027s Wands:0.11.1, Better Than Weagles:1.12-0.0.1.0, BiblioCraft:2.4.3, Bookshelf:2.0.415, CT-GUI:1.0.0, CTM:MC1.12-0.2.1.5, Chameleon Creepers:1.4.1, Chameleon:1.12-4.1.3, Chest Cow:1.0, Chest Transporter:2.8.6, Chisel:MC1.12-0.0.13.14, Chisels \u0026 Bits:14.4, CoFH Core:4.3.3, CoFH World:1.0.0, CodeChicken Lib:3.1.1.288, CommonCapabilities:1.3.4, Controlling:3.0.2, Cooking for Blockheads:6.3.2, CraftTweaker2:4.0.2, Creeper Confetti:1.4.1, Creeperade:1.2, Cucumber:1.0.0, Custom Main Menu:2.0.6, Cyclops Core:0.10.11, Dark Utilities:1.6.167, DeepResonance:1.4.9, Default Options:9.2.1, Doggy Talents:1.14.1.214, ElecCore:1.8.429, Elevator Mod:1.3.4, Embers:0.221, EnderStorage:1.0, Environmental Tech:1.12-2.0.0b, EvilCraft-Compat:1.0.0, EvilCraft:0.10.31, Exchangers:1.12-2.3.1, Extra Utilities 2:1.0, FoamFix:@VERSION@, FoamFixCore:7.7.4, Food Expansion:1.3, Forge Mod Loader:8.0.99.99, GPS:3.1.0.0.b21, Glass Hearts:1.12-1.0.61, Global XP:v1.2.1, Gravestone Mod:1.8.4, Grue:1.3.5, Immersive Engineering:0.12-70, Immersive Petroleum:1.1.2, Integrated Dynamics:0.8.3, Integrated Tunnels:1.2.5, IntegratedDynamics-Compat:1.0.0, Iron Chest:1.12-7.0.31.818, IvToolkit:1.3.3-1.12, JourneyMap:1.12-5.4.9, Just Enough Items:4.7.4.81, Just a Few Fish:1.7_for_1.12, KleeSlabs:5.3.2, Mankini:1.3.2, Mantle:1.12-1.3.1.18, Minecraft Coder Pack:9.19, Minecraft Forge:14.21.1.2428, Minecraft:1.12, Mo\u0027 Bends:0.24, Mod Name Tooltip:1.8.1, Mystical Agriculture:1.6.2, Pam\u0027s HarvestCraft:1.12c, Personal Cars:1.3, PetRock:0.2.0, Psi:r1.1-52, Quark:r1.2-104, RFTools Dimensions:5.04, RFTools:6.12, Ranged Pumps:0.5, Recurrent Complex:1.4.4, Redstone Arsenal:2.3.3, Redstone Flux:2.0.1, Refined Storage:1.5.13, Roots 2:0.025, Rustic:0.4.1, Squake:1.0.4, Storage Drawers:1.12-5.2.5, Stupid Things:1.1.1, Subaraki\u0027s Common Library:1.2.0.1, The BOM Plugin:0.1.2, The Lost Cities:0.0.19beta, The One Probe:1.4.15, Thermal Cultivation:0.1.0, Thermal Dynamics:2.3.3, Thermal Expansion:5.3.3, Thermal Foundation:2.3.3, Tinkers\u0027 Construct:1.12-2.7.2.15, TorchMaster:1.4.3.8, Traverse:1.2.1, Tree Growing Simulator 2016:0.0.4, Uncrafting Table:1.8-beta4, Valkyrie Lib:1.12-2.0.0c, Waystones:4.0.12, Wearable Backpacks:3.0.4, What Are We Looking At:2.5.239, XNet:1.3.5, Zero CORE:1.12-0.1.0.9, badwithernocookiereloaded:1.0, fashion mod:1.11.2 0.1.2.0, §3Dynamic Surroundings:3.4.6.1, §3Presets!:3.4.6.1",
   "blockColors": [
     {
       "uid": "actuallyadditions:block_atomic_reconstructor",
@@ -9801,6 +9801,61 @@ var colorpalette={
       ]
     },
     {
+      "uid": "glasshearts:glass_heart",
+      "name": "Glass Heart",
+      "color": "#d8edf1",
+      "alpha": 0.4,
+      "variants": [
+        {
+          "color": "#ffffff"
+        }
+      ]
+    },
+    {
+      "uid": "glasshearts:lifeforce_block",
+      "name": "Air",
+      "color": "#f21a1a",
+      "alpha": 0.3
+    },
+    {
+      "uid": "glasshearts:ore",
+      "name": "Amethyst Ore",
+      "color": "#7d758a",
+      "alpha": 1.0,
+      "variants": [
+        {
+          "name": "Agate Ore",
+          "color": "#82726b"
+        },
+        {
+          "name": "Onyx Ore",
+          "color": "#6a6a6a"
+        },
+        {
+          "name": "Opal Ore",
+          "color": "#8a908f"
+        },
+        {
+          "name": "Ruby Ore",
+          "color": "#837474"
+        },
+        {
+          "name": "Sapphire Ore",
+          "color": "#717586"
+        },
+        {
+          "name": "Topaz Ore",
+          "color": "#8d8174"
+        }
+      ]
+    },
+    {
+      "uid": "glasshearts:petrified_log",
+      "name": "Petrified Log",
+      "color": "#3d332c",
+      "alpha": 1.0
+    },
+    {
       "uid": "globalxp:xp_block",
       "name": "XP Block",
       "color": "#6d6c6a",
@@ -17963,562 +18018,6 @@ var colorpalette={
         },
         {
           "color": "#0c4d1b"
-        }
-      ]
-    },
-    {
-      "uid": "nex:block_amethyst",
-      "name": "Nether Amethyst Block",
-      "color": "#a06fc0",
-      "alpha": 1.0
-    },
-    {
-      "uid": "nex:block_basalt",
-      "name": "Basalt",
-      "color": "#111111",
-      "alpha": 1.0,
-      "variants": [
-        {
-          "name": "Basalt Pillar",
-          "color": "#141414"
-        },
-        {
-          "name": "Smooth Basalt",
-          "color": "#131313"
-        }
-      ]
-    },
-    {
-      "uid": "nex:block_bone_chunk",
-      "name": "Bone Chunk",
-      "color": "#e0dcc8",
-      "alpha": 1.0
-    },
-    {
-      "uid": "nex:block_bone_sliver",
-      "name": "Bone Sliver",
-      "color": "#e0dcc8",
-      "alpha": 1.0
-    },
-    {
-      "uid": "nex:block_brick_nether",
-      "name": "Fiery Nether Bricks",
-      "color": "#1c0308",
-      "alpha": 1.0,
-      "variants": [
-        {
-          "name": "Gloomy Nether Bricks",
-          "color": "#26151a"
-        },
-        {
-          "name": "Icy Nether Bricks",
-          "color": "#28171a"
-        },
-        {
-          "name": "Lively Nether Bricks",
-          "color": "#251129"
-        }
-      ]
-    },
-    {
-      "uid": "nex:block_fire_blue",
-      "name": "Air",
-      "color": "#6ca1f7",
-      "alpha": 1.0
-    },
-    {
-      "uid": "nex:block_glass_pane_soul",
-      "name": "Soul Glass Pane",
-      "color": "#23170d",
-      "alpha": 0.4
-    },
-    {
-      "uid": "nex:block_glass_soul",
-      "name": "Soul Glass",
-      "color": "#23170d",
-      "alpha": 0.4
-    },
-    {
-      "uid": "nex:block_hyphae",
-      "name": "Hyphae",
-      "color": "#6b4853",
-      "alpha": 1.0
-    },
-    {
-      "uid": "nex:block_ice_frostburn",
-      "name": "Frostburn Ice",
-      "color": "#9b93a5",
-      "alpha": 0.8
-    },
-    {
-      "uid": "nex:block_iron_worn",
-      "name": "Worn Iron Block",
-      "color": "#44413f",
-      "alpha": 1.0
-    },
-    {
-      "uid": "nex:block_netherrack",
-      "name": "Fiery Netherrack",
-      "color": "#6b3b29",
-      "alpha": 1.0,
-      "variants": [
-        {
-          "name": "Gloomy Netherrack",
-          "color": "#4c3023"
-        },
-        {
-          "name": "Icy Netherrack",
-          "color": "#614241"
-        },
-        {
-          "name": "Lively Netherrack",
-          "color": "#703d4d"
-        }
-      ]
-    },
-    {
-      "uid": "nex:block_netherrack_path",
-      "name": "Trodden Netherrack",
-      "color": "#843d3b",
-      "alpha": 1.0,
-      "variants": [
-        {
-          "name": "Fiery Trodden Netherrack",
-          "color": "#7f3e22"
-        },
-        {
-          "name": "Gloomy Trodden Netherrack",
-          "color": "#4e3126"
-        },
-        {
-          "name": "Icy Trodden Netherrack",
-          "color": "#86635c"
-        },
-        {
-          "name": "Lively Trodden Netherrack",
-          "color": "#915f67"
-        }
-      ]
-    },
-    {
-      "uid": "nex:block_portal_nether",
-      "name": "Air",
-      "color": "#590cc0",
-      "alpha": 1.0
-    },
-    {
-      "uid": "nex:block_rime",
-      "name": "Nether Rime Block",
-      "color": "#7396ea",
-      "alpha": 1.0
-    },
-    {
-      "uid": "nex:block_sand_soul_tilled",
-      "name": "Tilled Soul Sand",
-      "color": "#544033",
-      "alpha": 1.0
-    },
-    {
-      "uid": "nex:fence_basalt",
-      "name": "Basalt Fence",
-      "color": "#111111",
-      "alpha": 0.4,
-      "variants": [
-        {
-          "name": "Basalt Pillar Fence",
-          "color": "#141414"
-        },
-        {
-          "name": "Smooth Basalt Fence",
-          "color": "#131313"
-        }
-      ]
-    },
-    {
-      "uid": "nex:fence_brick_nether",
-      "name": "Fiery Nether Brick Fence",
-      "color": "#1c0308",
-      "alpha": 0.4,
-      "variants": [
-        {
-          "name": "Gloomy Nether Brick Fence",
-          "color": "#26151a"
-        },
-        {
-          "name": "Icy Nether Brick Fence",
-          "color": "#28171a"
-        },
-        {
-          "name": "Lively Nether Brick Fence",
-          "color": "#251129"
-        }
-      ]
-    },
-    {
-      "uid": "nex:fence_gate_basalt_brick",
-      "name": "Basalt Brick Fence Gate",
-      "color": "#141414",
-      "alpha": 0.4
-    },
-    {
-      "uid": "nex:fence_gate_basalt_normal",
-      "name": "Basalt Fence Gate",
-      "color": "#111111",
-      "alpha": 0.4
-    },
-    {
-      "uid": "nex:fence_gate_basalt_pillar",
-      "name": "Basalt Pillar Fence Gate",
-      "color": "#141414",
-      "alpha": 0.4
-    },
-    {
-      "uid": "nex:fence_gate_basalt_smooth",
-      "name": "Smooth Basalt Fence Gate",
-      "color": "#131313",
-      "alpha": 0.4
-    },
-    {
-      "uid": "nex:fence_gate_brick_nether",
-      "name": "Nether Brick Fence Gate",
-      "color": "#2c161a",
-      "alpha": 0.4
-    },
-    {
-      "uid": "nex:fence_gate_brick_nether_fiery",
-      "name": "Fiery Nether Brick Fence Gate",
-      "color": "#1c0308",
-      "alpha": 0.4
-    },
-    {
-      "uid": "nex:fence_gate_brick_nether_gloomy",
-      "name": "Gloomy Nether Brick Fence Gate",
-      "color": "#26151a",
-      "alpha": 0.4
-    },
-    {
-      "uid": "nex:fence_gate_brick_nether_icy",
-      "name": "Icy Nether Brick Fence Gate",
-      "color": "#28171a",
-      "alpha": 0.4
-    },
-    {
-      "uid": "nex:fence_gate_brick_nether_lively",
-      "name": "Lively Nether Brick Fence Gate",
-      "color": "#251129",
-      "alpha": 0.4
-    },
-    {
-      "uid": "nex:fence_gate_brick_nether_red",
-      "name": "Red Nether Brick Fence Gate",
-      "color": "#440406",
-      "alpha": 0.4
-    },
-    {
-      "uid": "nex:fence_gate_quartz",
-      "name": "Quartz Fence Gate",
-      "color": "#e7e4db",
-      "alpha": 0.4
-    },
-    {
-      "uid": "nex:fence_vanilla",
-      "name": "Quartz Fence",
-      "color": "#e7e4db",
-      "alpha": 0.4,
-      "variants": [
-        {
-          "name": "Red Nether Brick Fence",
-          "color": "#440406"
-        }
-      ]
-    },
-    {
-      "uid": "nex:fluid_ichor",
-      "name": "Ichor",
-      "color": "#420101",
-      "alpha": 0.3
-    },
-    {
-      "uid": "nex:ore_amethyst",
-      "name": "Nether Amethyst Ore",
-      "color": "#703b42",
-      "alpha": 1.0
-    },
-    {
-      "uid": "nex:ore_quartz",
-      "name": "Fiery Quartz Ore",
-      "color": "#7c5849",
-      "alpha": 1.0,
-      "variants": [
-        {
-          "name": "Gloomy Quartz Ore",
-          "color": "#644e44"
-        },
-        {
-          "name": "Icy Quartz Ore",
-          "color": "#735c5b"
-        },
-        {
-          "name": "Lively Quartz Ore",
-          "color": "#7d5762"
-        }
-      ]
-    },
-    {
-      "uid": "nex:ore_rime",
-      "name": "Nether Rime Ore",
-      "color": "#674a53",
-      "alpha": 1.0
-    },
-    {
-      "uid": "nex:plant_mushroom_elder",
-      "name": "Brown Elder Mushroom",
-      "color": "#806956",
-      "alpha": 1.0,
-      "variants": [
-        {
-          "name": "Red Elder Mushroom",
-          "color": "#934d42"
-        }
-      ]
-    },
-    {
-      "uid": "nex:plant_mushroom_elder_cap",
-      "name": "Brown Elder Mushroom Cap",
-      "color": "#5d4333",
-      "alpha": 1.0,
-      "variants": [
-        {
-          "name": "Red Elder Mushroom Cap",
-          "color": "#73261d"
-        }
-      ]
-    },
-    {
-      "uid": "nex:plant_mushroom_elder_stem",
-      "name": "Elder Mushroom Stem",
-      "color": "#b9a397",
-      "alpha": 1.0
-    },
-    {
-      "uid": "nex:plant_mushroom_enoki_cap",
-      "name": "Enoki Mushroom Cap",
-      "color": "#c4c2a9",
-      "alpha": 1.0
-    },
-    {
-      "uid": "nex:plant_mushroom_enoki_stem",
-      "name": "Enoki Mushroom Stem",
-      "color": "#c4c2a9",
-      "alpha": 1.0
-    },
-    {
-      "uid": "nex:plant_thornstalk",
-      "name": "Thornstalk",
-      "color": "#68584b",
-      "alpha": 1.0,
-      "variants": [
-        {
-          "color": "#625144"
-        },
-        {
-          "color": "#655447"
-        }
-      ]
-    },
-    {
-      "uid": "nex:slab_basalt",
-      "name": "Basalt Slab",
-      "color": "#111111",
-      "alpha": 1.0,
-      "variants": [
-        {
-          "color": "#131313"
-        },
-        {
-          "color": "#141414"
-        }
-      ]
-    },
-    {
-      "uid": "nex:slab_basalt_double",
-      "name": "Basalt Slabs",
-      "color": "#111111",
-      "alpha": 1.0,
-      "variants": [
-        {
-          "name": "Basalt Pillar Slabs",
-          "color": "#141414"
-        },
-        {
-          "name": "Smooth Basalt Slabs",
-          "color": "#131313"
-        }
-      ]
-    },
-    {
-      "uid": "nex:slab_brick_nether",
-      "name": "Fiery Nether Brick Slab",
-      "color": "#1c0308",
-      "alpha": 1.0,
-      "variants": [
-        {
-          "color": "#251129"
-        },
-        {
-          "color": "#26151a"
-        },
-        {
-          "color": "#28171a"
-        }
-      ]
-    },
-    {
-      "uid": "nex:slab_brick_nether_double",
-      "name": "Fiery Nether Brick Slabs",
-      "color": "#1c0308",
-      "alpha": 1.0,
-      "variants": [
-        {
-          "name": "Gloomy Nether Brick Slabs",
-          "color": "#26151a"
-        },
-        {
-          "name": "Icy Nether Brick Slabs",
-          "color": "#28171a"
-        },
-        {
-          "name": "Lively Nether Brick Slabs",
-          "color": "#251129"
-        }
-      ]
-    },
-    {
-      "uid": "nex:slab_vanilla",
-      "name": "Red Nether Brick Slab",
-      "color": "#440406",
-      "alpha": 1.0
-    },
-    {
-      "uid": "nex:slab_vanilla_double",
-      "name": "Red Nether Brick Slabs",
-      "color": "#440406",
-      "alpha": 1.0
-    },
-    {
-      "uid": "nex:stairs_basalt_brick",
-      "name": "Basalt Brick Stairs",
-      "color": "#141414",
-      "alpha": 1.0
-    },
-    {
-      "uid": "nex:stairs_basalt_normal",
-      "name": "Basalt Stairs",
-      "color": "#111111",
-      "alpha": 1.0
-    },
-    {
-      "uid": "nex:stairs_basalt_pillar",
-      "name": "Basalt Pillar Stairs",
-      "color": "#141414",
-      "alpha": 1.0
-    },
-    {
-      "uid": "nex:stairs_basalt_smooth",
-      "name": "Smooth Basalt Stairs",
-      "color": "#131313",
-      "alpha": 1.0
-    },
-    {
-      "uid": "nex:stairs_brick_nether_fiery",
-      "name": "Fiery Nether Brick Stairs",
-      "color": "#1c0308",
-      "alpha": 1.0
-    },
-    {
-      "uid": "nex:stairs_brick_nether_gloomy",
-      "name": "Gloomy Nether Brick Stairs",
-      "color": "#26151a",
-      "alpha": 1.0
-    },
-    {
-      "uid": "nex:stairs_brick_nether_icy",
-      "name": "Icy Nether Brick Stairs",
-      "color": "#28171a",
-      "alpha": 1.0
-    },
-    {
-      "uid": "nex:stairs_brick_nether_lively",
-      "name": "Lively Nether Brick Stairs",
-      "color": "#251129",
-      "alpha": 1.0
-    },
-    {
-      "uid": "nex:stairs_brick_nether_red",
-      "name": "Red Nether Brick Stairs",
-      "color": "#440406",
-      "alpha": 1.0
-    },
-    {
-      "uid": "nex:tile_urn_sorrow",
-      "name": "Urn of Sorrow",
-      "color": "#f5f3f0",
-      "alpha": 1.0,
-      "variants": [
-        {
-          "color": "#f1ebf0"
-        }
-      ]
-    },
-    {
-      "uid": "nex:wall_basalt",
-      "name": "Basalt Wall",
-      "color": "#111111",
-      "alpha": 1.0,
-      "variants": [
-        {
-          "name": "Basalt Pillar Wall",
-          "color": "#141414"
-        },
-        {
-          "name": "Smooth Basalt Wall",
-          "color": "#131313"
-        }
-      ]
-    },
-    {
-      "uid": "nex:wall_brick_nether",
-      "name": "Fiery Nether Brick Wall",
-      "color": "#1c0308",
-      "alpha": 1.0,
-      "variants": [
-        {
-          "name": "Gloomy Nether Brick Wall",
-          "color": "#26151a"
-        },
-        {
-          "name": "Icy Nether Brick Wall",
-          "color": "#28171a"
-        },
-        {
-          "name": "Lively Nether Brick Wall",
-          "color": "#251129"
-        }
-      ]
-    },
-    {
-      "uid": "nex:wall_vanilla",
-      "name": "Quartz Wall",
-      "color": "#e7e4db",
-      "alpha": 1.0,
-      "variants": [
-        {
-          "name": "Nether Brick Wall",
-          "color": "#2c161a"
-        },
-        {
-          "name": "Red Nether Brick Wall",
-          "color": "#440406"
         }
       ]
     },
