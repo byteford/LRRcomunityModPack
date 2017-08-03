@@ -1,3 +1,28 @@
 [INITIALIZATION][CLIENT][INFO] CraftTweaker: Building registry
 [INITIALIZATION][CLIENT][INFO] CraftTweaker: Successfully built item registry
-[AVAILABLE][CLIENT][INFO] Replaced the RecipeBook
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <appliedenergistics2:material:19>: crafttweaker.mc1120.formatting.FormattedMarkupString@5ea630a9
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <appliedenergistics2:material:13>: crafttweaker.mc1120.formatting.FormattedMarkupString@7caf1a5a
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <appliedenergistics2:material:15>: crafttweaker.mc1120.formatting.FormattedMarkupString@68e7f9c9
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <appliedenergistics2:material:14>: crafttweaker.mc1120.formatting.FormattedMarkupString@3d890e14
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <appliedenergistics2:sky_compass>: crafttweaker.mc1120.formatting.FormattedMarkupString@3b8efaf9
+[POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <appliedenergistics2:sky_compass>
+[POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <extrautils2:sickle_wood>
+[POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <extrautils2:sickle_stone>
+[POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <extrautils2:sickle_iron>
+[POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <extrautils2:sickle_gold>
+[POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <extrautils2:sickle_diamond>
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Inscriber Silicon Press with name ct_shaped2129053511
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Inscriber Calculation Press with name ct_shaped2016602285
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Inscriber Logic Press with name ct_shaped-254275089
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Inscriber Engineering Press with name ct_shaped-1972402066
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Sky Stone with name ct_shaped168774875
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Oak Trapped Chest with name ct_shapeless545397224
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Oak Trapped Chest with name ct_shapeless545397193
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Oak Trapped Chest with name ct_shapeless545397162
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Oak Trapped Chest with name ct_shapeless545397131
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Oak Trapped Chest with name ct_shapeless1980453602
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Oak Chest with name ct_shapeless-455335497
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Oak Chest with name ct_shapeless-455335528
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Oak Chest with name ct_shapeless-455335559
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Oak Chest with name ct_shapeless-455335590
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Oak Chest with name ct_shapeless-40697231

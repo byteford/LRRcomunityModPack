@@ -18,7 +18,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2017-08-03T17:22:40.2183164Z",
+  "lastPlayed": "2017-08-03T18:21:15.8400729Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -5437,53 +5437,6 @@
       "manifestName": null
     },
     {
-      "addonID": 223360,
-      "gameInstanceID": "be56f4dc-c127-4f8c-8afb-2687bed17a54",
-      "installedFile": {
-        "Id": 2450868,
-        "FileName": "Squake-mc1.12-1.0.4.jar",
-        "FileNameOnDisk": "Squake-mc1.12-1.0.4.jar",
-        "FileDate": "2017-07-15T04:19:00",
-        "ReleaseType": 1,
-        "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2450/868/Squake-mc1.12-1.0.4.jar",
-        "IsAlternate": false,
-        "AlternateFileId": 0,
-        "Dependencies": [],
-        "IsAvailable": true,
-        "Modules": [
-          {
-            "Foldername": "mcmod.info",
-            "Fingerprint": 422609988
-          },
-          {
-            "Foldername": "META-INF",
-            "Fingerprint": 3900872020
-          },
-          {
-            "Foldername": "squeek",
-            "Fingerprint": 1399385843
-          }
-        ],
-        "PackageFingerprint": 3474524962,
-        "GameVersion": [
-          "1.12"
-        ]
-      },
-      "dateInstalled": "2017-08-02T10:36:08.3836792Z",
-      "dateUpdated": "2016-08-02T10:36:08.3836792Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": true,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null
-    },
-    {
       "addonID": 270789,
       "gameInstanceID": "be56f4dc-c127-4f8c-8afb-2687bed17a54",
       "installedFile": {
@@ -6697,6 +6650,184 @@
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
       "isModified": true,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 223094,
+      "gameInstanceID": "be56f4dc-c127-4f8c-8afb-2687bed17a54",
+      "installedFile": {
+        "Id": 2451275,
+        "FileName": "Inventory Tweaks 1.63+beta.107",
+        "FileNameOnDisk": "InventoryTweaks-1.63+beta.107.jar",
+        "FileDate": "2017-07-15T23:07:33",
+        "ReleaseType": 2,
+        "FileStatus": 2,
+        "DownloadURL": "https://addons.cursecdn.com/files/2451/275/InventoryTweaks-1.63+beta.107.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "assets",
+            "Fingerprint": 3776454958
+          },
+          {
+            "Foldername": "invtweaks",
+            "Fingerprint": 598710769
+          },
+          {
+            "Foldername": "invtweaks.png",
+            "Fingerprint": 1558494413
+          },
+          {
+            "Foldername": "invtweaks_at.cfg",
+            "Fingerprint": 180667226
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 83389508
+          },
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 3417908308
+          },
+          {
+            "Foldername": "pack.mcmeta",
+            "Fingerprint": 934435428
+          },
+          {
+            "Foldername": "version.properties",
+            "Fingerprint": 235448811
+          }
+        ],
+        "PackageFingerprint": 1055480692,
+        "GameVersion": [
+          "1.12"
+        ]
+      },
+      "dateInstalled": "2017-08-03T18:19:38.7602071Z",
+      "dateUpdated": "2017-08-03T18:19:38.7657126Z",
+      "dateLastUpdateAttempted": "2017-08-03T18:19:38.7657126Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 60089,
+      "gameInstanceID": "be56f4dc-c127-4f8c-8afb-2687bed17a54",
+      "installedFile": {
+        "Id": 2451068,
+        "FileName": "[1.12] Mouse Tweaks 2.8",
+        "FileNameOnDisk": "MouseTweaks-2.8-mc1.12.jar",
+        "FileDate": "2017-07-15T14:21:56",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "https://addons.cursecdn.com/files/2451/68/MouseTweaks-2.8-mc1.12.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "litemod.json",
+            "Fingerprint": 2105047291
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 4183734302
+          },
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 2464251221
+          },
+          {
+            "Foldername": "mousetweaks_logo.png",
+            "Fingerprint": 523611981
+          },
+          {
+            "Foldername": "yalter",
+            "Fingerprint": 3155147089
+          }
+        ],
+        "PackageFingerprint": 1193937031,
+        "GameVersion": [
+          "1.12"
+        ]
+      },
+      "dateInstalled": "2017-08-03T18:19:45.6299039Z",
+      "dateUpdated": "2017-08-03T18:19:45.6344004Z",
+      "dateLastUpdateAttempted": "2017-08-03T18:19:45.6344004Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 243478,
+      "gameInstanceID": "be56f4dc-c127-4f8c-8afb-2687bed17a54",
+      "installedFile": {
+        "Id": 2434979,
+        "FileName": "moreoverlays-1.12-mc1.12.jar",
+        "FileNameOnDisk": "moreoverlays-1.12-mc1.12.jar",
+        "FileDate": "2017-06-16T08:37:15",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "https://addons.cursecdn.com/files/2434/979/moreoverlays-1.12-mc1.12.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [
+          {
+            "AddOnId": 238222,
+            "Type": 2
+          }
+        ],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "assets",
+            "Fingerprint": 1629484825
+          },
+          {
+            "Foldername": "at",
+            "Fingerprint": 657814116
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 2691860211
+          },
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 2464251221
+          }
+        ],
+        "PackageFingerprint": 249906655,
+        "GameVersion": [
+          "1.12"
+        ]
+      },
+      "dateInstalled": "2017-08-03T18:19:49.4584873Z",
+      "dateUpdated": "2017-08-03T18:19:49.5370637Z",
+      "dateLastUpdateAttempted": "2017-08-03T18:19:49.5370637Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
