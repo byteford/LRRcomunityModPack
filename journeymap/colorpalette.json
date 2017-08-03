@@ -1,7 +1,7 @@
 var colorpalette={
   "version": 5.4,
   "name": "JourneyMap Color Palette",
-  "generated": "Generated using JourneyMap 1.12-5.4.9 for 1.12 on Thu Aug 03 17:21:12 BST 2017",
+  "generated": "Generated using JourneyMap 1.12-5.4.9 for 1.12 on Thu Aug 03 17:39:10 BST 2017",
   "description": [
     "This file can be used to keep map colors consistent when changing resource packs.",
     "Edit at your own risk. You can view it using the colorpalette.html file.",
@@ -9463,12 +9463,6 @@ var colorpalette={
       "alpha": 1.0
     },
     {
-      "uid": "extrautils2:cursedearth",
-      "name": "Cursed Earth",
-      "color": "#835d40",
-      "alpha": 1.0
-    },
-    {
       "uid": "extrautils2:decorativebedrock",
       "name": "Bedrock Cobblestone",
       "color": "#525252",
@@ -9739,12 +9733,6 @@ var colorpalette={
       "uid": "extrautils2:spotlight",
       "name": "Spotlight",
       "color": "#3a3a3a",
-      "alpha": 1.0
-    },
-    {
-      "uid": "extrautils2:supermobspawner",
-      "name": "Resturbed Mob Spawner",
-      "color": "#303030",
       "alpha": 1.0
     },
     {
@@ -18808,40 +18796,10 @@ var colorpalette={
       ]
     },
     {
-      "uid": "quark:limestone",
-      "name": "Limestone",
-      "color": "#9b927c",
-      "alpha": 1.0,
-      "variants": [
-        {
-          "name": "Polished Limestone",
-          "color": "#9a917c"
-        }
-      ]
-    },
-    {
-      "uid": "quark:limestone_wall",
-      "name": "Limestone Wall",
-      "color": "#9b927c",
-      "alpha": 1.0
-    },
-    {
       "uid": "quark:lit_lamp",
       "name": "Lit Redstone Lamp",
       "color": "#775937",
       "alpha": 0.4
-    },
-    {
-      "uid": "quark:marble",
-      "name": "Polished Marble",
-      "color": "#d2d1d0",
-      "alpha": 1.0
-    },
-    {
-      "uid": "quark:marble_wall",
-      "name": "Marble Wall",
-      "color": "#d2d1d0",
-      "alpha": 1.0
     },
     {
       "uid": "quark:midori_block",
@@ -20272,90 +20230,6 @@ var colorpalette={
       "uid": "quark:stone_granite_wall",
       "name": "Granite Wall",
       "color": "#a07664",
-      "alpha": 1.0
-    },
-    {
-      "uid": "quark:stone_limestone_bricks_slab",
-      "name": "Limestone Brick Slab",
-      "color": "#928974",
-      "alpha": 1.0
-    },
-    {
-      "uid": "quark:stone_limestone_bricks_slab_double",
-      "name": "Air",
-      "color": "#928974",
-      "alpha": 1.0
-    },
-    {
-      "uid": "quark:stone_limestone_bricks_stairs",
-      "name": "Limestone Brick Stairs",
-      "color": "#928974",
-      "alpha": 1.0
-    },
-    {
-      "uid": "quark:stone_limestone_bricks_wall",
-      "name": "Limestone Brick Wall",
-      "color": "#928974",
-      "alpha": 1.0
-    },
-    {
-      "uid": "quark:stone_limestone_slab",
-      "name": "Limestone Slab",
-      "color": "#9b927c",
-      "alpha": 1.0
-    },
-    {
-      "uid": "quark:stone_limestone_slab_double",
-      "name": "Air",
-      "color": "#9b927c",
-      "alpha": 1.0
-    },
-    {
-      "uid": "quark:stone_limestone_stairs",
-      "name": "Limestone Stairs",
-      "color": "#9b927c",
-      "alpha": 1.0
-    },
-    {
-      "uid": "quark:stone_marble_bricks_slab",
-      "name": "Marble Brick Slab",
-      "color": "#c8c7c6",
-      "alpha": 1.0
-    },
-    {
-      "uid": "quark:stone_marble_bricks_slab_double",
-      "name": "Air",
-      "color": "#c8c7c6",
-      "alpha": 1.0
-    },
-    {
-      "uid": "quark:stone_marble_bricks_stairs",
-      "name": "Marble Brick Stairs",
-      "color": "#c8c7c6",
-      "alpha": 1.0
-    },
-    {
-      "uid": "quark:stone_marble_bricks_wall",
-      "name": "Marble Brick Wall",
-      "color": "#c8c7c6",
-      "alpha": 1.0
-    },
-    {
-      "uid": "quark:stone_marble_slab",
-      "name": "Marble Slab",
-      "color": "#d2d1d0",
-      "alpha": 1.0
-    },
-    {
-      "uid": "quark:stone_marble_slab_double",
-      "name": "Air",
-      "color": "#d2d1d0",
-      "alpha": 1.0
-    },
-    {
-      "uid": "quark:stone_marble_stairs",
-      "name": "Marble Stairs",
-      "color": "#d2d1d0",
       "alpha": 1.0
     },
     {

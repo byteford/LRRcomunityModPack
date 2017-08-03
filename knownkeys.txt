@@ -119,3 +119,9 @@ key.journeymap.zoom_out
 key.journeymap.minimap_type
 key.journeymap.minimap_preset
 key.journeymap.create_waypoint
+doggytalents.key.come
+doggytalents.key.stay
+doggytalents.key.ok
+doggytalents.key.heel
+key.reveal
+key.exchangermode
