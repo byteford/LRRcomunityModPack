@@ -2,20 +2,20 @@ version:1139
 invertYMouse:false
 mouseSensitivity:0.5
 fov:0.0
-gamma:1.0
+gamma:0.0
 saturation:0.0
-renderDistance:19
-guiScale:2
+renderDistance:12
+guiScale:0
 particles:0
 bobView:true
 anaglyph3d:false
-maxFps:260
+maxFps:120
 fboEnable:true
-difficulty:1
+difficulty:2
 fancyGraphics:true
 ao:2
 renderClouds:true
-resourcePacks:["Fashion Base Pack 1.11.zip","Lrr_Community"]
+resourcePacks:[]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -39,7 +39,7 @@ chatHeightFocused:1.0
 chatHeightUnfocused:0.44366196
 chatScale:1.0
 chatWidth:1.0
-mipmapLevels:4
+mipmapLevels:0
 forceUnicodeFont:false
 reducedDebugInfo:false
 useNativeTransport:true
@@ -49,9 +49,9 @@ attackIndicator:1
 showSubtitles:false
 realmsNotifications:true
 enableWeakAttacks:false
-autoJump:false
-narrator:2
-tutorialStep:none
+autoJump:true
+narrator:0
+tutorialStep:punch_tree
 key_key.attack:-100
 key_key.use:-99
 key_key.forward:17
@@ -86,7 +86,7 @@ key_key.hotbar.7:8
 key_key.hotbar.8:9
 key_key.hotbar.9:10
 key_cfg.keybind.SelectionBox:48
-key_cfg.keybind.Volume:52
+key_cfg.keybind.Volume:47
 key_cfg.keybind.LightLevel:38
 key_cfg.keybind.ChunkBorders:67
 key_presets.cfg.keybind.Presets:25
@@ -118,9 +118,9 @@ key_doggytalents.key.stay:208
 key_doggytalents.key.ok:203
 key_doggytalents.key.heel:205
 key_key.xu2.searchForItems:20
-key_Wardrobe:39
+key_Wardrobe:17
 key_Horn:35
-key_Start engine:40
+key_Start engine:19
 key_Open car inventory:34
 key_key.wearablebackpacks.open:48
 key_key.reveal:34
@@ -165,7 +165,7 @@ key_key.cofh.multimode:47
 key_Toggle Farting:25
 key_key.evilcraft.exaltedCrafting:46
 key_key.exchangermode:51
-key_key.toggleLiquids:41
+key_key.toggleLiquids:38
 key_key.toggleVisible:0
 key_key.immersiveengineering.magnetEquip:31
 key_key.integrateddynamics.logic_programmer_focus_search:33:ALT
@@ -183,15 +183,15 @@ key_key.journeymap.minimap_type:27
 key_key.journeymap.minimap_type:27
 key_key.journeymap.minimap_preset:43
 key_key.journeymap.create_waypoint:48
-soundCategory_master:0.0
-soundCategory_music:0.0
+soundCategory_master:1.0
+soundCategory_music:1.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
 soundCategory_hostile:1.0
 soundCategory_neutral:1.0
 soundCategory_player:1.0
-soundCategory_ambient:0.471831
+soundCategory_ambient:1.0
 soundCategory_voice:1.0
 modelPart_cape:true
 modelPart_jacket:true

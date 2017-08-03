@@ -1,13 +1,4 @@
-*.log
-crash-reports/
-journeymap/data/sp/lag test/DIM0/1/0,0.png
-journeymap/data/
-logs/
-saves/
+mods/
 screenshots/
-mods/
-minecraftinstance.json
-config/jei/worldSettings.cfg
-mods/
-usercache.json
-*.psd
+logs/
+journeymap/data/mp/

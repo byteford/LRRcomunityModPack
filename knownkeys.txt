@@ -38,8 +38,6 @@ cfg.keybind.ChunkBorders
 presets.cfg.keybind.Presets
 Toggle GPS
 psimisc.keybind
-quark.keybind.toggleAutojump
-quark.keybind.lockBuilding
 quark.keybind.dropoff
 quark.keybind.changeHotbar
 quark.keybind.chestSort
@@ -48,6 +46,8 @@ quark.keybind.chestMerge
 quark.keybind.chestRestock
 quark.keybind.chestExtract
 quark.keybind.playerSort
+quark.keybind.toggleAutojump
+quark.keybind.lockBuilding
 quark.keybind.emote.wave
 quark.keybind.emote.salute
 quark.keybind.emote.yes
@@ -58,12 +58,25 @@ quark.keybind.emote.point
 quark.keybind.emote.shrug
 quark.keybind.emote.facepalm
 quark.keybind.emote.headbang
+doggytalents.key.come
+doggytalents.key.stay
+doggytalents.key.ok
+doggytalents.key.heel
 key.xu2.searchForItems
 Wardrobe
 Horn
 Start engine
 Open car inventory
 key.wearablebackpacks.open
+key.reveal
+key.jei.toggleOverlay
+key.jei.focusSearch
+key.jei.showRecipe
+key.jei.showUses
+key.jei.recipeBack
+key.jei.toggleCheatMode
+key.jei.previousPage
+key.jei.nextPage
 bbw.key.mode
 bbw.key.fluidmode
 mod.chiselsandbits.chiselmode.single
@@ -96,14 +109,7 @@ mod.chiselsandbits.other.add_to_clipboard
 key.cofh.multimode
 Toggle Farting
 key.evilcraft.exaltedCrafting
-key.jei.toggleOverlay
-key.jei.focusSearch
-key.jei.showRecipe
-key.jei.showUses
-key.jei.recipeBack
-key.jei.toggleCheatMode
-key.jei.previousPage
-key.jei.nextPage
+key.exchangermode
 key.toggleLiquids
 key.toggleVisible
 key.immersiveengineering.magnetEquip
@@ -119,9 +125,3 @@ key.journeymap.zoom_out
 key.journeymap.minimap_type
 key.journeymap.minimap_preset
 key.journeymap.create_waypoint
-doggytalents.key.come
-doggytalents.key.stay
-doggytalents.key.ok
-doggytalents.key.heel
-key.reveal
-key.exchangermode
