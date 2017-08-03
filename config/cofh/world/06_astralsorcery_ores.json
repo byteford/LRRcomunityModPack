@@ -1,0 +1,45 @@
+{
+	"dependencies": "astralsorcery",
+	"populate": {
+		"rock crystal": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "astralsorcery:blockcustomore",
+				"material": "minecraft:stone",
+				"cluster-size": 4
+			},
+			"cluster-count": 4,
+			"min-height": 5,
+			"max-height": 40,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"aquamarine": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "astralsorcery:blockcustomsandore",
+				"material": "minecraft:sand",
+				"cluster-size": 6
+			},
+			"cluster-count": 4,
+			"min-height": 40,
+			"max-height": 70,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		}
+	}
+}

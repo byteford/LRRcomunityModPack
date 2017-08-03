@@ -1,0 +1,25 @@
+{
+	"dependencies": "btweagles",
+	"populate": {
+		"meme ore": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "btweagles:meme_ore",
+				"material": "minecraft:stone",
+				"cluster-size": 2
+			},
+			"cluster-count": 10,
+			"min-height": 2,
+			"max-height": 60,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		}
+	}
+}

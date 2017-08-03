@@ -1,0 +1,121 @@
+{
+	"dependencies": "mysticalagriculture",
+	"populate": {
+		"overworld prosperity ore": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "mysticalagriculture:prosperity_ore",
+				"material": "minecraft:stone",
+				"cluster-size": 6
+			},
+			"cluster-count": 12,
+			"min-height": 16,
+			"max-height": 50,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"nether prosperity ore": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "mysticalagriculture:nether_prosperity_ore",
+				"material": "minecraft:netherrack",
+				"cluster-size": 6
+			},
+			"cluster-count": 12,
+			"min-height": 10,
+			"max-height": 100,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					-1
+				]
+			}
+		},
+		"end prosperity ore": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "mysticalagriculture:end_prosperity_ore",
+				"material": "minecraft:end_stone",
+				"cluster-size": 6
+			},
+			"cluster-count": 20,
+			"min-height": 10,
+			"max-height": 100,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					1
+				]
+			}
+		},
+		"overworld inferium ore": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "mysticalagriculture:inferium_ore",
+				"material": "minecraft:stone",
+				"cluster-size": 6
+			},
+			"cluster-count": 12,
+			"min-height": 16,
+			"max-height": 50,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"nether inferium ore": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "mysticalagriculture:nether_inferium_ore",
+				"material": "minecraft:netherrack",
+				"cluster-size": 6
+			},
+			"cluster-count": 12,
+			"min-height": 10,
+			"max-height": 100,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					-1
+				]
+			}
+		},
+		"end inferium ore": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "mysticalagriculture:end_inferium_ore",
+				"material": "minecraft:end_stone",
+				"cluster-size": 6
+			},
+			"cluster-count": 12,
+			"min-height": 10,
+			"max-height": 100,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					1
+				]
+			}
+		}
+	}
+}

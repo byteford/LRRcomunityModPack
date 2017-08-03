@@ -1,0 +1,25 @@
+{
+	"dependencies": "rftools",
+	"populate": {
+		"dimensional shard": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "rftools:dimensional_shard_ore",
+				"material": "minecraft:stone",
+				"cluster-size": 8
+			},
+			"cluster-count": 2,
+			"min-height": 2,
+			"max-height": 10,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		}
+	}
+}

@@ -1,0 +1,25 @@
+{
+	"dependencies": "embers",
+	"populate": {
+		"quartz": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "embers:ore_quartz",
+				"material": "minecraft:stone",
+				"cluster-size": 8
+			},
+			"cluster-count": 6,
+			"min-height": 2,
+			"max-height": 20,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		}
+	}
+}

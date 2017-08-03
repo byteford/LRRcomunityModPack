@@ -1,0 +1,25 @@
+{
+	"dependencies": "evilcraft",
+	"populate": {
+		"dark ore": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "evilcraft:dark_ore",
+				"material": "minecraft:stone",
+				"cluster-size": 4
+			},
+			"cluster-count": 6,
+			"min-height": 6,
+			"max-height": 66,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		}
+	}
+}
