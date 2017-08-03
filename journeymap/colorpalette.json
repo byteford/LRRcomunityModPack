@@ -1,7 +1,7 @@
 var colorpalette={
   "version": 5.4,
   "name": "JourneyMap Color Palette",
-  "generated": "Generated using JourneyMap 1.12-5.4.9 for 1.12 on Thu Aug 03 11:35:37 BST 2017",
+  "generated": "Generated using JourneyMap 1.12-5.4.9 for 1.12 on Thu Aug 03 12:40:20 BST 2017",
   "description": [
     "This file can be used to keep map colors consistent when changing resource packs.",
     "Edit at your own risk. You can view it using the colorpalette.html file.",
