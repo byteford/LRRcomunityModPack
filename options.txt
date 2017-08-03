@@ -15,7 +15,7 @@ difficulty:1
 fancyGraphics:true
 ao:2
 renderClouds:true
-resourcePacks:["Lrr_Community"]
+resourcePacks:["Fashion Base Pack 1.11.zip","Lrr_Community"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -118,7 +118,7 @@ key_doggytalents.key.stay:208
 key_doggytalents.key.ok:203
 key_doggytalents.key.heel:205
 key_key.xu2.searchForItems:20
-key_Wardrobe:17
+key_Wardrobe:39
 key_Horn:35
 key_Start engine:40
 key_Open car inventory:34
