@@ -126,7 +126,7 @@
 			"generator": {
 				"block": "coal_ore",
 				"material": "minecraft:stone",
-				"cluster-size": 20
+				"cluster-size": 15
 			},
 			"cluster-count": 26,
 			"min-height": 0,
