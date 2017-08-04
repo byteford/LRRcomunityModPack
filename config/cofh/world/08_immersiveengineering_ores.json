@@ -1,10 +1,13 @@
 {
 	"dependencies": "immersiveengineering",
 	"populate": {
-		"uranium": {
+			"uranium": {
 			"distribution": "uniform",
 			"generator": {
-				"block": "immersiveengineering:ore",
+				"block": {
+					"name": "immersiveengineering:ore",
+					"metadata": 5
+				},
 				"material": "minecraft:stone",
 				"cluster-size": 2
 			},
