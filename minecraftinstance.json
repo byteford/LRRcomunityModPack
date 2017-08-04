@@ -18,7 +18,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2017-08-04T08:41:50.1681802Z",
+  "lastPlayed": "2017-08-04T08:59:00.545083Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -1730,7 +1730,7 @@
     }
   ],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2017-08-03T20:30:33.6418175Z",
+  "lastPreviousMatchUpdate": "2017-08-04T08:53:22.9278628Z",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.12",
@@ -7874,6 +7874,129 @@
       "dateUpdated": "2016-08-03T18:38:32.5055555Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
       "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 237903,
+      "gameInstanceID": "be56f4dc-c127-4f8c-8afb-2687bed17a54",
+      "installedFile": {
+        "Id": 2453153,
+        "FileName": "RebornCore-1.12-3.2.5.88-universal.jar",
+        "FileNameOnDisk": "RebornCore-1.12-3.2.5.88-universal.jar",
+        "FileDate": "2017-07-19T17:28:53",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "https://addons.cursecdn.com/files/2453/153/RebornCore-1.12-3.2.5.88-universal.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "assets",
+            "Fingerprint": 1623506908
+          },
+          {
+            "Foldername": "logo.png",
+            "Fingerprint": 3672686149
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 1552075332
+          },
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 1769082499
+          },
+          {
+            "Foldername": "powercrystals",
+            "Fingerprint": 2030593330
+          },
+          {
+            "Foldername": "prospector",
+            "Fingerprint": 2108991333
+          },
+          {
+            "Foldername": "reborncore",
+            "Fingerprint": 2353018204
+          }
+        ],
+        "PackageFingerprint": 2813161479,
+        "GameVersion": [
+          "1.12"
+        ]
+      },
+      "dateInstalled": "2017-08-04T08:55:01.7021403Z",
+      "dateUpdated": "2017-08-04T08:55:01.716655Z",
+      "dateLastUpdateAttempted": "2017-08-04T08:55:01.716655Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 256662,
+      "gameInstanceID": "be56f4dc-c127-4f8c-8afb-2687bed17a54",
+      "installedFile": {
+        "Id": 2458387,
+        "FileName": "RebornStorage-1.12-2.0.1.6.jar",
+        "FileNameOnDisk": "RebornStorage-1.12-2.0.1.6.jar",
+        "FileDate": "2017-07-31T11:37:25",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "https://addons.cursecdn.com/files/2458/387/RebornStorage-1.12-2.0.1.6.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [
+          {
+            "AddOnId": 237903,
+            "Type": 1
+          },
+          {
+            "AddOnId": 243076,
+            "Type": 1
+          }
+        ],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "assets",
+            "Fingerprint": 17993981
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 1633769468
+          },
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 2464251221
+          },
+          {
+            "Foldername": "RebornStorage",
+            "Fingerprint": 3404763557
+          }
+        ],
+        "PackageFingerprint": 803145860,
+        "GameVersion": [
+          "1.12"
+        ]
+      },
+      "dateInstalled": "2017-08-04T08:55:14.3491612Z",
+      "dateUpdated": "2017-08-04T08:55:14.354694Z",
+      "dateLastUpdateAttempted": "2017-08-04T08:55:14.354694Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,

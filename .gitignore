@@ -4,3 +4,8 @@ logs/
 journeymap/data/mp/
 crash-reports/
 *.log
+journeymap/data/
+saves/
+journeymap/server/
+usernamecache.json
+usercache.json
