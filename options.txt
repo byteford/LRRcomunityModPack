@@ -92,6 +92,15 @@ key_cfg.keybind.ChunkBorders:67
 key_presets.cfg.keybind.Presets:25
 key_Toggle GPS:65
 key_psimisc.keybind:46
+key_quark.keybind.toggleAutojump:48
+key_quark.keybind.lockBuilding:37
+key_quark.keybind.dropoff:0
+key_quark.keybind.changeHotbar:44
+key_quark.keybind.chestSort:0
+key_quark.keybind.chestDropoff:0
+key_quark.keybind.chestMerge:0
+key_quark.keybind.chestRestock:0
+key_quark.keybind.chestExtract:0
 key_quark.keybind.emote.wave:0
 key_quark.keybind.emote.salute:0
 key_quark.keybind.emote.yes:0
@@ -102,15 +111,6 @@ key_quark.keybind.emote.point:0
 key_quark.keybind.emote.shrug:0
 key_quark.keybind.emote.facepalm:0
 key_quark.keybind.emote.headbang:0
-key_quark.keybind.dropoff:0
-key_quark.keybind.changeHotbar:44
-key_quark.keybind.chestSort:0
-key_quark.keybind.chestDropoff:0
-key_quark.keybind.chestMerge:0
-key_quark.keybind.chestRestock:0
-key_quark.keybind.chestExtract:0
-key_quark.keybind.toggleAutojump:48
-key_quark.keybind.lockBuilding:37
 key_keybind.baublesinventory:48
 key_doggytalents.key.come:200
 key_doggytalents.key.stay:208
@@ -193,7 +193,7 @@ soundCategory_block:1.0
 soundCategory_hostile:1.0
 soundCategory_neutral:1.0
 soundCategory_player:1.0
-soundCategory_ambient:1.0
+soundCategory_ambient:0.0
 soundCategory_voice:1.0
 modelPart_cape:true
 modelPart_jacket:true
