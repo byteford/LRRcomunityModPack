@@ -102,6 +102,8 @@ key_quark.keybind.emote.point:0
 key_quark.keybind.emote.shrug:0
 key_quark.keybind.emote.facepalm:0
 key_quark.keybind.emote.headbang:0
+key_quark.keybind.toggleAutojump:48
+key_quark.keybind.lockBuilding:37
 key_quark.keybind.dropoff:0
 key_quark.keybind.changeHotbar:44
 key_quark.keybind.chestSort:0
@@ -109,8 +111,6 @@ key_quark.keybind.chestDropoff:0
 key_quark.keybind.chestMerge:0
 key_quark.keybind.chestRestock:0
 key_quark.keybind.chestExtract:0
-key_quark.keybind.toggleAutojump:48
-key_quark.keybind.lockBuilding:37
 key_keybind.baublesinventory:48
 key_doggytalents.key.come:200
 key_doggytalents.key.stay:208
@@ -123,6 +123,7 @@ key_key.moreoverlays.chunkbounds.desc:67
 key_Horn:35
 key_Start engine:19
 key_Open car inventory:34
+key_key.thebomplugin.scrollmodifier:56
 key_key.wearablebackpacks.open:48
 key_key.reveal:34
 key_key.jei.toggleOverlay:24:CONTROL
@@ -135,6 +136,7 @@ key_key.jei.previousPage:201
 key_key.jei.nextPage:209
 key_bbw.key.mode:50
 key_bbw.key.fluidmode:33
+key_key.cofh.multimode:47
 key_mod.chiselsandbits.chiselmode.single:0
 key_mod.chiselsandbits.chiselmode.snap2:0
 key_mod.chiselsandbits.chiselmode.snap4:0
@@ -162,7 +164,6 @@ key_mod.chiselsandbits.other.pickbit:0
 key_mod.chiselsandbits.other.undo:0
 key_mod.chiselsandbits.other.redo:0
 key_mod.chiselsandbits.other.add_to_clipboard:0
-key_key.cofh.multimode:47
 key_Toggle Farting:25
 key_key.evilcraft.exaltedCrafting:46
 key_key.exchangermode:51
@@ -185,7 +186,7 @@ key_key.journeymap.minimap_type:27
 key_key.journeymap.minimap_type:27
 key_key.journeymap.minimap_preset:43
 key_key.journeymap.create_waypoint:48
-soundCategory_master:1.0
+soundCategory_master:0.95364237
 soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
