@@ -18,7 +18,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2017-08-15T07:01:28.0166771Z",
+  "lastPlayed": "2017-08-15T07:13:40.5264499Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -3465,13 +3465,13 @@
       "addonID": 231095,
       "gameInstanceID": "b79784a7-76eb-41ea-939e-154496a56882",
       "installedFile": {
-        "Id": 2461726,
-        "FileName": "chiselsandbits-14.5.jar",
-        "FileNameOnDisk": "chiselsandbits-14.5.jar",
-        "FileDate": "2017-08-08T01:08:27",
-        "ReleaseType": 2,
+        "Id": 2464695,
+        "FileName": "chiselsandbits-14.6.jar",
+        "FileNameOnDisk": "chiselsandbits-14.6.jar",
+        "FileDate": "2017-08-15T02:45:13",
+        "ReleaseType": 1,
         "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2461/726/chiselsandbits-14.5.jar",
+        "DownloadURL": "https://addons.cursecdn.com/files/2464/695/chiselsandbits-14.6.jar",
         "IsAlternate": false,
         "AlternateFileId": 0,
         "Dependencies": [
@@ -3492,7 +3492,7 @@
           },
           {
             "Foldername": "mcmod.info",
-            "Fingerprint": 1456670548
+            "Fingerprint": 4122146678
           },
           {
             "Foldername": "META-INF",
@@ -3500,22 +3500,23 @@
           },
           {
             "Foldername": "mod",
-            "Fingerprint": 1784803271
+            "Fingerprint": 3853958030
           },
           {
             "Foldername": "pack.mcmeta",
             "Fingerprint": 2325622583
           }
         ],
-        "PackageFingerprint": 2093819707,
+        "PackageFingerprint": 1465653775,
         "GameVersion": [
+          "1.12.1",
           "1.12"
         ]
       },
       "dateInstalled": "2017-07-30T08:48:30.4006677Z",
-      "dateUpdated": "2017-08-12T16:15:37.5059673Z",
-      "dateLastUpdateAttempted": "2017-08-12T16:15:37.5059673Z",
-      "status": 3,
+      "dateUpdated": "2017-08-15T07:06:58.0806452Z",
+      "dateLastUpdateAttempted": "2017-08-15T07:06:58.0806452Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3900,13 +3901,13 @@
       "addonID": 225561,
       "gameInstanceID": "b79784a7-76eb-41ea-939e-154496a56882",
       "installedFile": {
-        "Id": 2454028,
-        "FileName": "Extra Utilities 2 - 1.12 - 1.5.1",
-        "FileNameOnDisk": "extrautils2-1.12-1.5.1.jar",
-        "FileDate": "2017-07-21T17:03:21",
+        "Id": 2464135,
+        "FileName": "Extra Utilities 2 - 1.12 - 1.5.2",
+        "FileNameOnDisk": "extrautils2-1.12-1.5.2.jar",
+        "FileDate": "2017-08-13T21:09:44",
         "ReleaseType": 1,
         "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2454/28/extrautils2-1.12-1.5.1.jar",
+        "DownloadURL": "https://addons.cursecdn.com/files/2464/135/extrautils2-1.12-1.5.2.jar",
         "IsAlternate": false,
         "AlternateFileId": 0,
         "Dependencies": [],
@@ -3914,11 +3915,11 @@
         "Modules": [
           {
             "Foldername": "assets",
-            "Fingerprint": 3821854762
+            "Fingerprint": 1163006183
           },
           {
             "Foldername": "com",
-            "Fingerprint": 3411969317
+            "Fingerprint": 2186675341
           },
           {
             "Foldername": "mcmod.info",
@@ -3933,19 +3934,19 @@
             "Fingerprint": 314185225
           }
         ],
-        "PackageFingerprint": 713147340,
+        "PackageFingerprint": 3841649317,
         "GameVersion": [
           "1.12"
         ]
       },
       "dateInstalled": "2017-07-30T08:48:31.605461Z",
-      "dateUpdated": "2016-07-30T08:48:31.605461Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 3,
+      "dateUpdated": "2017-08-15T07:09:03.459808Z",
+      "dateLastUpdateAttempted": "2017-08-15T07:09:03.459808Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": true,
+      "isModified": false,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -4404,13 +4405,13 @@
       "addonID": 231484,
       "gameInstanceID": "b79784a7-76eb-41ea-939e-154496a56882",
       "installedFile": {
-        "Id": 2457624,
-        "FileName": "CookingForBlockheads_1.12-6.3.2.jar",
-        "FileNameOnDisk": "CookingForBlockheads_1.12-6.3.2.jar",
-        "FileDate": "2017-07-29T18:25:51",
+        "Id": 2464472,
+        "FileName": "CookingForBlockheads_1.12.1-6.3.6.jar",
+        "FileNameOnDisk": "CookingForBlockheads_1.12.1-6.3.6.jar",
+        "FileDate": "2017-08-14T15:55:27",
         "ReleaseType": 1,
         "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2457/624/CookingForBlockheads_1.12-6.3.2.jar",
+        "DownloadURL": "https://addons.cursecdn.com/files/2464/472/CookingForBlockheads_1.12.1-6.3.6.jar",
         "IsAlternate": false,
         "AlternateFileId": 0,
         "Dependencies": [
@@ -4435,11 +4436,11 @@
         "Modules": [
           {
             "Foldername": "assets",
-            "Fingerprint": 3434940378
+            "Fingerprint": 213775609
           },
           {
             "Foldername": "mcmod.info",
-            "Fingerprint": 1850875339
+            "Fingerprint": 3632258800
           },
           {
             "Foldername": "META-INF",
@@ -4447,22 +4448,23 @@
           },
           {
             "Foldername": "net",
-            "Fingerprint": 2618008567
+            "Fingerprint": 2742535675
           }
         ],
-        "PackageFingerprint": 1455506834,
+        "PackageFingerprint": 3204933782,
         "GameVersion": [
+          "1.12.1",
           "1.12"
         ]
       },
       "dateInstalled": "2017-07-30T14:31:20.8988561Z",
-      "dateUpdated": "2017-07-30T14:31:20.9063631Z",
-      "dateLastUpdateAttempted": "2017-07-30T14:31:20.9063631Z",
-      "status": 3,
+      "dateUpdated": "2017-08-15T07:07:39.0405474Z",
+      "dateLastUpdateAttempted": "2017-08-15T07:07:39.0405474Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": true,
+      "isModified": false,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -4531,13 +4533,13 @@
       "addonID": 228525,
       "gameInstanceID": "b79784a7-76eb-41ea-939e-154496a56882",
       "installedFile": {
-        "Id": 2462803,
-        "FileName": "Bookshelf-1.12-2.0.0.420.jar",
-        "FileNameOnDisk": "Bookshelf-1.12-2.0.0.420.jar",
-        "FileDate": "2017-08-10T18:55:53",
-        "ReleaseType": 1,
+        "Id": 2464709,
+        "FileName": "Bookshelf-1.12-2.0.0.421.jar",
+        "FileNameOnDisk": "Bookshelf-1.12-2.0.0.421.jar",
+        "FileDate": "2017-08-15T03:37:32",
+        "ReleaseType": 3,
         "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2462/803/Bookshelf-1.12-2.0.0.420.jar",
+        "DownloadURL": "https://addons.cursecdn.com/files/2464/709/Bookshelf-1.12-2.0.0.421.jar",
         "IsAlternate": false,
         "AlternateFileId": 0,
         "Dependencies": [],
@@ -4549,7 +4551,7 @@
           },
           {
             "Foldername": "mcmod.info",
-            "Fingerprint": 1995014076
+            "Fingerprint": 273962314
           },
           {
             "Foldername": "META-INF",
@@ -4557,22 +4559,22 @@
           },
           {
             "Foldername": "net",
-            "Fingerprint": 1251757061
+            "Fingerprint": 2024839550
           },
           {
             "Foldername": "pack.mcmeta",
             "Fingerprint": 4087128376
           }
         ],
-        "PackageFingerprint": 634991170,
+        "PackageFingerprint": 396538051,
         "GameVersion": [
           "1.12"
         ]
       },
       "dateInstalled": "2017-07-30T16:21:47.0708276Z",
-      "dateUpdated": "2017-08-12T16:15:05.4752818Z",
-      "dateLastUpdateAttempted": "2017-08-12T16:15:05.4752818Z",
-      "status": 3,
+      "dateUpdated": "2017-08-15T07:13:11.9050535Z",
+      "dateLastUpdateAttempted": "2017-08-15T07:13:11.9050535Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4646,40 +4648,40 @@
       "addonID": 261251,
       "gameInstanceID": "b79784a7-76eb-41ea-939e-154496a56882",
       "installedFile": {
-        "Id": 2432733,
-        "FileName": "badwithernocookie-1.12.jar",
-        "FileNameOnDisk": "badwithernocookie-1.12.jar",
-        "FileDate": "2017-06-12T01:56:51",
+        "Id": 2464169,
+        "FileName": "badwithernocookiereloaded-1.12-1.8.jar",
+        "FileNameOnDisk": "badwithernocookiereloaded-1.12-1.8.jar",
+        "FileDate": "2017-08-13T22:58:45",
         "ReleaseType": 1,
         "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2432/733/badwithernocookie-1.12.jar",
+        "DownloadURL": "https://addons.cursecdn.com/files/2464/169/badwithernocookiereloaded-1.12-1.8.jar",
         "IsAlternate": false,
         "AlternateFileId": 0,
         "Dependencies": [],
         "IsAvailable": true,
         "Modules": [
           {
-            "Foldername": "droidicus",
-            "Fingerprint": 1470198287
+            "Foldername": "com",
+            "Fingerprint": 1888346944
           },
           {
             "Foldername": "mcmod.info",
-            "Fingerprint": 372691174
+            "Fingerprint": 1497418681
           },
           {
             "Foldername": "META-INF",
             "Fingerprint": 2464251221
           }
         ],
-        "PackageFingerprint": 2098573704,
+        "PackageFingerprint": 3262074583,
         "GameVersion": [
           "1.12"
         ]
       },
       "dateInstalled": "2017-07-30T16:21:58.4882675Z",
-      "dateUpdated": "2017-07-30T16:21:58.4892585Z",
-      "dateLastUpdateAttempted": "2017-07-30T16:21:58.4892585Z",
-      "status": 3,
+      "dateUpdated": "2017-08-15T07:06:02.3081955Z",
+      "dateLastUpdateAttempted": "2017-08-15T07:06:02.3081955Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -6418,13 +6420,13 @@
       "addonID": 74072,
       "gameInstanceID": "b79784a7-76eb-41ea-939e-154496a56882",
       "installedFile": {
-        "Id": 2457534,
-        "FileName": "TConstruct-1.12-2.7.2.15.jar",
-        "FileNameOnDisk": "TConstruct-1.12-2.7.2.15.jar",
-        "FileDate": "2017-07-29T14:14:36",
-        "ReleaseType": 2,
+        "Id": 2464452,
+        "FileName": "TConstruct-1.12-2.7.2.19.jar",
+        "FileNameOnDisk": "TConstruct-1.12-2.7.2.19.jar",
+        "FileDate": "2017-08-14T14:41:30",
+        "ReleaseType": 1,
         "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2457/534/TConstruct-1.12-2.7.2.15.jar",
+        "DownloadURL": "https://addons.cursecdn.com/files/2464/452/TConstruct-1.12-2.7.2.19.jar",
         "IsAlternate": false,
         "AlternateFileId": 0,
         "Dependencies": [
@@ -6437,7 +6439,7 @@
         "Modules": [
           {
             "Foldername": "assets",
-            "Fingerprint": 1308347591
+            "Fingerprint": 1585210730
           },
           {
             "Foldername": "logo.png",
@@ -6445,7 +6447,7 @@
           },
           {
             "Foldername": "mcmod.info",
-            "Fingerprint": 1046164611
+            "Fingerprint": 515169586
           },
           {
             "Foldername": "META-INF",
@@ -6457,22 +6459,23 @@
           },
           {
             "Foldername": "slimeknights",
-            "Fingerprint": 3391075686
+            "Fingerprint": 1213576466
           }
         ],
-        "PackageFingerprint": 2312093603,
+        "PackageFingerprint": 3995022911,
         "GameVersion": [
+          "1.12.1",
           "1.12"
         ]
       },
       "dateInstalled": "2017-08-02T10:36:08.3746703Z",
-      "dateUpdated": "2016-08-02T10:36:08.3746703Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 3,
+      "dateUpdated": "2017-08-15T07:09:43.0932458Z",
+      "dateLastUpdateAttempted": "2017-08-15T07:09:43.0932458Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": true,
+      "isModified": false,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -7519,13 +7522,13 @@
       "addonID": 245755,
       "gameInstanceID": "b79784a7-76eb-41ea-939e-154496a56882",
       "installedFile": {
-        "Id": 2462300,
-        "FileName": "Waystones_1.12.1-4.0.13.jar",
-        "FileNameOnDisk": "Waystones_1.12.1-4.0.13.jar",
-        "FileDate": "2017-08-09T09:19:17",
+        "Id": 2464463,
+        "FileName": "Waystones_1.12.1-4.0.15.jar",
+        "FileNameOnDisk": "Waystones_1.12.1-4.0.15.jar",
+        "FileDate": "2017-08-14T15:21:20",
         "ReleaseType": 1,
         "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2462/300/Waystones_1.12.1-4.0.13.jar",
+        "DownloadURL": "https://addons.cursecdn.com/files/2464/463/Waystones_1.12.1-4.0.15.jar",
         "IsAlternate": false,
         "AlternateFileId": 0,
         "Dependencies": [],
@@ -7533,11 +7536,11 @@
         "Modules": [
           {
             "Foldername": "assets",
-            "Fingerprint": 2795801275
+            "Fingerprint": 1887972741
           },
           {
             "Foldername": "mcmod.info",
-            "Fingerprint": 1712840651
+            "Fingerprint": 1212091195
           },
           {
             "Foldername": "META-INF",
@@ -7545,19 +7548,19 @@
           },
           {
             "Foldername": "net",
-            "Fingerprint": 3320376276
+            "Fingerprint": 4272936420
           }
         ],
-        "PackageFingerprint": 1866458690,
+        "PackageFingerprint": 1284265057,
         "GameVersion": [
           "1.12.1",
           "1.12"
         ]
       },
       "dateInstalled": "2017-08-02T10:36:08.3876828Z",
-      "dateUpdated": "2017-08-12T16:23:34.0518483Z",
-      "dateLastUpdateAttempted": "2017-08-12T16:23:34.0518483Z",
-      "status": 3,
+      "dateUpdated": "2017-08-15T07:10:36.3145022Z",
+      "dateLastUpdateAttempted": "2017-08-15T07:10:36.3145022Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -7989,13 +7992,13 @@
       "addonID": 260912,
       "gameInstanceID": "b79784a7-76eb-41ea-939e-154496a56882",
       "installedFile": {
-        "Id": 2448498,
-        "FileName": "xnet-1.12-1.3.5.jar",
-        "FileNameOnDisk": "xnet-1.12-1.3.5.jar",
-        "FileDate": "2017-07-10T11:00:50",
+        "Id": 2464091,
+        "FileName": "xnet-1.12-1.4.0.jar",
+        "FileNameOnDisk": "xnet-1.12-1.4.0.jar",
+        "FileDate": "2017-08-13T18:59:04",
         "ReleaseType": 1,
         "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2448/498/xnet-1.12-1.3.5.jar",
+        "DownloadURL": "https://addons.cursecdn.com/files/2464/91/xnet-1.12-1.4.0.jar",
         "IsAlternate": false,
         "AlternateFileId": 0,
         "Dependencies": [
@@ -8020,11 +8023,11 @@
           },
           {
             "Foldername": "mcjty",
-            "Fingerprint": 2680596689
+            "Fingerprint": 1583890841
           },
           {
             "Foldername": "mcmod.info",
-            "Fingerprint": 1484528836
+            "Fingerprint": 4212248373
           },
           {
             "Foldername": "META-INF",
@@ -8035,19 +8038,20 @@
             "Fingerprint": 1129133532
           }
         ],
-        "PackageFingerprint": 1660056985,
+        "PackageFingerprint": 371404617,
         "GameVersion": [
+          "1.12.1",
           "1.12"
         ]
       },
       "dateInstalled": "2017-08-02T10:44:03.2798874Z",
-      "dateUpdated": "2017-08-02T10:44:03.2833874Z",
-      "dateLastUpdateAttempted": "2017-08-02T10:44:03.2833874Z",
-      "status": 3,
+      "dateUpdated": "2017-08-15T07:10:52.8263779Z",
+      "dateLastUpdateAttempted": "2017-08-15T07:10:52.8263779Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": true,
+      "isModified": false,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -8120,13 +8124,13 @@
       "addonID": 238747,
       "gameInstanceID": "b79784a7-76eb-41ea-939e-154496a56882",
       "installedFile": {
-        "Id": 2444225,
-        "FileName": "1.8.1",
-        "FileNameOnDisk": "modnametooltip_1.12-1.8.1.jar",
-        "FileDate": "2017-07-01T06:01:28",
+        "Id": 2463742,
+        "FileName": "1.9.0",
+        "FileNameOnDisk": "modnametooltip_1.12.1-1.9.0.jar",
+        "FileDate": "2017-08-12T22:46:43",
         "ReleaseType": 1,
         "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2444/225/modnametooltip_1.12-1.8.1.jar",
+        "DownloadURL": "https://addons.cursecdn.com/files/2463/742/modnametooltip_1.12.1-1.9.0.jar",
         "IsAlternate": false,
         "AlternateFileId": 0,
         "Dependencies": [],
@@ -8138,7 +8142,7 @@
           },
           {
             "Foldername": "mcmod.info",
-            "Fingerprint": 3804425362
+            "Fingerprint": 2483542647
           },
           {
             "Foldername": "META-INF",
@@ -8146,26 +8150,27 @@
           },
           {
             "Foldername": "mezz",
-            "Fingerprint": 2545337379
+            "Fingerprint": 1013430173
           },
           {
             "Foldername": "pack.mcmeta",
             "Fingerprint": 959469784
           }
         ],
-        "PackageFingerprint": 2101025831,
+        "PackageFingerprint": 585852743,
         "GameVersion": [
+          "1.12.1",
           "1.12"
         ]
       },
       "dateInstalled": "2017-08-02T19:05:26.1371328Z",
-      "dateUpdated": "2017-08-02T19:05:26.1391347Z",
-      "dateLastUpdateAttempted": "2017-08-02T19:05:26.1391347Z",
-      "status": 3,
+      "dateUpdated": "2017-08-15T07:09:31.1324903Z",
+      "dateLastUpdateAttempted": "2017-08-15T07:09:31.1324903Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": true,
+      "isModified": false,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -8175,13 +8180,13 @@
       "addonID": 245480,
       "gameInstanceID": "b79784a7-76eb-41ea-939e-154496a56882",
       "installedFile": {
-        "Id": 2459067,
-        "FileName": "valkyrielib-1.12-2.0.0c.jar",
-        "FileNameOnDisk": "valkyrielib-1.12-2.0.0c.jar",
-        "FileDate": "2017-08-02T05:14:52",
-        "ReleaseType": 3,
+        "Id": 2463851,
+        "FileName": "valkyrielib-1.12-2.0.0d.jar",
+        "FileNameOnDisk": "valkyrielib-1.12-2.0.0d.jar",
+        "FileDate": "2017-08-13T06:43:54",
+        "ReleaseType": 2,
         "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2459/67/valkyrielib-1.12-2.0.0c.jar",
+        "DownloadURL": "https://addons.cursecdn.com/files/2463/851/valkyrielib-1.12-2.0.0d.jar",
         "IsAlternate": false,
         "AlternateFileId": 0,
         "Dependencies": [],
@@ -8193,7 +8198,7 @@
           },
           {
             "Foldername": "com",
-            "Fingerprint": 2376337514
+            "Fingerprint": 2219477045
           },
           {
             "Foldername": "mcmod.info",
@@ -8204,19 +8209,20 @@
             "Fingerprint": 2464251221
           }
         ],
-        "PackageFingerprint": 3479765767,
+        "PackageFingerprint": 2106860396,
         "GameVersion": [
+          "1.12.1",
           "1.12"
         ]
       },
       "dateInstalled": "2017-08-03T08:53:45.0906528Z",
-      "dateUpdated": "2017-08-03T08:53:45.1036656Z",
-      "dateLastUpdateAttempted": "2017-08-03T08:53:45.1036656Z",
-      "status": 3,
+      "dateUpdated": "2017-08-15T07:10:12.2288291Z",
+      "dateLastUpdateAttempted": "2017-08-15T07:10:12.2288291Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": true,
+      "isModified": false,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -8226,13 +8232,13 @@
       "addonID": 245453,
       "gameInstanceID": "b79784a7-76eb-41ea-939e-154496a56882",
       "installedFile": {
-        "Id": 2463312,
-        "FileName": "environmentaltech-1.12-2.0.0d.jar",
-        "FileNameOnDisk": "environmentaltech-1.12-2.0.0d.jar",
-        "FileDate": "2017-08-11T20:52:08",
+        "Id": 2463853,
+        "FileName": "environmentaltech-1.12-2.0.0e.jar",
+        "FileNameOnDisk": "environmentaltech-1.12-2.0.0e.jar",
+        "FileDate": "2017-08-13T06:52:36",
         "ReleaseType": 3,
         "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2463/312/environmentaltech-1.12-2.0.0d.jar",
+        "DownloadURL": "https://addons.cursecdn.com/files/2463/853/environmentaltech-1.12-2.0.0e.jar",
         "IsAlternate": false,
         "AlternateFileId": 0,
         "Dependencies": [
@@ -8249,7 +8255,7 @@
           },
           {
             "Foldername": "com",
-            "Fingerprint": 4100906844
+            "Fingerprint": 199188848
           },
           {
             "Foldername": "logo_mcmod.png",
@@ -8264,16 +8270,16 @@
             "Fingerprint": 2464251221
           }
         ],
-        "PackageFingerprint": 780471248,
+        "PackageFingerprint": 3045922309,
         "GameVersion": [
           "1.12.1",
           "1.12"
         ]
       },
       "dateInstalled": "2017-08-03T08:53:45.9123631Z",
-      "dateUpdated": "2017-08-12T16:17:15.1713673Z",
-      "dateLastUpdateAttempted": "2017-08-12T16:17:15.1713673Z",
-      "status": 3,
+      "dateUpdated": "2017-08-15T07:08:27.2136434Z",
+      "dateLastUpdateAttempted": "2017-08-15T07:08:27.2136434Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -8746,13 +8752,13 @@
       "addonID": 243707,
       "gameInstanceID": "b79784a7-76eb-41ea-939e-154496a56882",
       "installedFile": {
-        "Id": 2463402,
-        "FileName": "Corail Tombstone 1.2.10 for 1.12",
-        "FileNameOnDisk": "tombstone-1.2.10-1.12.0.jar",
-        "FileDate": "2017-08-12T03:18:36",
+        "Id": 2464284,
+        "FileName": "Corail Tombstone 1.2.11 for 1.12",
+        "FileNameOnDisk": "tombstone-1.2.11-1.12.0.jar",
+        "FileDate": "2017-08-14T04:33:41",
         "ReleaseType": 1,
         "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2463/402/tombstone-1.2.10-1.12.0.jar",
+        "DownloadURL": "https://addons.cursecdn.com/files/2464/284/tombstone-1.2.11-1.12.0.jar",
         "IsAlternate": false,
         "AlternateFileId": 0,
         "Dependencies": [],
@@ -8764,7 +8770,7 @@
           },
           {
             "Foldername": "mcmod.info",
-            "Fingerprint": 2457194296
+            "Fingerprint": 961814343
           },
           {
             "Foldername": "META-INF",
@@ -8772,19 +8778,19 @@
           },
           {
             "Foldername": "ovh",
-            "Fingerprint": 2302253309
+            "Fingerprint": 201326862
           }
         ],
-        "PackageFingerprint": 3335649451,
+        "PackageFingerprint": 1458960977,
         "GameVersion": [
           "1.12.1",
           "1.12"
         ]
       },
       "dateInstalled": "2017-08-12T15:50:58.5357734Z",
-      "dateUpdated": "2017-08-12T15:50:58.5487887Z",
-      "dateLastUpdateAttempted": "2017-08-12T15:50:58.5487887Z",
-      "status": 3,
+      "dateUpdated": "2017-08-15T07:07:59.3689938Z",
+      "dateLastUpdateAttempted": "2017-08-15T07:07:59.3689938Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
