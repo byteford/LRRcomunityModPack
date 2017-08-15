@@ -18,7 +18,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2017-08-15T07:17:56.7056558Z",
+  "lastPlayed": "2017-08-15T07:37:39.7603826Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -47,21 +47,6 @@
       "queryTimestamp": "2017-08-14T07:13:03.9109589Z",
       "fileCount": 1,
       "fileSize": 110317
-    },
-    {
-      "folderName": "Fashion Base Pack 1.11.zip",
-      "fingerprint": 1961740635,
-      "fileDateHash": 565934018,
-      "sectionID": 12,
-      "individualFingerprints": [
-        1961740635
-      ],
-      "status": 1,
-      "timestamp": "2017-08-03T17:21:29.7913752Z",
-      "lastWriteTimeUtc": "2017-08-03T17:14:27.0331602Z",
-      "queryTimestamp": "2017-08-14T07:13:03.9114592Z",
-      "fileCount": 1,
-      "fileSize": 51715
     },
     {
       "folderName": "wool_colored_white.png",
@@ -3856,13 +3841,13 @@
       "addonID": 225561,
       "gameInstanceID": "b79784a7-76eb-41ea-939e-154496a56882",
       "installedFile": {
-        "Id": 2464135,
-        "FileName": "Extra Utilities 2 - 1.12 - 1.5.2",
-        "FileNameOnDisk": "extrautils2-1.12-1.5.2.jar",
-        "FileDate": "2017-08-13T21:09:44",
+        "Id": 2454028,
+        "FileName": "Extra Utilities 2 - 1.12 - 1.5.1",
+        "FileNameOnDisk": "extrautils2-1.12-1.5.1.jar",
+        "FileDate": "2017-07-21T17:03:21",
         "ReleaseType": 1,
         "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2464/135/extrautils2-1.12-1.5.2.jar",
+        "DownloadURL": "https://addons.cursecdn.com/files/2454/28/extrautils2-1.12-1.5.1.jar",
         "IsAlternate": false,
         "AlternateFileId": 0,
         "Dependencies": [],
@@ -3870,11 +3855,11 @@
         "Modules": [
           {
             "Foldername": "assets",
-            "Fingerprint": 1163006183
+            "Fingerprint": 3821854762
           },
           {
             "Foldername": "com",
-            "Fingerprint": 2186675341
+            "Fingerprint": 3411969317
           },
           {
             "Foldername": "mcmod.info",
@@ -3889,14 +3874,14 @@
             "Fingerprint": 314185225
           }
         ],
-        "PackageFingerprint": 3841649317,
+        "PackageFingerprint": 713147340,
         "GameVersion": [
           "1.12"
         ]
       },
       "dateInstalled": "2017-07-30T08:48:31.605461Z",
-      "dateUpdated": "2017-08-15T07:09:03.459808Z",
-      "dateLastUpdateAttempted": "2017-08-15T07:09:03.459808Z",
+      "dateUpdated": "2017-08-15T07:37:27.5374414Z",
+      "dateLastUpdateAttempted": "2017-08-15T07:37:27.5374414Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -8073,52 +8058,6 @@
       "dateUpdated": "2017-08-15T07:08:27.2136434Z",
       "dateLastUpdateAttempted": "2017-08-15T07:08:27.2136434Z",
       "status": 4,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null
-    },
-    {
-      "addonID": 253401,
-      "gameInstanceID": "b79784a7-76eb-41ea-939e-154496a56882",
-      "installedFile": {
-        "Id": 2411684,
-        "FileName": "Fashion Base Pack 1.11 v2",
-        "FileNameOnDisk": "Fashion Base Pack 1.11.zip",
-        "FileDate": "2017-04-25T08:04:03",
-        "ReleaseType": 1,
-        "FileStatus": 1,
-        "DownloadURL": "https://addons.cursecdn.com/files/2411/684/Fashion Base Pack 1.11.zip",
-        "IsAlternate": false,
-        "AlternateFileId": 0,
-        "Dependencies": [],
-        "IsAvailable": true,
-        "Modules": [
-          {
-            "Foldername": "assets",
-            "Fingerprint": 2451678925
-          },
-          {
-            "Foldername": "pack.mcmeta",
-            "Fingerprint": 1870565372
-          }
-        ],
-        "PackageFingerprint": 1961740635,
-        "GameVersion": [
-          "1.11.2",
-          "1.11.1",
-          "1.11",
-          "1.11-Snapshot"
-        ]
-      },
-      "dateInstalled": "2017-08-03T15:32:23.8427604Z",
-      "dateUpdated": "2016-08-03T15:32:23.8427604Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,

@@ -1,10 +1,10 @@
 [INITIALIZATION][CLIENT][INFO] CraftTweaker: Building registry
 [INITIALIZATION][CLIENT][INFO] CraftTweaker: Successfully built item registry
-[INITIALIZATION][CLIENT][INFO] Adding tooltip for <appliedenergistics2:material:19>: crafttweaker.mc1120.formatting.FormattedMarkupString@35243930
-[INITIALIZATION][CLIENT][INFO] Adding tooltip for <appliedenergistics2:material:13>: crafttweaker.mc1120.formatting.FormattedMarkupString@5baf1621
-[INITIALIZATION][CLIENT][INFO] Adding tooltip for <appliedenergistics2:material:15>: crafttweaker.mc1120.formatting.FormattedMarkupString@2af20066
-[INITIALIZATION][CLIENT][INFO] Adding tooltip for <appliedenergistics2:material:14>: crafttweaker.mc1120.formatting.FormattedMarkupString@16252611
-[INITIALIZATION][CLIENT][INFO] Adding tooltip for <appliedenergistics2:sky_compass>: crafttweaker.mc1120.formatting.FormattedMarkupString@3cdac547
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <appliedenergistics2:material:19>: crafttweaker.mc1120.formatting.FormattedMarkupString@2bfc8014
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <appliedenergistics2:material:13>: crafttweaker.mc1120.formatting.FormattedMarkupString@3f9e6af4
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <appliedenergistics2:material:15>: crafttweaker.mc1120.formatting.FormattedMarkupString@6a3cce23
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <appliedenergistics2:material:14>: crafttweaker.mc1120.formatting.FormattedMarkupString@10190753
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <appliedenergistics2:sky_compass>: crafttweaker.mc1120.formatting.FormattedMarkupString@2d203199
 [POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <appliedenergistics2:sky_compass>
 [POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <extrautils2:sickle_wood>
 [POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <extrautils2:sickle_stone>
@@ -38,3 +38,4 @@
 [AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for <liquid:glasshearts.lifeforce> * 500
 [AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for <liquid:glasshearts.lifeforce> * 500
 [AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for <liquid:glasshearts.lifeforce> * 500
+[SERVER_STARTED][CLIENT][INFO] Fixed the RecipeBook
