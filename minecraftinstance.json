@@ -18,7 +18,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2017-08-15T07:13:40.5264499Z",
+  "lastPlayed": "2017-08-15T07:17:56.7056558Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -1077,21 +1077,6 @@
       "fileSize": 844566
     },
     {
-      "folderName": "PersonalCars-1.3.jar",
-      "fingerprint": 1295878340,
-      "fileDateHash": 3213909389,
-      "sectionID": 6,
-      "individualFingerprints": [
-        1295878340
-      ],
-      "status": 1,
-      "timestamp": "2017-08-03T18:23:12.2616675Z",
-      "lastWriteTimeUtc": "2017-08-03T17:13:36.2202412Z",
-      "queryTimestamp": "2017-08-14T07:13:03.9204679Z",
-      "fileCount": 1,
-      "fileSize": 613578
-    },
-    {
       "folderName": "AppleSkin-mc1.12-1.0.7.jar",
       "fingerprint": 2494708077,
       "fileDateHash": 1128619063,
@@ -1688,21 +1673,6 @@
       "fileSize": 3538089
     },
     {
-      "folderName": "FoodExpansion1.3.2-1.12.jar",
-      "fingerprint": 60687808,
-      "fileDateHash": 3389944845,
-      "sectionID": 6,
-      "individualFingerprints": [
-        60687808
-      ],
-      "status": 1,
-      "timestamp": "2017-08-03T18:23:12.1230351Z",
-      "lastWriteTimeUtc": "2017-08-03T17:13:25.8030744Z",
-      "queryTimestamp": "2017-08-14T07:13:03.9239714Z",
-      "fileCount": 1,
-      "fileSize": 80943
-    },
-    {
       "folderName": "ironchest-1.12-7.0.31.818.jar",
       "fingerprint": 1948271834,
       "fileDateHash": 2627279067,
@@ -2255,21 +2225,6 @@
       "queryTimestamp": "2017-08-14T07:13:03.9279752Z",
       "fileCount": 1,
       "fileSize": 22802
-    },
-    {
-      "folderName": "JustFashion-1.12-0.1.2.0.jar",
-      "fingerprint": 3555875498,
-      "fileDateHash": 1424104694,
-      "sectionID": 6,
-      "individualFingerprints": [
-        3555875498
-      ],
-      "status": 1,
-      "timestamp": "2017-08-03T18:23:12.2151226Z",
-      "lastWriteTimeUtc": "2017-08-03T17:14:02.3256584Z",
-      "queryTimestamp": "2017-08-14T07:13:03.9279752Z",
-      "fileCount": 1,
-      "fileSize": 79512
     },
     {
       "folderName": "deepresonance-1.12-1.4.9.jar",
@@ -4351,57 +4306,6 @@
       "manifestName": null
     },
     {
-      "addonID": 235328,
-      "gameInstanceID": "b79784a7-76eb-41ea-939e-154496a56882",
-      "installedFile": {
-        "Id": 2457523,
-        "FileName": "Food Expansion 1.3.2 - 1.12",
-        "FileNameOnDisk": "FoodExpansion1.3.2-1.12.jar",
-        "FileDate": "2017-07-29T13:51:09",
-        "ReleaseType": 1,
-        "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2457/523/FoodExpansion1.3.2-1.12.jar",
-        "IsAlternate": false,
-        "AlternateFileId": 0,
-        "Dependencies": [],
-        "IsAvailable": true,
-        "Modules": [
-          {
-            "Foldername": "assets",
-            "Fingerprint": 3869819891
-          },
-          {
-            "Foldername": "lellson",
-            "Fingerprint": 658490141
-          },
-          {
-            "Foldername": "mcmod.info",
-            "Fingerprint": 1097502489
-          },
-          {
-            "Foldername": "META-INF",
-            "Fingerprint": 2464251221
-          }
-        ],
-        "PackageFingerprint": 60687808,
-        "GameVersion": [
-          "1.12"
-        ]
-      },
-      "dateInstalled": "2017-07-30T10:02:11.6275084Z",
-      "dateUpdated": "2017-07-30T10:02:11.6325135Z",
-      "dateLastUpdateAttempted": "2017-07-30T10:02:11.6325135Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": true,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null
-    },
-    {
       "addonID": 231484,
       "gameInstanceID": "b79784a7-76eb-41ea-939e-154496a56882",
       "installedFile": {
@@ -4939,57 +4843,6 @@
       },
       "dateInstalled": "2017-08-02T10:36:08.3456518Z",
       "dateUpdated": "2016-08-02T10:36:08.3456518Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": true,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null
-    },
-    {
-      "addonID": 265962,
-      "gameInstanceID": "b79784a7-76eb-41ea-939e-154496a56882",
-      "installedFile": {
-        "Id": 2441902,
-        "FileName": "Personal Cars 1.3",
-        "FileNameOnDisk": "PersonalCars-1.3.jar",
-        "FileDate": "2017-06-26T15:32:12",
-        "ReleaseType": 1,
-        "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2441/902/PersonalCars-1.3.jar",
-        "IsAlternate": false,
-        "AlternateFileId": 0,
-        "Dependencies": [],
-        "IsAvailable": true,
-        "Modules": [
-          {
-            "Foldername": "assets",
-            "Fingerprint": 833618214
-          },
-          {
-            "Foldername": "com",
-            "Fingerprint": 312795210
-          },
-          {
-            "Foldername": "mcmod.info",
-            "Fingerprint": 1192801382
-          },
-          {
-            "Foldername": "META-INF",
-            "Fingerprint": 2464251221
-          }
-        ],
-        "PackageFingerprint": 1295878340,
-        "GameVersion": [
-          "1.12"
-        ]
-      },
-      "dateInstalled": "2017-08-02T10:36:08.3476532Z",
-      "dateUpdated": "2016-08-02T10:36:08.3476532Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
@@ -6677,66 +6530,6 @@
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
       "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null
-    },
-    {
-      "addonID": 253400,
-      "gameInstanceID": "b79784a7-76eb-41ea-939e-154496a56882",
-      "installedFile": {
-        "Id": 2454154,
-        "FileName": "JustFashion-1.12-0.1.2.0.jar",
-        "FileNameOnDisk": "JustFashion-1.12-0.1.2.0.jar",
-        "FileDate": "2017-07-21T21:01:18",
-        "ReleaseType": 1,
-        "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2454/154/JustFashion-1.12-0.1.2.0.jar",
-        "IsAlternate": false,
-        "AlternateFileId": 0,
-        "Dependencies": [
-          {
-            "AddOnId": 251678,
-            "Type": 1
-          }
-        ],
-        "IsAvailable": true,
-        "Modules": [
-          {
-            "Foldername": "assets",
-            "Fingerprint": 1195531655
-          },
-          {
-            "Foldername": "mcmod.info",
-            "Fingerprint": 2057373633
-          },
-          {
-            "Foldername": "META-INF",
-            "Fingerprint": 2464251221
-          },
-          {
-            "Foldername": "pack.mcmeta",
-            "Fingerprint": 3273911401
-          },
-          {
-            "Foldername": "subaraki",
-            "Fingerprint": 659014229
-          }
-        ],
-        "PackageFingerprint": 3555875498,
-        "GameVersion": [
-          "1.12"
-        ]
-      },
-      "dateInstalled": "2017-08-02T10:36:08.3776732Z",
-      "dateUpdated": "2016-08-02T10:36:08.3776732Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
