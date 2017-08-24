@@ -18,13 +18,6 @@ recipes.remove(<appliedenergistics2:sky_compass>);
 #AE2 Skystone recipe
 recipes.addShaped(<appliedenergistics2:sky_stone_block> * 8, [[<ore:obsidian>, <ore:blockCoal>, <ore:obsidian>], [<ore:blockCoal>, <ore:stone>, <ore:blockCoal>], [<ore:obsidian>, <ore:blockCoal>, <ore:obsidian>]]);
 
-#Remove ExU2 Sickles to prevent overlap with Thermal Foundation Sickles
-recipes.remove(<extrautils2:sickle_wood>);
-recipes.remove(<extrautils2:sickle_stone>);
-recipes.remove(<extrautils2:sickle_iron>);
-recipes.remove(<extrautils2:sickle_gold>);
-recipes.remove(<extrautils2:sickle_diamond>);
-
 #Convert Quark deco adds to vanilla equiv
 recipes.addShapeless(<minecraft:trapped_chest>, [<quark:custom_chest_trap:4>]);
 recipes.addShapeless(<minecraft:trapped_chest>, [<quark:custom_chest_trap:3>]);
@@ -50,3 +43,11 @@ mods.thermalexpansion.Crucible.addRecipe(<liquid:glasshearts.lifeforce> * 250, <
 mods.thermalexpansion.Crucible.addRecipe(<liquid:glasshearts.lifeforce> * 500, <mysticalagriculture:enderman_essence>, 6000);
 mods.thermalexpansion.Crucible.addRecipe(<liquid:glasshearts.lifeforce> * 500, <mysticalagriculture:ghast_essence>, 6000);
 mods.thermalexpansion.Crucible.addRecipe(<liquid:glasshearts.lifeforce> * 500, <mysticalagriculture:blaze_essence>, 6000);
+
+#Adjust Extra Utilities 2 Culinary Generator recipe
+val culinary = <extrautils2:machine>.onlyWithTag({Type:"extrautils2:generator_culinary"});
+recipes.remove(culinary);
+recipes.addShaped("culinary", <extrautils2:machine>.withTag({Type:"extrautils2:generator_culinary"}),
+[[<thermalfoundation:material:167>, <minecraft:beetroot>, <thermalfoundation:material:167>],
+[<minecraft:diamond>, <extrautils2:machine>, <minecraft:diamond>],
+[<minecraft:redstone_block>, <minecraft:furnace>, <minecraft:redstone_block>]]);
