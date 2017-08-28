@@ -3,11 +3,11 @@
     {
         "title":
         {
-            "image" : "custommainmenu:textures/gui/minecraft.png",
+            "image" : "snorshcraft:textures/gui/SNORSHCRAFT.png",
             "posX" : -137,
             "posY" : 30,
-            "width" : 512,
-            "height" : 512,
+            "width" : 300,
+            "height" : 50,
             "alignment" : "top_center"
         }
     },
@@ -147,7 +147,7 @@
             "posY" : 70,
             "color" : -256,
             "alignment" : "top_center",
-            "texts" : "file:minecraft:texts/splashes.txt"
+            "texts" : "file:snorshcraft:texts/splashes.txt"
         },
         
         "panorama":
