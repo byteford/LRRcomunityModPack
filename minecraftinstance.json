@@ -18,7 +18,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2017-08-28T10:22:09.5658355Z",
+  "lastPlayed": "2017-08-28T10:30:25.8292107Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -922,6 +922,21 @@
       "fileSize": 149232
     },
     {
+      "folderName": "ResourceLoader-MC1.12-1.5.2.jar",
+      "fingerprint": 4259532211,
+      "fileDateHash": 149791292,
+      "sectionID": 6,
+      "individualFingerprints": [
+        4259532211
+      ],
+      "status": 1,
+      "timestamp": "2017-08-28T10:28:40.8622624Z",
+      "lastWriteTimeUtc": "2017-08-28T10:16:50.283609Z",
+      "queryTimestamp": "2017-08-28T10:28:41.8254288Z",
+      "fileCount": 1,
+      "fileSize": 13325
+    },
+    {
       "folderName": "lostcities-1.12-0.0.20beta2.jar",
       "fingerprint": 1246292753,
       "fileDateHash": 3059963595,
@@ -980,21 +995,6 @@
       "queryTimestamp": "2017-08-28T10:16:27.1168443Z",
       "fileCount": 1,
       "fileSize": 253663
-    },
-    {
-      "folderName": "Pam's HarvestCraft 1.12.1b.jar",
-      "fingerprint": 1718567162,
-      "fileDateHash": 250100291,
-      "sectionID": 6,
-      "individualFingerprints": [
-        1718567162
-      ],
-      "status": 1,
-      "timestamp": "2017-08-25T12:46:05.7393889Z",
-      "lastWriteTimeUtc": "2017-08-25T12:42:16.9151711Z",
-      "queryTimestamp": "2017-08-28T10:16:27.1168443Z",
-      "fileCount": 1,
-      "fileSize": 3575451
     },
     {
       "folderName": "DynamicSurroundings-1.12-3.4.7.0.jar",
@@ -1306,6 +1306,21 @@
       "queryTimestamp": "2017-08-28T10:16:27.1188536Z",
       "fileCount": 1,
       "fileSize": 59868
+    },
+    {
+      "folderName": "XL Food Mod-1.12-1.0.1.jar",
+      "fingerprint": 2669296529,
+      "fileDateHash": 2122557334,
+      "sectionID": 6,
+      "individualFingerprints": [
+        2669296529
+      ],
+      "status": 1,
+      "timestamp": "2017-08-28T10:29:57.5104749Z",
+      "lastWriteTimeUtc": "2017-08-28T10:29:55.6361004Z",
+      "queryTimestamp": "2017-08-28T10:29:58.0967366Z",
+      "fileCount": 1,
+      "fileSize": 322760
     },
     {
       "folderName": "thebomplugin-1.12-0.2.3.jar",
@@ -1651,6 +1666,21 @@
       "queryTimestamp": "2017-08-28T10:16:27.1218385Z",
       "fileCount": 1,
       "fileSize": 64026
+    },
+    {
+      "folderName": "FoodExpansion1.3.2-1.12.jar",
+      "fingerprint": 60687808,
+      "fileDateHash": 3419721447,
+      "sectionID": 6,
+      "individualFingerprints": [
+        60687808
+      ],
+      "status": 1,
+      "timestamp": "2017-08-28T10:28:40.8597322Z",
+      "lastWriteTimeUtc": "2017-08-28T10:28:32.0474042Z",
+      "queryTimestamp": "2017-08-28T10:28:41.8304336Z",
+      "fileCount": 1,
+      "fileSize": 80943
     },
     {
       "folderName": "ironchest-1.12-7.0.31.818.jar",
@@ -6276,66 +6306,6 @@
       "manifestName": null
     },
     {
-      "addonID": 221857,
-      "gameInstanceID": "b79784a7-76eb-41ea-939e-154496a56882",
-      "installedFile": {
-        "Id": 2468552,
-        "FileName": "Pam's HarvestCraft 1.12.1b.jar",
-        "FileNameOnDisk": "Pam's HarvestCraft 1.12.1b.jar",
-        "FileDate": "2017-08-24T15:47:20",
-        "ReleaseType": 1,
-        "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2468/552/Pam's HarvestCraft 1.12.1b.jar",
-        "IsAlternate": false,
-        "AlternateFileId": 0,
-        "Dependencies": [],
-        "IsAvailable": false,
-        "Modules": [
-          {
-            "Foldername": "assets",
-            "Fingerprint": 1156335512
-          },
-          {
-            "Foldername": "com",
-            "Fingerprint": 1381275441
-          },
-          {
-            "Foldername": "mcmod.info",
-            "Fingerprint": 675468271
-          },
-          {
-            "Foldername": "META-INF",
-            "Fingerprint": 2464251221
-          },
-          {
-            "Foldername": "pack.mcmeta",
-            "Fingerprint": 3273911401
-          },
-          {
-            "Foldername": "Pam's HarvestCraft 1.12 Changelog.txt",
-            "Fingerprint": 671126421
-          }
-        ],
-        "PackageFingerprint": 1718567162,
-        "GameVersion": [
-          "1.12.1",
-          "1.12"
-        ]
-      },
-      "dateInstalled": "2017-08-02T10:36:08.3736691Z",
-      "dateUpdated": "2017-08-25T12:42:16.9201762Z",
-      "dateLastUpdateAttempted": "2017-08-25T12:42:16.9201762Z",
-      "status": 3,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null
-    },
-    {
       "addonID": 74072,
       "gameInstanceID": "b79784a7-76eb-41ea-939e-154496a56882",
       "installedFile": {
@@ -8782,6 +8752,108 @@
       "dateUpdated": "2017-08-28T10:16:50.2885976Z",
       "dateLastUpdateAttempted": "2017-08-28T10:16:50.2885976Z",
       "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 235328,
+      "gameInstanceID": "b79784a7-76eb-41ea-939e-154496a56882",
+      "installedFile": {
+        "Id": 2457523,
+        "FileName": "Food Expansion 1.3.2 - 1.12",
+        "FileNameOnDisk": "FoodExpansion1.3.2-1.12.jar",
+        "FileDate": "2017-07-29T13:51:09",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "https://addons.cursecdn.com/files/2457/523/FoodExpansion1.3.2-1.12.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "assets",
+            "Fingerprint": 3869819891
+          },
+          {
+            "Foldername": "lellson",
+            "Fingerprint": 658490141
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 1097502489
+          },
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 2464251221
+          }
+        ],
+        "PackageFingerprint": 60687808,
+        "GameVersion": [
+          "1.12"
+        ]
+      },
+      "dateInstalled": "2017-08-28T10:28:42.5916159Z",
+      "dateUpdated": "2016-08-28T10:28:42.5916159Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 247217,
+      "gameInstanceID": "b79784a7-76eb-41ea-939e-154496a56882",
+      "installedFile": {
+        "Id": 2467580,
+        "FileName": "XL Food Mod-1.12-1.0.1",
+        "FileNameOnDisk": "XL Food Mod-1.12-1.0.1.jar",
+        "FileDate": "2017-08-21T20:02:48",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "https://addons.cursecdn.com/files/2467/580/XL Food Mod-1.12-1.0.1.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "assets",
+            "Fingerprint": 2273997706
+          },
+          {
+            "Foldername": "mariot7",
+            "Fingerprint": 3209253338
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 601351787
+          },
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 2464251221
+          }
+        ],
+        "PackageFingerprint": 2669296529,
+        "GameVersion": [
+          "1.12"
+        ]
+      },
+      "dateInstalled": "2017-08-28T10:29:58.35297Z",
+      "dateUpdated": "2016-08-28T10:29:58.35297Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
