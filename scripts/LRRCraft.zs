@@ -51,3 +51,7 @@ recipes.addShaped("culinary", <extrautils2:machine>.withTag({Type:"extrautils2:g
 [[<thermalfoundation:material:167>, <minecraft:beetroot>, <thermalfoundation:material:167>],
 [<minecraft:diamond>, <extrautils2:machine>, <minecraft:diamond>],
 [<minecraft:redstone_block>, <minecraft:furnace>, <minecraft:redstone_block>]]);
+
+#Adjust the EvilCraft Golden String recipe to solve recipe conflict with XU2 Golden Lasso
+recipes.remove(<evilcraft:golden_string>);
+recipes.addShapeless(<evilcraft:golden_string>,[<minecraft:string>, <minecraft:gold_nugget>, <minecraft:gold_nugget>]);
