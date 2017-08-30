@@ -166,6 +166,7 @@ key_key.exchangermode:51
 key_key.toggleLiquids:38
 key_key.toggleVisible:0
 key_key.immersiveengineering.magnetEquip:31
+key_key.immersiveengineering.chemthrowerSwitch:0
 key_key.integrateddynamics.logic_programmer_focus_search:33:ALT
 key_key.integrateddynamics.logic_programmer_open_rename:19:ALT
 key_invtweaks.key.sort:19
@@ -175,14 +176,15 @@ key_key.porterNextDestination:27
 key_key.porterPrevDestination:26
 key_key.debugDumpNBTItem:0
 key_key.debugDumpNBTBlock:0
-key_key.journeymap.map_toggle_alt:36
 key_key.journeymap.zoom_in:13
 key_key.journeymap.zoom_out:12
 key_key.journeymap.minimap_type:27
-key_key.journeymap.minimap_preset:43
-key_key.journeymap.minimap_toggle_alt:36:CONTROL
 key_key.journeymap.create_waypoint:48
+key_key.journeymap.fullscreen_create_waypoint:48
+key_key.journeymap.map_toggle_alt:36
 key_key.journeymap.fullscreen_waypoints:48:CONTROL
+key_key.journeymap.minimap_toggle_alt:36:CONTROL
+key_key.journeymap.minimap_preset:43
 key_key.journeymap.fullscreen_options:24
 key_key.journeymap.fullscreen_actions:30
 key_key.journeymap.fullscreen.north:200

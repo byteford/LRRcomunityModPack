@@ -63,7 +63,7 @@
         },
 		"TestersLine2":
         {
-            "text" : "Byteford, Serifina, Geariko, Spawnofbill,",
+            "text" : "Byteford, Cheetojack, Deathert, Geariko,",
             "posX" : -100,
             "posY" : 30,
             "color" : -1,
@@ -71,7 +71,7 @@
         },
 		"TestersLine3":
         {
-            "text" : "cheetojack, QPkill3rjQP, RebelliousUno,",
+            "text" : "Mercano, Nargimeg, QPkill3rjQP, Qrpth,",
             "posX" : -100,
             "posY" : 40,
             "color" : -1,
@@ -79,7 +79,7 @@
         },
 		"TestersLine4":
         {
-            "text" : "Nargimeg, Qrpth, Mercano, Deathert",
+            "text" : "RebelliousUno, Serifina, Spawnofbill",
             "posX" : -100,
             "posY" : 50,
             "color" : -1,
