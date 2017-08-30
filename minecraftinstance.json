@@ -18,7 +18,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2017-08-30T20:20:17.7768849Z",
+  "lastPlayed": "2017-08-30T22:13:34.4524704Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -2295,8 +2295,8 @@
     },
     {
       "folderName": "New World---------",
-      "fingerprint": 2838563175,
-      "fileDateHash": 3553923612,
+      "fingerprint": 2986501312,
+      "fileDateHash": 141244345,
       "sectionID": 17,
       "individualFingerprints": [
         106505551,
@@ -2317,6 +2317,7 @@
         758054953,
         794187667,
         982246454,
+        1181217061,
         1261877396,
         1283932865,
         1396760615,
@@ -2344,7 +2345,6 @@
         3295356132,
         3295820445,
         3383409723,
-        3402126655,
         3465701048,
         3582932549,
         3799208668,
@@ -2360,9 +2360,9 @@
         4272588933
       ],
       "status": 1,
-      "timestamp": "2017-08-30T16:38:19.2397565Z",
+      "timestamp": "2017-08-30T22:00:59.57879Z",
       "lastWriteTimeUtc": "2017-08-30T16:37:44.4445837Z",
-      "queryTimestamp": "2017-08-30T16:38:19.8102998Z",
+      "queryTimestamp": "2017-08-30T22:00:59.9712559Z",
       "fileCount": 25,
       "fileSize": 0
     },
@@ -2607,7 +2607,7 @@
     }
   ],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2017-08-30T20:11:45.2914654Z",
+  "lastPreviousMatchUpdate": "2017-08-30T22:01:00.1083872Z",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.12",
@@ -9062,6 +9062,115 @@
       "dateUpdated": "2016-08-30T19:13:23.7217869Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
       "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 237167,
+      "gameInstanceID": "f18380ce-1c1f-430b-bc80-be3e202c7dc6",
+      "installedFile": {
+        "Id": 2447363,
+        "FileName": "FTBLib-4.0.5.jar",
+        "FileNameOnDisk": "FTBLib-4.0.5.jar",
+        "FileDate": "2017-07-08T01:35:24",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "https://addons.cursecdn.com/files/2447/363/FTBLib-4.0.5.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "assets",
+            "Fingerprint": 1961195329
+          },
+          {
+            "Foldername": "com",
+            "Fingerprint": 2488486937
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 1342068506
+          },
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 1390798001
+          }
+        ],
+        "PackageFingerprint": 2196415616,
+        "GameVersion": [
+          "1.12.1",
+          "1.12"
+        ]
+      },
+      "dateInstalled": "2017-08-30T22:13:15.5632252Z",
+      "dateUpdated": "2017-08-30T22:13:15.56823Z",
+      "dateLastUpdateAttempted": "2017-08-30T22:13:15.56823Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 237102,
+      "gameInstanceID": "f18380ce-1c1f-430b-bc80-be3e202c7dc6",
+      "installedFile": {
+        "Id": 2446881,
+        "FileName": "FTBUtilities-4.0.3.jar",
+        "FileNameOnDisk": "FTBUtilities-4.0.3.jar",
+        "FileDate": "2017-07-06T21:40:40",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "https://addons.cursecdn.com/files/2446/881/FTBUtilities-4.0.3.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [
+          {
+            "AddOnId": 237167,
+            "Type": 1
+          }
+        ],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "assets",
+            "Fingerprint": 1411415922
+          },
+          {
+            "Foldername": "com",
+            "Fingerprint": 763882939
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 3967126014
+          },
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 2464251221
+          }
+        ],
+        "PackageFingerprint": 2554740564,
+        "GameVersion": [
+          "1.12.1",
+          "1.12"
+        ]
+      },
+      "dateInstalled": "2017-08-30T22:13:16.1270226Z",
+      "dateUpdated": "2017-08-30T22:13:16.1315205Z",
+      "dateLastUpdateAttempted": "2017-08-30T22:13:16.1315205Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
