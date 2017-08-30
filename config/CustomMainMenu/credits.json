@@ -1,0 +1,117 @@
+{
+	"images":
+    {
+        "title":
+        {
+            "image" : "snorshcraft:textures/gui/SNORSHCRAFT.png",
+            "posX" : -137,
+            "posY" : 30,
+            "width" : 300,
+            "height" : 50,
+            "alignment" : "top_center"
+        }
+    },
+	"buttons":
+    {
+		"Credits":
+        {
+            "text" : "Credits",
+            "posX" : -100,
+            "posY" : 48,
+            "width" : 200,
+            "height" : 20
+        },
+		"Back":
+        {
+            "text" : "Back",
+            "posX" : -100,
+            "posY" : 232,
+            "width" : 98,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "custom.mainmenu"
+            }
+        }
+	},
+	"labels":
+    {
+		"Byteford":
+        {
+            "text" : "Pack Creator: Byteford",
+            "posX" : -100,
+            "posY" : -10,
+            "color" : -1,
+            "alignment" : "center"
+        },
+		"Serifina":
+        {
+            "text" : "Configs: Serifina",
+            "posX" : -100,
+            "posY" : 0,
+            "color" : -1,
+            "alignment" : "center"
+        },
+		"Testers":
+        {
+            "text" : "Testers:",
+            "posX" : -30,
+            "posY" : 20,
+            "color" : -1,
+            "alignment" : "center"
+        },
+		"TestersLine2":
+        {
+            "text" : "Byteford, Serifina, Geariko, Spawnofbill,",
+            "posX" : -100,
+            "posY" : 30,
+            "color" : -1,
+            "alignment" : "center"
+        },
+		"TestersLine3":
+        {
+            "text" : "cheetojack, QPkill3rjQP, RebelliousUno,",
+            "posX" : -100,
+            "posY" : 40,
+            "color" : -1,
+            "alignment" : "center"
+        },
+		"TestersLine4":
+        {
+            "text" : "Nargimeg, Qrpth, Mercano, Deathert",
+            "posX" : -100,
+            "posY" : 50,
+            "color" : -1,
+            "alignment" : "center"
+        },
+		"Ideas":
+        {
+            "text" : "Ideas from the LoadingReadRun Discord",
+            "posX" : -100,
+            "posY" : 80,
+            "color" : -1,
+            "alignment" : "center"
+        }
+	},
+	"other":
+    {
+		"splash-text":
+        {
+            "posX" : 90,
+            "posY" : 70,
+            "color" : -256,
+            "alignment" : "top_center",
+            "texts" : "file:snorshcraft:texts/splashes.txt"
+        },
+        
+        "panorama":
+        {
+            "images" : "minecraft:textures/gui/title/background/panorama_%c.png",
+            "animate" : true,
+            "animationSpeed" : 1,
+            "blur" : true,
+            "gradient" : true
+        }
+	}
+}

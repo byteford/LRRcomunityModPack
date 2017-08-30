@@ -69,7 +69,19 @@
                 "gui" : "options"
             }
         },
-        
+        "PackCredits":
+        {
+            "text" : "PackCredits",
+            "posX" : -100,
+            "posY" : 232,
+            "width" : 98,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "custom.credits"
+            }
+        },
         "quit":
         {
             "text" : "menu.quit",
