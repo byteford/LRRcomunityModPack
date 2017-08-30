@@ -1,0 +1,25 @@
+{
+	"dependencies": "xlfoodmod",
+	"populate": {
+		"rock salt": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "xlfoodmod:rock_salt",
+				"material": "minecraft:stone",
+				"cluster-size": 6
+			},
+			"cluster-count": 4,
+			"min-height": 30,
+			"max-height": 60,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		}
+	}
+}

@@ -18,7 +18,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2017-08-30T18:04:12.2350561Z",
+  "lastPlayed": "2017-08-30T19:14:36.9249887Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -611,7 +611,7 @@
       "status": 1,
       "timestamp": "2017-08-29T18:24:47.0458517Z",
       "lastWriteTimeUtc": "2017-08-29T18:07:59.8437061Z",
-      "queryTimestamp": "2017-08-29T18:24:47.5697927Z",
+      "queryTimestamp": "2017-08-30T19:13:22.8805212Z",
       "fileCount": 1,
       "fileSize": 844566
     },
@@ -1611,7 +1611,7 @@
       "status": 1,
       "timestamp": "2017-08-29T18:24:47.0593796Z",
       "lastWriteTimeUtc": "2017-08-29T16:54:08.734169Z",
-      "queryTimestamp": "2017-08-29T18:24:47.5762994Z",
+      "queryTimestamp": "2017-08-30T19:13:22.8880385Z",
       "fileCount": 1,
       "fileSize": 149539
     },
@@ -1980,7 +1980,7 @@
       "status": 1,
       "timestamp": "2017-08-29T18:29:26.8398211Z",
       "lastWriteTimeUtc": "2017-08-29T18:26:23.3237954Z",
-      "queryTimestamp": "2017-08-29T18:29:28.180074Z",
+      "queryTimestamp": "2017-08-30T19:13:22.8910411Z",
       "fileCount": 1,
       "fileSize": 214956
     },
@@ -2262,6 +2262,21 @@
       "queryTimestamp": "2017-08-30T16:38:19.8097991Z",
       "fileCount": 1,
       "fileSize": 151187
+    },
+    {
+      "folderName": "NoNausea-MC1.12-1.0.jar",
+      "fingerprint": 2197328098,
+      "fileDateHash": 2877532850,
+      "sectionID": 6,
+      "individualFingerprints": [
+        2197328098
+      ],
+      "status": 1,
+      "timestamp": "2017-08-30T19:13:22.2359871Z",
+      "lastWriteTimeUtc": "2017-08-30T19:13:07.391723Z",
+      "queryTimestamp": "2017-08-30T19:13:22.8925435Z",
+      "fileCount": 1,
+      "fileSize": 9679
     },
     {
       "folderName": "TreeGrowingSimulator2017-1.0.1.jar",
@@ -2607,7 +2622,7 @@
     }
   ],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2017-08-30T16:38:20.4886507Z",
+  "lastPreviousMatchUpdate": "2017-08-30T19:13:23.7238118Z",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.12",
@@ -8911,7 +8926,7 @@
       "dateInstalled": "2017-08-29T18:24:48.0008122Z",
       "dateUpdated": "2017-08-29T18:26:23.3262817Z",
       "dateLastUpdateAttempted": "2017-08-29T18:26:23.3262817Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -9012,6 +9027,54 @@
       },
       "dateInstalled": "2017-08-30T16:38:20.4871491Z",
       "dateUpdated": "2016-08-30T16:38:20.4871491Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 226035,
+      "gameInstanceID": "a35254bb-adac-4b17-807e-e903cc5a808c",
+      "installedFile": {
+        "Id": 2432422,
+        "FileName": "NoNausea-MC1.12-1.0.jar",
+        "FileNameOnDisk": "NoNausea-MC1.12-1.0.jar",
+        "FileDate": "2017-06-11T17:14:55",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "https://addons.cursecdn.com/files/2432/422/NoNausea-MC1.12-1.0.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "lumien",
+            "Fingerprint": 560949004
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 2007764536
+          },
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 4256763839
+          }
+        ],
+        "PackageFingerprint": 2197328098,
+        "GameVersion": [
+          "1.12.1",
+          "1.12"
+        ]
+      },
+      "dateInstalled": "2017-08-30T19:13:23.7217869Z",
+      "dateUpdated": "2016-08-30T19:13:23.7217869Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
