@@ -18,7 +18,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2017-08-30T19:14:36.9249887Z",
+  "lastPlayed": "2017-08-30T20:05:29.9898583Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -1496,21 +1496,6 @@
       "fileSize": 253416
     },
     {
-      "folderName": "JustAnotherSnad-1.12-0.0.1.0.jar",
-      "fingerprint": 601052077,
-      "fileDateHash": 2956304332,
-      "sectionID": 6,
-      "individualFingerprints": [
-        601052077
-      ],
-      "status": 1,
-      "timestamp": "2017-08-30T16:38:19.2162162Z",
-      "lastWriteTimeUtc": "2017-08-29T16:53:14.7462101Z",
-      "queryTimestamp": "2017-08-30T16:38:19.8042929Z",
-      "fileCount": 1,
-      "fileSize": 22662
-    },
-    {
       "folderName": "TConstruct-1.12-2.7.2.15.jar",
       "fingerprint": 2312093603,
       "fileDateHash": 3119639998,
@@ -1586,21 +1571,6 @@
       "fileSize": 75709
     },
     {
-      "folderName": "extrautils2-1.12-1.5.jar",
-      "fingerprint": 3194406120,
-      "fileDateHash": 2407069680,
-      "sectionID": 6,
-      "individualFingerprints": [
-        3194406120
-      ],
-      "status": 1,
-      "timestamp": "2017-08-30T16:38:19.1997039Z",
-      "lastWriteTimeUtc": "2017-08-29T18:55:33.1966128Z",
-      "queryTimestamp": "2017-08-30T16:38:19.8047932Z",
-      "fileCount": 1,
-      "fileSize": 2714692
-    },
-    {
       "folderName": "topaddons-1.12-0.15.1.jar",
       "fingerprint": 2348052713,
       "fileDateHash": 3951540615,
@@ -1614,6 +1584,21 @@
       "queryTimestamp": "2017-08-30T19:13:22.8880385Z",
       "fileCount": 1,
       "fileSize": 149539
+    },
+    {
+      "folderName": "extrautils2-1.12-1.5.jar",
+      "fingerprint": 3194406120,
+      "fileDateHash": 2407069680,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3194406120
+      ],
+      "status": 1,
+      "timestamp": "2017-08-30T16:38:19.1997039Z",
+      "lastWriteTimeUtc": "2017-08-29T18:55:33.1966128Z",
+      "queryTimestamp": "2017-08-30T16:38:19.8047932Z",
+      "fileCount": 1,
+      "fileSize": 2714692
     },
     {
       "folderName": "Psi-r1.1-52.jar",
@@ -2622,7 +2607,7 @@
     }
   ],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2017-08-30T19:13:23.7238118Z",
+  "lastPreviousMatchUpdate": "2017-08-30T19:45:39.3390686Z",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.12",
