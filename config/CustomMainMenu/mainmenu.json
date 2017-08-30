@@ -71,9 +71,9 @@
         },
         "PackCredits":
         {
-            "text" : "PackCredits",
-            "posX" : -100,
-            "posY" : 232,
+            "text" : "Pack Credits",
+            "posX" : -50,
+            "posY" : 200,
             "width" : 98,
             "height" : 20,
             "action" : 
