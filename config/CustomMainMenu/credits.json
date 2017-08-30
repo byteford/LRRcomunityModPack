@@ -53,19 +53,27 @@
             "color" : -1,
             "alignment" : "center"
         },
+		"Featherweight":
+        {
+            "text" : "Logo: Featherweight",
+            "posX" : -100,
+            "posY" : 10,
+            "color" : -1,
+            "alignment" : "center"
+        },
 		"Testers":
         {
             "text" : "Testers:",
             "posX" : -30,
-            "posY" : 20,
+            "posY" : 30,
             "color" : -1,
             "alignment" : "center"
         },
 		"TestersLine2":
         {
-            "text" : "Byteford, Cheetojack, Deathert, Geariko,",
+            "text" : "Byteford, Cheetojack, Geariko,",
             "posX" : -100,
-            "posY" : 30,
+            "posY" : 40,
             "color" : -1,
             "alignment" : "center"
         },
@@ -73,15 +81,15 @@
         {
             "text" : "Mercano, Nargimeg, QPkill3rjQP, Qrpth,",
             "posX" : -100,
-            "posY" : 40,
+            "posY" : 50,
             "color" : -1,
             "alignment" : "center"
         },
 		"TestersLine4":
         {
-            "text" : "RebelliousUno, Serifina, Spawnofbill",
+            "text" : "RebelliousUno, Serifina, Spawnofbill, Weagle",
             "posX" : -100,
-            "posY" : 50,
+            "posY" : 60,
             "color" : -1,
             "alignment" : "center"
         },
@@ -89,7 +97,7 @@
         {
             "text" : "Ideas from the LoadingReadRun Discord",
             "posX" : -100,
-            "posY" : 80,
+            "posY" : 90,
             "color" : -1,
             "alignment" : "center"
         }
