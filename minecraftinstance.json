@@ -18,7 +18,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2017-08-31T09:30:41.1413134Z",
+  "lastPlayed": "2017-08-31T11:12:03.6472223Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -910,6 +910,21 @@
       "fileSize": 11681
     },
     {
+      "folderName": "Harvest-1.12-1.2.4-16.jar",
+      "fingerprint": 4138624969,
+      "fileDateHash": 3260757580,
+      "sectionID": 6,
+      "individualFingerprints": [
+        4138624969
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T10:24:48.613622Z",
+      "lastWriteTimeUtc": "2017-08-31T10:24:46.4296569Z",
+      "queryTimestamp": "2017-08-31T10:24:49.6403441Z",
+      "fileCount": 1,
+      "fileSize": 14566
+    },
+    {
       "folderName": "InventoryTweaks-1.63+beta.107.jar",
       "fingerprint": 1055480692,
       "fileDateHash": 1222821434,
@@ -1744,21 +1759,6 @@
       "queryTimestamp": "2017-08-30T16:38:19.8007897Z",
       "fileCount": 1,
       "fileSize": 302814
-    },
-    {
-      "folderName": "simpleharvest-1.07.jar",
-      "fingerprint": 1944618034,
-      "fileDateHash": 3379998936,
-      "sectionID": 6,
-      "individualFingerprints": [
-        1944618034
-      ],
-      "status": 1,
-      "timestamp": "2017-08-30T16:38:19.2162162Z",
-      "lastWriteTimeUtc": "2017-08-30T16:29:00.4975635Z",
-      "queryTimestamp": "2017-08-30T16:38:19.8032919Z",
-      "fileCount": 1,
-      "fileSize": 4780
     },
     {
       "folderName": "MTLib-3.0.0.jar",
@@ -2652,7 +2652,7 @@
     }
   ],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2017-08-31T09:27:21.930487Z",
+  "lastPreviousMatchUpdate": "2017-08-31T10:24:51.1302966Z",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.12",
@@ -9022,53 +9022,6 @@
       "manifestName": null
     },
     {
-      "addonID": 243679,
-      "gameInstanceID": "f18380ce-1c1f-430b-bc80-be3e202c7dc6",
-      "installedFile": {
-        "Id": 2432128,
-        "FileName": "Simple Harvest 1.07 for 1.12",
-        "FileNameOnDisk": "simpleharvest-1.07.jar",
-        "FileDate": "2017-06-11T08:16:57",
-        "ReleaseType": 1,
-        "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2432/128/simpleharvest-1.07.jar",
-        "IsAlternate": false,
-        "AlternateFileId": 0,
-        "Dependencies": [],
-        "IsAvailable": true,
-        "Modules": [
-          {
-            "Foldername": "com",
-            "Fingerprint": 2001351139
-          },
-          {
-            "Foldername": "mcmod.info",
-            "Fingerprint": 1728380259
-          },
-          {
-            "Foldername": "META-INF",
-            "Fingerprint": 2464251221
-          }
-        ],
-        "PackageFingerprint": 1944618034,
-        "GameVersion": [
-          "1.12"
-        ]
-      },
-      "dateInstalled": "2017-08-30T16:38:20.4871491Z",
-      "dateUpdated": "2016-08-30T16:38:20.4871491Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null
-    },
-    {
       "addonID": 226035,
       "gameInstanceID": "f18380ce-1c1f-430b-bc80-be3e202c7dc6",
       "installedFile": {
@@ -9216,6 +9169,54 @@
       "dateUpdated": "2017-08-30T22:13:16.1315205Z",
       "dateLastUpdateAttempted": "2017-08-30T22:13:16.1315205Z",
       "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 240783,
+      "gameInstanceID": "f18380ce-1c1f-430b-bc80-be3e202c7dc6",
+      "installedFile": {
+        "Id": 2451743,
+        "FileName": "Harvest-1.12-1.2.4-16.jar",
+        "FileNameOnDisk": "Harvest-1.12-1.2.4-16.jar.disabled",
+        "FileDate": "2017-07-16T22:47:39",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "https://addons.cursecdn.com/files/2451/743/Harvest-1.12-1.2.4-16.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 2820195496
+          },
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 1256732893
+          },
+          {
+            "Foldername": "tehnut",
+            "Fingerprint": 1232484048
+          }
+        ],
+        "PackageFingerprint": 4138624969,
+        "GameVersion": [
+          "1.12.1",
+          "1.12"
+        ]
+      },
+      "dateInstalled": "2017-08-31T10:24:51.119284Z",
+      "dateUpdated": "2016-08-31T10:24:51.119284Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,

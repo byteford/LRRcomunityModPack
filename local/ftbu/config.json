@@ -10,21 +10,21 @@
     "use_separate_thread": true
   },
   "commands": {
-    "chunks": true,
+    "chunks": false,
     "trash_can": true,
-    "ranks": true,
-    "view_crash": true,
-    "warp": true,
-    "tpl": true,
-    "inv": true,
-    "heal": true,
-    "back": true,
-    "server_info": true,
-    "spawn": true,
+    "ranks": false,
+    "view_crash": false,
+    "warp": false,
+    "tpl": false,
+    "inv": false,
+    "heal": false,
+    "back": false,
+    "server_info": false,
+    "spawn": false,
     "loaded_chunks": true,
-    "home": true,
+    "home": false,
     "kickme": true,
-    "set_hour": true
+    "set_hour": false
   },
   "general": {
     "auto_restart": false,
@@ -46,7 +46,7 @@
     "restart_timer": 12.0
   },
   "world": {
-    "chunk_loading": false,
+    "chunk_loading": true,
     "log_chunkloading": false,
     "chunk_claiming": true,
     "safe_spawn": false,
@@ -59,13 +59,13 @@
   },
   "login": {
     "motd": [],
-    "enable_motd": true,
-    "enable_starting_items": true,
+    "enable_motd": false,
+    "enable_starting_items": false,
     "starting_items": []
   },
   "ranks": {
     "override_chat": true,
     "override_commands": true,
-    "enabled": true
+    "enabled": false
   }
 }

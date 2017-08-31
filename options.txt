@@ -117,6 +117,8 @@ key_doggytalents.key.stay:208
 key_doggytalents.key.ok:203
 key_doggytalents.key.heel:205
 key_key.xu2.searchForItems:20
+key_key.ftbu.guide:0
+key_key.ftbu.warp:0
 key_key.moreoverlays.lightoverlay.desc:65
 key_key.moreoverlays.chunkbounds.desc:67
 key_key.thebomplugin.scrollmodifier:56
