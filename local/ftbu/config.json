@@ -46,7 +46,7 @@
     "restart_timer": 12.0
   },
   "world": {
-    "chunk_loading": true,
+    "chunk_loading": false,
     "log_chunkloading": false,
     "chunk_claiming": true,
     "safe_spawn": false,
