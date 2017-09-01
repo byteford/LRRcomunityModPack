@@ -1,10 +1,10 @@
 [INITIALIZATION][CLIENT][INFO] CraftTweaker: Building registry
 [INITIALIZATION][CLIENT][INFO] CraftTweaker: Successfully built item registry
-[INITIALIZATION][CLIENT][INFO] Adding tooltip for <appliedenergistics2:material:19>: crafttweaker.mc1120.formatting.FormattedMarkupString@544dff94
-[INITIALIZATION][CLIENT][INFO] Adding tooltip for <appliedenergistics2:material:13>: crafttweaker.mc1120.formatting.FormattedMarkupString@c4986ff
-[INITIALIZATION][CLIENT][INFO] Adding tooltip for <appliedenergistics2:material:15>: crafttweaker.mc1120.formatting.FormattedMarkupString@1058daa5
-[INITIALIZATION][CLIENT][INFO] Adding tooltip for <appliedenergistics2:material:14>: crafttweaker.mc1120.formatting.FormattedMarkupString@23df8c81
-[INITIALIZATION][CLIENT][INFO] Adding tooltip for <appliedenergistics2:sky_compass>: crafttweaker.mc1120.formatting.FormattedMarkupString@1b9b3ee2
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <appliedenergistics2:material:19>: crafttweaker.mc1120.formatting.FormattedMarkupString@572fb35b
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <appliedenergistics2:material:13>: crafttweaker.mc1120.formatting.FormattedMarkupString@6d4e893a
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <appliedenergistics2:material:15>: crafttweaker.mc1120.formatting.FormattedMarkupString@764e990
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <appliedenergistics2:material:14>: crafttweaker.mc1120.formatting.FormattedMarkupString@45b070e5
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <appliedenergistics2:sky_compass>: crafttweaker.mc1120.formatting.FormattedMarkupString@74b3e8b5
 [POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <appliedenergistics2:sky_compass>
 [POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for (Ingredient) <extrautils2:machine>
 [POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <evilcraft:golden_string>

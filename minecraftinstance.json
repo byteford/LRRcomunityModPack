@@ -18,7 +18,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2017-08-31T19:08:15.4404941Z",
+  "lastPlayed": "2017-09-01T14:03:32.7056179Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -33,441 +33,6 @@
   "installPath": "D:\\User\\Curse\\Minecraft\\Instances\\LRRcomunityModPack\\",
   "name": "LRRcomunityModPack",
   "cachedScans": [
-    {
-      "folderName": "creeperade-v1.2-mc-1.12.jar",
-      "fingerprint": 2659344444,
-      "fileDateHash": 2650638738,
-      "sectionID": 6,
-      "individualFingerprints": [
-        2659344444
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:35:50.0030596Z",
-      "lastWriteTimeUtc": "2017-08-03T17:13:03.2651004Z",
-      "queryTimestamp": "2017-08-31T18:35:51.5225177Z",
-      "fileCount": 1,
-      "fileSize": 39316
-    },
-    {
-      "folderName": "mobends-0.24_for_MC-1.12.jar",
-      "fingerprint": 1044126311,
-      "fileDateHash": 4174858972,
-      "sectionID": 6,
-      "individualFingerprints": [
-        1044126311
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:29:06.5113499Z",
-      "lastWriteTimeUtc": "2017-08-03T17:13:35.5242418Z",
-      "queryTimestamp": "2017-08-31T18:29:07.7300192Z",
-      "fileCount": 1,
-      "fileSize": 669015
-    },
-    {
-      "folderName": "Aroma1997s-Dimensional-World-1.12-1.3.0.0.b37.jar",
-      "fingerprint": 1730083292,
-      "fileDateHash": 2533674324,
-      "sectionID": 6,
-      "individualFingerprints": [
-        1730083292
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:35:49.5886622Z",
-      "lastWriteTimeUtc": "2017-08-03T17:13:21.1210539Z",
-      "queryTimestamp": "2017-08-31T18:35:51.5225177Z",
-      "fileCount": 1,
-      "fileSize": 43154
-    },
-    {
-      "folderName": "jei_1.12.1-4.7.8.92.jar",
-      "fingerprint": 439348570,
-      "fileDateHash": 1947203208,
-      "sectionID": 6,
-      "individualFingerprints": [
-        439348570
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:29:06.3907343Z",
-      "lastWriteTimeUtc": "2017-08-29T16:16:37.711788Z",
-      "queryTimestamp": "2017-08-31T18:29:07.7300192Z",
-      "fileCount": 1,
-      "fileSize": 505182
-    },
-    {
-      "folderName": "chameleoncreepers-1.4.1-1.12.jar",
-      "fingerprint": 1565681777,
-      "fileDateHash": 4270910878,
-      "sectionID": 6,
-      "individualFingerprints": [
-        1565681777
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:35:49.8679305Z",
-      "lastWriteTimeUtc": "2017-08-03T17:12:52.1960916Z",
-      "queryTimestamp": "2017-08-31T18:35:51.5230181Z",
-      "fileCount": 1,
-      "fileSize": 12801
-    },
-    {
-      "folderName": "thebomplugin-1.12-0.2.3.jar",
-      "fingerprint": 1717737647,
-      "fileDateHash": 809416742,
-      "sectionID": 6,
-      "individualFingerprints": [
-        1717737647
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:35:50.3338775Z",
-      "lastWriteTimeUtc": "2017-08-12T16:21:20.8194298Z",
-      "queryTimestamp": "2017-08-31T18:35:51.5230181Z",
-      "fileCount": 1,
-      "fileSize": 51629
-    },
-    {
-      "folderName": "StevesCarts-1.12.1-2.4.7.40.jar",
-      "fingerprint": 534931129,
-      "fileDateHash": 4208472540,
-      "sectionID": 6,
-      "individualFingerprints": [
-        534931129
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:29:06.9267488Z",
-      "lastWriteTimeUtc": "2017-08-29T16:43:20.0586068Z",
-      "queryTimestamp": "2017-08-31T18:29:07.7300192Z",
-      "fileCount": 1,
-      "fileSize": 2294360
-    },
-    {
-      "folderName": "cucumber[1.12]-1.0.0.jar",
-      "fingerprint": 3679246873,
-      "fileDateHash": 2696683071,
-      "sectionID": 6,
-      "individualFingerprints": [
-        3679246873
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:35:50.0060625Z",
-      "lastWriteTimeUtc": "2017-08-03T17:12:56.9570946Z",
-      "queryTimestamp": "2017-08-31T18:35:51.5230181Z",
-      "fileCount": 1,
-      "fileSize": 23294
-    },
-    {
-      "folderName": "IntegratedTunnels-1.12-1.3.1.jar",
-      "fingerprint": 2768431220,
-      "fileDateHash": 1125027783,
-      "sectionID": 6,
-      "individualFingerprints": [
-        2768431220
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:29:06.3456908Z",
-      "lastWriteTimeUtc": "2017-08-29T16:16:30.5975539Z",
-      "queryTimestamp": "2017-08-31T18:29:07.7300192Z",
-      "fileCount": 1,
-      "fileSize": 614399
-    },
-    {
-      "folderName": "deepresonance-1.12-1.4.9.jar",
-      "fingerprint": 3533432728,
-      "fileDateHash": 2395681242,
-      "sectionID": 6,
-      "individualFingerprints": [
-        3533432728
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:35:50.0205765Z",
-      "lastWriteTimeUtc": "2017-08-03T17:13:08.2128715Z",
-      "queryTimestamp": "2017-08-31T18:35:51.5230181Z",
-      "fileCount": 1,
-      "fileSize": 878816
-    },
-    {
-      "folderName": "immersivepetroleum-1.12-1.1.3.jar",
-      "fingerprint": 3733911271,
-      "fileDateHash": 3825641871,
-      "sectionID": 6,
-      "individualFingerprints": [
-        3733911271
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:29:06.211062Z",
-      "lastWriteTimeUtc": "2017-08-07T12:13:04.1113769Z",
-      "queryTimestamp": "2017-08-31T18:29:07.7300192Z",
-      "fileCount": 1,
-      "fileSize": 862014
-    },
-    {
-      "folderName": "foamfix-0.8.0-beta1-1.12-anarchy.jar",
-      "fingerprint": 3559038871,
-      "fileDateHash": 3393751320,
-      "sectionID": 6,
-      "individualFingerprints": [
-        3559038871
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:35:50.251799Z",
-      "lastWriteTimeUtc": "2017-08-03T17:12:43.4150628Z",
-      "queryTimestamp": "2017-08-31T18:35:51.5230181Z",
-      "fileCount": 1,
-      "fileSize": 139548
-    },
-    {
-      "folderName": "MouseTweaks-2.8-mc1.12.1.jar",
-      "fingerprint": 439035205,
-      "fileDateHash": 1658514453,
-      "sectionID": 6,
-      "individualFingerprints": [
-        439035205
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:29:06.574911Z",
-      "lastWriteTimeUtc": "2017-08-29T16:43:14.0668053Z",
-      "queryTimestamp": "2017-08-31T18:29:07.7300192Z",
-      "fileCount": 1,
-      "fileSize": 68793
-    },
-    {
-      "folderName": "StorageDrawers-1.12.1-5.3.0.jar",
-      "fingerprint": 1994277277,
-      "fileDateHash": 3293630350,
-      "sectionID": 6,
-      "individualFingerprints": [
-        1994277277
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:29:06.9487699Z",
-      "lastWriteTimeUtc": "2017-08-29T16:17:06.2103881Z",
-      "queryTimestamp": "2017-08-31T18:29:07.7300192Z",
-      "fileCount": 1,
-      "fileSize": 589356
-    },
-    {
-      "folderName": "mysticalagriculture[1.12]-1.6.3.jar",
-      "fingerprint": 4104994880,
-      "fileDateHash": 3809621308,
-      "sectionID": 6,
-      "individualFingerprints": [
-        4104994880
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:29:06.6629955Z",
-      "lastWriteTimeUtc": "2017-08-25T12:42:05.4702673Z",
-      "queryTimestamp": "2017-08-31T18:29:07.7305196Z",
-      "fileCount": 1,
-      "fileSize": 1270089
-    },
-    {
-      "folderName": "valkyrielib-1.12.1-2.0.2c.jar",
-      "fingerprint": 745625921,
-      "fileDateHash": 2771632927,
-      "sectionID": 6,
-      "individualFingerprints": [
-        745625921
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:35:50.363906Z",
-      "lastWriteTimeUtc": "2017-08-29T16:18:25.3372155Z",
-      "queryTimestamp": "2017-08-31T18:35:51.5235187Z",
-      "fileCount": 1,
-      "fileSize": 253706
-    },
-    {
-      "folderName": "TConstruct-1.12-2.7.2.19.jar",
-      "fingerprint": 3995022911,
-      "fileDateHash": 3588661330,
-      "sectionID": 6,
-      "individualFingerprints": [
-        3995022911
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:35:50.3143586Z",
-      "lastWriteTimeUtc": "2017-08-15T07:09:43.0882527Z",
-      "queryTimestamp": "2017-08-31T18:35:51.5235187Z",
-      "fileCount": 1,
-      "fileSize": 3728811
-    },
-    {
-      "folderName": "Controlling-3.0.2.jar",
-      "fingerprint": 3521806699,
-      "fileDateHash": 269403881,
-      "sectionID": 6,
-      "individualFingerprints": [
-        3521806699
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:35:49.9910483Z",
-      "lastWriteTimeUtc": "2017-08-03T17:13:50.6965686Z",
-      "queryTimestamp": "2017-08-31T18:35:51.5235187Z",
-      "fileCount": 1,
-      "fileSize": 22802
-    },
-    {
-      "folderName": "journeymap-1.12.1-5.5.0b3.jar",
-      "fingerprint": 4051548795,
-      "fileDateHash": 3823009915,
-      "sectionID": 6,
-      "individualFingerprints": [
-        4051548795
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:29:06.39624Z",
-      "lastWriteTimeUtc": "2017-08-29T16:43:12.4638257Z",
-      "queryTimestamp": "2017-08-31T18:29:07.7305196Z",
-      "fileCount": 1,
-      "fileSize": 1785738
-    },
-    {
-      "folderName": "refinedstorage-1.5.17.jar",
-      "fingerprint": 718676308,
-      "fileDateHash": 367154743,
-      "sectionID": 6,
-      "individualFingerprints": [
-        718676308
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:29:06.8106374Z",
-      "lastWriteTimeUtc": "2017-08-25T12:42:42.2136243Z",
-      "queryTimestamp": "2017-08-31T18:29:07.7305196Z",
-      "fileCount": 1,
-      "fileSize": 1716574
-    },
-    {
-      "folderName": "rftoolsdim-1.12-5.04.jar",
-      "fingerprint": 2263244761,
-      "fileDateHash": 1627371188,
-      "sectionID": 6,
-      "individualFingerprints": [
-        2263244761
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:29:06.8987216Z",
-      "lastWriteTimeUtc": "2017-08-03T17:13:40.8220093Z",
-      "queryTimestamp": "2017-08-31T18:29:07.7305196Z",
-      "fileCount": 1,
-      "fileSize": 1663015
-    },
-    {
-      "folderName": "creeperconfetti-1.4.1.jar",
-      "fingerprint": 2514222507,
-      "fileDateHash": 3677702051,
-      "sectionID": 6,
-      "individualFingerprints": [
-        2514222507
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:35:50.0035605Z",
-      "lastWriteTimeUtc": "2017-08-03T17:12:58.6440126Z",
-      "queryTimestamp": "2017-08-31T18:35:51.524019Z",
-      "fileCount": 1,
-      "fileSize": 53641
-    },
-    {
-      "folderName": "FTBUtilities-4.0.3.jar",
-      "fingerprint": 2554740564,
-      "fileDateHash": 3890007326,
-      "sectionID": 6,
-      "individualFingerprints": [
-        2554740564
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:35:50.2613086Z",
-      "lastWriteTimeUtc": "2017-08-30T22:13:16.12652Z",
-      "queryTimestamp": "2017-08-31T18:35:51.524019Z",
-      "fileCount": 1,
-      "fileSize": 598189
-    },
-    {
-      "folderName": "[1.12_1.12.1] GlobalXP v1.3.jar",
-      "fingerprint": 2643642440,
-      "fileDateHash": 1973360598,
-      "sectionID": 6,
-      "individualFingerprints": [
-        2643642440
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:35:50.3729147Z",
-      "lastWriteTimeUtc": "2017-08-12T16:17:51.2000208Z",
-      "queryTimestamp": "2017-08-31T18:35:51.524019Z",
-      "fileCount": 1,
-      "fileSize": 24759
-    },
-    {
-      "folderName": "AppleSkin-mc1.12-1.0.7.jar",
-      "fingerprint": 2494708077,
-      "fileDateHash": 1128619063,
-      "sectionID": 6,
-      "individualFingerprints": [
-        2494708077
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:35:49.5651395Z",
-      "lastWriteTimeUtc": "2017-08-03T17:13:27.1610466Z",
-      "queryTimestamp": "2017-08-31T18:35:51.524019Z",
-      "fileCount": 1,
-      "fileSize": 32626
-    },
-    {
-      "folderName": "Aroma1997Core-1.12.1-1.3.0.0.b120.jar",
-      "fingerprint": 1413975852,
-      "fileDateHash": 4072980921,
-      "sectionID": 6,
-      "individualFingerprints": [
-        1413975852
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:35:49.5866603Z",
-      "lastWriteTimeUtc": "2017-08-29T16:43:03.0506685Z",
-      "queryTimestamp": "2017-08-31T18:35:51.524019Z",
-      "fileCount": 1,
-      "fileSize": 222551
-    },
-    {
-      "folderName": "rftools-1.12-6.13.jar",
-      "fingerprint": 4182654041,
-      "fileDateHash": 855428440,
-      "sectionID": 6,
-      "individualFingerprints": [
-        4182654041
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:29:06.8812049Z",
-      "lastWriteTimeUtc": "2017-08-25T12:42:43.5519128Z",
-      "queryTimestamp": "2017-08-31T18:29:07.7305196Z",
-      "fileCount": 1,
-      "fileSize": 3014619
-    },
-    {
-      "folderName": "Grue-1.12-1.3.5.jar",
-      "fingerprint": 2027025776,
-      "fileDateHash": 118190857,
-      "sectionID": 6,
-      "individualFingerprints": [
-        2027025776
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:35:50.2853305Z",
-      "lastWriteTimeUtc": "2017-08-03T17:13:16.9714463Z",
-      "queryTimestamp": "2017-08-31T18:35:51.5245197Z",
-      "fileCount": 1,
-      "fileSize": 606976
-    },
-    {
-      "folderName": "GlassHearts-1.12-1.0.61.jar",
-      "fingerprint": 3715120799,
-      "fileDateHash": 1822986829,
-      "sectionID": 6,
-      "individualFingerprints": [
-        3715120799
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:35:50.2673132Z",
-      "lastWriteTimeUtc": "2017-08-03T17:12:43.4250733Z",
-      "queryTimestamp": "2017-08-31T18:35:51.5245197Z",
-      "fileCount": 1,
-      "fileSize": 417126
-    },
     {
       "folderName": "CraftTweaker2-1.12-4.0.3.jar",
       "fingerprint": 1210798643,
@@ -484,49 +49,19 @@
       "fileSize": 844566
     },
     {
-      "folderName": "CommonCapabilities-1.12-1.4.0.jar",
-      "fingerprint": 3884302499,
-      "fileDateHash": 2536596354,
+      "folderName": "environmentaltech-1.12.1-2.0.2d.jar",
+      "fingerprint": 2807921505,
+      "fileDateHash": 974056386,
       "sectionID": 6,
       "individualFingerprints": [
-        3884302499
+        2807921505
       ],
       "status": 1,
-      "timestamp": "2017-08-31T18:35:49.9905477Z",
-      "lastWriteTimeUtc": "2017-08-25T12:37:28.179411Z",
-      "queryTimestamp": "2017-08-31T18:35:51.5245197Z",
+      "timestamp": "2017-08-31T18:35:50.184234Z",
+      "lastWriteTimeUtc": "2017-08-29T16:15:56.3751783Z",
+      "queryTimestamp": "2017-08-31T18:35:51.5255206Z",
       "fileCount": 1,
-      "fileSize": 77016
-    },
-    {
-      "folderName": "RebornStorage-1.12-2.0.1.6.jar",
-      "fingerprint": 803145860,
-      "fileDateHash": 1854123934,
-      "sectionID": 6,
-      "individualFingerprints": [
-        803145860
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:29:06.7555842Z",
-      "lastWriteTimeUtc": "2017-08-04T08:55:14.3486882Z",
-      "queryTimestamp": "2017-08-31T18:29:07.7305196Z",
-      "fileCount": 1,
-      "fileSize": 59868
-    },
-    {
-      "folderName": "ElevatorMod-1.12-1.3.4.jar",
-      "fingerprint": 772672735,
-      "fileDateHash": 3413368225,
-      "sectionID": 6,
-      "individualFingerprints": [
-        772672735
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:35:50.17022Z",
-      "lastWriteTimeUtc": "2017-08-03T17:12:57.5276139Z",
-      "queryTimestamp": "2017-08-31T18:35:51.5245197Z",
-      "fileCount": 1,
-      "fileSize": 97923
+      "fileSize": 563890
     },
     {
       "folderName": "CoFHWorld-1.12-1.0.1.8-universal.jar",
@@ -544,34 +79,109 @@
       "fileSize": 395753
     },
     {
-      "folderName": "JustAFewFish-1.7_for_1.12.jar",
-      "fingerprint": 3718830303,
-      "fileDateHash": 1558449603,
+      "folderName": "Bookshelf-1.12.1-2.1.429.jar",
+      "fingerprint": 4238966365,
+      "fileDateHash": 3394953138,
       "sectionID": 6,
       "individualFingerprints": [
-        3718830303
+        4238966365
       ],
       "status": 1,
-      "timestamp": "2017-08-31T18:29:06.4072503Z",
-      "lastWriteTimeUtc": "2017-08-03T17:13:44.4667814Z",
-      "queryTimestamp": "2017-08-31T18:29:07.7305196Z",
+      "timestamp": "2017-08-31T18:35:49.7398072Z",
+      "lastWriteTimeUtc": "2017-08-29T16:14:31.0441397Z",
+      "queryTimestamp": "2017-08-31T18:35:51.529525Z",
       "fileCount": 1,
-      "fileSize": 238863
+      "fileSize": 184909
     },
     {
-      "folderName": "Chameleon-1.12-4.1.3.jar",
-      "fingerprint": 2760206313,
-      "fileDateHash": 1761537084,
+      "folderName": "journeymap-1.12.1-5.5.0b3.jar",
+      "fingerprint": 4051548795,
+      "fileDateHash": 3823009915,
       "sectionID": 6,
       "individualFingerprints": [
-        2760206313
+        4051548795
       ],
       "status": 1,
-      "timestamp": "2017-08-31T18:35:49.8664289Z",
-      "lastWriteTimeUtc": "2017-08-03T17:13:04.4767276Z",
-      "queryTimestamp": "2017-08-31T18:35:51.52502Z",
+      "timestamp": "2017-08-31T18:29:06.39624Z",
+      "lastWriteTimeUtc": "2017-08-29T16:43:12.4638257Z",
+      "queryTimestamp": "2017-08-31T18:29:07.7305196Z",
       "fileCount": 1,
-      "fileSize": 96859
+      "fileSize": 1785738
+    },
+    {
+      "folderName": "Quark-r1.2-104.jar",
+      "fingerprint": 3307689107,
+      "fileDateHash": 2450305188,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3307689107
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:29:06.7380679Z",
+      "lastWriteTimeUtc": "2017-08-03T17:14:20.0435305Z",
+      "queryTimestamp": "2017-08-31T18:29:07.7310202Z",
+      "fileCount": 1,
+      "fileSize": 1547759
+    },
+    {
+      "folderName": "AppleSkin-mc1.12-1.0.7.jar",
+      "fingerprint": 2494708077,
+      "fileDateHash": 1128619063,
+      "sectionID": 6,
+      "individualFingerprints": [
+        2494708077
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:35:49.5651395Z",
+      "lastWriteTimeUtc": "2017-08-03T17:13:27.1610466Z",
+      "queryTimestamp": "2017-08-31T18:35:51.524019Z",
+      "fileCount": 1,
+      "fileSize": 32626
+    },
+    {
+      "folderName": "CyclopsCore-1.12-0.10.15.jar",
+      "fingerprint": 2318981076,
+      "fileDateHash": 2392731807,
+      "sectionID": 6,
+      "individualFingerprints": [
+        2318981076
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:35:50.008565Z",
+      "lastWriteTimeUtc": "2017-08-29T16:15:10.4631948Z",
+      "queryTimestamp": "2017-08-31T18:35:51.5270219Z",
+      "fileCount": 1,
+      "fileSize": 753981
+    },
+    {
+      "folderName": "ChestTransporter-1.12-2.8.7.jar",
+      "fingerprint": 3701646388,
+      "fileDateHash": 2403966600,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3701646388
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:35:49.8684308Z",
+      "lastWriteTimeUtc": "2017-08-07T12:12:19.7670802Z",
+      "queryTimestamp": "2017-08-31T18:35:51.5285235Z",
+      "fileCount": 1,
+      "fileSize": 316691
+    },
+    {
+      "folderName": "ThermalDynamics-1.12-2.3.5.12-universal.jar",
+      "fingerprint": 840466776,
+      "fileDateHash": 1407055185,
+      "sectionID": 6,
+      "individualFingerprints": [
+        840466776
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:35:50.3363797Z",
+      "lastWriteTimeUtc": "2017-08-29T16:17:44.9350825Z",
+      "queryTimestamp": "2017-08-31T18:35:51.5275225Z",
+      "fileCount": 1,
+      "fileSize": 699166
     },
     {
       "folderName": "Chisel-MC1.12-0.0.13.16.jar",
@@ -589,79 +199,724 @@
       "fileSize": 17369245
     },
     {
-      "folderName": "BabyAnimals-1.11-2.jar",
-      "fingerprint": 3370988495,
-      "fileDateHash": 1548848960,
+      "folderName": "ThermalFoundation-1.12-2.3.5.14-universal.jar",
+      "fingerprint": 4291943306,
+      "fileDateHash": 1054925127,
       "sectionID": 6,
       "individualFingerprints": [
-        3370988495
+        4291943306
       ],
       "status": 1,
-      "timestamp": "2017-08-31T18:35:49.6922615Z",
-      "lastWriteTimeUtc": "2017-08-03T17:13:20.4461307Z",
-      "queryTimestamp": "2017-08-31T18:35:51.52502Z",
+      "timestamp": "2017-08-31T18:35:50.3498926Z",
+      "lastWriteTimeUtc": "2017-08-29T16:17:47.102818Z",
+      "queryTimestamp": "2017-08-31T18:35:51.5275225Z",
       "fileCount": 1,
-      "fileSize": 282825
+      "fileSize": 1896528
     },
     {
-      "folderName": "XL Food Mod-1.12-1.0.1.jar",
-      "fingerprint": 2669296529,
-      "fileDateHash": 2122557334,
+      "folderName": "BTWeagles-1.12-1.0.2.0.jar",
+      "fingerprint": 4097853477,
+      "fileDateHash": 3288074317,
       "sectionID": 6,
       "individualFingerprints": [
-        2669296529
+        4097853477
       ],
       "status": 1,
-      "timestamp": "2017-08-31T18:35:50.3669089Z",
-      "lastWriteTimeUtc": "2017-08-28T10:29:55.6361004Z",
-      "queryTimestamp": "2017-08-31T18:35:51.52502Z",
+      "timestamp": "2017-08-31T18:35:49.7413085Z",
+      "lastWriteTimeUtc": "2017-08-29T16:14:22.9554009Z",
+      "queryTimestamp": "2017-08-31T18:35:51.5270219Z",
       "fileCount": 1,
-      "fileSize": 322760
+      "fileSize": 16194098
     },
     {
-      "folderName": "chestcow-1.0-mc1.12.0.jar",
-      "fingerprint": 2768588003,
-      "fileDateHash": 483600991,
+      "folderName": "Exchangers-1.12-2.4.jar",
+      "fingerprint": 3961556886,
+      "fileDateHash": 2665831970,
       "sectionID": 6,
       "individualFingerprints": [
-        2768588003
+        3961556886
       ],
       "status": 1,
-      "timestamp": "2017-08-31T18:35:49.8679305Z",
-      "lastWriteTimeUtc": "2017-08-03T17:12:53.036478Z",
-      "queryTimestamp": "2017-08-31T18:35:51.52502Z",
+      "timestamp": "2017-08-31T18:35:50.2072558Z",
+      "lastWriteTimeUtc": "2017-08-25T12:40:26.4866857Z",
+      "queryTimestamp": "2017-08-31T18:35:51.529525Z",
       "fileCount": 1,
-      "fileSize": 11681
+      "fileSize": 1452069
     },
     {
-      "folderName": "theoneprobe-1.12-1.4.18.jar",
-      "fingerprint": 728337335,
-      "fileDateHash": 2202748882,
+      "folderName": "xnet-1.12-1.4.0.jar",
+      "fingerprint": 371404617,
+      "fileDateHash": 109090487,
       "sectionID": 6,
       "individualFingerprints": [
-        728337335
+        371404617
       ],
       "status": 1,
-      "timestamp": "2017-08-31T18:35:50.3343778Z",
-      "lastWriteTimeUtc": "2017-08-29T16:17:14.392578Z",
-      "queryTimestamp": "2017-08-31T18:35:51.5255206Z",
+      "timestamp": "2017-08-31T18:35:50.3689111Z",
+      "lastWriteTimeUtc": "2017-08-15T07:10:52.8103543Z",
+      "queryTimestamp": "2017-08-31T18:35:51.5305254Z",
       "fileCount": 1,
-      "fileSize": 297779
+      "fileSize": 412668
     },
     {
-      "folderName": "IvToolkit-1.3.3-1.12.jar",
-      "fingerprint": 2463394895,
-      "fileDateHash": 1895204848,
+      "folderName": "Waystones_1.12.1-4.0.15.jar",
+      "fingerprint": 1284265057,
+      "fileDateHash": 2265450262,
       "sectionID": 6,
       "individualFingerprints": [
-        2463394895
+        1284265057
       ],
       "status": 1,
-      "timestamp": "2017-08-31T18:29:06.3832272Z",
-      "lastWriteTimeUtc": "2017-08-03T17:13:45.1071634Z",
+      "timestamp": "2017-08-31T18:35:50.3654076Z",
+      "lastWriteTimeUtc": "2017-08-15T07:10:36.3099975Z",
+      "queryTimestamp": "2017-08-31T18:35:51.5275225Z",
+      "fileCount": 1,
+      "fileSize": 128681
+    },
+    {
+      "folderName": "CommonCapabilities-1.12-1.4.0.jar",
+      "fingerprint": 3884302499,
+      "fileDateHash": 2536596354,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3884302499
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:35:49.9905477Z",
+      "lastWriteTimeUtc": "2017-08-25T12:37:28.179411Z",
+      "queryTimestamp": "2017-08-31T18:35:51.5245197Z",
+      "fileCount": 1,
+      "fileSize": 77016
+    },
+    {
+      "folderName": "KleeSlabs_1.12-5.3.2.jar",
+      "fingerprint": 685071902,
+      "fileDateHash": 683526439,
+      "sectionID": 6,
+      "individualFingerprints": [
+        685071902
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:29:06.4167595Z",
+      "lastWriteTimeUtc": "2017-08-03T17:14:04.3644661Z",
+      "queryTimestamp": "2017-08-31T18:29:07.7310202Z",
+      "fileCount": 1,
+      "fileSize": 25292
+    },
+    {
+      "folderName": "FoodExpansion1.3.2-1.12.jar",
+      "fingerprint": 60687808,
+      "fileDateHash": 3419721447,
+      "sectionID": 6,
+      "individualFingerprints": [
+        60687808
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:35:50.2533Z",
+      "lastWriteTimeUtc": "2017-08-28T10:28:32.0474042Z",
+      "queryTimestamp": "2017-08-31T18:35:51.5270219Z",
+      "fileCount": 1,
+      "fileSize": 80943
+    },
+    {
+      "folderName": "CodeChickenLib-1.12-3.1.2.297-universal.jar",
+      "fingerprint": 1974409618,
+      "fileDateHash": 134450139,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1974409618
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:35:49.9785362Z",
+      "lastWriteTimeUtc": "2017-08-25T12:37:13.7485119Z",
+      "queryTimestamp": "2017-08-31T18:35:51.5285235Z",
+      "fileCount": 1,
+      "fileSize": 637057
+    },
+    {
+      "folderName": "ImmersiveEngineering-0.12-71.jar",
+      "fingerprint": 3835652132,
+      "fileDateHash": 3167748092,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3835652132
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:29:06.1750271Z",
+      "lastWriteTimeUtc": "2017-08-25T12:40:43.9277034Z",
+      "queryTimestamp": "2017-08-31T18:29:07.7310202Z",
+      "fileCount": 1,
+      "fileSize": 5632874
+    },
+    {
+      "folderName": "subcommonlib-sublib-1.12-1.2.0.1.jar",
+      "fingerprint": 3522691359,
+      "fileDateHash": 462986074,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3522691359
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:29:06.9727935Z",
+      "lastWriteTimeUtc": "2017-08-03T17:14:07.5422852Z",
+      "queryTimestamp": "2017-08-31T18:29:07.7310202Z",
+      "fileCount": 1,
+      "fileSize": 40559
+    },
+    {
+      "folderName": "[1.12_1.12.1] GlobalXP v1.3.jar",
+      "fingerprint": 2643642440,
+      "fileDateHash": 1973360598,
+      "sectionID": 6,
+      "individualFingerprints": [
+        2643642440
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:35:50.3729147Z",
+      "lastWriteTimeUtc": "2017-08-12T16:17:51.2000208Z",
+      "queryTimestamp": "2017-08-31T18:35:51.524019Z",
+      "fileCount": 1,
+      "fileSize": 24759
+    },
+    {
+      "folderName": "CoFHCore-1.12-4.3.5.13-universal.jar",
+      "fingerprint": 3088482499,
+      "fileDateHash": 3672035566,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3088482499
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:35:49.9840416Z",
+      "lastWriteTimeUtc": "2017-08-29T16:14:44.9498315Z",
+      "queryTimestamp": "2017-08-31T18:35:51.5290238Z",
+      "fileCount": 1,
+      "fileSize": 674429
+    },
+    {
+      "folderName": "GlassHearts-1.12-1.0.61.jar",
+      "fingerprint": 3715120799,
+      "fileDateHash": 1822986829,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3715120799
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:35:50.2673132Z",
+      "lastWriteTimeUtc": "2017-08-03T17:12:43.4250733Z",
+      "queryTimestamp": "2017-08-31T18:35:51.5245197Z",
+      "fileCount": 1,
+      "fileSize": 417126
+    },
+    {
+      "folderName": "RebornStorage-1.12-2.0.1.6.jar",
+      "fingerprint": 803145860,
+      "fileDateHash": 1854123934,
+      "sectionID": 6,
+      "individualFingerprints": [
+        803145860
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:29:06.7555842Z",
+      "lastWriteTimeUtc": "2017-08-04T08:55:14.3486882Z",
       "queryTimestamp": "2017-08-31T18:29:07.7305196Z",
       "fileCount": 1,
-      "fileSize": 455763
+      "fileSize": 59868
+    },
+    {
+      "folderName": "jei_1.12.1-4.7.8.92.jar",
+      "fingerprint": 439348570,
+      "fileDateHash": 1947203208,
+      "sectionID": 6,
+      "individualFingerprints": [
+        439348570
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:29:06.3907343Z",
+      "lastWriteTimeUtc": "2017-08-29T16:16:37.711788Z",
+      "queryTimestamp": "2017-08-31T18:29:07.7300192Z",
+      "fileCount": 1,
+      "fileSize": 505182
+    },
+    {
+      "folderName": "cucumber[1.12]-1.0.0.jar",
+      "fingerprint": 3679246873,
+      "fileDateHash": 2696683071,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3679246873
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:35:50.0060625Z",
+      "lastWriteTimeUtc": "2017-08-03T17:12:56.9570946Z",
+      "queryTimestamp": "2017-08-31T18:35:51.5230181Z",
+      "fileCount": 1,
+      "fileSize": 23294
+    },
+    {
+      "folderName": "StorageDrawers-1.12.1-5.3.0.jar",
+      "fingerprint": 1994277277,
+      "fileDateHash": 3293630350,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1994277277
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:29:06.9487699Z",
+      "lastWriteTimeUtc": "2017-08-29T16:17:06.2103881Z",
+      "queryTimestamp": "2017-08-31T18:29:07.7300192Z",
+      "fileCount": 1,
+      "fileSize": 589356
+    },
+    {
+      "folderName": "rangedpumps-0.5.jar",
+      "fingerprint": 3380870199,
+      "fileDateHash": 500247049,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3380870199
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:29:06.7490779Z",
+      "lastWriteTimeUtc": "2017-08-03T17:13:51.3466359Z",
+      "queryTimestamp": "2017-08-31T18:29:07.7305196Z",
+      "fileCount": 1,
+      "fileSize": 21519
+    },
+    {
+      "folderName": "roots-2-0.025.jar",
+      "fingerprint": 4160187025,
+      "fileDateHash": 3986616480,
+      "sectionID": 6,
+      "individualFingerprints": [
+        4160187025
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:29:06.9097322Z",
+      "lastWriteTimeUtc": "2017-08-03T17:14:14.2464227Z",
+      "queryTimestamp": "2017-08-31T18:29:07.7310202Z",
+      "fileCount": 1,
+      "fileSize": 694893
+    },
+    {
+      "folderName": "MouseTweaks-2.8-mc1.12.1.jar",
+      "fingerprint": 439035205,
+      "fileDateHash": 1658514453,
+      "sectionID": 6,
+      "individualFingerprints": [
+        439035205
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:29:06.574911Z",
+      "lastWriteTimeUtc": "2017-08-29T16:43:14.0668053Z",
+      "queryTimestamp": "2017-08-31T18:29:07.7300192Z",
+      "fileCount": 1,
+      "fileSize": 68793
+    },
+    {
+      "folderName": "Aroma1997s-Dimensional-World-1.12-1.3.0.0.b37.jar",
+      "fingerprint": 1730083292,
+      "fileDateHash": 2533674324,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1730083292
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:35:49.5886622Z",
+      "lastWriteTimeUtc": "2017-08-03T17:13:21.1210539Z",
+      "queryTimestamp": "2017-08-31T18:35:51.5225177Z",
+      "fileCount": 1,
+      "fileSize": 43154
+    },
+    {
+      "folderName": "RedstoneArsenal-1.12-2.3.5.13-universal.jar",
+      "fingerprint": 349324603,
+      "fileDateHash": 3294419027,
+      "sectionID": 6,
+      "individualFingerprints": [
+        349324603
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:29:06.8036306Z",
+      "lastWriteTimeUtc": "2017-08-29T16:16:53.6745778Z",
+      "queryTimestamp": "2017-08-31T18:29:07.7305196Z",
+      "fileCount": 1,
+      "fileSize": 223140
+    },
+    {
+      "folderName": "NoNausea-MC1.12-1.0.jar",
+      "fingerprint": 2197328098,
+      "fileDateHash": 2877532850,
+      "sectionID": 6,
+      "individualFingerprints": [
+        2197328098
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:29:06.6780099Z",
+      "lastWriteTimeUtc": "2017-08-30T19:13:07.391723Z",
+      "queryTimestamp": "2017-08-31T18:29:07.7310202Z",
+      "fileCount": 1,
+      "fileSize": 9679
+    },
+    {
+      "folderName": "ElecCore-1.12-1.8.430.jar",
+      "fingerprint": 3520281015,
+      "fileDateHash": 3146228986,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3520281015
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:35:50.1627129Z",
+      "lastWriteTimeUtc": "2017-08-25T12:39:44.7369273Z",
+      "queryTimestamp": "2017-08-31T18:35:51.5285235Z",
+      "fileCount": 1,
+      "fileSize": 841540
+    },
+    {
+      "folderName": "appliedenergistics2-rv5-alpha-4.jar",
+      "fingerprint": 4100306615,
+      "fileDateHash": 2488217755,
+      "sectionID": 6,
+      "individualFingerprints": [
+        4100306615
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:35:49.5651395Z",
+      "lastWriteTimeUtc": "2017-08-29T16:13:42.2269855Z",
+      "queryTimestamp": "2017-08-31T18:35:51.5265216Z",
+      "fileCount": 1,
+      "fileSize": 3551185
+    },
+    {
+      "folderName": "topaddons-1.12-0.15.1.jar",
+      "fingerprint": 2348052713,
+      "fileDateHash": 3951540615,
+      "sectionID": 6,
+      "individualFingerprints": [
+        2348052713
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:35:50.3609031Z",
+      "lastWriteTimeUtc": "2017-08-29T16:54:08.734169Z",
+      "queryTimestamp": "2017-08-31T18:35:51.5280232Z",
+      "fileCount": 1,
+      "fileSize": 149539
+    },
+    {
+      "folderName": "mobends-0.24_for_MC-1.12.jar",
+      "fingerprint": 1044126311,
+      "fileDateHash": 4174858972,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1044126311
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:29:06.5113499Z",
+      "lastWriteTimeUtc": "2017-08-03T17:13:35.5242418Z",
+      "queryTimestamp": "2017-08-31T18:29:07.7300192Z",
+      "fileCount": 1,
+      "fileSize": 669015
+    },
+    {
+      "folderName": "AutoRegLib-1.3-13.jar",
+      "fingerprint": 247652631,
+      "fileDateHash": 1217746087,
+      "sectionID": 6,
+      "individualFingerprints": [
+        247652631
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:35:49.6918365Z",
+      "lastWriteTimeUtc": "2017-08-03T17:13:22.6349718Z",
+      "queryTimestamp": "2017-08-31T18:35:51.5290238Z",
+      "fileCount": 1,
+      "fileSize": 64026
+    },
+    {
+      "folderName": "WearableBackpacks-1.12-3.0.4.jar",
+      "fingerprint": 896775266,
+      "fileDateHash": 2314566589,
+      "sectionID": 6,
+      "individualFingerprints": [
+        896775266
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:35:50.3659079Z",
+      "lastWriteTimeUtc": "2017-08-03T17:13:52.0024254Z",
+      "queryTimestamp": "2017-08-31T18:35:51.5270219Z",
+      "fileCount": 1,
+      "fileSize": 198795
+    },
+    {
+      "folderName": "EnderStorage-1.12-2.4.0.122-universal.jar",
+      "fingerprint": 104849844,
+      "fileDateHash": 2223526790,
+      "sectionID": 6,
+      "individualFingerprints": [
+        104849844
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:35:50.1832331Z",
+      "lastWriteTimeUtc": "2017-08-25T12:40:18.5617236Z",
+      "queryTimestamp": "2017-08-31T18:35:51.5290238Z",
+      "fileCount": 1,
+      "fileSize": 223766
+    },
+    {
+      "folderName": "ThermalExpansion-1.12-5.3.5.19-universal.jar",
+      "fingerprint": 3164777638,
+      "fileDateHash": 359530023,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3164777638
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:35:50.3403836Z",
+      "lastWriteTimeUtc": "2017-08-29T16:17:46.0226649Z",
+      "queryTimestamp": "2017-08-31T18:35:51.5305254Z",
+      "fileCount": 1,
+      "fileSize": 1856011
+    },
+    {
+      "folderName": "InventoryTweaks-1.63+beta.108.jar",
+      "fingerprint": 2835791806,
+      "fileDateHash": 3963667945,
+      "sectionID": 6,
+      "individualFingerprints": [
+        2835791806
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:29:06.3677122Z",
+      "lastWriteTimeUtc": "2017-08-29T16:43:11.0862562Z",
+      "queryTimestamp": "2017-08-31T18:29:07.7310202Z",
+      "fileCount": 1,
+      "fileSize": 260819
+    },
+    {
+      "folderName": "StevesCarts-1.12.1-2.4.7.40.jar",
+      "fingerprint": 534931129,
+      "fileDateHash": 4208472540,
+      "sectionID": 6,
+      "individualFingerprints": [
+        534931129
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:29:06.9267488Z",
+      "lastWriteTimeUtc": "2017-08-29T16:43:20.0586068Z",
+      "queryTimestamp": "2017-08-31T18:29:07.7300192Z",
+      "fileCount": 1,
+      "fileSize": 2294360
+    },
+    {
+      "folderName": "IntegratedTunnels-1.12-1.3.1.jar",
+      "fingerprint": 2768431220,
+      "fileDateHash": 1125027783,
+      "sectionID": 6,
+      "individualFingerprints": [
+        2768431220
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:29:06.3456908Z",
+      "lastWriteTimeUtc": "2017-08-29T16:16:30.5975539Z",
+      "queryTimestamp": "2017-08-31T18:29:07.7300192Z",
+      "fileCount": 1,
+      "fileSize": 614399
+    },
+    {
+      "folderName": "embers-0.221.jar",
+      "fingerprint": 2494702552,
+      "fileDateHash": 3631301372,
+      "sectionID": 6,
+      "individualFingerprints": [
+        2494702552
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:35:50.171221Z",
+      "lastWriteTimeUtc": "2017-08-03T17:13:29.9369591Z",
+      "queryTimestamp": "2017-08-31T18:35:51.5305254Z",
+      "fileCount": 1,
+      "fileSize": 1674916
+    },
+    {
+      "folderName": "JustEnoughResources-1.12.1-0.8.4.24.jar",
+      "fingerprint": 4030082913,
+      "fileDateHash": 1881657718,
+      "sectionID": 6,
+      "individualFingerprints": [
+        4030082913
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:29:06.4122551Z",
+      "lastWriteTimeUtc": "2017-08-29T16:54:43.8184422Z",
+      "queryTimestamp": "2017-08-31T18:29:07.7310202Z",
+      "fileCount": 1,
+      "fileSize": 213669
+    },
+    {
+      "folderName": "rftoolsdim-1.12-5.04.jar",
+      "fingerprint": 2263244761,
+      "fileDateHash": 1627371188,
+      "sectionID": 6,
+      "individualFingerprints": [
+        2263244761
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:29:06.8987216Z",
+      "lastWriteTimeUtc": "2017-08-03T17:13:40.8220093Z",
+      "queryTimestamp": "2017-08-31T18:29:07.7305196Z",
+      "fileCount": 1,
+      "fileSize": 1663015
+    },
+    {
+      "folderName": "ElevatorMod-1.12-1.3.4.jar",
+      "fingerprint": 772672735,
+      "fileDateHash": 3413368225,
+      "sectionID": 6,
+      "individualFingerprints": [
+        772672735
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:35:50.17022Z",
+      "lastWriteTimeUtc": "2017-08-03T17:12:57.5276139Z",
+      "queryTimestamp": "2017-08-31T18:35:51.5245197Z",
+      "fileCount": 1,
+      "fileSize": 97923
+    },
+    {
+      "folderName": "moreoverlays-1.12-mc1.12.jar",
+      "fingerprint": 249906655,
+      "fileDateHash": 860597482,
+      "sectionID": 6,
+      "individualFingerprints": [
+        249906655
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:29:06.574911Z",
+      "lastWriteTimeUtc": "2017-08-03T18:19:49.4579864Z",
+      "queryTimestamp": "2017-08-31T18:29:07.7305196Z",
+      "fileCount": 1,
+      "fileSize": 36698
+    },
+    {
+      "folderName": "deepresonance-1.12-1.4.9.jar",
+      "fingerprint": 3533432728,
+      "fileDateHash": 2395681242,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3533432728
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:35:50.0205765Z",
+      "lastWriteTimeUtc": "2017-08-03T17:13:08.2128715Z",
+      "queryTimestamp": "2017-08-31T18:35:51.5230181Z",
+      "fileCount": 1,
+      "fileSize": 878816
+    },
+    {
+      "folderName": "modtweaker-4.0.1.jar",
+      "fingerprint": 1779773705,
+      "fileDateHash": 1375708135,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1779773705
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:29:06.5684046Z",
+      "lastWriteTimeUtc": "2017-08-05T19:10:18.8191186Z",
+      "queryTimestamp": "2017-08-31T18:29:07.7310202Z",
+      "fileCount": 1,
+      "fileSize": 72353
+    },
+    {
+      "folderName": "RebornCore-1.12.1-3.2.7.95-universal.jar",
+      "fingerprint": 2934208927,
+      "fileDateHash": 723267725,
+      "sectionID": 6,
+      "individualFingerprints": [
+        2934208927
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:29:06.7495785Z",
+      "lastWriteTimeUtc": "2017-08-29T16:43:17.0082177Z",
+      "queryTimestamp": "2017-08-31T18:29:07.7305196Z",
+      "fileCount": 1,
+      "fileSize": 518376
+    },
+    {
+      "folderName": "refinedstorage-1.5.17.jar",
+      "fingerprint": 718676308,
+      "fileDateHash": 367154743,
+      "sectionID": 6,
+      "individualFingerprints": [
+        718676308
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:29:06.8106374Z",
+      "lastWriteTimeUtc": "2017-08-25T12:42:42.2136243Z",
+      "queryTimestamp": "2017-08-31T18:29:07.7305196Z",
+      "fileCount": 1,
+      "fileSize": 1716574
+    },
+    {
+      "folderName": "FTBLib-4.0.5.jar",
+      "fingerprint": 2196415616,
+      "fileDateHash": 3872047722,
+      "sectionID": 6,
+      "individualFingerprints": [
+        2196415616
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:35:50.2543018Z",
+      "lastWriteTimeUtc": "2017-08-30T22:13:15.5617228Z",
+      "queryTimestamp": "2017-08-31T18:35:51.526021Z",
+      "fileCount": 1,
+      "fileSize": 732556
+    },
+    {
+      "folderName": "CookingForBlockheads_1.12.1-6.3.6.jar",
+      "fingerprint": 3204933782,
+      "fileDateHash": 2848456657,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3204933782
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:35:49.9915487Z",
+      "lastWriteTimeUtc": "2017-08-15T07:07:38.6367731Z",
+      "queryTimestamp": "2017-08-31T18:35:51.5300256Z",
+      "fileCount": 1,
+      "fileSize": 498147
+    },
+    {
+      "folderName": "ironchest-1.12-7.0.31.818.jar",
+      "fingerprint": 1948271834,
+      "fileDateHash": 2627279067,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1948271834
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:29:06.3732176Z",
+      "lastWriteTimeUtc": "2017-08-03T17:13:53.7340547Z",
+      "queryTimestamp": "2017-08-31T18:29:07.7305196Z",
+      "fileCount": 1,
+      "fileSize": 1109365
+    },
+    {
+      "folderName": "Aroma1997Core-1.12.1-1.3.0.0.b120.jar",
+      "fingerprint": 1413975852,
+      "fileDateHash": 4072980921,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1413975852
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:35:49.5866603Z",
+      "lastWriteTimeUtc": "2017-08-29T16:43:03.0506685Z",
+      "queryTimestamp": "2017-08-31T18:35:51.524019Z",
+      "fileCount": 1,
+      "fileSize": 222551
     },
     {
       "folderName": "ResourceLoader-MC1.12-1.5.2.jar",
@@ -679,6 +934,426 @@
       "fileSize": 13325
     },
     {
+      "folderName": "zerocore-1.12-0.1.0.9.jar",
+      "fingerprint": 3442154534,
+      "fileDateHash": 73661923,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3442154534
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:35:50.370913Z",
+      "lastWriteTimeUtc": "2017-08-03T17:14:12.2899196Z",
+      "queryTimestamp": "2017-08-31T18:35:51.529525Z",
+      "fileCount": 1,
+      "fileSize": 139087
+    },
+    {
+      "folderName": "DynamicSurroundings-1.12-3.4.7.0.jar",
+      "fingerprint": 2463573591,
+      "fileDateHash": 3774567799,
+      "sectionID": 6,
+      "individualFingerprints": [
+        2463573591
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:35:50.0305861Z",
+      "lastWriteTimeUtc": "2017-08-25T12:39:36.1056651Z",
+      "queryTimestamp": "2017-08-31T18:35:51.5280232Z",
+      "fileCount": 1,
+      "fileSize": 22049079
+    },
+    {
+      "folderName": "JustAnotherSnad-1.12-0.0.1.0.jar",
+      "fingerprint": 601052077,
+      "fileDateHash": 2956304332,
+      "sectionID": 6,
+      "individualFingerprints": [
+        601052077
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:29:06.4117547Z",
+      "lastWriteTimeUtc": "2017-08-29T16:53:14.7462101Z",
+      "queryTimestamp": "2017-08-31T18:29:07.7305196Z",
+      "fileCount": 1,
+      "fileSize": 22662
+    },
+    {
+      "folderName": "DoggyTalents-1.12-1.14.2.298-universal.jar",
+      "fingerprint": 4210884129,
+      "fileDateHash": 111497587,
+      "sectionID": 6,
+      "individualFingerprints": [
+        4210884129
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:35:50.0255813Z",
+      "lastWriteTimeUtc": "2017-08-25T12:39:15.5350276Z",
+      "queryTimestamp": "2017-08-31T18:35:51.5290238Z",
+      "fileCount": 1,
+      "fileSize": 727357
+    },
+    {
+      "folderName": "TConstruct-1.12-2.7.2.19.jar",
+      "fingerprint": 3995022911,
+      "fileDateHash": 3588661330,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3995022911
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:35:50.3143586Z",
+      "lastWriteTimeUtc": "2017-08-15T07:09:43.0882527Z",
+      "queryTimestamp": "2017-08-31T18:35:51.5235187Z",
+      "fileCount": 1,
+      "fileSize": 3728811
+    },
+    {
+      "folderName": "antighost-1.12-forge14.21.1.2387-1.1.jar",
+      "fingerprint": 813295039,
+      "fileDateHash": 1406386596,
+      "sectionID": 6,
+      "individualFingerprints": [
+        813295039
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:35:49.5646389Z",
+      "lastWriteTimeUtc": "2017-08-03T17:13:34.8182395Z",
+      "queryTimestamp": "2017-08-31T18:35:51.529525Z",
+      "fileCount": 1,
+      "fileSize": 7391
+    },
+    {
+      "folderName": "mysticalagriculture[1.12]-1.6.3.jar",
+      "fingerprint": 4104994880,
+      "fileDateHash": 3809621308,
+      "sectionID": 6,
+      "individualFingerprints": [
+        4104994880
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:29:06.6629955Z",
+      "lastWriteTimeUtc": "2017-08-25T12:42:05.4702673Z",
+      "queryTimestamp": "2017-08-31T18:29:07.7305196Z",
+      "fileCount": 1,
+      "fileSize": 1270089
+    },
+    {
+      "folderName": "tombstone-1.3.3-1.12.jar",
+      "fingerprint": 43225532,
+      "fileDateHash": 2029425488,
+      "sectionID": 6,
+      "individualFingerprints": [
+        43225532
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:35:50.3594018Z",
+      "lastWriteTimeUtc": "2017-08-25T12:38:17.716788Z",
+      "queryTimestamp": "2017-08-31T18:35:51.5265216Z",
+      "fileCount": 1,
+      "fileSize": 302814
+    },
+    {
+      "folderName": "ActuallyAdditions-1.12.1-r119.jar",
+      "fingerprint": 1490375576,
+      "fileDateHash": 1340028645,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1490375576
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:35:49.5481232Z",
+      "lastWriteTimeUtc": "2017-08-29T16:13:40.3381544Z",
+      "queryTimestamp": "2017-08-31T18:35:51.529525Z",
+      "fileCount": 1,
+      "fileSize": 2778082
+    },
+    {
+      "folderName": "extrautils2-1.12-1.6.jar",
+      "fingerprint": 4228720358,
+      "fileDateHash": 3604351047,
+      "sectionID": 6,
+      "individualFingerprints": [
+        4228720358
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:35:50.2337823Z",
+      "lastWriteTimeUtc": "2017-08-31T17:20:07.1540112Z",
+      "queryTimestamp": "2017-08-31T18:35:51.5310258Z",
+      "fileCount": 1,
+      "fileSize": 2781631
+    },
+    {
+      "folderName": "Grue-1.12-1.3.5.jar",
+      "fingerprint": 2027025776,
+      "fileDateHash": 118190857,
+      "sectionID": 6,
+      "individualFingerprints": [
+        2027025776
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:35:50.2853305Z",
+      "lastWriteTimeUtc": "2017-08-03T17:13:16.9714463Z",
+      "queryTimestamp": "2017-08-31T18:35:51.5245197Z",
+      "fileCount": 1,
+      "fileSize": 606976
+    },
+    {
+      "folderName": "rftools-1.12-6.13.jar",
+      "fingerprint": 4182654041,
+      "fileDateHash": 855428440,
+      "sectionID": 6,
+      "individualFingerprints": [
+        4182654041
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:29:06.8812049Z",
+      "lastWriteTimeUtc": "2017-08-25T12:42:43.5519128Z",
+      "queryTimestamp": "2017-08-31T18:29:07.7305196Z",
+      "fileCount": 1,
+      "fileSize": 3014619
+    },
+    {
+      "folderName": "thebomplugin-1.12-0.2.3.jar",
+      "fingerprint": 1717737647,
+      "fileDateHash": 809416742,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1717737647
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:35:50.3338775Z",
+      "lastWriteTimeUtc": "2017-08-12T16:21:20.8194298Z",
+      "queryTimestamp": "2017-08-31T18:35:51.5230181Z",
+      "fileCount": 1,
+      "fileSize": 51629
+    },
+    {
+      "folderName": "MTLib-3.0.0.jar",
+      "fingerprint": 183811592,
+      "fileDateHash": 1722339533,
+      "sectionID": 6,
+      "individualFingerprints": [
+        183811592
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:29:06.5804164Z",
+      "lastWriteTimeUtc": "2017-08-05T19:10:18.1749763Z",
+      "queryTimestamp": "2017-08-31T18:29:07.7310202Z",
+      "fileCount": 1,
+      "fileSize": 26880
+    },
+    {
+      "folderName": "TreeGrowingSimulator2017-1.0.1.jar",
+      "fingerprint": 3927011368,
+      "fileDateHash": 963904834,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3927011368
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:35:50.3634057Z",
+      "lastWriteTimeUtc": "2017-08-03T17:14:17.58731Z",
+      "queryTimestamp": "2017-08-31T18:35:51.5305254Z",
+      "fileCount": 1,
+      "fileSize": 27005
+    },
+    {
+      "folderName": "Psi-r1.1-52.jar",
+      "fingerprint": 455200198,
+      "fileDateHash": 2528079708,
+      "sectionID": 6,
+      "individualFingerprints": [
+        455200198
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:29:06.718549Z",
+      "lastWriteTimeUtc": "2017-08-03T17:13:59.9261792Z",
+      "queryTimestamp": "2017-08-31T18:29:07.7310202Z",
+      "fileCount": 1,
+      "fileSize": 2175737
+    },
+    {
+      "folderName": "[1.12]UncraftingTable-1.8-beta5.jar",
+      "fingerprint": 2659476545,
+      "fileDateHash": 991283349,
+      "sectionID": 6,
+      "individualFingerprints": [
+        2659476545
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:35:50.3719143Z",
+      "lastWriteTimeUtc": "2017-08-25T12:41:40.0529455Z",
+      "queryTimestamp": "2017-08-31T18:35:51.5300256Z",
+      "fileCount": 1,
+      "fileSize": 151187
+    },
+    {
+      "folderName": "modnametooltip_1.12.1-1.9.0.jar",
+      "fingerprint": 585852743,
+      "fileDateHash": 398291682,
+      "sectionID": 6,
+      "individualFingerprints": [
+        585852743
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:29:06.5188578Z",
+      "lastWriteTimeUtc": "2017-08-15T07:09:31.1309873Z",
+      "queryTimestamp": "2017-08-31T18:29:07.7305196Z",
+      "fileCount": 1,
+      "fileSize": 10115
+    },
+    {
+      "folderName": "mcjtylib-1.12-2.4.4.jar",
+      "fingerprint": 3351353591,
+      "fileDateHash": 1784800873,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3351353591
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:29:06.5048435Z",
+      "lastWriteTimeUtc": "2017-08-03T17:14:06.8309943Z",
+      "queryTimestamp": "2017-08-31T18:29:07.7310202Z",
+      "fileCount": 1,
+      "fileSize": 327767
+    },
+    {
+      "folderName": "badwithernocookiereloaded-1.12-1.8.jar",
+      "fingerprint": 3262074583,
+      "fileDateHash": 1691139888,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3262074583
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:35:49.6947643Z",
+      "lastWriteTimeUtc": "2017-08-15T07:06:02.3011885Z",
+      "queryTimestamp": "2017-08-31T18:35:51.5265216Z",
+      "fileCount": 1,
+      "fileSize": 5059
+    },
+    {
+      "folderName": "GPS-1.12.1-3.1.1.0.b28.jar",
+      "fingerprint": 1859669112,
+      "fileDateHash": 4241921063,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1859669112
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:35:50.2718176Z",
+      "lastWriteTimeUtc": "2017-08-29T16:43:10.320675Z",
+      "queryTimestamp": "2017-08-31T18:35:51.5310258Z",
+      "fileCount": 1,
+      "fileSize": 2324994
+    },
+    {
+      "folderName": "Controlling-3.0.2.jar",
+      "fingerprint": 3521806699,
+      "fileDateHash": 269403881,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3521806699
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:35:49.9910483Z",
+      "lastWriteTimeUtc": "2017-08-03T17:13:50.6965686Z",
+      "queryTimestamp": "2017-08-31T18:35:51.5235187Z",
+      "fileCount": 1,
+      "fileSize": 22802
+    },
+    {
+      "folderName": "Chameleon-1.12-4.1.3.jar",
+      "fingerprint": 2760206313,
+      "fileDateHash": 1761537084,
+      "sectionID": 6,
+      "individualFingerprints": [
+        2760206313
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:35:49.8664289Z",
+      "lastWriteTimeUtc": "2017-08-03T17:13:04.4767276Z",
+      "queryTimestamp": "2017-08-31T18:35:51.52502Z",
+      "fileCount": 1,
+      "fileSize": 96859
+    },
+    {
+      "folderName": "Stupid Things-1.12-1.1.3.jar",
+      "fingerprint": 733468169,
+      "fileDateHash": 3214444195,
+      "sectionID": 6,
+      "individualFingerprints": [
+        733468169
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:29:06.9567776Z",
+      "lastWriteTimeUtc": "2017-08-12T16:20:14.9861025Z",
+      "queryTimestamp": "2017-08-31T18:29:07.7305196Z",
+      "fileCount": 1,
+      "fileSize": 1208532
+    },
+    {
+      "folderName": "valkyrielib-1.12.1-2.0.2c.jar",
+      "fingerprint": 745625921,
+      "fileDateHash": 2771632927,
+      "sectionID": 6,
+      "individualFingerprints": [
+        745625921
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:35:50.363906Z",
+      "lastWriteTimeUtc": "2017-08-29T16:18:25.3372155Z",
+      "queryTimestamp": "2017-08-31T18:35:51.5235187Z",
+      "fileCount": 1,
+      "fileSize": 253706
+    },
+    {
+      "folderName": "astralsorcery-1.12-1.6.1.jar",
+      "fingerprint": 1487731852,
+      "fileDateHash": 2836214761,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1487731852
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:35:49.5891628Z",
+      "lastWriteTimeUtc": "2017-08-03T17:13:33.6157206Z",
+      "queryTimestamp": "2017-08-31T18:35:51.526021Z",
+      "fileCount": 1,
+      "fileSize": 13334719
+    },
+    {
+      "folderName": "immersivepetroleum-1.12-1.1.3.jar",
+      "fingerprint": 3733911271,
+      "fileDateHash": 3825641871,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3733911271
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:29:06.211062Z",
+      "lastWriteTimeUtc": "2017-08-07T12:13:04.1113769Z",
+      "queryTimestamp": "2017-08-31T18:29:07.7300192Z",
+      "fileCount": 1,
+      "fileSize": 862014
+    },
+    {
+      "folderName": "CTM-MC1.12-0.2.2.7.jar",
+      "fingerprint": 2942067947,
+      "fileDateHash": 201247362,
+      "sectionID": 6,
+      "individualFingerprints": [
+        2942067947
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:35:50.0040608Z",
+      "lastWriteTimeUtc": "2017-08-25T12:38:09.4526767Z",
+      "queryTimestamp": "2017-08-31T18:35:51.5265216Z",
+      "fileCount": 1,
+      "fileSize": 178302
+    },
+    {
       "folderName": "chiselsandbits-14.6.jar",
       "fingerprint": 1465653775,
       "fileDateHash": 3058239645,
@@ -694,19 +1369,49 @@
       "fileSize": 678425
     },
     {
-      "folderName": "environmentaltech-1.12.1-2.0.2d.jar",
-      "fingerprint": 2807921505,
-      "fileDateHash": 974056386,
+      "folderName": "Harvest-1.12-1.2.4-16.jar",
+      "fingerprint": 4138624969,
+      "fileDateHash": 3260757580,
       "sectionID": 6,
       "individualFingerprints": [
-        2807921505
+        4138624969
       ],
       "status": 1,
-      "timestamp": "2017-08-31T18:35:50.184234Z",
-      "lastWriteTimeUtc": "2017-08-29T16:15:56.3751783Z",
-      "queryTimestamp": "2017-08-31T18:35:51.5255206Z",
+      "timestamp": "2017-08-31T18:29:06.1735267Z",
+      "lastWriteTimeUtc": "2017-08-31T10:24:46.4296569Z",
+      "queryTimestamp": "2017-08-31T18:29:07.7310202Z",
       "fileCount": 1,
-      "fileSize": 563890
+      "fileSize": 14566
+    },
+    {
+      "folderName": "BetterFps-1.4.7.jar",
+      "fingerprint": 3837458360,
+      "fileDateHash": 2761583355,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3837458360
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:35:49.6973274Z",
+      "lastWriteTimeUtc": "2017-08-29T16:43:04.5328249Z",
+      "queryTimestamp": "2017-08-31T18:35:51.529525Z",
+      "fileCount": 1,
+      "fileSize": 187590
+    },
+    {
+      "folderName": "JustAFewFish-1.7_for_1.12.jar",
+      "fingerprint": 3718830303,
+      "fileDateHash": 1558449603,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3718830303
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:29:06.4072503Z",
+      "lastWriteTimeUtc": "2017-08-03T17:13:44.4667814Z",
+      "queryTimestamp": "2017-08-31T18:29:07.7305196Z",
+      "fileCount": 1,
+      "fileSize": 238863
     },
     {
       "folderName": "New World",
@@ -783,351 +1488,6 @@
       "fileSize": 0
     },
     {
-      "folderName": "modnametooltip_1.12.1-1.9.0.jar",
-      "fingerprint": 585852743,
-      "fileDateHash": 398291682,
-      "sectionID": 6,
-      "individualFingerprints": [
-        585852743
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:29:06.5188578Z",
-      "lastWriteTimeUtc": "2017-08-15T07:09:31.1309873Z",
-      "queryTimestamp": "2017-08-31T18:29:07.7305196Z",
-      "fileCount": 1,
-      "fileSize": 10115
-    },
-    {
-      "folderName": "RedstoneArsenal-1.12-2.3.5.13-universal.jar",
-      "fingerprint": 349324603,
-      "fileDateHash": 3294419027,
-      "sectionID": 6,
-      "individualFingerprints": [
-        349324603
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:29:06.8036306Z",
-      "lastWriteTimeUtc": "2017-08-29T16:16:53.6745778Z",
-      "queryTimestamp": "2017-08-31T18:29:07.7305196Z",
-      "fileCount": 1,
-      "fileSize": 223140
-    },
-    {
-      "folderName": "EvilCraft-1.12-0.10.33.jar",
-      "fingerprint": 3141898208,
-      "fileDateHash": 587727625,
-      "sectionID": 6,
-      "individualFingerprints": [
-        3141898208
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:35:50.1872471Z",
-      "lastWriteTimeUtc": "2017-08-25T12:40:25.5004699Z",
-      "queryTimestamp": "2017-08-31T18:35:51.526021Z",
-      "fileCount": 1,
-      "fileSize": 3663866
-    },
-    {
-      "folderName": "FTBLib-4.0.5.jar",
-      "fingerprint": 2196415616,
-      "fileDateHash": 3872047722,
-      "sectionID": 6,
-      "individualFingerprints": [
-        2196415616
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:35:50.2543018Z",
-      "lastWriteTimeUtc": "2017-08-30T22:13:15.5617228Z",
-      "queryTimestamp": "2017-08-31T18:35:51.526021Z",
-      "fileCount": 1,
-      "fileSize": 732556
-    },
-    {
-      "folderName": "rustic-0.4.1.jar",
-      "fingerprint": 1095390857,
-      "fileDateHash": 1986700296,
-      "sectionID": 6,
-      "individualFingerprints": [
-        1095390857
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:29:06.9162386Z",
-      "lastWriteTimeUtc": "2017-08-03T17:13:48.8446952Z",
-      "queryTimestamp": "2017-08-31T18:29:07.7305196Z",
-      "fileCount": 1,
-      "fileSize": 1251020
-    },
-    {
-      "folderName": "astralsorcery-1.12-1.6.1.jar",
-      "fingerprint": 1487731852,
-      "fileDateHash": 2836214761,
-      "sectionID": 6,
-      "individualFingerprints": [
-        1487731852
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:35:49.5891628Z",
-      "lastWriteTimeUtc": "2017-08-03T17:13:33.6157206Z",
-      "queryTimestamp": "2017-08-31T18:35:51.526021Z",
-      "fileCount": 1,
-      "fileSize": 13334719
-    },
-    {
-      "folderName": "RebornCore-1.12.1-3.2.7.95-universal.jar",
-      "fingerprint": 2934208927,
-      "fileDateHash": 723267725,
-      "sectionID": 6,
-      "individualFingerprints": [
-        2934208927
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:29:06.7495785Z",
-      "lastWriteTimeUtc": "2017-08-29T16:43:17.0082177Z",
-      "queryTimestamp": "2017-08-31T18:29:07.7305196Z",
-      "fileCount": 1,
-      "fileSize": 518376
-    },
-    {
-      "folderName": "appliedenergistics2-rv5-alpha-4.jar",
-      "fingerprint": 4100306615,
-      "fileDateHash": 2488217755,
-      "sectionID": 6,
-      "individualFingerprints": [
-        4100306615
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:35:49.5651395Z",
-      "lastWriteTimeUtc": "2017-08-29T16:13:42.2269855Z",
-      "queryTimestamp": "2017-08-31T18:35:51.5265216Z",
-      "fileCount": 1,
-      "fileSize": 3551185
-    },
-    {
-      "folderName": "CTM-MC1.12-0.2.2.7.jar",
-      "fingerprint": 2942067947,
-      "fileDateHash": 201247362,
-      "sectionID": 6,
-      "individualFingerprints": [
-        2942067947
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:35:50.0040608Z",
-      "lastWriteTimeUtc": "2017-08-25T12:38:09.4526767Z",
-      "queryTimestamp": "2017-08-31T18:35:51.5265216Z",
-      "fileCount": 1,
-      "fileSize": 178302
-    },
-    {
-      "folderName": "tombstone-1.3.3-1.12.jar",
-      "fingerprint": 43225532,
-      "fileDateHash": 2029425488,
-      "sectionID": 6,
-      "individualFingerprints": [
-        43225532
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:35:50.3594018Z",
-      "lastWriteTimeUtc": "2017-08-25T12:38:17.716788Z",
-      "queryTimestamp": "2017-08-31T18:35:51.5265216Z",
-      "fileCount": 1,
-      "fileSize": 302814
-    },
-    {
-      "folderName": "Stupid Things-1.12-1.1.3.jar",
-      "fingerprint": 733468169,
-      "fileDateHash": 3214444195,
-      "sectionID": 6,
-      "individualFingerprints": [
-        733468169
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:29:06.9567776Z",
-      "lastWriteTimeUtc": "2017-08-12T16:20:14.9861025Z",
-      "queryTimestamp": "2017-08-31T18:29:07.7305196Z",
-      "fileCount": 1,
-      "fileSize": 1208532
-    },
-    {
-      "folderName": "IntegratedDynamics-1.12-0.8.6.jar",
-      "fingerprint": 2133737169,
-      "fileDateHash": 3923087327,
-      "sectionID": 6,
-      "individualFingerprints": [
-        2133737169
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:29:06.2190697Z",
-      "lastWriteTimeUtc": "2017-08-29T16:16:20.3610829Z",
-      "queryTimestamp": "2017-08-31T18:29:07.7305196Z",
-      "fileCount": 1,
-      "fileSize": 3330044
-    },
-    {
-      "folderName": "rangedpumps-0.5.jar",
-      "fingerprint": 3380870199,
-      "fileDateHash": 500247049,
-      "sectionID": 6,
-      "individualFingerprints": [
-        3380870199
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:29:06.7490779Z",
-      "lastWriteTimeUtc": "2017-08-03T17:13:51.3466359Z",
-      "queryTimestamp": "2017-08-31T18:29:07.7305196Z",
-      "fileCount": 1,
-      "fileSize": 21519
-    },
-    {
-      "folderName": "badwithernocookiereloaded-1.12-1.8.jar",
-      "fingerprint": 3262074583,
-      "fileDateHash": 1691139888,
-      "sectionID": 6,
-      "individualFingerprints": [
-        3262074583
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:35:49.6947643Z",
-      "lastWriteTimeUtc": "2017-08-15T07:06:02.3011885Z",
-      "queryTimestamp": "2017-08-31T18:35:51.5265216Z",
-      "fileCount": 1,
-      "fileSize": 5059
-    },
-    {
-      "folderName": "CyclopsCore-1.12-0.10.15.jar",
-      "fingerprint": 2318981076,
-      "fileDateHash": 2392731807,
-      "sectionID": 6,
-      "individualFingerprints": [
-        2318981076
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:35:50.008565Z",
-      "lastWriteTimeUtc": "2017-08-29T16:15:10.4631948Z",
-      "queryTimestamp": "2017-08-31T18:35:51.5270219Z",
-      "fileCount": 1,
-      "fileSize": 753981
-    },
-    {
-      "folderName": "FoodExpansion1.3.2-1.12.jar",
-      "fingerprint": 60687808,
-      "fileDateHash": 3419721447,
-      "sectionID": 6,
-      "individualFingerprints": [
-        60687808
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:35:50.2533Z",
-      "lastWriteTimeUtc": "2017-08-28T10:28:32.0474042Z",
-      "queryTimestamp": "2017-08-31T18:35:51.5270219Z",
-      "fileCount": 1,
-      "fileSize": 80943
-    },
-    {
-      "folderName": "WearableBackpacks-1.12-3.0.4.jar",
-      "fingerprint": 896775266,
-      "fileDateHash": 2314566589,
-      "sectionID": 6,
-      "individualFingerprints": [
-        896775266
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:35:50.3659079Z",
-      "lastWriteTimeUtc": "2017-08-03T17:13:52.0024254Z",
-      "queryTimestamp": "2017-08-31T18:35:51.5270219Z",
-      "fileCount": 1,
-      "fileSize": 198795
-    },
-    {
-      "folderName": "BTWeagles-1.12-1.0.2.0.jar",
-      "fingerprint": 4097853477,
-      "fileDateHash": 3288074317,
-      "sectionID": 6,
-      "individualFingerprints": [
-        4097853477
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:35:49.7413085Z",
-      "lastWriteTimeUtc": "2017-08-29T16:14:22.9554009Z",
-      "queryTimestamp": "2017-08-31T18:35:51.5270219Z",
-      "fileCount": 1,
-      "fileSize": 16194098
-    },
-    {
-      "folderName": "BiblioCraft[v2.4.3][MC1.12.0].jar",
-      "fingerprint": 2322097600,
-      "fileDateHash": 3485382497,
-      "sectionID": 6,
-      "individualFingerprints": [
-        2322097600
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:35:49.6992685Z",
-      "lastWriteTimeUtc": "2017-08-03T17:13:07.4150736Z",
-      "queryTimestamp": "2017-08-31T18:35:51.5270219Z",
-      "fileCount": 1,
-      "fileSize": 5148425
-    },
-    {
-      "folderName": "ironchest-1.12-7.0.31.818.jar",
-      "fingerprint": 1948271834,
-      "fileDateHash": 2627279067,
-      "sectionID": 6,
-      "individualFingerprints": [
-        1948271834
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:29:06.3732176Z",
-      "lastWriteTimeUtc": "2017-08-03T17:13:53.7340547Z",
-      "queryTimestamp": "2017-08-31T18:29:07.7305196Z",
-      "fileCount": 1,
-      "fileSize": 1109365
-    },
-    {
-      "folderName": "Traverse-1.12-1.2.1-22.jar",
-      "fingerprint": 1127550558,
-      "fileDateHash": 3383363602,
-      "sectionID": 6,
-      "individualFingerprints": [
-        1127550558
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:35:50.3624047Z",
-      "lastWriteTimeUtc": "2017-08-03T17:13:54.3262222Z",
-      "queryTimestamp": "2017-08-31T18:35:51.5270219Z",
-      "fileCount": 1,
-      "fileSize": 161113
-    },
-    {
-      "folderName": "ThermalFoundation-1.12-2.3.5.14-universal.jar",
-      "fingerprint": 4291943306,
-      "fileDateHash": 1054925127,
-      "sectionID": 6,
-      "individualFingerprints": [
-        4291943306
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:35:50.3498926Z",
-      "lastWriteTimeUtc": "2017-08-29T16:17:47.102818Z",
-      "queryTimestamp": "2017-08-31T18:35:51.5275225Z",
-      "fileCount": 1,
-      "fileSize": 1896528
-    },
-    {
-      "folderName": "moreoverlays-1.12-mc1.12.jar",
-      "fingerprint": 249906655,
-      "fileDateHash": 860597482,
-      "sectionID": 6,
-      "individualFingerprints": [
-        249906655
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:29:06.574911Z",
-      "lastWriteTimeUtc": "2017-08-03T18:19:49.4579864Z",
-      "queryTimestamp": "2017-08-31T18:29:07.7305196Z",
-      "fileCount": 1,
-      "fileSize": 36698
-    },
-    {
       "folderName": "lostcities-1.12-0.0.20beta2.jar",
       "fingerprint": 1246292753,
       "fileDateHash": 3059963595,
@@ -1143,619 +1503,19 @@
       "fileSize": 253416
     },
     {
-      "folderName": "JustAnotherSnad-1.12-0.0.1.0.jar",
-      "fingerprint": 601052077,
-      "fileDateHash": 2956304332,
+      "folderName": "BabyAnimals-1.11-2.jar",
+      "fingerprint": 3370988495,
+      "fileDateHash": 1548848960,
       "sectionID": 6,
       "individualFingerprints": [
-        601052077
+        3370988495
       ],
       "status": 1,
-      "timestamp": "2017-08-31T18:29:06.4117547Z",
-      "lastWriteTimeUtc": "2017-08-29T16:53:14.7462101Z",
-      "queryTimestamp": "2017-08-31T18:29:07.7305196Z",
+      "timestamp": "2017-08-31T18:35:49.6922615Z",
+      "lastWriteTimeUtc": "2017-08-03T17:13:20.4461307Z",
+      "queryTimestamp": "2017-08-31T18:35:51.52502Z",
       "fileCount": 1,
-      "fileSize": 22662
-    },
-    {
-      "folderName": "ImmersiveEngineering-0.12-71.jar",
-      "fingerprint": 3835652132,
-      "fileDateHash": 3167748092,
-      "sectionID": 6,
-      "individualFingerprints": [
-        3835652132
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:29:06.1750271Z",
-      "lastWriteTimeUtc": "2017-08-25T12:40:43.9277034Z",
-      "queryTimestamp": "2017-08-31T18:29:07.7310202Z",
-      "fileCount": 1,
-      "fileSize": 5632874
-    },
-    {
-      "folderName": "Waystones_1.12.1-4.0.15.jar",
-      "fingerprint": 1284265057,
-      "fileDateHash": 2265450262,
-      "sectionID": 6,
-      "individualFingerprints": [
-        1284265057
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:35:50.3654076Z",
-      "lastWriteTimeUtc": "2017-08-15T07:10:36.3099975Z",
-      "queryTimestamp": "2017-08-31T18:35:51.5275225Z",
-      "fileCount": 1,
-      "fileSize": 128681
-    },
-    {
-      "folderName": "ThermalDynamics-1.12-2.3.5.12-universal.jar",
-      "fingerprint": 840466776,
-      "fileDateHash": 1407055185,
-      "sectionID": 6,
-      "individualFingerprints": [
-        840466776
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:35:50.3363797Z",
-      "lastWriteTimeUtc": "2017-08-29T16:17:44.9350825Z",
-      "queryTimestamp": "2017-08-31T18:35:51.5275225Z",
-      "fileCount": 1,
-      "fileSize": 699166
-    },
-    {
-      "folderName": "BetterBuildersWands-1.12-0.11.1.245+69d0d70.jar",
-      "fingerprint": 3073248050,
-      "fileDateHash": 2879984201,
-      "sectionID": 6,
-      "individualFingerprints": [
-        3073248050
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:35:49.6962662Z",
-      "lastWriteTimeUtc": "2017-08-03T17:12:53.8740573Z",
-      "queryTimestamp": "2017-08-31T18:35:51.5280232Z",
-      "fileCount": 1,
-      "fileSize": 75709
-    },
-    {
-      "folderName": "topaddons-1.12-0.15.1.jar",
-      "fingerprint": 2348052713,
-      "fileDateHash": 3951540615,
-      "sectionID": 6,
-      "individualFingerprints": [
-        2348052713
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:35:50.3609031Z",
-      "lastWriteTimeUtc": "2017-08-29T16:54:08.734169Z",
-      "queryTimestamp": "2017-08-31T18:35:51.5280232Z",
-      "fileCount": 1,
-      "fileSize": 149539
-    },
-    {
-      "folderName": "Psi-r1.1-52.jar",
-      "fingerprint": 455200198,
-      "fileDateHash": 2528079708,
-      "sectionID": 6,
-      "individualFingerprints": [
-        455200198
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:29:06.718549Z",
-      "lastWriteTimeUtc": "2017-08-03T17:13:59.9261792Z",
-      "queryTimestamp": "2017-08-31T18:29:07.7310202Z",
-      "fileCount": 1,
-      "fileSize": 2175737
-    },
-    {
-      "folderName": "DarkUtils-1.12.1-1.7.169.jar",
-      "fingerprint": 4103606560,
-      "fileDateHash": 685313231,
-      "sectionID": 6,
-      "individualFingerprints": [
-        4103606560
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:35:50.0155717Z",
-      "lastWriteTimeUtc": "2017-08-29T16:15:26.0020629Z",
-      "queryTimestamp": "2017-08-31T18:35:51.5280232Z",
-      "fileCount": 1,
-      "fileSize": 476313
-    },
-    {
-      "folderName": "ThermalCultivation-1.12-0.1.1.6-universal.jar",
-      "fingerprint": 2320548947,
-      "fileDateHash": 239868356,
-      "sectionID": 6,
-      "individualFingerprints": [
-        2320548947
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:35:50.3358791Z",
-      "lastWriteTimeUtc": "2017-08-29T16:17:37.5695967Z",
-      "queryTimestamp": "2017-08-31T18:35:51.5280232Z",
-      "fileCount": 1,
-      "fileSize": 62593
-    },
-    {
-      "folderName": "DynamicSurroundings-1.12-3.4.7.0.jar",
-      "fingerprint": 2463573591,
-      "fileDateHash": 3774567799,
-      "sectionID": 6,
-      "individualFingerprints": [
-        2463573591
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:35:50.0305861Z",
-      "lastWriteTimeUtc": "2017-08-25T12:39:36.1056651Z",
-      "queryTimestamp": "2017-08-31T18:35:51.5280232Z",
-      "fileCount": 1,
-      "fileSize": 22049079
-    },
-    {
-      "folderName": "KleeSlabs_1.12-5.3.2.jar",
-      "fingerprint": 685071902,
-      "fileDateHash": 683526439,
-      "sectionID": 6,
-      "individualFingerprints": [
-        685071902
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:29:06.4167595Z",
-      "lastWriteTimeUtc": "2017-08-03T17:14:04.3644661Z",
-      "queryTimestamp": "2017-08-31T18:29:07.7310202Z",
-      "fileCount": 1,
-      "fileSize": 25292
-    },
-    {
-      "folderName": "CodeChickenLib-1.12-3.1.2.297-universal.jar",
-      "fingerprint": 1974409618,
-      "fileDateHash": 134450139,
-      "sectionID": 6,
-      "individualFingerprints": [
-        1974409618
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:35:49.9785362Z",
-      "lastWriteTimeUtc": "2017-08-25T12:37:13.7485119Z",
-      "queryTimestamp": "2017-08-31T18:35:51.5285235Z",
-      "fileCount": 1,
-      "fileSize": 637057
-    },
-    {
-      "folderName": "ElecCore-1.12-1.8.430.jar",
-      "fingerprint": 3520281015,
-      "fileDateHash": 3146228986,
-      "sectionID": 6,
-      "individualFingerprints": [
-        3520281015
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:35:50.1627129Z",
-      "lastWriteTimeUtc": "2017-08-25T12:39:44.7369273Z",
-      "queryTimestamp": "2017-08-31T18:35:51.5285235Z",
-      "fileCount": 1,
-      "fileSize": 841540
-    },
-    {
-      "folderName": "torchmaster_1.12.1-1.5.3.43.jar",
-      "fingerprint": 2509159585,
-      "fileDateHash": 672750915,
-      "sectionID": 6,
-      "individualFingerprints": [
-        2509159585
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:35:50.3619044Z",
-      "lastWriteTimeUtc": "2017-08-12T16:22:56.6879209Z",
-      "queryTimestamp": "2017-08-31T18:35:51.5285235Z",
-      "fileCount": 1,
-      "fileSize": 93004
-    },
-    {
-      "folderName": "mod_list.json",
-      "fingerprint": 1957353678,
-      "fileDateHash": 1124727738,
-      "sectionID": 6,
-      "individualFingerprints": [
-        1957353678
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:29:06.5719081Z",
-      "lastWriteTimeUtc": "2017-08-31T16:59:56.4881893Z",
-      "queryTimestamp": "2017-08-31T18:29:07.7310202Z",
-      "fileCount": 1,
-      "fileSize": 147
-    },
-    {
-      "folderName": "modtweaker-4.0.1.jar",
-      "fingerprint": 1779773705,
-      "fileDateHash": 1375708135,
-      "sectionID": 6,
-      "individualFingerprints": [
-        1779773705
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:29:06.5684046Z",
-      "lastWriteTimeUtc": "2017-08-05T19:10:18.8191186Z",
-      "queryTimestamp": "2017-08-31T18:29:07.7310202Z",
-      "fileCount": 1,
-      "fileSize": 72353
-    },
-    {
-      "folderName": "ChestTransporter-1.12-2.8.7.jar",
-      "fingerprint": 3701646388,
-      "fileDateHash": 2403966600,
-      "sectionID": 6,
-      "individualFingerprints": [
-        3701646388
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:35:49.8684308Z",
-      "lastWriteTimeUtc": "2017-08-07T12:12:19.7670802Z",
-      "queryTimestamp": "2017-08-31T18:35:51.5285235Z",
-      "fileCount": 1,
-      "fileSize": 316691
-    },
-    {
-      "folderName": "mcjtylib-1.12-2.4.4.jar",
-      "fingerprint": 3351353591,
-      "fileDateHash": 1784800873,
-      "sectionID": 6,
-      "individualFingerprints": [
-        3351353591
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:29:06.5048435Z",
-      "lastWriteTimeUtc": "2017-08-03T17:14:06.8309943Z",
-      "queryTimestamp": "2017-08-31T18:29:07.7310202Z",
-      "fileCount": 1,
-      "fileSize": 327767
-    },
-    {
-      "folderName": "AutoRegLib-1.3-13.jar",
-      "fingerprint": 247652631,
-      "fileDateHash": 1217746087,
-      "sectionID": 6,
-      "individualFingerprints": [
-        247652631
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:35:49.6918365Z",
-      "lastWriteTimeUtc": "2017-08-03T17:13:22.6349718Z",
-      "queryTimestamp": "2017-08-31T18:35:51.5290238Z",
-      "fileCount": 1,
-      "fileSize": 64026
-    },
-    {
-      "folderName": "subcommonlib-sublib-1.12-1.2.0.1.jar",
-      "fingerprint": 3522691359,
-      "fileDateHash": 462986074,
-      "sectionID": 6,
-      "individualFingerprints": [
-        3522691359
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:29:06.9727935Z",
-      "lastWriteTimeUtc": "2017-08-03T17:14:07.5422852Z",
-      "queryTimestamp": "2017-08-31T18:29:07.7310202Z",
-      "fileCount": 1,
-      "fileSize": 40559
-    },
-    {
-      "folderName": "EnderStorage-1.12-2.4.0.122-universal.jar",
-      "fingerprint": 104849844,
-      "fileDateHash": 2223526790,
-      "sectionID": 6,
-      "individualFingerprints": [
-        104849844
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:35:50.1832331Z",
-      "lastWriteTimeUtc": "2017-08-25T12:40:18.5617236Z",
-      "queryTimestamp": "2017-08-31T18:35:51.5290238Z",
-      "fileCount": 1,
-      "fileSize": 223766
-    },
-    {
-      "folderName": "Harvest-1.12-1.2.4-16.jar",
-      "fingerprint": 4138624969,
-      "fileDateHash": 3260757580,
-      "sectionID": 6,
-      "individualFingerprints": [
-        4138624969
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:29:06.1735267Z",
-      "lastWriteTimeUtc": "2017-08-31T10:24:46.4296569Z",
-      "queryTimestamp": "2017-08-31T18:29:07.7310202Z",
-      "fileCount": 1,
-      "fileSize": 14566
-    },
-    {
-      "folderName": "DoggyTalents-1.12-1.14.2.298-universal.jar",
-      "fingerprint": 4210884129,
-      "fileDateHash": 111497587,
-      "sectionID": 6,
-      "individualFingerprints": [
-        4210884129
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:35:50.0255813Z",
-      "lastWriteTimeUtc": "2017-08-25T12:39:15.5350276Z",
-      "queryTimestamp": "2017-08-31T18:35:51.5290238Z",
-      "fileCount": 1,
-      "fileSize": 727357
-    },
-    {
-      "folderName": "CoFHCore-1.12-4.3.5.13-universal.jar",
-      "fingerprint": 3088482499,
-      "fileDateHash": 3672035566,
-      "sectionID": 6,
-      "individualFingerprints": [
-        3088482499
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:35:49.9840416Z",
-      "lastWriteTimeUtc": "2017-08-29T16:14:44.9498315Z",
-      "queryTimestamp": "2017-08-31T18:35:51.5290238Z",
-      "fileCount": 1,
-      "fileSize": 674429
-    },
-    {
-      "folderName": "Bookshelf-1.12.1-2.1.429.jar",
-      "fingerprint": 4238966365,
-      "fileDateHash": 3394953138,
-      "sectionID": 6,
-      "individualFingerprints": [
-        4238966365
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:35:49.7398072Z",
-      "lastWriteTimeUtc": "2017-08-29T16:14:31.0441397Z",
-      "queryTimestamp": "2017-08-31T18:35:51.529525Z",
-      "fileCount": 1,
-      "fileSize": 184909
-    },
-    {
-      "folderName": "antighost-1.12-forge14.21.1.2387-1.1.jar",
-      "fingerprint": 813295039,
-      "fileDateHash": 1406386596,
-      "sectionID": 6,
-      "individualFingerprints": [
-        813295039
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:35:49.5646389Z",
-      "lastWriteTimeUtc": "2017-08-03T17:13:34.8182395Z",
-      "queryTimestamp": "2017-08-31T18:35:51.529525Z",
-      "fileCount": 1,
-      "fileSize": 7391
-    },
-    {
-      "folderName": "BetterFps-1.4.7.jar",
-      "fingerprint": 3837458360,
-      "fileDateHash": 2761583355,
-      "sectionID": 6,
-      "individualFingerprints": [
-        3837458360
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:35:49.6973274Z",
-      "lastWriteTimeUtc": "2017-08-29T16:43:04.5328249Z",
-      "queryTimestamp": "2017-08-31T18:35:51.529525Z",
-      "fileCount": 1,
-      "fileSize": 187590
-    },
-    {
-      "folderName": "RedstoneFlux-1.12-2.0.1.2-universal.jar",
-      "fingerprint": 759163101,
-      "fileDateHash": 194433662,
-      "sectionID": 6,
-      "individualFingerprints": [
-        759163101
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:29:06.8101367Z",
-      "lastWriteTimeUtc": "2017-08-03T17:14:11.6778399Z",
-      "queryTimestamp": "2017-08-31T18:29:07.7310202Z",
-      "fileCount": 1,
-      "fileSize": 33436
-    },
-    {
-      "folderName": "zerocore-1.12-0.1.0.9.jar",
-      "fingerprint": 3442154534,
-      "fileDateHash": 73661923,
-      "sectionID": 6,
-      "individualFingerprints": [
-        3442154534
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:35:50.370913Z",
-      "lastWriteTimeUtc": "2017-08-03T17:14:12.2899196Z",
-      "queryTimestamp": "2017-08-31T18:35:51.529525Z",
-      "fileCount": 1,
-      "fileSize": 139087
-    },
-    {
-      "folderName": "ActuallyAdditions-1.12.1-r119.jar",
-      "fingerprint": 1490375576,
-      "fileDateHash": 1340028645,
-      "sectionID": 6,
-      "individualFingerprints": [
-        1490375576
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:35:49.5481232Z",
-      "lastWriteTimeUtc": "2017-08-29T16:13:40.3381544Z",
-      "queryTimestamp": "2017-08-31T18:35:51.529525Z",
-      "fileCount": 1,
-      "fileSize": 2778082
-    },
-    {
-      "folderName": "Exchangers-1.12-2.4.jar",
-      "fingerprint": 3961556886,
-      "fileDateHash": 2665831970,
-      "sectionID": 6,
-      "individualFingerprints": [
-        3961556886
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:35:50.2072558Z",
-      "lastWriteTimeUtc": "2017-08-25T12:40:26.4866857Z",
-      "queryTimestamp": "2017-08-31T18:35:51.529525Z",
-      "fileCount": 1,
-      "fileSize": 1452069
-    },
-    {
-      "folderName": "roots-2-0.025.jar",
-      "fingerprint": 4160187025,
-      "fileDateHash": 3986616480,
-      "sectionID": 6,
-      "individualFingerprints": [
-        4160187025
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:29:06.9097322Z",
-      "lastWriteTimeUtc": "2017-08-03T17:14:14.2464227Z",
-      "queryTimestamp": "2017-08-31T18:29:07.7310202Z",
-      "fileCount": 1,
-      "fileSize": 694893
-    },
-    {
-      "folderName": "CookingForBlockheads_1.12.1-6.3.6.jar",
-      "fingerprint": 3204933782,
-      "fileDateHash": 2848456657,
-      "sectionID": 6,
-      "individualFingerprints": [
-        3204933782
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:35:49.9915487Z",
-      "lastWriteTimeUtc": "2017-08-15T07:07:38.6367731Z",
-      "queryTimestamp": "2017-08-31T18:35:51.5300256Z",
-      "fileCount": 1,
-      "fileSize": 498147
-    },
-    {
-      "folderName": "[1.12]UncraftingTable-1.8-beta5.jar",
-      "fingerprint": 2659476545,
-      "fileDateHash": 991283349,
-      "sectionID": 6,
-      "individualFingerprints": [
-        2659476545
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:35:50.3719143Z",
-      "lastWriteTimeUtc": "2017-08-25T12:41:40.0529455Z",
-      "queryTimestamp": "2017-08-31T18:35:51.5300256Z",
-      "fileCount": 1,
-      "fileSize": 151187
-    },
-    {
-      "folderName": "Mantle-1.12-1.3.1.18.jar",
-      "fingerprint": 3595992189,
-      "fileDateHash": 1613744866,
-      "sectionID": 6,
-      "individualFingerprints": [
-        3595992189
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:29:06.4958351Z",
-      "lastWriteTimeUtc": "2017-08-03T17:14:16.0085546Z",
-      "queryTimestamp": "2017-08-31T18:29:07.7310202Z",
-      "fileCount": 1,
-      "fileSize": 857863
-    },
-    {
-      "folderName": "JustEnoughResources-1.12.1-0.8.4.24.jar",
-      "fingerprint": 4030082913,
-      "fileDateHash": 1881657718,
-      "sectionID": 6,
-      "individualFingerprints": [
-        4030082913
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:29:06.4122551Z",
-      "lastWriteTimeUtc": "2017-08-29T16:54:43.8184422Z",
-      "queryTimestamp": "2017-08-31T18:29:07.7310202Z",
-      "fileCount": 1,
-      "fileSize": 213669
-    },
-    {
-      "folderName": "NoNausea-MC1.12-1.0.jar",
-      "fingerprint": 2197328098,
-      "fileDateHash": 2877532850,
-      "sectionID": 6,
-      "individualFingerprints": [
-        2197328098
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:29:06.6780099Z",
-      "lastWriteTimeUtc": "2017-08-30T19:13:07.391723Z",
-      "queryTimestamp": "2017-08-31T18:29:07.7310202Z",
-      "fileCount": 1,
-      "fileSize": 9679
-    },
-    {
-      "folderName": "TreeGrowingSimulator2017-1.0.1.jar",
-      "fingerprint": 3927011368,
-      "fileDateHash": 963904834,
-      "sectionID": 6,
-      "individualFingerprints": [
-        3927011368
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:35:50.3634057Z",
-      "lastWriteTimeUtc": "2017-08-03T17:14:17.58731Z",
-      "queryTimestamp": "2017-08-31T18:35:51.5305254Z",
-      "fileCount": 1,
-      "fileSize": 27005
-    },
-    {
-      "folderName": "embers-0.221.jar",
-      "fingerprint": 2494702552,
-      "fileDateHash": 3631301372,
-      "sectionID": 6,
-      "individualFingerprints": [
-        2494702552
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:35:50.171221Z",
-      "lastWriteTimeUtc": "2017-08-03T17:13:29.9369591Z",
-      "queryTimestamp": "2017-08-31T18:35:51.5305254Z",
-      "fileCount": 1,
-      "fileSize": 1674916
-    },
-    {
-      "folderName": "ThermalExpansion-1.12-5.3.5.19-universal.jar",
-      "fingerprint": 3164777638,
-      "fileDateHash": 359530023,
-      "sectionID": 6,
-      "individualFingerprints": [
-        3164777638
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:35:50.3403836Z",
-      "lastWriteTimeUtc": "2017-08-29T16:17:46.0226649Z",
-      "queryTimestamp": "2017-08-31T18:35:51.5305254Z",
-      "fileCount": 1,
-      "fileSize": 1856011
-    },
-    {
-      "folderName": "CustomMainMenu-MC1.12-2.0.6.jar",
-      "fingerprint": 3330288656,
-      "fileDateHash": 3705510550,
-      "sectionID": 6,
-      "individualFingerprints": [
-        3330288656
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:35:50.0065634Z",
-      "lastWriteTimeUtc": "2017-08-03T17:13:03.9252052Z",
-      "queryTimestamp": "2017-08-31T18:35:51.5305254Z",
-      "fileCount": 1,
-      "fileSize": 174625
+      "fileSize": 282825
     },
     {
       "folderName": "Baubles-1.12-1.5.1.jar",
@@ -1773,19 +1533,184 @@
       "fileSize": 110317
     },
     {
-      "folderName": "xnet-1.12-1.4.0.jar",
-      "fingerprint": 371404617,
-      "fileDateHash": 109090487,
+      "folderName": "creeperade-v1.2-mc-1.12.jar",
+      "fingerprint": 2659344444,
+      "fileDateHash": 2650638738,
       "sectionID": 6,
       "individualFingerprints": [
-        371404617
+        2659344444
       ],
       "status": 1,
-      "timestamp": "2017-08-31T18:35:50.3689111Z",
-      "lastWriteTimeUtc": "2017-08-15T07:10:52.8103543Z",
+      "timestamp": "2017-08-31T18:35:50.0030596Z",
+      "lastWriteTimeUtc": "2017-08-03T17:13:03.2651004Z",
+      "queryTimestamp": "2017-08-31T18:35:51.5225177Z",
+      "fileCount": 1,
+      "fileSize": 39316
+    },
+    {
+      "folderName": "IvToolkit-1.3.3-1.12.jar",
+      "fingerprint": 2463394895,
+      "fileDateHash": 1895204848,
+      "sectionID": 6,
+      "individualFingerprints": [
+        2463394895
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:29:06.3832272Z",
+      "lastWriteTimeUtc": "2017-08-03T17:13:45.1071634Z",
+      "queryTimestamp": "2017-08-31T18:29:07.7305196Z",
+      "fileCount": 1,
+      "fileSize": 455763
+    },
+    {
+      "folderName": "Mantle-1.12-1.3.1.18.jar",
+      "fingerprint": 3595992189,
+      "fileDateHash": 1613744866,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3595992189
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:29:06.4958351Z",
+      "lastWriteTimeUtc": "2017-08-03T17:14:16.0085546Z",
+      "queryTimestamp": "2017-08-31T18:29:07.7310202Z",
+      "fileCount": 1,
+      "fileSize": 857863
+    },
+    {
+      "folderName": "chameleoncreepers-1.4.1-1.12.jar",
+      "fingerprint": 1565681777,
+      "fileDateHash": 4270910878,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1565681777
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:35:49.8679305Z",
+      "lastWriteTimeUtc": "2017-08-03T17:12:52.1960916Z",
+      "queryTimestamp": "2017-08-31T18:35:51.5230181Z",
+      "fileCount": 1,
+      "fileSize": 12801
+    },
+    {
+      "folderName": "foamfix-0.8.0-beta1-1.12-anarchy.jar",
+      "fingerprint": 3559038871,
+      "fileDateHash": 3393751320,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3559038871
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:35:50.251799Z",
+      "lastWriteTimeUtc": "2017-08-03T17:12:43.4150628Z",
+      "queryTimestamp": "2017-08-31T18:35:51.5230181Z",
+      "fileCount": 1,
+      "fileSize": 139548
+    },
+    {
+      "folderName": "BetterBuildersWands-1.12-0.11.1.245+69d0d70.jar",
+      "fingerprint": 3073248050,
+      "fileDateHash": 2879984201,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3073248050
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:35:49.6962662Z",
+      "lastWriteTimeUtc": "2017-08-03T17:12:53.8740573Z",
+      "queryTimestamp": "2017-08-31T18:35:51.5280232Z",
+      "fileCount": 1,
+      "fileSize": 75709
+    },
+    {
+      "folderName": "creeperconfetti-1.4.1.jar",
+      "fingerprint": 2514222507,
+      "fileDateHash": 3677702051,
+      "sectionID": 6,
+      "individualFingerprints": [
+        2514222507
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:35:50.0035605Z",
+      "lastWriteTimeUtc": "2017-08-03T17:12:58.6440126Z",
+      "queryTimestamp": "2017-08-31T18:35:51.524019Z",
+      "fileCount": 1,
+      "fileSize": 53641
+    },
+    {
+      "folderName": "FTBUtilities-4.0.3.jar",
+      "fingerprint": 2554740564,
+      "fileDateHash": 3890007326,
+      "sectionID": 6,
+      "individualFingerprints": [
+        2554740564
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:35:50.2613086Z",
+      "lastWriteTimeUtc": "2017-08-30T22:13:16.12652Z",
+      "queryTimestamp": "2017-08-31T18:35:51.524019Z",
+      "fileCount": 1,
+      "fileSize": 598189
+    },
+    {
+      "folderName": "CustomMainMenu-MC1.12-2.0.6.jar",
+      "fingerprint": 3330288656,
+      "fileDateHash": 3705510550,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3330288656
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:35:50.0065634Z",
+      "lastWriteTimeUtc": "2017-08-03T17:13:03.9252052Z",
       "queryTimestamp": "2017-08-31T18:35:51.5305254Z",
       "fileCount": 1,
-      "fileSize": 412668
+      "fileSize": 174625
+    },
+    {
+      "folderName": "rustic-0.4.1.jar",
+      "fingerprint": 1095390857,
+      "fileDateHash": 1986700296,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1095390857
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:29:06.9162386Z",
+      "lastWriteTimeUtc": "2017-08-03T17:13:48.8446952Z",
+      "queryTimestamp": "2017-08-31T18:29:07.7305196Z",
+      "fileCount": 1,
+      "fileSize": 1251020
+    },
+    {
+      "folderName": "mod_list.json",
+      "fingerprint": 1957353678,
+      "fileDateHash": 1124727738,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1957353678
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:29:06.5719081Z",
+      "lastWriteTimeUtc": "2017-08-31T16:59:56.4881893Z",
+      "queryTimestamp": "2017-08-31T18:29:07.7310202Z",
+      "fileCount": 1,
+      "fileSize": 147
+    },
+    {
+      "folderName": "EvilCraft-1.12-0.10.33.jar",
+      "fingerprint": 3141898208,
+      "fileDateHash": 587727625,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3141898208
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:35:50.1872471Z",
+      "lastWriteTimeUtc": "2017-08-25T12:40:25.5004699Z",
+      "queryTimestamp": "2017-08-31T18:35:51.526021Z",
+      "fileCount": 1,
+      "fileSize": 3663866
     },
     {
       "folderName": "RecurrentComplex-1.4.5.jar",
@@ -1803,79 +1728,154 @@
       "fileSize": 6903889
     },
     {
-      "folderName": "extrautils2-1.12-1.6.jar",
-      "fingerprint": 4228720358,
-      "fileDateHash": 3604351047,
+      "folderName": "IntegratedDynamics-1.12-0.8.6.jar",
+      "fingerprint": 2133737169,
+      "fileDateHash": 3923087327,
       "sectionID": 6,
       "individualFingerprints": [
-        4228720358
+        2133737169
       ],
       "status": 1,
-      "timestamp": "2017-08-31T18:35:50.2337823Z",
-      "lastWriteTimeUtc": "2017-08-31T17:20:07.1540112Z",
-      "queryTimestamp": "2017-08-31T18:35:51.5310258Z",
+      "timestamp": "2017-08-31T18:29:06.2190697Z",
+      "lastWriteTimeUtc": "2017-08-29T16:16:20.3610829Z",
+      "queryTimestamp": "2017-08-31T18:29:07.7305196Z",
       "fileCount": 1,
-      "fileSize": 2781631
+      "fileSize": 3330044
     },
     {
-      "folderName": "InventoryTweaks-1.63+beta.108.jar",
-      "fingerprint": 2835791806,
-      "fileDateHash": 3963667945,
+      "folderName": "ThermalCultivation-1.12-0.1.1.6-universal.jar",
+      "fingerprint": 2320548947,
+      "fileDateHash": 239868356,
       "sectionID": 6,
       "individualFingerprints": [
-        2835791806
+        2320548947
       ],
       "status": 1,
-      "timestamp": "2017-08-31T18:29:06.3677122Z",
-      "lastWriteTimeUtc": "2017-08-29T16:43:11.0862562Z",
+      "timestamp": "2017-08-31T18:35:50.3358791Z",
+      "lastWriteTimeUtc": "2017-08-29T16:17:37.5695967Z",
+      "queryTimestamp": "2017-08-31T18:35:51.5280232Z",
+      "fileCount": 1,
+      "fileSize": 62593
+    },
+    {
+      "folderName": "DarkUtils-1.12.1-1.7.169.jar",
+      "fingerprint": 4103606560,
+      "fileDateHash": 685313231,
+      "sectionID": 6,
+      "individualFingerprints": [
+        4103606560
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:35:50.0155717Z",
+      "lastWriteTimeUtc": "2017-08-29T16:15:26.0020629Z",
+      "queryTimestamp": "2017-08-31T18:35:51.5280232Z",
+      "fileCount": 1,
+      "fileSize": 476313
+    },
+    {
+      "folderName": "BiblioCraft[v2.4.3][MC1.12.0].jar",
+      "fingerprint": 2322097600,
+      "fileDateHash": 3485382497,
+      "sectionID": 6,
+      "individualFingerprints": [
+        2322097600
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:35:49.6992685Z",
+      "lastWriteTimeUtc": "2017-08-03T17:13:07.4150736Z",
+      "queryTimestamp": "2017-08-31T18:35:51.5270219Z",
+      "fileCount": 1,
+      "fileSize": 5148425
+    },
+    {
+      "folderName": "Traverse-1.12-1.2.1-22.jar",
+      "fingerprint": 1127550558,
+      "fileDateHash": 3383363602,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1127550558
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:35:50.3624047Z",
+      "lastWriteTimeUtc": "2017-08-03T17:13:54.3262222Z",
+      "queryTimestamp": "2017-08-31T18:35:51.5270219Z",
+      "fileCount": 1,
+      "fileSize": 161113
+    },
+    {
+      "folderName": "XL Food Mod-1.12-1.0.1.jar",
+      "fingerprint": 2669296529,
+      "fileDateHash": 2122557334,
+      "sectionID": 6,
+      "individualFingerprints": [
+        2669296529
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:35:50.3669089Z",
+      "lastWriteTimeUtc": "2017-08-28T10:29:55.6361004Z",
+      "queryTimestamp": "2017-08-31T18:35:51.52502Z",
+      "fileCount": 1,
+      "fileSize": 322760
+    },
+    {
+      "folderName": "theoneprobe-1.12-1.4.18.jar",
+      "fingerprint": 728337335,
+      "fileDateHash": 2202748882,
+      "sectionID": 6,
+      "individualFingerprints": [
+        728337335
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:35:50.3343778Z",
+      "lastWriteTimeUtc": "2017-08-29T16:17:14.392578Z",
+      "queryTimestamp": "2017-08-31T18:35:51.5255206Z",
+      "fileCount": 1,
+      "fileSize": 297779
+    },
+    {
+      "folderName": "RedstoneFlux-1.12-2.0.1.2-universal.jar",
+      "fingerprint": 759163101,
+      "fileDateHash": 194433662,
+      "sectionID": 6,
+      "individualFingerprints": [
+        759163101
+      ],
+      "status": 1,
+      "timestamp": "2017-08-31T18:29:06.8101367Z",
+      "lastWriteTimeUtc": "2017-08-03T17:14:11.6778399Z",
       "queryTimestamp": "2017-08-31T18:29:07.7310202Z",
       "fileCount": 1,
-      "fileSize": 260819
+      "fileSize": 33436
     },
     {
-      "folderName": "MTLib-3.0.0.jar",
-      "fingerprint": 183811592,
-      "fileDateHash": 1722339533,
+      "folderName": "chestcow-1.0-mc1.12.0.jar",
+      "fingerprint": 2768588003,
+      "fileDateHash": 483600991,
       "sectionID": 6,
       "individualFingerprints": [
-        183811592
+        2768588003
       ],
       "status": 1,
-      "timestamp": "2017-08-31T18:29:06.5804164Z",
-      "lastWriteTimeUtc": "2017-08-05T19:10:18.1749763Z",
-      "queryTimestamp": "2017-08-31T18:29:07.7310202Z",
+      "timestamp": "2017-08-31T18:35:49.8679305Z",
+      "lastWriteTimeUtc": "2017-08-03T17:12:53.036478Z",
+      "queryTimestamp": "2017-08-31T18:35:51.52502Z",
       "fileCount": 1,
-      "fileSize": 26880
+      "fileSize": 11681
     },
     {
-      "folderName": "GPS-1.12.1-3.1.1.0.b28.jar",
-      "fingerprint": 1859669112,
-      "fileDateHash": 4241921063,
+      "folderName": "torchmaster_1.12.1-1.5.3.43.jar",
+      "fingerprint": 2509159585,
+      "fileDateHash": 672750915,
       "sectionID": 6,
       "individualFingerprints": [
-        1859669112
+        2509159585
       ],
       "status": 1,
-      "timestamp": "2017-08-31T18:35:50.2718176Z",
-      "lastWriteTimeUtc": "2017-08-29T16:43:10.320675Z",
-      "queryTimestamp": "2017-08-31T18:35:51.5310258Z",
+      "timestamp": "2017-08-31T18:35:50.3619044Z",
+      "lastWriteTimeUtc": "2017-08-12T16:22:56.6879209Z",
+      "queryTimestamp": "2017-08-31T18:35:51.5285235Z",
       "fileCount": 1,
-      "fileSize": 2324994
-    },
-    {
-      "folderName": "Quark-r1.2-104.jar",
-      "fingerprint": 3307689107,
-      "fileDateHash": 2450305188,
-      "sectionID": 6,
-      "individualFingerprints": [
-        3307689107
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:29:06.7380679Z",
-      "lastWriteTimeUtc": "2017-08-03T17:14:20.0435305Z",
-      "queryTimestamp": "2017-08-31T18:29:07.7310202Z",
-      "fileCount": 1,
-      "fileSize": 1547759
+      "fileSize": 93004
     }
   ],
   "isValid": true,
