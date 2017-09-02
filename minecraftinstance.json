@@ -18,7 +18,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2017-09-02T10:09:19.3127396Z",
+  "lastPlayed": "2017-09-02T20:04:23.719211Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -1294,6 +1294,21 @@
       "fileSize": 1208532
     },
     {
+      "folderName": "Botania r1.10-346.jar",
+      "fingerprint": 2171660461,
+      "fileDateHash": 2636900642,
+      "sectionID": 6,
+      "individualFingerprints": [
+        2171660461
+      ],
+      "status": 1,
+      "timestamp": "2017-09-02T19:56:07.768359Z",
+      "lastWriteTimeUtc": "2017-09-02T19:55:59.8011947Z",
+      "queryTimestamp": "2017-09-02T19:56:08.5132068Z",
+      "fileCount": 1,
+      "fileSize": 13563262
+    },
+    {
       "folderName": "valkyrielib-1.12.1-2.0.2c.jar",
       "fingerprint": 745625921,
       "fileDateHash": 2771632927,
@@ -1399,6 +1414,80 @@
       "fileSize": 187590
     },
     {
+      "folderName": "New World",
+      "fingerprint": 2189817224,
+      "fileDateHash": 4064090858,
+      "sectionID": 17,
+      "individualFingerprints": [
+        82405666,
+        106505551,
+        106505551,
+        188501490,
+        188501490,
+        502258035,
+        544822171,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        807154511,
+        942383924,
+        962555967,
+        1467260102,
+        1725698349,
+        1877373007,
+        1983774203,
+        2066521709,
+        2447626842,
+        2643933950,
+        2703977671,
+        2703977671,
+        2703977671,
+        2703977671,
+        2703977671,
+        2703977671,
+        2703977671,
+        2703977671,
+        2763463119,
+        2888541047,
+        2922114526,
+        2954782839,
+        2995754438,
+        3125529666,
+        3125529666,
+        3155538744,
+        3184781582,
+        3298638875,
+        3359894208,
+        3383409723,
+        3465701048,
+        3567779023,
+        3582932549,
+        3799208668,
+        3819815453,
+        4051882764,
+        4213863462,
+        4213863462,
+        4213863462,
+        4213863462,
+        4213863462,
+        4213863462,
+        4213863462,
+        4272588933,
+        4272588933
+      ],
+      "status": 1,
+      "timestamp": "2017-09-02T19:55:01.0135192Z",
+      "lastWriteTimeUtc": "2017-09-02T10:08:53.5188902Z",
+      "queryTimestamp": "2017-09-02T19:55:02.8347805Z",
+      "fileCount": 26,
+      "fileSize": 0
+    },
+    {
       "folderName": "JustAFewFish-1.7_for_1.12.jar",
       "fingerprint": 3718830303,
       "fileDateHash": 1558449603,
@@ -1412,80 +1501,6 @@
       "queryTimestamp": "2017-09-02T08:26:59.8690603Z",
       "fileCount": 1,
       "fileSize": 238863
-    },
-    {
-      "folderName": "New World",
-      "fingerprint": 202067394,
-      "fileDateHash": 2405633336,
-      "sectionID": 17,
-      "individualFingerprints": [
-        106505551,
-        106505551,
-        188501490,
-        188501490,
-        226222959,
-        425880869,
-        425880869,
-        425880869,
-        425880869,
-        425880869,
-        425880869,
-        425880869,
-        425880869,
-        758054953,
-        758054953,
-        758054953,
-        758054953,
-        758054953,
-        758054953,
-        758054953,
-        758054953,
-        962555967,
-        1288032689,
-        1467260102,
-        1604674145,
-        1725698349,
-        1877373007,
-        1983774203,
-        1994416086,
-        2066521709,
-        2447626842,
-        2539823253,
-        2643933950,
-        2763463119,
-        2888541047,
-        2906436787,
-        2954782839,
-        3037362118,
-        3125529666,
-        3125529666,
-        3180473029,
-        3184781582,
-        3298638875,
-        3318251281,
-        3383409723,
-        3465701048,
-        3582932549,
-        3799208668,
-        3819815453,
-        3853664335,
-        4051882764,
-        4213863462,
-        4213863462,
-        4213863462,
-        4213863462,
-        4213863462,
-        4213863462,
-        4213863462,
-        4272588933,
-        4272588933
-      ],
-      "status": 1,
-      "timestamp": "2017-09-02T08:26:58.8455322Z",
-      "lastWriteTimeUtc": "2017-09-01T14:16:58.9748956Z",
-      "queryTimestamp": "2017-09-02T08:26:59.870561Z",
-      "fileCount": 26,
-      "fileSize": 0
     },
     {
       "folderName": "lostcities-1.12-0.0.20beta2.jar",
@@ -1879,7 +1894,7 @@
     }
   ],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2017-09-02T08:27:00.2179217Z",
+  "lastPreviousMatchUpdate": "2017-09-02T19:55:02.9899035Z",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.12.1",
@@ -2077,13 +2092,13 @@
       "addonID": 251389,
       "gameInstanceID": "c14b11e7-7390-43d1-b9fa-0fe734a6c35e",
       "installedFile": {
-        "Id": 2469211,
-        "FileName": "IntegratedTunnels-1.12-1.3.1.jar",
-        "FileNameOnDisk": "IntegratedTunnels-1.12-1.3.1.jar",
-        "FileDate": "2017-08-26T08:44:30",
+        "Id": 2474021,
+        "FileName": "IntegratedTunnels-1.12-1.3.2.jar",
+        "FileNameOnDisk": "IntegratedTunnels-1.12-1.3.2.jar",
+        "FileDate": "2017-09-01T15:58:09",
         "ReleaseType": 1,
         "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2469/211/IntegratedTunnels-1.12-1.3.1.jar",
+        "DownloadURL": "https://addons.cursecdn.com/files/2474/21/IntegratedTunnels-1.12-1.3.2.jar",
         "IsAlternate": false,
         "AlternateFileId": 0,
         "Dependencies": [
@@ -2104,7 +2119,7 @@
           },
           {
             "Foldername": "mcmod.info",
-            "Fingerprint": 343176543
+            "Fingerprint": 1504233612
           },
           {
             "Foldername": "META-INF",
@@ -2112,19 +2127,19 @@
           },
           {
             "Foldername": "org",
-            "Fingerprint": 669167871
+            "Fingerprint": 3224670660
           }
         ],
-        "PackageFingerprint": 2768431220,
+        "PackageFingerprint": 1745276855,
         "GameVersion": [
           "1.12.1",
           "1.12"
         ]
       },
       "dateInstalled": "2017-08-31T18:29:07.9362191Z",
-      "dateUpdated": "2016-08-31T18:29:07.9362191Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 3,
+      "dateUpdated": "2017-09-02T20:03:14.9909645Z",
+      "dateLastUpdateAttempted": "2017-09-02T20:03:14.9909645Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3153,13 +3168,13 @@
       "addonID": 236307,
       "gameInstanceID": "c14b11e7-7390-43d1-b9fa-0fe734a6c35e",
       "installedFile": {
-        "Id": 2469216,
-        "FileName": "IntegratedDynamics-1.12-0.8.6.jar",
-        "FileNameOnDisk": "IntegratedDynamics-1.12-0.8.6.jar",
-        "FileDate": "2017-08-26T08:52:53",
+        "Id": 2474034,
+        "FileName": "IntegratedDynamics-1.12-0.8.7.jar",
+        "FileNameOnDisk": "IntegratedDynamics-1.12-0.8.7.jar",
+        "FileDate": "2017-09-01T16:15:45",
         "ReleaseType": 1,
         "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2469/216/IntegratedDynamics-1.12-0.8.6.jar",
+        "DownloadURL": "https://addons.cursecdn.com/files/2474/34/IntegratedDynamics-1.12-0.8.7.jar",
         "IsAlternate": false,
         "AlternateFileId": 0,
         "Dependencies": [
@@ -3176,11 +3191,11 @@
         "Modules": [
           {
             "Foldername": "assets",
-            "Fingerprint": 3017928529
+            "Fingerprint": 3650514906
           },
           {
             "Foldername": "mcmod.info",
-            "Fingerprint": 1960734550
+            "Fingerprint": 2638232391
           },
           {
             "Foldername": "META-INF",
@@ -3188,19 +3203,19 @@
           },
           {
             "Foldername": "org",
-            "Fingerprint": 3748051172
+            "Fingerprint": 1043418841
           }
         ],
-        "PackageFingerprint": 2133737169,
+        "PackageFingerprint": 1871463813,
         "GameVersion": [
           "1.12.1",
           "1.12"
         ]
       },
       "dateInstalled": "2017-08-31T18:29:07.9427249Z",
-      "dateUpdated": "2016-08-31T18:29:07.9427249Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 3,
+      "dateUpdated": "2017-09-02T20:03:14.0535938Z",
+      "dateLastUpdateAttempted": "2017-09-02T20:03:14.0535938Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3377,13 +3392,13 @@
       "addonID": 269024,
       "gameInstanceID": "c14b11e7-7390-43d1-b9fa-0fe734a6c35e",
       "installedFile": {
-        "Id": 2463113,
-        "FileName": "lostcities-1.12-0.0.20beta2.jar",
-        "FileNameOnDisk": "lostcities-1.12-0.0.20beta2.jar",
-        "FileDate": "2017-08-11T11:59:25",
-        "ReleaseType": 2,
+        "Id": 2473330,
+        "FileName": "lostcities-1.12-1.0.0.jar",
+        "FileNameOnDisk": "lostcities-1.12-1.0.0.jar",
+        "FileDate": "2017-08-31T06:02:18",
+        "ReleaseType": 1,
         "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2463/113/lostcities-1.12-0.0.20beta2.jar",
+        "DownloadURL": "https://addons.cursecdn.com/files/2473/330/lostcities-1.12-1.0.0.jar",
         "IsAlternate": false,
         "AlternateFileId": 0,
         "Dependencies": [],
@@ -3395,11 +3410,11 @@
           },
           {
             "Foldername": "mcjty",
-            "Fingerprint": 1675305361
+            "Fingerprint": 4292855453
           },
           {
             "Foldername": "mcmod.info",
-            "Fingerprint": 3572290238
+            "Fingerprint": 32838393
           },
           {
             "Foldername": "META-INF",
@@ -3410,16 +3425,16 @@
             "Fingerprint": 493139710
           }
         ],
-        "PackageFingerprint": 1246292753,
+        "PackageFingerprint": 57157805,
         "GameVersion": [
           "1.12.1",
           "1.12"
         ]
       },
       "dateInstalled": "2017-08-31T18:29:07.9437259Z",
-      "dateUpdated": "2016-08-31T18:29:07.9437259Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 3,
+      "dateUpdated": "2017-09-02T20:04:10.3878182Z",
+      "dateLastUpdateAttempted": "2017-09-02T20:04:10.3878182Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3939,13 +3954,13 @@
       "addonID": 74924,
       "gameInstanceID": "c14b11e7-7390-43d1-b9fa-0fe734a6c35e",
       "installedFile": {
-        "Id": 2457530,
-        "FileName": "Mantle-1.12-1.3.1.18.jar",
-        "FileNameOnDisk": "Mantle-1.12-1.3.1.18.jar",
-        "FileDate": "2017-07-29T14:08:56",
+        "Id": 2474052,
+        "FileName": "Mantle-1.12-1.3.1.21.jar",
+        "FileNameOnDisk": "Mantle-1.12-1.3.1.21.jar",
+        "FileDate": "2017-09-01T16:59:12",
         "ReleaseType": 1,
         "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2457/530/Mantle-1.12-1.3.1.18.jar",
+        "DownloadURL": "https://addons.cursecdn.com/files/2474/52/Mantle-1.12-1.3.1.21.jar",
         "IsAlternate": false,
         "AlternateFileId": 0,
         "Dependencies": [],
@@ -3961,27 +3976,27 @@
           },
           {
             "Foldername": "mcmod.info",
-            "Fingerprint": 2479746567
+            "Fingerprint": 2917928293
           },
           {
             "Foldername": "META-INF",
-            "Fingerprint": 2671567725
+            "Fingerprint": 4041124472
           },
           {
             "Foldername": "slimeknights",
-            "Fingerprint": 1117321463
+            "Fingerprint": 3426577226
           }
         ],
-        "PackageFingerprint": 3595992189,
+        "PackageFingerprint": 3473629222,
         "GameVersion": [
           "1.12.1",
           "1.12"
         ]
       },
       "dateInstalled": "2017-08-31T18:29:07.946729Z",
-      "dateUpdated": "2016-08-31T18:29:07.946729Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 3,
+      "dateUpdated": "2017-09-02T20:03:31.8021163Z",
+      "dateLastUpdateAttempted": "2017-09-02T20:03:31.8021163Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5048,13 +5063,13 @@
       "addonID": 223735,
       "gameInstanceID": "c14b11e7-7390-43d1-b9fa-0fe734a6c35e",
       "installedFile": {
-        "Id": 2470762,
-        "FileName": "Aroma1997Core-1.12.1-1.3.0.0.b120.jar",
-        "FileNameOnDisk": "Aroma1997Core-1.12.1-1.3.0.0.b120.jar",
-        "FileDate": "2017-08-29T15:46:12",
+        "Id": 2471016,
+        "FileName": "Aroma1997Core-1.12.1-1.3.0.0.b121.jar",
+        "FileNameOnDisk": "Aroma1997Core-1.12.1-1.3.0.0.b121.jar",
+        "FileDate": "2017-08-29T20:36:06",
         "ReleaseType": 2,
         "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2470/762/Aroma1997Core-1.12.1-1.3.0.0.b120.jar",
+        "DownloadURL": "https://addons.cursecdn.com/files/2471/16/Aroma1997Core-1.12.1-1.3.0.0.b121.jar",
         "IsAlternate": false,
         "AlternateFileId": 0,
         "Dependencies": [],
@@ -5062,7 +5077,7 @@
         "Modules": [
           {
             "Foldername": "aroma1997",
-            "Fingerprint": 3405162761
+            "Fingerprint": 780217840
           },
           {
             "Foldername": "aroma1997core_at.cfg",
@@ -5074,26 +5089,26 @@
           },
           {
             "Foldername": "mcmod.info",
-            "Fingerprint": 384600352
+            "Fingerprint": 834194460
           },
           {
             "Foldername": "META-INF",
-            "Fingerprint": 1105378135
+            "Fingerprint": 2457675425
           },
           {
             "Foldername": "pack.mcmeta",
             "Fingerprint": 875743704
           }
         ],
-        "PackageFingerprint": 1413975852,
+        "PackageFingerprint": 3214294542,
         "GameVersion": [
           "1.12.1"
         ]
       },
       "dateInstalled": "2017-08-31T18:35:51.6996886Z",
-      "dateUpdated": "2016-08-31T18:35:51.6996886Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 3,
+      "dateUpdated": "2017-09-02T20:02:03.071247Z",
+      "dateLastUpdateAttempted": "2017-09-02T20:02:03.071247Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5853,13 +5868,13 @@
       "addonID": 74610,
       "gameInstanceID": "c14b11e7-7390-43d1-b9fa-0fe734a6c35e",
       "installedFile": {
-        "Id": 2467519,
-        "FileName": "EvilCraft-1.12-0.10.33.jar",
-        "FileNameOnDisk": "EvilCraft-1.12-0.10.33.jar",
-        "FileDate": "2017-08-21T16:20:13",
+        "Id": 2474026,
+        "FileName": "EvilCraft-1.12-0.10.34.jar",
+        "FileNameOnDisk": "EvilCraft-1.12-0.10.34.jar",
+        "FileDate": "2017-09-01T16:02:06",
         "ReleaseType": 1,
         "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2467/519/EvilCraft-1.12-0.10.33.jar",
+        "DownloadURL": "https://addons.cursecdn.com/files/2474/26/EvilCraft-1.12-0.10.34.jar",
         "IsAlternate": false,
         "AlternateFileId": 0,
         "Dependencies": [
@@ -5872,11 +5887,11 @@
         "Modules": [
           {
             "Foldername": "assets",
-            "Fingerprint": 1591585901
+            "Fingerprint": 529307287
           },
           {
             "Foldername": "mcmod.info",
-            "Fingerprint": 3855332270
+            "Fingerprint": 2562766326
           },
           {
             "Foldername": "META-INF",
@@ -5884,19 +5899,19 @@
           },
           {
             "Foldername": "org",
-            "Fingerprint": 3567780181
+            "Fingerprint": 3329537011
           }
         ],
-        "PackageFingerprint": 3141898208,
+        "PackageFingerprint": 2963926395,
         "GameVersion": [
           "1.12.1",
           "1.12"
         ]
       },
       "dateInstalled": "2017-08-31T18:35:51.7046934Z",
-      "dateUpdated": "2016-08-31T18:35:51.7046934Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 3,
+      "dateUpdated": "2017-09-02T20:02:54.309652Z",
+      "dateLastUpdateAttempted": "2017-09-02T20:02:54.309652Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -6117,13 +6132,13 @@
       "addonID": 243707,
       "gameInstanceID": "c14b11e7-7390-43d1-b9fa-0fe734a6c35e",
       "installedFile": {
-        "Id": 2467887,
-        "FileName": "Corail Tombstone 1.3.3 for 1.12",
-        "FileNameOnDisk": "tombstone-1.3.3-1.12.jar",
-        "FileDate": "2017-08-22T18:11:02",
+        "Id": 2474226,
+        "FileName": "Corail Tombstone 1.3.5 for 1.12",
+        "FileNameOnDisk": "tombstone-1.3.5-1.12.jar",
+        "FileDate": "2017-09-01T23:54:49",
         "ReleaseType": 1,
         "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2467/887/tombstone-1.3.3-1.12.jar",
+        "DownloadURL": "https://addons.cursecdn.com/files/2474/226/tombstone-1.3.5-1.12.jar",
         "IsAlternate": false,
         "AlternateFileId": 0,
         "Dependencies": [],
@@ -6131,39 +6146,31 @@
         "Modules": [
           {
             "Foldername": "assets",
-            "Fingerprint": 3101606192
-          },
-          {
-            "Foldername": "baubles",
-            "Fingerprint": 1271171790
+            "Fingerprint": 36241801
           },
           {
             "Foldername": "mcmod.info",
-            "Fingerprint": 1683143424
+            "Fingerprint": 3137782039
           },
           {
             "Foldername": "META-INF",
             "Fingerprint": 2464251221
           },
           {
-            "Foldername": "nightkosh",
-            "Fingerprint": 14551397
-          },
-          {
             "Foldername": "ovh",
-            "Fingerprint": 1329023130
+            "Fingerprint": 1906829092
           }
         ],
-        "PackageFingerprint": 43225532,
+        "PackageFingerprint": 3401120790,
         "GameVersion": [
           "1.12.1",
           "1.12"
         ]
       },
       "dateInstalled": "2017-08-31T18:35:51.7066953Z",
-      "dateUpdated": "2016-08-31T18:35:51.7066953Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 3,
+      "dateUpdated": "2017-09-02T20:02:19.4064988Z",
+      "dateLastUpdateAttempted": "2017-09-02T20:02:19.4064988Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -6224,13 +6231,13 @@
       "addonID": 232758,
       "gameInstanceID": "c14b11e7-7390-43d1-b9fa-0fe734a6c35e",
       "installedFile": {
-        "Id": 2469628,
-        "FileName": "CyclopsCore-1.12-0.10.15.jar",
-        "FileNameOnDisk": "CyclopsCore-1.12-0.10.15.jar",
-        "FileDate": "2017-08-27T06:45:00",
+        "Id": 2474083,
+        "FileName": "CyclopsCore-1.12-0.10.17.jar",
+        "FileNameOnDisk": "CyclopsCore-1.12-0.10.17.jar",
+        "FileDate": "2017-09-01T18:27:55",
         "ReleaseType": 1,
         "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2469/628/CyclopsCore-1.12-0.10.15.jar",
+        "DownloadURL": "https://addons.cursecdn.com/files/2474/83/CyclopsCore-1.12-0.10.17.jar",
         "IsAlternate": false,
         "AlternateFileId": 0,
         "Dependencies": [],
@@ -6242,7 +6249,7 @@
           },
           {
             "Foldername": "mcmod.info",
-            "Fingerprint": 1204927336
+            "Fingerprint": 1281308285
           },
           {
             "Foldername": "META-INF",
@@ -6250,19 +6257,19 @@
           },
           {
             "Foldername": "org",
-            "Fingerprint": 2520942834
+            "Fingerprint": 2785751464
           }
         ],
-        "PackageFingerprint": 2318981076,
+        "PackageFingerprint": 669137361,
         "GameVersion": [
           "1.12.1",
           "1.12"
         ]
       },
       "dateInstalled": "2017-08-31T18:35:51.7071957Z",
-      "dateUpdated": "2016-08-31T18:35:51.7071957Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 3,
+      "dateUpdated": "2017-09-02T20:02:32.3332859Z",
+      "dateLastUpdateAttempted": "2017-09-02T20:02:32.3332859Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
