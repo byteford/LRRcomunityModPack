@@ -87,6 +87,13 @@ key_key.hotbar.8:9
 key_key.hotbar.9:10
 key_Toggle GPS:65
 key_psimisc.keybind:46
+key_quark.keybind.dropoff:0
+key_quark.keybind.changeHotbar:44
+key_quark.keybind.chestSort:0
+key_quark.keybind.chestDropoff:0
+key_quark.keybind.chestMerge:0
+key_quark.keybind.chestRestock:0
+key_quark.keybind.chestExtract:0
 key_quark.keybind.emote.wave:0
 key_quark.keybind.emote.salute:0
 key_quark.keybind.emote.yes:0
@@ -99,13 +106,6 @@ key_quark.keybind.emote.facepalm:0
 key_quark.keybind.emote.headbang:0
 key_quark.keybind.toggleAutojump:48
 key_quark.keybind.lockBuilding:37
-key_quark.keybind.dropoff:0
-key_quark.keybind.changeHotbar:44
-key_quark.keybind.chestSort:0
-key_quark.keybind.chestDropoff:0
-key_quark.keybind.chestMerge:0
-key_quark.keybind.chestRestock:0
-key_quark.keybind.chestExtract:0
 key_keybind.baublesinventory:48
 key_doggytalents.key.come:200
 key_doggytalents.key.stay:208
@@ -188,11 +188,6 @@ key_key.journeymap.fullscreen.north:200
 key_key.journeymap.fullscreen.south:208
 key_key.journeymap.fullscreen.east:205
 key_key.journeymap.fullscreen.west:203
-key_cfg.keybind.SelectionBox:48
-key_cfg.keybind.Volume:47
-key_cfg.keybind.LightLevel:38
-key_cfg.keybind.ChunkBorders:67
-key_presets.cfg.keybind.Presets:25
 soundCategory_master:1.0
 soundCategory_music:1.0
 soundCategory_record:1.0
