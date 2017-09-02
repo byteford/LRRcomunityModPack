@@ -119,6 +119,7 @@ command.lc_debug: CMD
 command.lc_exportbuilding: CMD
 command.lc_exportpart: CMD
 command.locate: CMD
+command.ls_debug: CMD
 command.me: CMD
 command.particle: CMD
 command.playsound: CMD

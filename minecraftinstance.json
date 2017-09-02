@@ -18,7 +18,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2017-09-02T20:04:23.719211Z",
+  "lastPlayed": "2017-09-02T20:29:25.7777369Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -139,21 +139,6 @@
       "fileSize": 32626
     },
     {
-      "folderName": "CyclopsCore-1.12-0.10.15.jar",
-      "fingerprint": 2318981076,
-      "fileDateHash": 2392731807,
-      "sectionID": 6,
-      "individualFingerprints": [
-        2318981076
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:35:50.008565Z",
-      "lastWriteTimeUtc": "2017-08-29T16:15:10.4631948Z",
-      "queryTimestamp": "2017-09-02T08:26:59.8730636Z",
-      "fileCount": 1,
-      "fileSize": 753981
-    },
-    {
       "folderName": "ChestTransporter-1.12-2.8.7.jar",
       "fingerprint": 3701646388,
       "fileDateHash": 2403966600,
@@ -167,6 +152,21 @@
       "queryTimestamp": "2017-09-02T08:26:59.8770677Z",
       "fileCount": 1,
       "fileSize": 316691
+    },
+    {
+      "folderName": "IntegratedDynamics-1.12-0.8.7.jar",
+      "fingerprint": 1871463813,
+      "fileDateHash": 2663858244,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1871463813
+      ],
+      "status": 1,
+      "timestamp": "2017-09-02T20:29:14.0140122Z",
+      "lastWriteTimeUtc": "2017-09-02T20:03:14.022684Z",
+      "queryTimestamp": "2017-09-02T20:29:15.0261139Z",
+      "fileCount": 1,
+      "fileSize": 3333060
     },
     {
       "folderName": "ThermalDynamics-1.12-2.3.5.12-universal.jar",
@@ -197,6 +197,21 @@
       "queryTimestamp": "2017-09-02T08:26:59.8695604Z",
       "fileCount": 1,
       "fileSize": 17369245
+    },
+    {
+      "folderName": "CyclopsCore-1.12-0.10.17.jar",
+      "fingerprint": 669137361,
+      "fileDateHash": 3149683828,
+      "sectionID": 6,
+      "individualFingerprints": [
+        669137361
+      ],
+      "status": 1,
+      "timestamp": "2017-09-02T20:29:13.9925005Z",
+      "lastWriteTimeUtc": "2017-09-02T20:02:32.3106871Z",
+      "queryTimestamp": "2017-09-02T20:29:15.0266145Z",
+      "fileCount": 1,
+      "fileSize": 764722
     },
     {
       "folderName": "ThermalFoundation-1.12-2.3.5.14-universal.jar",
@@ -544,6 +559,21 @@
       "fileSize": 223140
     },
     {
+      "folderName": "IntegratedTunnels-1.12-1.3.2.jar",
+      "fingerprint": 1745276855,
+      "fileDateHash": 2814226776,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1745276855
+      ],
+      "status": 1,
+      "timestamp": "2017-09-02T20:29:14.0305279Z",
+      "lastWriteTimeUtc": "2017-09-02T20:03:14.9869709Z",
+      "queryTimestamp": "2017-09-02T20:29:15.0326197Z",
+      "fileCount": 1,
+      "fileSize": 624027
+    },
+    {
       "folderName": "NoNausea-MC1.12-1.0.jar",
       "fingerprint": 2197328098,
       "fileDateHash": 2877532850,
@@ -634,6 +664,21 @@
       "fileSize": 64026
     },
     {
+      "folderName": "Aroma1997Core-1.12.1-1.3.0.0.b121.jar",
+      "fingerprint": 3214294542,
+      "fileDateHash": 3437666617,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3214294542
+      ],
+      "status": 1,
+      "timestamp": "2017-09-02T20:29:13.9909989Z",
+      "lastWriteTimeUtc": "2017-09-02T20:02:03.0592412Z",
+      "queryTimestamp": "2017-09-02T20:29:15.0336212Z",
+      "fileCount": 1,
+      "fileSize": 222596
+    },
+    {
       "folderName": "WearableBackpacks-1.12-3.0.4.jar",
       "fingerprint": 896775266,
       "fileDateHash": 2314566589,
@@ -649,6 +694,21 @@
       "fileSize": 198795
     },
     {
+      "folderName": "EvilCraft-1.12-0.10.34.jar",
+      "fingerprint": 2963926395,
+      "fileDateHash": 785371999,
+      "sectionID": 6,
+      "individualFingerprints": [
+        2963926395
+      ],
+      "status": 1,
+      "timestamp": "2017-09-02T20:29:13.996004Z",
+      "lastWriteTimeUtc": "2017-09-02T20:02:54.2836267Z",
+      "queryTimestamp": "2017-09-02T20:29:15.0341218Z",
+      "fileCount": 1,
+      "fileSize": 3688876
+    },
+    {
       "folderName": "EnderStorage-1.12-2.4.0.122-universal.jar",
       "fingerprint": 104849844,
       "fileDateHash": 2223526790,
@@ -662,6 +722,21 @@
       "queryTimestamp": "2017-09-02T08:26:59.8775678Z",
       "fileCount": 1,
       "fileSize": 223766
+    },
+    {
+      "folderName": "lostcities-1.12-1.0.0.jar",
+      "fingerprint": 57157805,
+      "fileDateHash": 2749279611,
+      "sectionID": 6,
+      "individualFingerprints": [
+        57157805
+      ],
+      "status": 1,
+      "timestamp": "2017-09-02T20:29:14.0335464Z",
+      "lastWriteTimeUtc": "2017-09-02T20:04:10.3843147Z",
+      "queryTimestamp": "2017-09-02T20:29:15.0341218Z",
+      "fileCount": 1,
+      "fileSize": 259659
     },
     {
       "folderName": "ThermalExpansion-1.12-5.3.5.19-universal.jar",
@@ -707,21 +782,6 @@
       "queryTimestamp": "2017-09-02T08:26:59.8630543Z",
       "fileCount": 1,
       "fileSize": 2294360
-    },
-    {
-      "folderName": "IntegratedTunnels-1.12-1.3.1.jar",
-      "fingerprint": 2768431220,
-      "fileDateHash": 1125027783,
-      "sectionID": 6,
-      "individualFingerprints": [
-        2768431220
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:29:06.3456908Z",
-      "lastWriteTimeUtc": "2017-08-29T16:16:30.5975539Z",
-      "queryTimestamp": "2017-09-02T08:26:59.8655568Z",
-      "fileCount": 1,
-      "fileSize": 614399
     },
     {
       "folderName": "embers-0.221.jar",
@@ -904,21 +964,6 @@
       "fileSize": 1109365
     },
     {
-      "folderName": "Aroma1997Core-1.12.1-1.3.0.0.b120.jar",
-      "fingerprint": 1413975852,
-      "fileDateHash": 4072980921,
-      "sectionID": 6,
-      "individualFingerprints": [
-        1413975852
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:35:49.5866603Z",
-      "lastWriteTimeUtc": "2017-08-29T16:43:03.0506685Z",
-      "queryTimestamp": "2017-09-02T08:26:59.8680594Z",
-      "fileCount": 1,
-      "fileSize": 222551
-    },
-    {
       "folderName": "ResourceLoader-MC1.12-1.5.2.jar",
       "fingerprint": 4259532211,
       "fileDateHash": 149791292,
@@ -962,6 +1007,21 @@
       "queryTimestamp": "2017-09-02T08:26:59.8760668Z",
       "fileCount": 1,
       "fileSize": 22049079
+    },
+    {
+      "folderName": "Mantle-1.12-1.3.1.21.jar",
+      "fingerprint": 3473629222,
+      "fileDateHash": 127325830,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3473629222
+      ],
+      "status": 1,
+      "timestamp": "2017-09-02T20:29:14.0350324Z",
+      "lastWriteTimeUtc": "2017-09-02T20:03:31.7941046Z",
+      "queryTimestamp": "2017-09-02T20:29:15.0371247Z",
+      "fileCount": 1,
+      "fileSize": 865513
     },
     {
       "folderName": "JustAnotherSnad-1.12-0.0.1.0.jar",
@@ -1037,21 +1097,6 @@
       "queryTimestamp": "2017-09-02T08:26:59.8665575Z",
       "fileCount": 1,
       "fileSize": 1270089
-    },
-    {
-      "folderName": "tombstone-1.3.3-1.12.jar",
-      "fingerprint": 43225532,
-      "fileDateHash": 2029425488,
-      "sectionID": 6,
-      "individualFingerprints": [
-        43225532
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:35:50.3594018Z",
-      "lastWriteTimeUtc": "2017-08-25T12:38:17.716788Z",
-      "queryTimestamp": "2017-09-02T08:26:59.8720626Z",
-      "fileCount": 1,
-      "fileSize": 302814
     },
     {
       "folderName": "ActuallyAdditions-1.12.1-r119.jar",
@@ -1415,17 +1460,27 @@
     },
     {
       "folderName": "New World",
-      "fingerprint": 2189817224,
-      "fileDateHash": 4064090858,
+      "fingerprint": 2133489565,
+      "fileDateHash": 2226248344,
       "sectionID": 17,
       "individualFingerprints": [
         82405666,
         106505551,
         106505551,
+        141887794,
+        179484199,
         188501490,
         188501490,
-        502258035,
-        544822171,
+        392465804,
+        487162300,
+        692221240,
+        692221240,
+        692221240,
+        692221240,
+        692221240,
+        692221240,
+        692221240,
+        692221240,
         758054953,
         758054953,
         758054953,
@@ -1434,38 +1489,28 @@
         758054953,
         758054953,
         758054953,
-        807154511,
-        942383924,
+        812339613,
         962555967,
+        1351494282,
         1467260102,
+        1717483823,
         1725698349,
         1877373007,
         1983774203,
         2066521709,
         2447626842,
         2643933950,
-        2703977671,
-        2703977671,
-        2703977671,
-        2703977671,
-        2703977671,
-        2703977671,
-        2703977671,
-        2703977671,
         2763463119,
         2888541047,
         2922114526,
         2954782839,
-        2995754438,
         3125529666,
         3125529666,
-        3155538744,
         3184781582,
         3298638875,
-        3359894208,
+        3362032813,
         3383409723,
         3465701048,
-        3567779023,
         3582932549,
         3799208668,
         3819815453,
@@ -1477,13 +1522,14 @@
         4213863462,
         4213863462,
         4213863462,
+        4213863462,
         4272588933,
         4272588933
       ],
       "status": 1,
-      "timestamp": "2017-09-02T19:55:01.0135192Z",
-      "lastWriteTimeUtc": "2017-09-02T10:08:53.5188902Z",
-      "queryTimestamp": "2017-09-02T19:55:02.8347805Z",
+      "timestamp": "2017-09-02T20:29:14.0415368Z",
+      "lastWriteTimeUtc": "2017-09-02T20:16:24.490142Z",
+      "queryTimestamp": "2017-09-02T20:29:15.041128Z",
       "fileCount": 26,
       "fileSize": 0
     },
@@ -1501,21 +1547,6 @@
       "queryTimestamp": "2017-09-02T08:26:59.8690603Z",
       "fileCount": 1,
       "fileSize": 238863
-    },
-    {
-      "folderName": "lostcities-1.12-0.0.20beta2.jar",
-      "fingerprint": 1246292753,
-      "fileDateHash": 3059963595,
-      "sectionID": 6,
-      "individualFingerprints": [
-        1246292753
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:29:06.49083Z",
-      "lastWriteTimeUtc": "2017-08-12T16:20:27.1140119Z",
-      "queryTimestamp": "2017-09-02T08:26:59.8740646Z",
-      "fileCount": 1,
-      "fileSize": 253416
     },
     {
       "folderName": "BabyAnimals-1.11-2.jar",
@@ -1563,6 +1594,21 @@
       "fileSize": 39316
     },
     {
+      "folderName": "lostsouls-1.12-1.0.0.jar",
+      "fingerprint": 980897870,
+      "fileDateHash": 1503374136,
+      "sectionID": 6,
+      "individualFingerprints": [
+        980897870
+      ],
+      "status": 1,
+      "timestamp": "2017-09-02T20:29:14.0350324Z",
+      "lastWriteTimeUtc": "2017-09-02T20:29:07.7070794Z",
+      "queryTimestamp": "2017-09-02T20:29:15.0421292Z",
+      "fileCount": 1,
+      "fileSize": 23042
+    },
+    {
       "folderName": "IvToolkit-1.3.3-1.12.jar",
       "fingerprint": 2463394895,
       "fileDateHash": 1895204848,
@@ -1576,21 +1622,6 @@
       "queryTimestamp": "2017-09-02T08:26:59.8700613Z",
       "fileCount": 1,
       "fileSize": 455763
-    },
-    {
-      "folderName": "Mantle-1.12-1.3.1.18.jar",
-      "fingerprint": 3595992189,
-      "fileDateHash": 1613744866,
-      "sectionID": 6,
-      "individualFingerprints": [
-        3595992189
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:29:06.4958351Z",
-      "lastWriteTimeUtc": "2017-08-03T17:14:16.0085546Z",
-      "queryTimestamp": "2017-09-02T08:26:59.87957Z",
-      "fileCount": 1,
-      "fileSize": 857863
     },
     {
       "folderName": "chameleoncreepers-1.4.1-1.12.jar",
@@ -1713,21 +1744,6 @@
       "fileSize": 147
     },
     {
-      "folderName": "EvilCraft-1.12-0.10.33.jar",
-      "fingerprint": 3141898208,
-      "fileDateHash": 587727625,
-      "sectionID": 6,
-      "individualFingerprints": [
-        3141898208
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:35:50.1872471Z",
-      "lastWriteTimeUtc": "2017-08-25T12:40:25.5004699Z",
-      "queryTimestamp": "2017-09-02T08:26:59.871062Z",
-      "fileCount": 1,
-      "fileSize": 3663866
-    },
-    {
       "folderName": "RecurrentComplex-1.4.5.jar",
       "fingerprint": 3794725880,
       "fileDateHash": 1088341584,
@@ -1741,21 +1757,6 @@
       "queryTimestamp": "2017-09-02T08:26:59.8810713Z",
       "fileCount": 1,
       "fileSize": 6903889
-    },
-    {
-      "folderName": "IntegratedDynamics-1.12-0.8.6.jar",
-      "fingerprint": 2133737169,
-      "fileDateHash": 3923087327,
-      "sectionID": 6,
-      "individualFingerprints": [
-        2133737169
-      ],
-      "status": 1,
-      "timestamp": "2017-08-31T18:29:06.2190697Z",
-      "lastWriteTimeUtc": "2017-08-29T16:16:20.3610829Z",
-      "queryTimestamp": "2017-09-02T08:26:59.8725633Z",
-      "fileCount": 1,
-      "fileSize": 3330044
     },
     {
       "folderName": "ThermalCultivation-1.12-0.1.1.6-universal.jar",
@@ -1833,6 +1834,21 @@
       "fileSize": 322760
     },
     {
+      "folderName": "tombstone-1.3.5-1.12.jar",
+      "fingerprint": 3401120790,
+      "fileDateHash": 2826076665,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3401120790
+      ],
+      "status": 1,
+      "timestamp": "2017-09-02T20:29:14.0395454Z",
+      "lastWriteTimeUtc": "2017-09-02T20:02:19.3924956Z",
+      "queryTimestamp": "2017-09-02T20:29:15.0446318Z",
+      "fileCount": 1,
+      "fileSize": 277705
+    },
+    {
       "folderName": "theoneprobe-1.12-1.4.18.jar",
       "fingerprint": 728337335,
       "fileDateHash": 2202748882,
@@ -1894,7 +1910,7 @@
     }
   ],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2017-09-02T19:55:02.9899035Z",
+  "lastPreviousMatchUpdate": "2017-09-02T20:29:15.8020011Z",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.12.1",
@@ -8474,6 +8490,63 @@
       },
       "dateInstalled": "2017-08-31T18:47:50.0245266Z",
       "dateUpdated": "2016-08-31T18:47:50.0245266Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 271998,
+      "gameInstanceID": "c14b11e7-7390-43d1-b9fa-0fe734a6c35e",
+      "installedFile": {
+        "Id": 2465796,
+        "FileName": "lostsouls-1.12-1.0.0.jar",
+        "FileNameOnDisk": "lostsouls-1.12-1.0.0.jar",
+        "FileDate": "2017-08-17T09:17:24",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "https://addons.cursecdn.com/files/2465/796/lostsouls-1.12-1.0.0.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [
+          {
+            "AddOnId": 269024,
+            "Type": 1
+          }
+        ],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "mcjty",
+            "Fingerprint": 73481468
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 2253339456
+          },
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 2464251221
+          },
+          {
+            "Foldername": "pack.mcmeta",
+            "Fingerprint": 1879831256
+          }
+        ],
+        "PackageFingerprint": 980897870,
+        "GameVersion": [
+          "1.12.1",
+          "1.12"
+        ]
+      },
+      "dateInstalled": "2017-09-02T20:29:15.8009999Z",
+      "dateUpdated": "2016-09-02T20:29:15.8009999Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
