@@ -18,7 +18,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2017-09-05T09:41:36.4028035Z",
+  "lastPlayed": "2017-09-05T09:48:43.3274573Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -2678,13 +2678,13 @@
       "addonID": 228525,
       "gameInstanceID": "c14b11e7-7390-43d1-b9fa-0fe734a6c35e",
       "installedFile": {
-        "Id": 2469466,
-        "FileName": "Bookshelf-1.12.1-2.1.429.jar",
-        "FileNameOnDisk": "Bookshelf-1.12.1-2.1.429.jar",
-        "FileDate": "2017-08-26T21:34:22",
+        "Id": 2470471,
+        "FileName": "Bookshelf-1.12.1-2.1.431.jar",
+        "FileNameOnDisk": "Bookshelf-1.12.1-2.1.431.jar",
+        "FileDate": "2017-08-29T02:23:14",
         "ReleaseType": 1,
         "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2469/466/Bookshelf-1.12.1-2.1.429.jar",
+        "DownloadURL": "https://addons.cursecdn.com/files/2470/471/Bookshelf-1.12.1-2.1.431.jar",
         "IsAlternate": false,
         "AlternateFileId": 0,
         "Dependencies": [],
@@ -2696,7 +2696,7 @@
           },
           {
             "Foldername": "mcmod.info",
-            "Fingerprint": 1445446185
+            "Fingerprint": 94012693
           },
           {
             "Foldername": "META-INF",
@@ -2704,23 +2704,23 @@
           },
           {
             "Foldername": "net",
-            "Fingerprint": 2882530140
+            "Fingerprint": 2219916285
           },
           {
             "Foldername": "pack.mcmeta",
             "Fingerprint": 4087128376
           }
         ],
-        "PackageFingerprint": 4238966365,
+        "PackageFingerprint": 3320142925,
         "GameVersion": [
           "1.12.1",
           "1.12"
         ]
       },
       "dateInstalled": "2017-09-05T09:32:04.8425602Z",
-      "dateUpdated": "2016-09-05T09:32:04.8425602Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 3,
+      "dateUpdated": "2017-09-05T09:47:11.4791866Z",
+      "dateLastUpdateAttempted": "2017-09-05T09:47:11.4791866Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2781,13 +2781,13 @@
       "addonID": 273532,
       "gameInstanceID": "c14b11e7-7390-43d1-b9fa-0fe734a6c35e",
       "installedFile": {
-        "Id": 2469855,
-        "FileName": "BTWeagles-1.12-1.0.2.0.jar",
-        "FileNameOnDisk": "BTWeagles-1.12-1.0.2.0.jar",
-        "FileDate": "2017-08-27T19:04:38",
-        "ReleaseType": 2,
+        "Id": 2475886,
+        "FileName": "BTWeagles-1.12-1.0.3.0.jar",
+        "FileNameOnDisk": "BTWeagles-1.12-1.0.3.0.jar",
+        "FileDate": "2017-09-04T22:02:27",
+        "ReleaseType": 1,
         "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2469/855/BTWeagles-1.12-1.0.2.0.jar",
+        "DownloadURL": "https://addons.cursecdn.com/files/2475/886/BTWeagles-1.12-1.0.3.0.jar",
         "IsAlternate": false,
         "AlternateFileId": 0,
         "Dependencies": [],
@@ -2799,7 +2799,7 @@
           },
           {
             "Foldername": "mcmod.info",
-            "Fingerprint": 1671012442
+            "Fingerprint": 963716006
           },
           {
             "Foldername": "META-INF",
@@ -2807,23 +2807,23 @@
           },
           {
             "Foldername": "net",
-            "Fingerprint": 1668849838
+            "Fingerprint": 1197023402
           },
           {
             "Foldername": "pack.mcmeta",
             "Fingerprint": 2991803051
           }
         ],
-        "PackageFingerprint": 4097853477,
+        "PackageFingerprint": 2173218746,
         "GameVersion": [
           "1.12.1",
           "1.12"
         ]
       },
       "dateInstalled": "2017-09-05T09:32:06.97912Z",
-      "dateUpdated": "2016-09-05T09:32:06.97912Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 3,
+      "dateUpdated": "2017-09-05T09:47:09.8505236Z",
+      "dateLastUpdateAttempted": "2017-09-05T09:47:09.8505236Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2950,13 +2950,13 @@
       "addonID": 225643,
       "gameInstanceID": "c14b11e7-7390-43d1-b9fa-0fe734a6c35e",
       "installedFile": {
-        "Id": 2474638,
-        "FileName": "Botania r1.10-346.jar",
-        "FileNameOnDisk": "Botania r1.10-346.jar",
-        "FileDate": "2017-09-02T18:17:46",
+        "Id": 2475851,
+        "FileName": "Botania r1.10-347.jar",
+        "FileNameOnDisk": "Botania r1.10-347.jar",
+        "FileDate": "2017-09-04T20:49:42",
         "ReleaseType": 1,
         "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2474/638/Botania r1.10-346.jar",
+        "DownloadURL": "https://addons.cursecdn.com/files/2475/851/Botania r1.10-347.jar",
         "IsAlternate": false,
         "AlternateFileId": 0,
         "Dependencies": [
@@ -2977,11 +2977,11 @@
         "Modules": [
           {
             "Foldername": "assets",
-            "Fingerprint": 1791765284
+            "Fingerprint": 3587283904
           },
           {
             "Foldername": "mcmod.info",
-            "Fingerprint": 2423361531
+            "Fingerprint": 2861017894
           },
           {
             "Foldername": "META-INF",
@@ -2993,18 +2993,18 @@
           },
           {
             "Foldername": "vazkii",
-            "Fingerprint": 4165208632
+            "Fingerprint": 1448196444
           }
         ],
-        "PackageFingerprint": 2171660461,
+        "PackageFingerprint": 3240264262,
         "GameVersion": [
           "1.12.1"
         ]
       },
       "dateInstalled": "2017-09-05T09:32:06.9831219Z",
-      "dateUpdated": "2016-09-05T09:32:06.9831219Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 3,
+      "dateUpdated": "2017-09-05T09:47:22.5743871Z",
+      "dateLastUpdateAttempted": "2017-09-05T09:47:22.5743871Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5137,13 +5137,13 @@
       "addonID": 240783,
       "gameInstanceID": "c14b11e7-7390-43d1-b9fa-0fe734a6c35e",
       "installedFile": {
-        "Id": 2451743,
-        "FileName": "Harvest-1.12-1.2.4-16.jar",
-        "FileNameOnDisk": "Harvest-1.12-1.2.4-16.jar",
-        "FileDate": "2017-07-16T22:47:39",
+        "Id": 2475234,
+        "FileName": "Harvest-1.12-1.2.6-18.jar",
+        "FileNameOnDisk": "Harvest-1.12-1.2.6-18.jar",
+        "FileDate": "2017-09-03T19:26:55",
         "ReleaseType": 1,
         "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2451/743/Harvest-1.12-1.2.4-16.jar",
+        "DownloadURL": "https://addons.cursecdn.com/files/2475/234/Harvest-1.12-1.2.6-18.jar",
         "IsAlternate": false,
         "AlternateFileId": 0,
         "Dependencies": [],
@@ -5151,27 +5151,27 @@
         "Modules": [
           {
             "Foldername": "mcmod.info",
-            "Fingerprint": 2820195496
+            "Fingerprint": 3257662170
           },
           {
             "Foldername": "META-INF",
-            "Fingerprint": 1256732893
+            "Fingerprint": 598388749
           },
           {
             "Foldername": "tehnut",
-            "Fingerprint": 1232484048
+            "Fingerprint": 2587640879
           }
         ],
-        "PackageFingerprint": 4138624969,
+        "PackageFingerprint": 764601744,
         "GameVersion": [
           "1.12.1",
           "1.12"
         ]
       },
       "dateInstalled": "2017-09-05T09:32:11.1341207Z",
-      "dateUpdated": "2016-09-05T09:32:11.1341207Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 3,
+      "dateUpdated": "2017-09-05T09:48:22.7354747Z",
+      "dateLastUpdateAttempted": "2017-09-05T09:48:22.7354747Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -6604,13 +6604,13 @@
       "addonID": 253462,
       "gameInstanceID": "c14b11e7-7390-43d1-b9fa-0fe734a6c35e",
       "installedFile": {
-        "Id": 2465154,
-        "FileName": "StevesCarts-1.12.1-2.4.7.40.jar",
-        "FileNameOnDisk": "StevesCarts-1.12.1-2.4.7.40.jar",
-        "FileDate": "2017-08-16T10:48:53",
+        "Id": 2475569,
+        "FileName": "StevesCarts-1.12.1-2.4.8.44.jar",
+        "FileNameOnDisk": "StevesCarts-1.12.1-2.4.8.44.jar",
+        "FileDate": "2017-09-04T12:02:02",
         "ReleaseType": 1,
         "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2465/154/StevesCarts-1.12.1-2.4.7.40.jar",
+        "DownloadURL": "https://addons.cursecdn.com/files/2475/569/StevesCarts-1.12.1-2.4.8.44.jar",
         "IsAlternate": false,
         "AlternateFileId": 0,
         "Dependencies": [
@@ -6623,15 +6623,15 @@
         "Modules": [
           {
             "Foldername": "assets",
-            "Fingerprint": 2471370569
+            "Fingerprint": 371751202
           },
           {
             "Foldername": "mcmod.info",
-            "Fingerprint": 131793593
+            "Fingerprint": 275436802
           },
           {
             "Foldername": "META-INF",
-            "Fingerprint": 1204930642
+            "Fingerprint": 1662387952
           },
           {
             "Foldername": "pack.mcmeta",
@@ -6639,18 +6639,18 @@
           },
           {
             "Foldername": "vswe",
-            "Fingerprint": 2565478982
+            "Fingerprint": 3289072681
           }
         ],
-        "PackageFingerprint": 534931129,
+        "PackageFingerprint": 1782266484,
         "GameVersion": [
           "1.12.1"
         ]
       },
       "dateInstalled": "2017-09-05T09:32:15.6701219Z",
-      "dateUpdated": "2016-09-05T09:32:15.6701219Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 3,
+      "dateUpdated": "2017-09-05T09:48:25.1474754Z",
+      "dateLastUpdateAttempted": "2017-09-05T09:48:25.1474754Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -6664,13 +6664,13 @@
       "addonID": 237903,
       "gameInstanceID": "c14b11e7-7390-43d1-b9fa-0fe734a6c35e",
       "installedFile": {
-        "Id": 2470621,
-        "FileName": "RebornCore-1.12.1-3.2.7.95-universal.jar",
-        "FileNameOnDisk": "RebornCore-1.12.1-3.2.7.95-universal.jar",
-        "FileDate": "2017-08-29T10:27:43",
+        "Id": 2475301,
+        "FileName": "RebornCore-1.12.1-3.3.0.99-universal.jar",
+        "FileNameOnDisk": "RebornCore-1.12.1-3.3.0.99-universal.jar",
+        "FileDate": "2017-09-03T21:50:50",
         "ReleaseType": 1,
         "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2470/621/RebornCore-1.12.1-3.2.7.95-universal.jar",
+        "DownloadURL": "https://addons.cursecdn.com/files/2475/301/RebornCore-1.12.1-3.3.0.99-universal.jar",
         "IsAlternate": false,
         "AlternateFileId": 0,
         "Dependencies": [],
@@ -6686,11 +6686,11 @@
           },
           {
             "Foldername": "mcmod.info",
-            "Fingerprint": 1552075332
+            "Fingerprint": 1213275921
           },
           {
             "Foldername": "META-INF",
-            "Fingerprint": 1084800821
+            "Fingerprint": 760310089
           },
           {
             "Foldername": "powercrystals",
@@ -6702,18 +6702,18 @@
           },
           {
             "Foldername": "reborncore",
-            "Fingerprint": 2752757161
+            "Fingerprint": 1665609886
           }
         ],
-        "PackageFingerprint": 2934208927,
+        "PackageFingerprint": 2394942324,
         "GameVersion": [
           "1.12.1"
         ]
       },
       "dateInstalled": "2017-09-05T09:32:15.6711217Z",
-      "dateUpdated": "2016-09-05T09:32:15.6711217Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 3,
+      "dateUpdated": "2017-09-05T09:47:56.4723845Z",
+      "dateLastUpdateAttempted": "2017-09-05T09:47:56.4723845Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
