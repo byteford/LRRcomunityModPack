@@ -49,7 +49,7 @@ attackIndicator:1
 showSubtitles:false
 realmsNotifications:true
 enableWeakAttacks:false
-autoJump:false
+autoJump:true
 narrator:0
 tutorialStep:none
 key_key.attack:-100
@@ -87,6 +87,8 @@ key_key.hotbar.8:9
 key_key.hotbar.9:10
 key_Toggle GPS:65
 key_psimisc.keybind:46
+key_quark.keybind.toggleAutojump:48
+key_quark.keybind.lockBuilding:37
 key_quark.keybind.dropoff:0
 key_quark.keybind.changeHotbar:44
 key_quark.keybind.chestSort:0
@@ -104,8 +106,6 @@ key_quark.keybind.emote.point:0
 key_quark.keybind.emote.shrug:0
 key_quark.keybind.emote.facepalm:0
 key_quark.keybind.emote.headbang:0
-key_quark.keybind.toggleAutojump:48
-key_quark.keybind.lockBuilding:37
 key_keybind.baublesinventory:48
 key_doggytalents.key.come:200
 key_doggytalents.key.stay:208
@@ -158,7 +158,7 @@ key_mod.chiselsandbits.other.undo:0
 key_mod.chiselsandbits.other.redo:0
 key_mod.chiselsandbits.other.add_to_clipboard:0
 key_Toggle Farting:25
-key_key.evilcraft.exaltedCrafting:46
+key_Open Exalted Crafter:46
 key_key.exchangermode:51
 key_key.toggleLiquids:38
 key_key.toggleVisible:0
