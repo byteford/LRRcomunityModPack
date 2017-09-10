@@ -21,7 +21,7 @@
         {
             "text" : "",
             "posX" : -210,
-            "posY" : 160,
+            "posY" : 180,
             "width" : 20,
             "height" : 20,
             "action" : 
@@ -35,7 +35,7 @@
         {
             "text" : "menu.singleplayer",
             "posX" : -185,
-            "posY" : 160,
+            "posY" : 180,
             "width" : 70,
             "height" : 20,
             "action" : 
@@ -49,7 +49,7 @@
         {
             "text" : "menu.multiplayer",
             "posX" : -110,
-            "posY" : 160,
+            "posY" : 180,
             "width" : 70,
             "height" : 20,
             "action" : 
@@ -63,7 +63,7 @@
         {
             "text" : "fml.menu.mods",
             "posX" : -35,
-            "posY" : 160,
+            "posY" : 180,
             "width" : 70,
             "height" : 20,
             "action" : 
@@ -77,7 +77,7 @@
         {
             "text" : "menu.options",
             "posX" : 40,
-            "posY" : 160,
+            "posY" : 180,
             "width" : 70,
             "height" : 20,
             "action" : 
@@ -91,7 +91,7 @@
         {
             "text" : "menu.quit",
             "posX" : 115,
-            "posY" : 160,
+            "posY" : 180,
             "width" : 70,
             "height" : 20,
             "action" : 
@@ -105,7 +105,7 @@
         {
             "text" : "",
             "posX" : 190,
-            "posY" : 160,
+            "posY" : 180,
             "width" : 20,
             "height" : 20,
             "texture" : "custommainmenu:textures/gui/buttons.png",
