@@ -7544,13 +7544,13 @@
       "addonID": 246183,
       "gameInstanceID": "facd328a-3c7f-4935-9990-1cf38654eadf",
       "installedFile": {
-        "Id": 2480685,
-        "FileName": "roots-2-0.100.jar",
-        "FileNameOnDisk": "roots-2-0.100.jar",
-        "FileDate": "2017-09-17T04:09:00",
+        "Id": 2480943,
+        "FileName": "roots-2-0.101.jar",
+        "FileNameOnDisk": "roots-2-0.101.jar",
+        "FileDate": "2017-09-17T17:40:20",
         "ReleaseType": 2,
         "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2480/685/roots-2-0.100.jar",
+        "DownloadURL": "https://addons.cursecdn.com/files/2480/943/roots-2-0.101.jar",
         "IsAlternate": false,
         "AlternateFileId": 0,
         "Dependencies": [],
@@ -7562,7 +7562,7 @@
           },
           {
             "Foldername": "mcmod.info",
-            "Fingerprint": 389469103
+            "Fingerprint": 4249982214
           },
           {
             "Foldername": "META-INF",
@@ -7570,18 +7570,18 @@
           },
           {
             "Foldername": "teamroots",
-            "Fingerprint": 1753864194
+            "Fingerprint": 346721778
           }
         ],
-        "PackageFingerprint": 234026571,
+        "PackageFingerprint": 1994731046,
         "GameVersion": [
           "1.12.1",
           "1.12"
         ]
       },
       "dateInstalled": "2017-09-10T15:50:11.2335912Z",
-      "dateUpdated": "2017-09-17T09:50:03.6703576Z",
-      "dateLastUpdateAttempted": "2017-09-17T09:50:03.6703576Z",
+      "dateUpdated": "2017-09-17T18:11:23.6258605Z",
+      "dateLastUpdateAttempted": "2017-09-17T18:11:23.6258605Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
