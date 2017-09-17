@@ -13,7 +13,7 @@
 
         "title":
         {
-            "image" : "snorshcraft:textures/gui/SNORSHCRAFT.png",
+            "image" : "snorshcraft:textures/gui/snorshcraft.png",
             "posX" : -150,
             "posY" : 5,
             "width" : 300,
