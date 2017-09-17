@@ -1,4 +1,4 @@
-9021 nodes in total
+9026 nodes in total
 
 block.tap: ALL
 block.wrench: ALL
@@ -236,7 +236,6 @@ command.ftb.inv.view: CMD
 command.ftb.inv: CMD
 command.ftb.kickme: CMD
 command.ftb.killall: CMD
-command.ftb.loaded_chunks_list: CMD
 command.ftb.my_settings: CMD
 command.ftb.nbtedit: CMD
 command.ftb.notify: CMD
@@ -2406,6 +2405,7 @@ ftbu.claims.block.edit.roots.fairy_dust: OP
 ftbu.claims.block.edit.roots.imbuer: OP
 ftbu.claims.block.edit.roots.moonglow: OP
 ftbu.claims.block.edit.roots.mortar: OP
+ftbu.claims.block.edit.roots.offertory_plate: OP
 ftbu.claims.block.edit.roots.pereskia: OP
 ftbu.claims.block.edit.roots.runestone: OP
 ftbu.claims.block.edit.roots.runestone_brick: OP
@@ -4848,6 +4848,7 @@ ftbu.claims.block.interact.roots.fairy_dust: OP
 ftbu.claims.block.interact.roots.imbuer: OP
 ftbu.claims.block.interact.roots.moonglow: OP
 ftbu.claims.block.interact.roots.mortar: OP
+ftbu.claims.block.interact.roots.offertory_plate: OP
 ftbu.claims.block.interact.roots.pereskia: OP
 ftbu.claims.block.interact.roots.runestone: OP
 ftbu.claims.block.interact.roots.runestone_brick: OP
@@ -8518,6 +8519,7 @@ ftbu.claims.item.roots.chiseled_runestone: ALL
 ftbu.claims.item.roots.diamond_hammer: ALL
 ftbu.claims.item.roots.diamond_knife: ALL
 ftbu.claims.item.roots.dwindle_dust: ALL
+ftbu.claims.item.roots.fairy_charm: ALL
 ftbu.claims.item.roots.fairy_dust: ALL
 ftbu.claims.item.roots.firestarter: ALL
 ftbu.claims.item.roots.gold_hammer: ALL
@@ -8530,6 +8532,7 @@ ftbu.claims.item.roots.moonglow: ALL
 ftbu.claims.item.roots.moonglow_leaf: ALL
 ftbu.claims.item.roots.moontinged_seed: ALL
 ftbu.claims.item.roots.mortar: ALL
+ftbu.claims.item.roots.offertory_plate: ALL
 ftbu.claims.item.roots.pereskia: ALL
 ftbu.claims.item.roots.pereskia_blossom: ALL
 ftbu.claims.item.roots.pereskia_bulb: ALL
@@ -8542,6 +8545,7 @@ ftbu.claims.item.roots.runestone_brick: ALL
 ftbu.claims.item.roots.spellcraft_book: ALL
 ftbu.claims.item.roots.spirit_herb: ALL
 ftbu.claims.item.roots.spirit_herb_item: ALL
+ftbu.claims.item.roots.spritely_brew: ALL
 ftbu.claims.item.roots.staff: ALL
 ftbu.claims.item.roots.stone_hammer: ALL
 ftbu.claims.item.roots.stone_knife: ALL
