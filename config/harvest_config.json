@@ -889,6 +889,206 @@
         "blockName": "xlfoodmod:tomato_plant",
         "meta": 0
       }
+    },
+    {
+      "initialBlock": {
+        "blockName": "rustic:blood_orchid",
+        "meta": 3
+      },
+      "finalBlock": {
+        "blockName": "rustic:blood_orchid",
+        "meta": 0
+      }
+    },
+    {
+      "initialBlock": {
+        "blockName": "rustic:aloe_vera",
+        "meta": 3
+      },
+      "finalBlock": {
+        "blockName": "rustic:aloe_vera",
+        "meta": 0
+      }
+    },
+    {
+      "initialBlock": {
+        "blockName": "rustic:chamomile",
+        "meta": 3
+      },
+      "finalBlock": {
+        "blockName": "rustic:chamomile",
+        "meta": 0
+      }
+    },
+    {
+      "initialBlock": {
+        "blockName": "rustic:cohosh",
+        "meta": 3
+      },
+      "finalBlock": {
+        "blockName": "rustic:cohosh",
+        "meta": 0
+      }
+    },
+    {
+      "initialBlock": {
+        "blockName": "rustic:deathstalk_mushroom",
+        "meta": 3
+      },
+      "finalBlock": {
+        "blockName": "rustic:deathstalk_mushroom",
+        "meta": 0
+      }
+    },
+    {
+      "initialBlock": {
+        "blockName": "rustic:horsetail",
+        "meta": 3
+      },
+      "finalBlock": {
+        "blockName": "rustic:horsetail",
+        "meta": 0
+      }
+    },
+    {
+      "initialBlock": {
+        "blockName": "rustic:mooncap_mushroom",
+        "meta": 3
+      },
+      "finalBlock": {
+        "blockName": "rustic:mooncap_mushroom",
+        "meta": 0
+      }
+    },
+    {
+      "initialBlock": {
+        "blockName": "rustic:wind_thistle",
+        "meta": 3
+      },
+      "finalBlock": {
+        "blockName": "rustic:wind_thistle",
+        "meta": 0
+      }
+    },
+    {
+      "initialBlock": {
+        "blockName": "rustic:cloudsbluff",
+        "meta": 3
+      },
+      "finalBlock": {
+        "blockName": "rustic:cloudsbluff",
+        "meta": 0
+      }
+    },
+    {
+      "initialBlock": {
+        "blockName": "rustic:core_root",
+        "meta": 3
+      },
+      "finalBlock": {
+        "blockName": "rustic:core_root",
+        "meta": 0
+      }
+    },
+    {
+      "initialBlock": {
+        "blockName": "rustic:marsh_mallow",
+        "meta": 3
+      },
+      "finalBlock": {
+        "blockName": "rustic:marsh_mallow",
+        "meta": 0
+      }
+    },
+    {
+      "initialBlock": {
+        "blockName": "rustic:ginseng",
+        "meta": 3
+      },
+      "finalBlock": {
+        "blockName": "rustic:ginseng",
+        "meta": 0
+      }
+    },
+    {
+      "initialBlock": {
+        "blockName": "mysticalagriculture:tier1_inferium_crop",
+        "meta": 7
+      },
+      "finalBlock": {
+        "blockName": "mysticalagriculture:tier1_inferium_crop",
+        "meta": 0
+      }
+    },
+    {
+      "initialBlock": {
+        "blockName": "mysticalagriculture:tier2_inferium_crop",
+        "meta": 7
+      },
+      "finalBlock": {
+        "blockName": "mysticalagriculture:tier2_inferium_crop",
+        "meta": 0
+      }
+    },
+    {
+      "initialBlock": {
+        "blockName": "mysticalagriculture:tier3_inferium_crop",
+        "meta": 7
+      },
+      "finalBlock": {
+        "blockName": "mysticalagriculture:tier3_inferium_crop",
+        "meta": 0
+      }
+    },
+    {
+      "initialBlock": {
+        "blockName": "mysticalagriculture:tier4_inferium_crop",
+        "meta": 7
+      },
+      "finalBlock": {
+        "blockName": "mysticalagriculture:tier4_inferium_crop",
+        "meta": 0
+      }
+    },
+    {
+      "initialBlock": {
+        "blockName": "mysticalagriculture:tier5_inferium_crop",
+        "meta": 7
+      },
+      "finalBlock": {
+        "blockName": "mysticalagriculture:tier5_inferium_crop",
+        "meta": 0
+      }
+    },
+    {
+      "initialBlock": {
+        "blockName": "mysticalagriculture:terrasteel_crop",
+        "meta": 7
+      },
+      "finalBlock": {
+        "blockName": "mysticalagriculture:terrasteel_crop",
+        "meta": 0
+      }
+    },
+    {
+      "initialBlock": {
+        "blockName": "mysticalagriculture:manasteel_crop",
+        "meta": 7
+      },
+      "finalBlock": {
+        "blockName": "mysticalagriculture:manasteel_crop",
+        "meta": 0
+      }
+    },
+    {
+      "initialBlock": {
+        "blockName": "mysticalagriculture:mystical_flower_crop",
+        "meta": 7
+      },
+      "finalBlock": {
+        "blockName": "mysticalagriculture:mystical_flower_crop",
+        "meta": 0
+      }
     }
   ],
   "exhaustionPerHarvest": 0.005

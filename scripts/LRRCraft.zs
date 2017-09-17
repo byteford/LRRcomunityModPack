@@ -55,3 +55,6 @@ recipes.addShaped("culinary", <extrautils2:machine>.withTag({Type:"extrautils2:g
 #Adjust the EvilCraft Golden String recipe to solve recipe conflict with XU2 Golden Lasso
 recipes.remove(<evilcraft:golden_string>);
 recipes.addShapeless(<evilcraft:golden_string>,[<minecraft:string>, <minecraft:gold_nugget>, <minecraft:gold_nugget>]);
+
+#Remove iChisel recipe due to crashes
+recipes.remove(<chisel:chisel_hitech>);
