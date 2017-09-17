@@ -1,13 +1,14 @@
 [INITIALIZATION][CLIENT][INFO] CraftTweaker: Building registry
 [INITIALIZATION][CLIENT][INFO] CraftTweaker: Successfully built item registry
-[INITIALIZATION][CLIENT][INFO] Adding tooltip for <appliedenergistics2:material:19>: crafttweaker.mc1120.formatting.FormattedMarkupString@5948e807
-[INITIALIZATION][CLIENT][INFO] Adding tooltip for <appliedenergistics2:material:13>: crafttweaker.mc1120.formatting.FormattedMarkupString@703d56ba
-[INITIALIZATION][CLIENT][INFO] Adding tooltip for <appliedenergistics2:material:15>: crafttweaker.mc1120.formatting.FormattedMarkupString@39d9dff4
-[INITIALIZATION][CLIENT][INFO] Adding tooltip for <appliedenergistics2:material:14>: crafttweaker.mc1120.formatting.FormattedMarkupString@3acfa6ab
-[INITIALIZATION][CLIENT][INFO] Adding tooltip for <appliedenergistics2:sky_compass>: crafttweaker.mc1120.formatting.FormattedMarkupString@27da432d
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <appliedenergistics2:material:19>: crafttweaker.mc1120.formatting.FormattedMarkupString@546f42c3
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <appliedenergistics2:material:13>: crafttweaker.mc1120.formatting.FormattedMarkupString@154566a1
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <appliedenergistics2:material:15>: crafttweaker.mc1120.formatting.FormattedMarkupString@7a544069
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <appliedenergistics2:material:14>: crafttweaker.mc1120.formatting.FormattedMarkupString@7b144d16
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <appliedenergistics2:sky_compass>: crafttweaker.mc1120.formatting.FormattedMarkupString@4b7ba3d9
 [POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <appliedenergistics2:sky_compass>
 [POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for (Ingredient) <extrautils2:machine>
 [POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <evilcraft:golden_string>
+[POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <chisel:chisel_hitech>
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Inscriber Silicon Press with name ct_shaped2129053511
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Inscriber Calculation Press with name ct_shaped2016602285
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Inscriber Logic Press with name ct_shaped-254275089
