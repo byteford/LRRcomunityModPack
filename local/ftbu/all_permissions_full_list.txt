@@ -1,4 +1,4 @@
-9026 nodes in total
+9028 nodes in total
 
 block.tap: ALL
 block.wrench: ALL
@@ -73,11 +73,6 @@ command.execute: CMD
 command.fill: CMD
 command.findbiome: CMD
 command.forge: CMD
-command.ftb.admin_home.list: CMD
-command.ftb.admin_home.remove: CMD
-command.ftb.admin_home.tp: CMD
-command.ftb.admin_home: CMD
-command.ftb.back: CMD
 command.ftb.backup.getsize: CMD
 command.ftb.backup.start: CMD
 command.ftb.backup.stop: CMD
@@ -91,8 +86,6 @@ command.ftb.chunks.unclaim_all: CMD
 command.ftb.chunks.unload: CMD
 command.ftb.chunks.unload_all: CMD
 command.ftb.chunks: CMD
-command.ftb.delhome: CMD
-command.ftb.delwarp: CMD
 command.ftb.edit_config.AppliedEnergistics2\AppliedEnergistics2: CMD
 command.ftb.edit_config.AppliedEnergistics2\CustomRecipes: CMD
 command.ftb.edit_config.AppliedEnergistics2\Facades: CMD
@@ -106,6 +99,7 @@ command.ftb.edit_config.NoNausea: CMD
 command.ftb.edit_config.TinkerModules: CMD
 command.ftb.edit_config.Waystones: CMD
 command.ftb.edit_config.actuallyadditions: CMD
+command.ftb.edit_config.akashictome: CMD
 command.ftb.edit_config.antighost: CMD
 command.ftb.edit_config.appleskin: CMD
 command.ftb.edit_config.aroma1997\aroma1997core: CMD
@@ -194,10 +188,10 @@ command.ftb.edit_config.lostcities\profile_safe: CMD
 command.ftb.edit_config.lostcities\profile_tallbuildings: CMD
 command.ftb.edit_config.lostcities\profile_wasteland: CMD
 command.ftb.edit_config.lostsouls: CMD
-command.ftb.edit_config.mankini: CMD
 command.ftb.edit_config.mcjtylib: CMD
 command.ftb.edit_config.mobends: CMD
 command.ftb.edit_config.modnametooltip: CMD
+command.ftb.edit_config.morphtool: CMD
 command.ftb.edit_config.mysticalagriculture: CMD
 command.ftb.edit_config.mysticalagriculture_recipes: CMD
 command.ftb.edit_config.presets\presets: CMD
@@ -229,7 +223,6 @@ command.ftb.edit_config.xlfoodmod: CMD
 command.ftb.edit_config.xnet\xnet: CMD
 command.ftb.edit_config: CMD
 command.ftb.heal: CMD
-command.ftb.home: CMD
 command.ftb.inv.load: CMD
 command.ftb.inv.save: CMD
 command.ftb.inv.view: CMD
@@ -247,9 +240,6 @@ command.ftb.ranks: CMD
 command.ftb.reload: CMD
 command.ftb.server_info: CMD
 command.ftb.set_hour: CMD
-command.ftb.sethome: CMD
-command.ftb.setwarp: CMD
-command.ftb.spawn: CMD
 command.ftb.team.config: CMD
 command.ftb.team.create: CMD
 command.ftb.team.gui: CMD
@@ -263,7 +253,6 @@ command.ftb.team: CMD
 command.ftb.tpl: CMD
 command.ftb.trash_can: CMD
 command.ftb.view_crash: CMD
-command.ftb.warp: CMD
 command.ftb: CMD
 command.function: CMD
 command.gamemode: CMD
@@ -5483,6 +5472,7 @@ ftbu.claims.item.actuallyadditions.obsidian_paxel: ALL
 ftbu.claims.item.actuallyadditions.quartz_paxel: ALL
 ftbu.claims.item.actuallyadditions.stone_paxel: ALL
 ftbu.claims.item.actuallyadditions.wooden_paxel: ALL
+ftbu.claims.item.akashictome.tome: ALL
 ftbu.claims.item.appliedenergistics2.biometric_card: ALL
 ftbu.claims.item.appliedenergistics2.cable_bus: ALL
 ftbu.claims.item.appliedenergistics2.cell_workbench: ALL
@@ -7685,6 +7675,7 @@ ftbu.claims.item.minecraft.written_book: ALL
 ftbu.claims.item.minecraft.yellow_flower: ALL
 ftbu.claims.item.minecraft.yellow_glazed_terracotta: ALL
 ftbu.claims.item.minecraft.yellow_shulker_box: ALL
+ftbu.claims.item.morphtool.tool: ALL
 ftbu.claims.item.mysticalagriculture.aluminum_brass_crop: ALL
 ftbu.claims.item.mysticalagriculture.aluminum_brass_essence: ALL
 ftbu.claims.item.mysticalagriculture.aluminum_brass_seeds: ALL
