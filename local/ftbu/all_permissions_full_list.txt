@@ -1,4 +1,4 @@
-9150 nodes in total
+9151 nodes in total
 
 block.tap: ALL
 block.wrench: ALL
@@ -195,6 +195,7 @@ command.ftb.edit_config.morphtool: CMD
 command.ftb.edit_config.mysticalagradditions: CMD
 command.ftb.edit_config.mysticalagriculture: CMD
 command.ftb.edit_config.mysticalagriculture_recipes: CMD
+command.ftb.edit_config.naturescompass: CMD
 command.ftb.edit_config.presets\presets: CMD
 command.ftb.edit_config.psi: CMD
 command.ftb.edit_config.quark: CMD
@@ -8092,6 +8093,7 @@ ftbu.claims.item.mysticalagriculture.xp_droplet: ALL
 ftbu.claims.item.mysticalagriculture.zombie_crop: ALL
 ftbu.claims.item.mysticalagriculture.zombie_essence: ALL
 ftbu.claims.item.mysticalagriculture.zombie_seeds: ALL
+ftbu.claims.item.naturescompass.naturescompass: ALL
 ftbu.claims.item.psi.cad: ALL
 ftbu.claims.item.psi.cad_assembler: ALL
 ftbu.claims.item.psi.cad_assembly: ALL
