@@ -1,27 +1,27 @@
 {
   "outputs": [
     {
-      "target": "litherite",
+      "target": "green",
       "weight": 10,
       "id": "environmentaltech:litherite_crystal"
     },
     {
-      "target": "erodium",
+      "target": "purple",
       "weight": 8,
       "id": "environmentaltech:erodium_crystal"
     },
     {
-      "target": "kyronite",
+      "target": "magenta",
       "weight": 6,
       "id": "environmentaltech:kyronite_crystal"
     },
     {
-      "target": "pladium",
+      "target": "blue",
       "weight": 4,
       "id": "environmentaltech:pladium_crystal"
     },
     {
-      "target": "ionite",
+      "target": "light_blue",
       "weight": 2,
       "id": "environmentaltech:ionite_crystal"
     },
@@ -44,6 +44,11 @@
       "target": "red",
       "weight": 32,
       "id": "OD:oreRedstone"
+    },
+    {
+      "target": "red",
+      "weight": 30,
+      "id": "deepresonance:resonating_ore"
     },
     {
       "target": "blue",
