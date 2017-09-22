@@ -1,17 +1,17 @@
 {
   "outputs": [
     {
-      "target": "litherite",
+      "target": "green",
       "weight": 6,
       "id": "environmentaltech:litherite_crystal"
     },
     {
-      "target": "erodium",
+      "target": "purple",
       "weight": 4,
       "id": "environmentaltech:erodium_crystal"
     },
     {
-      "target": "kyronite",
+      "target": "magenta",
       "weight": 2,
       "id": "environmentaltech:kyronite_crystal"
     },
@@ -34,6 +34,11 @@
       "target": "red",
       "weight": 32,
       "id": "OD:oreRedstone"
+    },
+    {
+      "target": "red",
+      "weight": 30,
+      "id": "deepresonance:resonating_ore"
     },
     {
       "target": "blue",
