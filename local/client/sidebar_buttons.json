@@ -1,4 +1,5 @@
 {
+  "ftbu.trash_can": true,
   "ftbu.chats": true,
   "ftbu.heal": true,
   "ftbu.toggle.gamemode": true,
@@ -6,7 +7,5 @@
   "ftbu.toggle.day": true,
   "ftbu.toggle.night": true,
   "ftbu.claimed_chunks": true,
-  "ftbu.guide": true,
-  "ftbu.server_info": true,
-  "ftbu.trash_can": true
+  "ftbu.guide": true
 }

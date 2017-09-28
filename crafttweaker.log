@@ -1,13 +1,46 @@
 [INITIALIZATION][CLIENT][INFO] CraftTweaker: Building registry
 [INITIALIZATION][CLIENT][INFO] CraftTweaker: Successfully built item registry
-[INITIALIZATION][CLIENT][INFO] Adding tooltip for <appliedenergistics2:material:19>: crafttweaker.mc1120.formatting.FormattedMarkupString@52771155
-[INITIALIZATION][CLIENT][INFO] Adding tooltip for <appliedenergistics2:material:13>: crafttweaker.mc1120.formatting.FormattedMarkupString@292b1aea
-[INITIALIZATION][CLIENT][INFO] Adding tooltip for <appliedenergistics2:material:15>: crafttweaker.mc1120.formatting.FormattedMarkupString@232f2074
-[INITIALIZATION][CLIENT][INFO] Adding tooltip for <appliedenergistics2:material:14>: crafttweaker.mc1120.formatting.FormattedMarkupString@67422ccb
-[INITIALIZATION][CLIENT][INFO] Adding tooltip for <appliedenergistics2:sky_compass>: crafttweaker.mc1120.formatting.FormattedMarkupString@53ca4d69
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <appliedenergistics2:material:19>: crafttweaker.mc1120.formatting.FormattedMarkupString@6e1023f5
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <appliedenergistics2:material:13>: crafttweaker.mc1120.formatting.FormattedMarkupString@185fdc67
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <appliedenergistics2:material:15>: crafttweaker.mc1120.formatting.FormattedMarkupString@45957f06
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <appliedenergistics2:material:14>: crafttweaker.mc1120.formatting.FormattedMarkupString@3d912ca8
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <appliedenergistics2:sky_compass>: crafttweaker.mc1120.formatting.FormattedMarkupString@1a3b62a3
 [POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <appliedenergistics2:sky_compass>
 [POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for (Ingredient) <extrautils2:machine>
 [POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <evilcraft:golden_string>
+[POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <chisel:chisel_hitech>
+[POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <rustic:painted_wood_white>
+[POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <rustic:painted_wood_orange>
+[POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <rustic:painted_wood_magenta>
+[POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <rustic:painted_wood_light_blue>
+[POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <rustic:painted_wood_yellow>
+[POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <rustic:painted_wood_lime>
+[POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <rustic:painted_wood_pink>
+[POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <rustic:painted_wood_gray>
+[POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <rustic:painted_wood_cyan>
+[POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <rustic:painted_wood_purple>
+[POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <rustic:painted_wood_blue>
+[POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <rustic:painted_wood_green>
+[POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <rustic:painted_wood_red>
+[POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <rustic:painted_wood_black>
+[POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <rustic:painted_wood_brown>
+[POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <rustic:painted_wood_silver>
+[POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <rustic:iron_lattice>
+[POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <mysticalagriculture:charm:1>
+[POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <mysticalagriculture:charm:2>
+[POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <mysticalagriculture:charm:3>
+[POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <mysticalagriculture:charm:4>
+[POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <mysticalagriculture:charm:10>
+[POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <mysticalagriculture:charm:11>
+[POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <mysticalagriculture:charm:13>
+[POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <mysticalagriculture:charm:14>
+[POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <mysticalagriculture:charm:5>
+[POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <mysticalagriculture:charm:6>
+[POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <mysticalagriculture:charm:7>
+[POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <mysticalagriculture:charm:8>
+[POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <mysticalagriculture:charm:9>
+[POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <actuallyadditions:item_crate_keeper>
+[POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <refinedstorage:crafter>
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Inscriber Silicon Press with name ct_shaped2129053511
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Inscriber Calculation Press with name ct_shaped2016602285
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Inscriber Logic Press with name ct_shaped-254275089
@@ -23,8 +56,27 @@
 [POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Oak Chest with name ct_shapeless-455335559
 [POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Oak Chest with name ct_shapeless-455335590
 [POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Oak Chest with name ct_shapeless-40697231
-[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Generator_culinary with name culinary
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Culinary Generator with name culinary
 [POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Golden String with name ct_shapeless718581509
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for White Painted Wood with name ct_shaped-1838768586
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Orange Painted Wood with name ct_shaped21818396
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Magenta Painted Wood with name ct_shaped-1356964362
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Light Blue Painted Wood with name ct_shaped-127015979
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Yellow Painted Wood with name ct_shaped1286368860
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Lime Painted Wood with name ct_shaped-1351513476
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Pink Painted Wood with name ct_shaped1611077404
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Gray Painted Wood with name ct_shaped-769944772
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Cyan Painted Wood with name ct_shaped1198459708
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Purple Painted Wood with name ct_shaped443255132
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Blue Painted Wood with name ct_shaped624002460
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Green Painted Wood with name ct_shaped-1843626750
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Red Painted Wood with name ct_shaped669324454
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Black Painted Wood with name ct_shaped1900015114
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Brown Painted Wood with name ct_shaped647818844
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Light Gray Painted Wood with name ct_shaped-1035210686
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Iron Lattice with name ct_shaped1123364484
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Salt with name ct_shapeless624472993
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Magma Block with name ct_shaped-2017825317
 [AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for <liquid:glasshearts.lifeforce> * 100
 [AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for <liquid:glasshearts.lifeforce> * 100
 [AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for <liquid:glasshearts.lifeforce> * 100
@@ -37,4 +89,249 @@
 [AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for <liquid:glasshearts.lifeforce> * 500
 [AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for <liquid:glasshearts.lifeforce> * 500
 [AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for <liquid:glasshearts.lifeforce> * 500
-[SERVER_STARTED][CLIENT][INFO] Fixed the RecipeBook
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:aluminum_brass_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:aluminum_brass_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:aluminum_brass_essence> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:aluminum_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:aluminum_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:aluminum_essence> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:aquamarine_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:aquamarine_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:aquamarine_essence> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:ardite_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:ardite_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:ardite_essence> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:basalt_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:basalt_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:basalt_essence> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:basalz_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:basalz_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:basalz_essence> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:black_quartz_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:black_quartz_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:black_quartz_essence> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:blaze_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:blaze_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:blaze_essence> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:blitz_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:blitz_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:blitz_essence> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:blizz_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:blizz_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:blizz_essence> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:bronze_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:bronze_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:bronze_essence> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:certus_quartz_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:certus_quartz_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:certus_quartz_essence> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:chicken_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:chicken_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:chicken_essence> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:coal_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:coal_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:coal_essence> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:cobalt_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:cobalt_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:cobalt_essence> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:constantan_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:constantan_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:constantan_essence> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:copper_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:copper_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:copper_essence> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:cow_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:cow_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:cow_essence> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:creeper_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:creeper_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:creeper_essence> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:diamond_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:diamond_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:diamond_essence> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:dirt_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:dirt_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:dirt_essence> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:dye_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:dye_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:dye_essence> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:electrum_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:electrum_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:electrum_essence> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:emerald_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:emerald_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:emerald_essence> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:end_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:end_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:end_essence> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:ender_biotite_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:ender_biotite_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:ender_biotite_essence> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:enderium_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:enderium_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:enderium_essence> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:experience_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:experience_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:experience_essence> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:fire_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:fire_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:fire_essence> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:fluix_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:fluix_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:fluix_essence> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:ghast_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:ghast_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:ghast_essence> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:glowstone_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:glowstone_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:glowstone_essence> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:gold_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:gold_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:gold_essence> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:guardian_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:guardian_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:guardian_essence> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:ice_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:ice_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:ice_essence> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:invar_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:invar_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:invar_essence> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:iridium_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:iridium_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:iridium_essence> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:iron_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:iron_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:iron_essence> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:knightslime_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:knightslime_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:knightslime_essence> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:lapis_lazuli_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:lapis_lazuli_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:lapis_lazuli_essence> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:lead_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:lead_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:lead_essence> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:limestone_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:limestone_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:limestone_essence> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:lumium_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:lumium_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:lumium_essence> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:manasteel_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:manasteel_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:manasteel_essence> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:manyullyn_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:manyullyn_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:manyullyn_essence> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:marble_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:marble_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:marble_essence> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:mithril_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:mithril_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:mithril_essence> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:mystical_flower_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:mystical_flower_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:mystical_flower_essence> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:nature_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:nature_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:nature_essence> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:nether_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:nether_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:nether_essence> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:nickel_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:nickel_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:nickel_essence> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:obsidian_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:obsidian_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:obsidian_essence> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:pig_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:pig_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:pig_essence> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:platinum_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:platinum_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:platinum_essence> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:quartz_enriched_iron_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:quartz_enriched_iron_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:quartz_enriched_iron_essence> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:rabbit_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:rabbit_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:rabbit_essence> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:redstone_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:redstone_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:redstone_essence> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:rock_crystal_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:rock_crystal_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:rock_crystal_essence> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:saltpeter_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:saltpeter_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:saltpeter_essence> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:sheep_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:sheep_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:sheep_essence> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:signalum_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:signalum_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:signalum_essence> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:silicon_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:silicon_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:silicon_essence> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:silver_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:silver_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:silver_essence> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:skeleton_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:skeleton_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:skeleton_essence> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:slime_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:slime_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:slime_essence> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:spider_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:spider_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:spider_essence> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:starmetal_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:starmetal_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:starmetal_essence> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:steel_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:steel_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:steel_essence> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:stone_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:stone_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:stone_essence> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:sulfur_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:sulfur_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:sulfur_essence> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:terrasteel_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:terrasteel_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:terrasteel_essence> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:tin_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:tin_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:tin_essence> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:uranium_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:uranium_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:uranium_essence> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:water_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:water_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:water_essence> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:wither_skeleton_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:wither_skeleton_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:wither_skeleton_essence> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:wood_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:wood_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:wood_essence> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:zombie_essence>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:zombie_essence> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:zombie_essence> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:crafting>
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:crafting> * 2
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:crafting> * 3
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:crafting> * 4
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:crafting> * 5
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:crafting> * 6
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:crafting> * 7
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:crafting> * 8
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:crafting> * 9
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:crafting> * 10
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:crafting> * 11
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:crafting> * 12
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:crafting> * 13
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:crafting> * 14
+[AVAILABLE][CLIENT][INFO] Altering PhytogenicInsolator Recipe(s) for <mysticalagriculture:crafting> * 15
