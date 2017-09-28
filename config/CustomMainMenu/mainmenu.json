@@ -4,123 +4,122 @@
         "title":
         {
             "image" : "snorshcraft:textures/gui/SNORSHCRAFT.png",
-            "posX" : -137,
-            "posY" : 30,
+            "posX" : -150,
+            "posY" : 5,
             "width" : 300,
-            "height" : 50,
+            "height" : 40,
             "alignment" : "top_center"
         }
     },
     
+
     "buttons":
     {
-        "singleplayer":
-        {
-            "text" : "menu.singleplayer",
-            "posX" : -100,
-            "posY" : 48,
-            "width" : 200,
-            "height" : 20,
-            "action" : 
-            {
-                "type" : "openGui",
-                "gui" : "singleplayer"
-            }
-        },
-        
-        "multiplayer":
-        {
-            "text" : "menu.multiplayer",
-            "posX" : -100,
-            "posY" : 72,
-            "width" : 200,
-            "height" : 20,
-            "action" : 
-            {
-                "type" : "openGui",
-                "gui" : "multiplayer"
-            }
-        },
-        
-        "mods":
-        {
-            "text" : "fml.menu.mods",
-            "posX" : -100,
-            "posY" : 96,
-            "width" : 200,
-            "height" : 20,
-            "action" : 
-            {
-                "type" : "openGui",
-                "gui" : "mods"
-            }
-        },
-            
-        "options":
-        {
-            "text" : "menu.options",
-            "posX" : -100,
-            "posY" : 132,
-            "width" : 98,
-            "height" : 20,
-            "action" : 
-            {
-                "type" : "openGui",
-                "gui" : "options"
-            }
-        },
-        "PackCredits":
-        {
-            "text" : "Pack Credits",
-            "posX" : -50,
-            "posY" : 200,
-            "width" : 98,
-            "height" : 20,
-            "action" : 
-            {
-                "type" : "openGui",
-                "gui" : "custom.credits"
-            }
-        },
-        "quit":
-        {
-            "text" : "menu.quit",
-            "posX" : 2,
-            "posY" : 132,
-            "width" : 98,
-            "height" : 20,
-            "action" : 
-            {
-                "type" : "quit"
-            }
-        },
-        
+
+
         "language":
         {
             "text" : "",
-            "posX" : -124,
-            "posY" : 132,
+            "posX" : -210,
+            "posY" : 100,
             "width" : 20,
             "height" : 20,
             "action" : 
             {
                 "type" : "openGui",
                 "gui" : "languages"
-            }
+            },
+            "alignment" : "center"
         },
+
+        "singleplayer":
+        {
+            "text" : "menu.singleplayer",
+            "posX" : -185,
+            "posY" : 100,
+            "width" : 70,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            },
+            "alignment" : "center"
+        },
+        
+        "multiplayer":
+        {
+            "text" : "menu.multiplayer",
+            "posX" : -110,
+            "posY" : 100,
+            "width" : 70,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            },
+            "alignment" : "center"
+        },
+        
+        "mods":
+        {
+            "text" : "fml.menu.mods",
+            "posX" : -35,
+            "posY" : 100,
+            "width" : 70,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            },
+            "alignment" : "center"
+        },
+            
+        "options":
+        {
+            "text" : "menu.options",
+            "posX" : 40,
+            "posY" : 100,
+            "width" : 70,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            },
+            "alignment" : "center"
+        },
+
+        "quit":
+        {
+            "text" : "menu.quit",
+            "posX" : 115,
+            "posY" : 100,
+            "width" : 70,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "quit"
+            },
+            "alignment" : "center"
+        },
+        
         
         "refresh":
         {
             "text" : "",
-            "posX" : -154,
-            "posY" : 132,
+            "posX" : 190,
+            "posY" : 100,
             "width" : 20,
             "height" : 20,
             "texture" : "custommainmenu:textures/gui/buttons.png",
             "action" : 
             {
                 "type" : "refresh"
-            }
+            },
+            "alignment" : "center"
         }
     },
     
@@ -141,13 +140,19 @@
             }
         },
         
-        "fml":
+        "packcredits":
         {
-            "text" : "",
+            "text" : "SnorshCraftV1.2: Mine O'Clock Release",
+            "hoverText" : "§nSnorshCraftV1.2: Mine O'Clock Release",
             "posX" : 2,
-            "posY" : -40,
+            "posY" : -10,
             "color" : -1,
-            "alignment" : "bottom_left"
+            "alignment" : "bottom_left",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "custom.credits"
+            }
         }
     },
     
@@ -155,20 +160,17 @@
     {
         "splash-text":
         {
-            "posX" : 90,
-            "posY" : 70,
+            "posX" : -100,
+            "posY" : 35,
             "color" : -256,
             "alignment" : "top_center",
             "texts" : "file:snorshcraft:texts/splashes.txt"
         },
         
-        "panorama":
+        "background":
         {
-            "images" : "minecraft:textures/gui/title/background/panorama_%c.png",
-            "animate" : true,
-            "animationSpeed" : 1,
-            "blur" : true,
-            "gradient" : true
+            "image" : "snorshcraft:textures/gui/bkg.png",
+            "mode" : "fill"
         }
     }
 }
