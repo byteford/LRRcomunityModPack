@@ -1854,21 +1854,6 @@
       "fileSize": 498147
     },
     {
-      "folderName": "[1.12]UncraftingTable-1.8-beta5.jar",
-      "fingerprint": 2659476545,
-      "fileDateHash": 991283349,
-      "sectionID": 6,
-      "individualFingerprints": [
-        2659476545
-      ],
-      "status": 1,
-      "timestamp": "2017-09-28T10:17:56.9989946Z",
-      "lastWriteTimeUtc": "2017-08-25T12:41:40.0529455Z",
-      "queryTimestamp": "2017-09-28T10:17:57.9070247Z",
-      "fileCount": 1,
-      "fileSize": 151187
-    },
-    {
       "folderName": "JustEnoughResources-1.12.1-0.8.4.24.jar",
       "fingerprint": 4030082913,
       "fileDateHash": 1881657718,
@@ -9130,23 +9115,6 @@
       "manifestName": null
     },
     {
-      "addonID": 254993,
-      "gameInstanceID": "facd328a-3c7f-4935-9990-1cf38654eadf",
-      "installedFile": null,
-      "dateInstalled": "2017-09-28T10:17:59.4390261Z",
-      "dateUpdated": "2016-09-28T10:17:59.4390261Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 3,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null
-    },
-    {
       "addonID": 260912,
       "gameInstanceID": "facd328a-3c7f-4935-9990-1cf38654eadf",
       "installedFile": {
@@ -9258,6 +9226,144 @@
       "dateInstalled": "2017-09-28T10:19:00.8799374Z",
       "dateUpdated": "2017-09-28T10:19:00.8859446Z",
       "dateLastUpdateAttempted": "2017-09-28T10:19:00.8859446Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 239418,
+      "gameInstanceID": "facd328a-3c7f-4935-9990-1cf38654eadf",
+      "installedFile": {
+        "Id": 2481716,
+        "FileName": "Sonar-Core-1.12.X-5.0.1",
+        "FileNameOnDisk": "sonarcore-1.12.2-5.0.1.jar",
+        "FileDate": "2017-09-19T16:25:33",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "https://addons.cursecdn.com/files/2481/716/sonarcore-1.12.2-5.0.1.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [
+          {
+            "AddOnId": 225104,
+            "Type": 2
+          },
+          {
+            "AddOnId": 240562,
+            "Type": 2
+          },
+          {
+            "AddOnId": 248020,
+            "Type": 2
+          }
+        ],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "assets",
+            "Fingerprint": 3274712078
+          },
+          {
+            "Foldername": "ic2",
+            "Fingerprint": 1965416961
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 3030121682
+          },
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 2464251221
+          },
+          {
+            "Foldername": "powercrystals",
+            "Fingerprint": 2030593330
+          },
+          {
+            "Foldername": "sonar",
+            "Fingerprint": 3182435441
+          }
+        ],
+        "PackageFingerprint": 2980656516,
+        "GameVersion": [
+          "1.12.2",
+          "1.12.1",
+          "1.12",
+          "1.12-Snapshot"
+        ]
+      },
+      "dateInstalled": "2017-09-28T10:21:25.6078122Z",
+      "dateUpdated": "2017-09-28T10:21:25.6108499Z",
+      "dateLastUpdateAttempted": "2017-09-28T10:21:25.6108499Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 248020,
+      "gameInstanceID": "facd328a-3c7f-4935-9990-1cf38654eadf",
+      "installedFile": {
+        "Id": 2481720,
+        "FileName": "Flux-Networks-1.12.X-3.0.1",
+        "FileNameOnDisk": "fluxnetworks-1.12.2-3.0.1.jar",
+        "FileDate": "2017-09-19T16:28:23",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "https://addons.cursecdn.com/files/2481/720/fluxnetworks-1.12.2-3.0.1.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [
+          {
+            "AddOnId": 239418,
+            "Type": 1
+          },
+          {
+            "AddOnId": 244651,
+            "Type": 2
+          }
+        ],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "assets",
+            "Fingerprint": 777696518
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 3070511118
+          },
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 2464251221
+          },
+          {
+            "Foldername": "sonar",
+            "Fingerprint": 2292460287
+          }
+        ],
+        "PackageFingerprint": 1265382529,
+        "GameVersion": [
+          "1.12.2",
+          "1.12.1",
+          "1.12",
+          "1.12-Snapshot"
+        ]
+      },
+      "dateInstalled": "2017-09-28T10:21:26.0698514Z",
+      "dateUpdated": "2017-09-28T10:21:26.0718539Z",
+      "dateLastUpdateAttempted": "2017-09-28T10:21:26.0718539Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
