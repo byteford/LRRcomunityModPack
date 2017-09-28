@@ -138,5 +138,80 @@
     "eName": "minecraft:mending",
     "eMaxLevel": 1,
     "eItem": "minecraft:end_stone"
+  },
+  {
+    "eName": "astralsorcery:enchantment.as.smelting",
+    "eMaxLevel": 1,
+    "eItem": "minecraft:lava_bucket"
+  },
+  {
+    "eName": "bibliocraft:bibliocraft.deathcompassench",
+    "eMaxLevel": 1,
+    "eItem": "minecraft:compass"
+  },
+  {
+    "eName": "bibliocraft:bibliocraft.readingench",
+    "eMaxLevel": 1,
+    "eItem": "minecraft:book"
+  },
+  {
+    "eName": "cofhcore:holding",
+    "eMaxLevel": 4,
+    "eItem": "thermalexpansion:florb"
+  },
+  {
+    "eName": "cofhcore:multishot",
+    "eMaxLevel": 4,
+    "eItem": "thermalfoundation:material:512"
+  },
+  {
+    "eName": "evilcraft:life_stealing",
+    "eMaxLevel": 3,
+    "eItem": "evilcraft:dark_gem"
+  },
+  {
+    "eName": "evilcraft:poison_tip",
+    "eMaxLevel": 3,
+    "eItem": "minecraft:poisonous_potato"
+  },
+  {
+    "eName": "evilcraft:unusing",
+    "eMaxLevel": 1,
+    "eItem": "minecraft:sticky_piston"
+  },
+  {
+    "eName": "extrautils2:xu.bladerang",
+    "eMaxLevel": 5,
+    "eItem": "thermalfoundation:material:163"
+  },
+  {
+    "eName": "extrautils2:xu.boomereaperang",
+    "eMaxLevel": 1,
+    "eItem": "minecraft:wheat_seeds"
+  },
+  {
+    "eName": "extrautils2:xu.burnerang",
+    "eMaxLevel": 1,
+    "eItem": "minecraft:blaze_rod"
+  },
+  {
+    "eName": "extrautils2:xu.kaboomerang",
+    "eMaxLevel": 3,
+    "eItem": "tconstruct:throwball"
+  },
+  {
+    "eName": "extrautils2:xu.zoomerang",
+    "eMaxLevel": 3,
+    "eItem": "thermalfoundation:material:2051"
+  },
+  {
+    "eName": "glasshearts:sapping",
+    "eMaxLevel": 1,
+    "eItem": "glasshearts:gem:5"
+  },
+  {
+    "eName": "jaff:roasting",
+    "eMaxLevel": 1,
+    "eItem": "minecraft:fire_charge"
   }
 ]

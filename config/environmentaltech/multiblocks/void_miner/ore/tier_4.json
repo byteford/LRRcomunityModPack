@@ -2,27 +2,27 @@
   "outputs": [
     {
       "target": "green",
-      "weight": 10,
+      "weight": 20,
       "id": "environmentaltech:litherite_crystal"
     },
     {
-      "target": "purple",
-      "weight": 8,
+      "target": "magenta",
+      "weight": 16,
       "id": "environmentaltech:erodium_crystal"
     },
     {
-      "target": "magenta",
-      "weight": 6,
+      "target": "purple",
+      "weight": 12,
       "id": "environmentaltech:kyronite_crystal"
     },
     {
       "target": "blue",
-      "weight": 4,
+      "weight": 8,
       "id": "environmentaltech:pladium_crystal"
     },
     {
       "target": "light_blue",
-      "weight": 2,
+      "weight": 4,
       "id": "environmentaltech:ionite_crystal"
     },
     {
@@ -37,32 +37,27 @@
     },
     {
       "target": "white",
-      "weight": 32,
+      "weight": 33,
       "id": "OD:oreQuartz"
     },
     {
       "target": "red",
-      "weight": 32,
+      "weight": 33,
       "id": "OD:oreRedstone"
     },
     {
-      "target": "red",
-      "weight": 30,
-      "id": "deepresonance:resonating_ore"
-    },
-    {
       "target": "blue",
-      "weight": 20,
+      "weight": 22,
       "id": "OD:oreLapis"
     },
     {
       "target": "yellow",
-      "weight": 19,
+      "weight": 20,
       "id": "OD:oreGold"
     },
     {
       "target": "cyan",
-      "weight": 13,
+      "weight": 14,
       "id": "OD:oreDiamond"
     },
     {
@@ -72,32 +67,32 @@
     },
     {
       "target": "yellow",
-      "weight": 12,
+      "weight": 14,
       "id": "OD:glowstone"
     },
     {
       "target": "orange",
-      "weight": 36,
+      "weight": 38,
       "id": "OD:oreCopper"
     },
     {
       "target": "gray",
-      "weight": 36,
+      "weight": 38,
       "id": "OD:oreTin"
     },
     {
       "target": "silver",
-      "weight": 22,
+      "weight": 24,
       "id": "OD:oreSilver"
     },
     {
       "target": "purple",
-      "weight": 30,
+      "weight": 32,
       "id": "OD:oreLead"
     },
     {
       "target": "white",
-      "weight": 26,
+      "weight": 27,
       "id": "OD:oreAluminum"
     },
     {
@@ -132,22 +127,22 @@
     },
     {
       "target": "gray",
-      "weight": 13,
+      "weight": 14,
       "id": "OD:oreNickel"
     },
     {
       "target": "light_blue",
-      "weight": 9,
+      "weight": 10,
       "id": "OD:orePlatinum"
     },
     {
       "target": "light_blue",
-      "weight": 9,
+      "weight": 10,
       "id": "OD:oreMithril"
     },
     {
       "target": "light_blue",
-      "weight": 10,
+      "weight": 11,
       "id": "OD:oreOsmium"
     },
     {
@@ -264,6 +259,26 @@
       "target": "silver",
       "weight": 7,
       "id": "OD:oreProsperity"
+    },
+    {
+      "target": "lime",
+      "weight": 14,
+      "id": "OD:oreBrainstone"
+    },
+    {
+      "target": "white",
+      "weight": 10,
+      "id": "xlfoodmod:rock_salt"
+    },
+    {
+      "target": "gray",
+      "weight": 6,
+      "id": "btweagles:meme_ore"
+    },
+    {
+      "target": "red",
+      "weight": 7,
+      "id": "deepresonance:resonating_ore"
     }
   ]
 }
