@@ -1,11 +1,11 @@
 {
-  "ftbu.trash_can": true,
   "ftbu.chats": true,
-  "ftbu.heal": true,
+  "ftbu.guide": true,
   "ftbu.toggle.gamemode": true,
   "ftbu.toggle.rain": true,
   "ftbu.toggle.day": true,
   "ftbu.toggle.night": true,
+  "ftbu.heal": true,
   "ftbu.claimed_chunks": true,
-  "ftbu.guide": true
+  "ftbu.trash_can": true
 }

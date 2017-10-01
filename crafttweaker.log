@@ -1,10 +1,10 @@
 [INITIALIZATION][CLIENT][INFO] CraftTweaker: Building registry
 [INITIALIZATION][CLIENT][INFO] CraftTweaker: Successfully built item registry
-[INITIALIZATION][CLIENT][INFO] Adding tooltip for <appliedenergistics2:material:19>: crafttweaker.mc1120.formatting.FormattedMarkupString@998cf48
-[INITIALIZATION][CLIENT][INFO] Adding tooltip for <appliedenergistics2:material:13>: crafttweaker.mc1120.formatting.FormattedMarkupString@16dbf65
-[INITIALIZATION][CLIENT][INFO] Adding tooltip for <appliedenergistics2:material:15>: crafttweaker.mc1120.formatting.FormattedMarkupString@16e0b85d
-[INITIALIZATION][CLIENT][INFO] Adding tooltip for <appliedenergistics2:material:14>: crafttweaker.mc1120.formatting.FormattedMarkupString@51045217
-[INITIALIZATION][CLIENT][INFO] Adding tooltip for <appliedenergistics2:sky_compass>: crafttweaker.mc1120.formatting.FormattedMarkupString@7d1e576e
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <appliedenergistics2:material:19>: crafttweaker.mc1120.formatting.FormattedMarkupString@6cadb761
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <appliedenergistics2:material:13>: crafttweaker.mc1120.formatting.FormattedMarkupString@45da29d3
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <appliedenergistics2:material:15>: crafttweaker.mc1120.formatting.FormattedMarkupString@4d681154
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <appliedenergistics2:material:14>: crafttweaker.mc1120.formatting.FormattedMarkupString@3a5ce6e0
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <appliedenergistics2:sky_compass>: crafttweaker.mc1120.formatting.FormattedMarkupString@661853d0
 [POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <appliedenergistics2:sky_compass>
 [POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for (Ingredient) <extrautils2:machine>
 [POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <evilcraft:golden_string>
@@ -77,6 +77,7 @@
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Iron Lattice with name ct_shaped1123364484
 [POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Salt with name ct_shapeless624472993
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Magma Block with name ct_shaped-2017825317
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Magenta Laser Lens with name ct_shapeless1605643098
 [AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for <liquid:glasshearts.lifeforce> * 100
 [AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for <liquid:glasshearts.lifeforce> * 100
 [AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for <liquid:glasshearts.lifeforce> * 100
