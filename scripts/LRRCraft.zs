@@ -461,3 +461,6 @@ recipes.addShaped(<minecraft:magma> * 16, [[null,<mysticalagriculture:nether_ess
 #Disable crafting recipe for the Refined Storage Crafter due to server crashes
 
 recipes.remove(<refinedstorage:crafter>);
+
+#Add missing ETech Magenta Lens recipe
+recipes.addShapeless(<environmentaltech:laser_lens_colored:2>,[<ore:etLaserLens>,<ore:dyeMagenta>]);

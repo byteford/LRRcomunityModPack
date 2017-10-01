@@ -214,6 +214,7 @@ command.ftb.edit_config.stevescarts: CMD
 command.ftb.edit_config.storagedrawers: CMD
 command.ftb.edit_config.stupidthings: CMD
 command.ftb.edit_config.tconstruct: CMD
+command.ftb.edit_config.teamreborn\openglider: CMD
 command.ftb.edit_config.thebomplugin: CMD
 command.ftb.edit_config.theoneprobe: CMD
 command.ftb.edit_config.tombmanygraves: CMD
