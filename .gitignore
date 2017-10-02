@@ -1,29 +1,37 @@
+# Client asset directories
 mods/
 screenshots/
-logs/
-journeymap/data/mp/
 crash-reports/
-*.log
-journeymap/data/
 saves/
-journeymap/server/
-usernamecache.json
-usercache.json
-JAS.psd
-journeymap/icon/
 export/
-knownkeys.txt
-servers.dat
-journeymap/
 resourcepacks/
 disabledMods/
-local.7z
 TombManyGraves/
-options.txt
-BotaniaVars.dat
-minecraftinstance.json
+backups/
+
+# Journeymap Data
+journeymap/
+journeymap/data/
+journeymap/server/
+journeymap/icon/
+
+# Log outputs
+logs/
+*.log
+
+# Client-side mod configs
 config/splash.properties
 config/InvTweaks.cfg
 config/MouseTweaks.cfg
-backups/
 config/jei/worldSettings.cfg
+
+# Other miscellaneous files
+options.txt
+BotaniaVars.dat
+minecraftinstance.json
+local.7z
+knownkeys.txt
+servers.dat
+usernamecache.json
+usercache.json
+JAS.psd

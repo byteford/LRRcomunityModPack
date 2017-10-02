@@ -1,5 +1,5 @@
-# LRRcomunityModPack
+# SnorshCraft
 
-This is the LRR comunity mod pack. 
+This is the LoadingReadyRun community mod pack, also known as "SnorshCraft".
 
-To play the latest version go to https://minecraft.curseforge.com/projects/snorshcraft/files
+To download the latest version, visit https://minecraft.curseforge.com/projects/snorshcraft.
