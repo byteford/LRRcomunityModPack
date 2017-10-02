@@ -19,3 +19,11 @@ resourcepacks/
 disabledMods/
 local.7z
 TombManyGraves/
+options.txt
+BotaniaVars.dat
+minecraftinstance.json
+config/splash.properties
+config/InvTweaks.cfg
+config/MouseTweaks.cfg
+backups/
+config/jei/worldSettings.cfg
