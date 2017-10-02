@@ -321,7 +321,7 @@ project_id = 235328
 file_id = 2457523
 
 [[mods]]
-name = "FTB Utilities "
+name = "FTB Utilities"
 author = "FTB"
 project_id = 237102
 file_id = 2485624
@@ -487,12 +487,6 @@ name = "MTLib"
 author = "jaredlll08"
 project_id = 253211
 file_id = 2453543
-
-[[mods]]
-name = "Mystical Agradditions"
-author = "BlakeBr0"
-project_id = 256247
-file_id = 2476108
 
 [[mods]]
 name = "Mystical Agriculture"
