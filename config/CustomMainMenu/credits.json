@@ -1,244 +1,193 @@
 {
-    "images":
-    {
-        "transparent":
-        {
-            "image" : "snorshcraft:textures/gui/transparent.png",
-            "posX" : -120,
-            "posY" : -40,
-            "width" : 240,
-            "height" : 90,
-            "alignment" : "center"
-        },
-
-        "title":
-        {
-            "image" : "snorshcraft:textures/gui/SNORSHCRAFT.png",
-            "posX" : -150,
-            "posY" : 5,
-            "width" : 300,
-            "height" : 40,
-            "alignment" : "top_center"
-        }
-    },
-    
-
-    "buttons":
-    {
-
-
-        "language":
-        {
-            "text" : "",
-            "posX" : -210,
-            "posY" : 100,
-            "width" : 20,
-            "height" : 20,
-            "action" : 
-            {
-                "type" : "openGui",
-                "gui" : "languages"
-            },
-            "alignment" : "center"
-        },
-
-        "singleplayer":
-        {
-            "text" : "menu.singleplayer",
-            "posX" : -185,
-            "posY" : 100,
-            "width" : 70,
-            "height" : 20,
-            "action" : 
-            {
-                "type" : "openGui",
-                "gui" : "singleplayer"
-            },
-            "alignment" : "center"
-        },
-        
-        "multiplayer":
-        {
-            "text" : "menu.multiplayer",
-            "posX" : -110,
-            "posY" : 100,
-            "width" : 70,
-            "height" : 20,
-            "action" : 
-            {
-                "type" : "openGui",
-                "gui" : "multiplayer"
-            },
-            "alignment" : "center"
-        },
-        
-        "mods":
-        {
-            "text" : "fml.menu.mods",
-            "posX" : -35,
-            "posY" : 100,
-            "width" : 70,
-            "height" : 20,
-            "action" : 
-            {
-                "type" : "openGui",
-                "gui" : "mods"
-            },
-            "alignment" : "center"
-        },
-            
-        "options":
-        {
-            "text" : "menu.options",
-            "posX" : 40,
-            "posY" : 100,
-            "width" : 70,
-            "height" : 20,
-            "action" : 
-            {
-                "type" : "openGui",
-                "gui" : "options"
-            },
-            "alignment" : "center"
-        },
-
-        "quit":
-        {
-            "text" : "menu.quit",
-            "posX" : 115,
-            "posY" : 100,
-            "width" : 70,
-            "height" : 20,
-            "action" : 
-            {
-                "type" : "quit"
-            },
-            "alignment" : "center"
-        },
-        
-        
-        "refresh":
-        {
-            "text" : "",
-            "posX" : 190,
-            "posY" : 100,
-            "width" : 20,
-            "height" : 20,
-            "texture" : "custommainmenu:textures/gui/buttons.png",
-            "action" : 
-            {
-                "type" : "refresh"
-            },
-            "alignment" : "center"
-        }
-    },
-    
-    "labels":
-    {
-		"Creators":
-        {
-            "text" : "SnorshCraft Created by Byteford and Serifina ",
-            "posX" : -118,
-            "posY" : -39,
-            "color" : -1,
-            "alignment" : "center"
-        },
-		"Discord":
-        {
-            "text" : "with help from the LoadingReadyRun Discord",
-            "posX" : -110,
-            "posY" : -29,
-            "color" : -1,
-            "alignment" : "center"
-        },
-		"Featherweight":
-        {
-            "text" : "Logo by Featherweight Creations",
-            "posX" : -83,
-            "posY" : -19,
-            "color" : -1,
-            "alignment" : "center"
-        },
-		"Testers":
-        {
-            "text" : "§nSpecial Thanks to the following Testers:",
-            "posX" : -100,
-            "posY" : 11,
-            "color" : -1,
-            "alignment" : "center"
-        },
-		"TestersLine2":
-        {
-            "text" : "Byteford, Cheetojack, Geariko,",
-            "posX" : -76,
-            "posY" : 21,
-            "color" : -1,
-            "alignment" : "center"
-        },
-		"TestersLine3":
-        {
-            "text" : "Mercano, Nargimeg, QPkill3rjQP, Qrpth,",
-            "posX" : -94,
-            "posY" : 31,
-            "color" : -1,
-            "alignment" : "center"
-        },
-		"TestersLine4":
-        {
-            "text" : "RebelliousUno, Serifina, Spawnofbill, Weagle",
-            "posX" : -106,
-            "posY" : 41,
-            "color" : -1,
-            "alignment" : "center"
-        },
-
-        "mojang":
-        {
-            "text" : "Copyright Mojang AB. Do not distribute!",
-            "hoverText" : "§nCopyright Mojang AB. Do not distribute!",
-            "posX" : -197,
-            "posY" : -10,
-            "color" : -1,
-            "alignment" : "bottom_right",
-            "action" : 
-            {
-                "type" : "openGui",
-                "gui" : "credits"
-            }
-        },
-        
-
-        "packcredits":
-        {
-            "text" : "SnorshCraftV1.3: Mine O'Clock Release",
-            "hoverText" : "§nSnorshCraftV1.3: Mine O'Clock Release",
-            "posX" : 2,
-            "posY" : -10,
-            "color" : -1,
-            "alignment" : "bottom_left",
-            "action" : 
-	    {
-                "type" : "openGui",
-                "gui" : "custom.mainmenu"
-	    }
-        }
-    },
-    
-    "other":
-    {
-        "splash-text":
-        {
-            "posX" : -100,
-            "posY" : 35,
-            "color" : -256,
-            "alignment" : "top_center",
-            "texts" : "file:snorshcraft:texts/splashes.txt"
-        },
-        
-        "background":
-        {
-            "image" : "snorshcraft:textures/gui/bkg.png",
-            "mode" : "fill"
-        }
-    }
+	"images": {
+		"transparent": {
+			"image": "snorshcraft:textures/gui/transparent.png",
+			"posX": -120,
+			"posY": -40,
+			"width": 240,
+			"height": 90,
+			"alignment": "center"
+		},
+		"title": {
+			"image": "snorshcraft:textures/gui/snorshcraft.png",
+			"posX": -150,
+			"posY": 5,
+			"width": 300,
+			"height": 40,
+			"alignment": "top_center"
+		}
+	},
+	"buttons": {
+		"language": {
+			"text": "",
+			"posX": -210,
+			"posY": 100,
+			"width": 20,
+			"height": 20,
+			"action": {
+				"type": "openGui",
+				"gui": "languages"
+			},
+			"alignment": "center"
+		},
+		"singleplayer": {
+			"text": "menu.singleplayer",
+			"posX": -185,
+			"posY": 100,
+			"width": 70,
+			"height": 20,
+			"action": {
+				"type": "openGui",
+				"gui": "singleplayer"
+			},
+			"alignment": "center"
+		},
+		"multiplayer": {
+			"text": "menu.multiplayer",
+			"posX": -110,
+			"posY": 100,
+			"width": 70,
+			"height": 20,
+			"action": {
+				"type": "openGui",
+				"gui": "multiplayer"
+			},
+			"alignment": "center"
+		},
+		"mods": {
+			"text": "fml.menu.mods",
+			"posX": -35,
+			"posY": 100,
+			"width": 70,
+			"height": 20,
+			"action": {
+				"type": "openGui",
+				"gui": "mods"
+			},
+			"alignment": "center"
+		},
+		"options": {
+			"text": "menu.options",
+			"posX": 40,
+			"posY": 100,
+			"width": 70,
+			"height": 20,
+			"action": {
+				"type": "openGui",
+				"gui": "options"
+			},
+			"alignment": "center"
+		},
+		"quit": {
+			"text": "menu.quit",
+			"posX": 115,
+			"posY": 100,
+			"width": 70,
+			"height": 20,
+			"action": {
+				"type": "quit"
+			},
+			"alignment": "center"
+		},
+		"refresh": {
+			"text": "",
+			"posX": 190,
+			"posY": 100,
+			"width": 20,
+			"height": 20,
+			"texture": "custommainmenu:textures/gui/buttons.png",
+			"action": {
+				"type": "refresh"
+			},
+			"alignment": "center"
+		}
+	},
+	"labels": {
+		"Creators": {
+			"text": "SnorshCraft: Created by Byteford and Serifina",
+			"posX": -118,
+			"posY": -39,
+			"color": -1,
+			"alignment": "center"
+		},
+		"Discord": {
+			"text": "with help from the LoadingReadyRun Discord",
+			"posX": -110,
+			"posY": -29,
+			"color": -1,
+			"alignment": "center"
+		},
+		"Featherweight": {
+			"text": "Logo by Featherweight Creations",
+			"posX": -83,
+			"posY": -19,
+			"color": -1,
+			"alignment": "center"
+		},
+		"Testers": {
+			"text": "§nSpecial Thanks to the following Testers:",
+			"posX": -100,
+			"posY": 11,
+			"color": -1,
+			"alignment": "center"
+		},
+		"TestersLine2": {
+			"text": "Byteford, Cheetojack, Geariko,",
+			"posX": -76,
+			"posY": 21,
+			"color": -1,
+			"alignment": "center"
+		},
+		"TestersLine3": {
+			"text": "Mercano, Nargimeg, QPkill3rjQP, Qrpth,",
+			"posX": -94,
+			"posY": 31,
+			"color": -1,
+			"alignment": "center"
+		},
+		"TestersLine4": {
+			"text": "RebelliousUno, Serifina, Spawnofbill, Weagle",
+			"posX": -106,
+			"posY": 41,
+			"color": -1,
+			"alignment": "center"
+		},
+		"mojang": {
+			"text": "Copyright Mojang AB. Do not distribute!",
+			"hoverText": "§nCopyright Mojang AB. Do not distribute!",
+			"posX": -197,
+			"posY": -10,
+			"color": -1,
+			"alignment": "bottom_right",
+			"action": {
+				"type": "openGui",
+				"gui": "credits"
+			}
+		},
+		"packcredits": {
+			"text": "SnorshCraftV1.3: Mine O'Clock Release",
+			"hoverText": "§nSnorshCraftV1.3: Mine O'Clock Release",
+			"posX": 2,
+			"posY": -10,
+			"color": -1,
+			"alignment": "bottom_left",
+			"action": {
+				"type": "openGui",
+				"gui": "custom.mainmenu"
+			}
+		}
+	},
+	"other": {
+		"splash-text": {
+			"posX": -100,
+			"posY": 35,
+			"color": -256,
+			"alignment": "top_center",
+			"texts": "file:snorshcraft:texts/splashes.txt"
+		},
+		"background": {
+			"image": "snorshcraft:textures/gui/bkg.png",
+			"mode": "fill"
+		}
+	}
 }

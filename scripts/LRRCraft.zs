@@ -447,19 +447,15 @@ recipes.remove(<mysticalagriculture:charm:8>);
 recipes.remove(<mysticalagriculture:charm:9>);
 
 #Add water -> salt recipe
-
 recipes.addShapeless(<xlfoodmod:salt> * 2,[<minecraft:water_bucket>]);
 
 #Remove Actually Additions Storage Crate Keeper recipe
-
 recipes.remove(<actuallyadditions:item_crate_keeper>);
 
 #Add Magma Block recipe for Mystical Agriculture
-
 recipes.addShaped(<minecraft:magma> * 16, [[null,<mysticalagriculture:nether_essence>,null],[<mysticalagriculture:nether_essence>,<mysticalagriculture:fire_essence>,<mysticalagriculture:nether_essence>],[null,<mysticalagriculture:nether_essence>,null]]);
 
 #Disable crafting recipe for the Refined Storage Crafter due to server crashes
-
 recipes.remove(<refinedstorage:crafter>);
 
 #Add missing ETech Magenta Lens recipe
