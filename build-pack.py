@@ -32,8 +32,8 @@ def generate_manifest_object(modpack):
 	manifest["overrides"] = modpack["pack_meta"]["override_dir"]
 
 	return manifest
-	
-	
+
+
 def generate_html_modlist(modpack):
 	base_url = "https://minecraft.curseforge.com/mc-mods/"
 
@@ -43,9 +43,9 @@ def generate_html_modlist(modpack):
 		mod_content = "%s (by %s)" % (mod_info["name"], mod_info["author"])
 		html_string += '<li><a href="%s">%s</a></li>\n' % (mod_url, mod_content)
 	html_string += "</ul>\n"
-	
+
 	return html_string
-	
+
 def copy_overrides(outfile, directory):
 	import os
 	for root, dirs, files in os.walk(directory):
@@ -54,23 +54,26 @@ def copy_overrides(outfile, directory):
 			file_path = os.path.join(root, file)
 			override_file = os.path.join(override_root, file)
 			outfile.write(file_path, override_file)
-	
+
 
 if __name__ == "__main__":
 	with open("modpack.toml", "r") as fp:
 		modpack = toml.load(fp)
 
+	print("Generating manifest...")
 	manifest = generate_manifest_object(modpack)
 
 	zip_filename = "%s-%s.zip" % (modpack["pack_meta"]["title"], modpack["pack_meta"]["version"])
 	with zipfile.ZipFile(zip_filename, "w", zipfile.ZIP_DEFLATED) as outfile:
 		# Copy overrides
+		print("Copying overrides...")
 		copy_overrides(outfile, "config")
 		copy_overrides(outfile, "local")
 		copy_overrides(outfile, "mods")
 		copy_overrides(outfile, "resources")
 		copy_overrides(outfile, "scripts")
-		
+
 		# Write metadata files
+		print("Writing metadata...")
 		outfile.writestr("manifest.json", json.dumps(manifest, indent=2))
 		outfile.writestr("modlist.html", generate_html_modlist(modpack))
