@@ -36,7 +36,7 @@ file_id = 2476721
 name = "Applied Energistics 2"
 author = "AlgorithmX2"
 project_id = 223794
-file_id = 2470624
+file_id = 2486738
 
 [[mods]]
 name = "Aroma1997Core"
@@ -420,7 +420,7 @@ file_id = 2475874
 name = "Just Enough Items (JEI)"
 author = "mezz"
 project_id = 238222
-file_id = 2485363
+file_id = 2486866
 
 [[mods]]
 name = "Just Enough Resources (JER)"
