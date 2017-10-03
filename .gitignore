@@ -1,29 +1,32 @@
 # Client asset directories
-mods/
-screenshots/
-crash-reports/
-saves/
-export/
-resourcepacks/
-disabledMods/
-TombManyGraves/
 backups/
+crash-reports/
+disabledMods/
+export/
+mods/
+resourcepacks/
+saves/
+screenshots/
+TombManyGraves/
 
 # Journeymap Data
 journeymap/
 journeymap/data/
-journeymap/server/
 journeymap/icon/
+journeymap/server/
 
 # Log outputs
 logs/
 *.log
 
+# Build artifacts
+SnorshCraft-*.zip
+
 # Client-side mod configs
-config/splash.properties
+config/jei/worldSettings.cfg
 config/InvTweaks.cfg
 config/MouseTweaks.cfg
-config/jei/worldSettings.cfg
+config/splash.properties
 
 # Other miscellaneous files
 options.txt

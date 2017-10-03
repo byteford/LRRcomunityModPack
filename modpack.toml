@@ -1,7 +1,7 @@
 [pack_meta]
 title = "SnorshCraft"
 author = "byteford"
-version = "1.3.1"
+version = "1.3.2"
 override_dir = "overrides"
 
 [minecraft]
@@ -120,7 +120,7 @@ file_id = 2481208
 name = "Botania"
 author = "Vazkii"
 project_id = 225643
-file_id = 2485904
+file_id = 2486296
 
 [[mods]]
 name = "Chameleon"
