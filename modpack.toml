@@ -531,7 +531,7 @@ name = "Mod Name Tooltip"
 author = "mezz"
 slug = "mod-name-tooltip"
 project_id = 238747
-file_id = 2463742
+file_id = 2486868
 
 [[mods]]
 name = "ModTweaker"
@@ -825,7 +825,7 @@ name = "TOP Addons"
 author = "DrManganese"
 slug = "top-addons"
 project_id = 247111
-file_id = 2486162
+file_id = 2487009
 
 [[mods]]
 name = "TorchMaster"
