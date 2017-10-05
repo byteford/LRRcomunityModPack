@@ -132,7 +132,7 @@ name = "Bookshelf"
 author = "darkh4x"
 slug = "bookshelf"
 project_id = 228525
-file_id = 2481208
+file_id = 2483429
 
 [[mods]]
 name = "Botania"
@@ -272,7 +272,7 @@ name = "Cyclops Core"
 author = "kroeser"
 slug = "cyclops-core"
 project_id = 232758
-file_id = 2483504
+file_id = 2487387
 
 [[mods]]
 name = "Dark Utilities"
