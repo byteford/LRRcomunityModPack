@@ -237,7 +237,7 @@ name = "CraftTweaker"
 author = "jaredlll08"
 slug = "crafttweaker"
 project_id = 239197
-file_id = 2462468
+file_id = 2487573
 
 [[mods]]
 name = "Creeper Confetti"
@@ -538,7 +538,7 @@ name = "ModTweaker"
 author = "jaredlll08"
 slug = "modtweaker"
 project_id = 220954
-file_id = 2455995
+file_id = 2476999
 
 [[mods]]
 name = "More Overlays"
@@ -608,14 +608,14 @@ name = "Psi"
 author = "Vazkii"
 slug = "psi"
 project_id = 241665
-file_id = 2480499
+file_id = 2486281
 
 [[mods]]
 name = "Quark"
 author = "Vazkii"
 slug = "quark"
 project_id = 243121
-file_id = 2480530
+file_id = 2486309
 
 [[mods]]
 name = "Ranged Pumps"
