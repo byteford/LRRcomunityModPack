@@ -132,7 +132,7 @@ name = "Bookshelf"
 author = "darkh4x"
 slug = "bookshelf"
 project_id = 228525
-file_id = 2483429
+file_id = 2487954
 
 [[mods]]
 name = "Botania"
@@ -279,7 +279,7 @@ name = "Dark Utilities"
 author = "darkh4x"
 slug = "dark-utilities"
 project_id = 242195
-file_id = 2477761
+file_id = 2487968
 
 [[mods]]
 name = "Deep Resonance"
