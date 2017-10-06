@@ -449,8 +449,6 @@ recipes.remove(<mysticalagriculture:charm:9>);
 #Add water -> salt recipe
 recipes.addShapeless(<xlfoodmod:salt> * 2,[<minecraft:water_bucket>]);
 
-#Remove Actually Additions Storage Crate Keeper recipe
-recipes.remove(<actuallyadditions:item_crate_keeper>);
 
 #Add Magma Block recipe for Mystical Agriculture
 recipes.addShaped(<minecraft:magma> * 16, [[null,<mysticalagriculture:nether_essence>,null],[<mysticalagriculture:nether_essence>,<mysticalagriculture:fire_essence>,<mysticalagriculture:nether_essence>],[null,<mysticalagriculture:nether_essence>,null]]);
@@ -460,3 +458,9 @@ recipes.remove(<refinedstorage:crafter>);
 
 #Add missing ETech Magenta Lens recipe
 recipes.addShapeless(<environmentaltech:laser_lens_colored:2>,[<ore:etLaserLens>,<ore:dyeMagenta>]);
+
+#Change the recipe for the Demonically Gargantuan Drum to balance it a bit
+recipes.remove(<extrautils2:klein>);
+recipes.remove(<extrautils2:drum:3>);
+recipes.addShapeless(<extrautils2:klein>,[<minecraft:glass_bottle>,<minecraft:ender_pearl>,<minecraft:ender_pearl>,<minecraft:emerald>,<minecraft:diamond>]);
+recipes.addShaped(<extrautils2:drum:3>,[[<extrautils2:simpledecorative:1>,<extrautils2:klein>,<extrautils2:simpledecorative:1>],[<extrautils2:klein>,<extrautils2:drum:2>,<extrautils2:klein>],[<extrautils2:simpledecorative:1>,<extrautils2:klein>,<extrautils2:simpledecorative:1>]]);
