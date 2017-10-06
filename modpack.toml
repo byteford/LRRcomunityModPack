@@ -513,6 +513,20 @@ project_id = 271998
 file_id = 2465796
 
 [[mods]]
+name = "MalisisCore"
+author = "Ordinastie"
+slug = "malisiscore"
+project_id = 223896
+file_id = 2486336
+
+[[mods]]
+name = "MalisisDoors"
+author = "Ordinastie"
+slug = "malisisdoors"
+project_id = 223891
+file_id = 2486136
+
+[[mods]]
 name = "Mantle"
 author = "mDiyo"
 slug = "mantle"
