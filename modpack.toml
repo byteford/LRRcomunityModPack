@@ -849,6 +849,13 @@ project_id = 246764
 file_id = 2452234
 
 [[mods]]
+name = "Unlimited Chisel Works"
+author = "asiekierka"
+slug = "unlimited-chisel-works"
+project_id = 278493
+file_id = 2483956
+
+[[mods]]
 name = "ValkyrieLib"
 author = "ValkyrieofNight"
 slug = "valkyrielib"
