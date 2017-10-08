@@ -464,3 +464,8 @@ recipes.remove(<extrautils2:klein>);
 recipes.remove(<extrautils2:drum:3>);
 recipes.addShapeless(<extrautils2:klein>,[<minecraft:glass_bottle>,<minecraft:ender_pearl>,<minecraft:ender_pearl>,<minecraft:emerald>,<minecraft:diamond>]);
 recipes.addShaped(<extrautils2:drum:3>,[[<extrautils2:simpledecorative:1>,<extrautils2:klein>,<extrautils2:simpledecorative:1>],[<extrautils2:klein>,<extrautils2:drum:2>,<extrautils2:klein>],[<extrautils2:simpledecorative:1>,<extrautils2:klein>,<extrautils2:simpledecorative:1>]]);
+
+#Add AE2 Ender Dust recipes to appropriate machines
+mods.actuallyadditions.Crusher.addRecipe(<appliedenergistics2:material:46>, <minecraft:ender_pearl>);
+mods.extrautils2.Crusher.add(<appliedenergistics2:material:46>, <minecraft:ender_pearl>);
+mods.thermalexpansion.Pulverizer.addRecipe(<appliedenergistics2:material:46>, <minecraft:ender_pearl>, 4000);
