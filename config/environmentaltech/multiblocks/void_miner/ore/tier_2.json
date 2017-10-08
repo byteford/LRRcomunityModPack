@@ -269,6 +269,11 @@
       "target": "red",
       "weight": 7,
       "id": "deepresonance:resonating_ore"
+    },
+    {
+      "target": "black",
+      "weight": 9,
+      "id": "evilcraft:dark_ore"
     }
   ]
 }

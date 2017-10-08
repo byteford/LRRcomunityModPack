@@ -1,7 +1,7 @@
 [pack_meta]
 title = "SnorshCraft"
 author = "byteford"
-version = "1.3.2"
+version = "1.3.3"
 override_dir = "overrides"
 
 [minecraft]
@@ -237,7 +237,7 @@ name = "CraftTweaker"
 author = "jaredlll08"
 slug = "crafttweaker"
 project_id = 239197
-file_id = 2462468
+file_id = 2487573
 
 [[mods]]
 name = "Creeper Confetti"
@@ -419,7 +419,7 @@ name = "Immersive Engineering"
 author = "BluSunrize"
 slug = "immersive-engineering"
 project_id = 231951
-file_id = 2479843
+file_id = 2488414
 
 [[mods]]
 name = "Immersive Petroleum"
@@ -552,7 +552,7 @@ name = "ModTweaker"
 author = "jaredlll08"
 slug = "modtweaker"
 project_id = 220954
-file_id = 2455995
+file_id = 2488060
 
 [[mods]]
 name = "More Overlays"
@@ -587,7 +587,7 @@ name = "Mystical Agriculture"
 author = "BlakeBr0"
 slug = "mystical-agriculture"
 project_id = 246640
-file_id = 2481507
+file_id = 2488358
 
 [[mods]]
 name = "Nature's Compass"
@@ -622,14 +622,14 @@ name = "Psi"
 author = "Vazkii"
 slug = "psi"
 project_id = 241665
-file_id = 2480499
+file_id = 2486281
 
 [[mods]]
 name = "Quark"
 author = "Vazkii"
 slug = "quark"
 project_id = 243121
-file_id = 2480530
+file_id = 2486309
 
 [[mods]]
 name = "Ranged Pumps"
@@ -861,6 +861,13 @@ author = "tterrag1098"
 slug = "tree-growing-simulator"
 project_id = 246764
 file_id = 2452234
+
+[[mods]]
+name = "Unlimited Chisel Works"
+author = "asiekierka"
+slug = "unlimited-chisel-works"
+project_id = 278493
+file_id = 2483956
 
 [[mods]]
 name = "ValkyrieLib"
