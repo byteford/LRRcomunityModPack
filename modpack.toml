@@ -272,7 +272,7 @@ name = "Cyclops Core"
 author = "kroeser"
 slug = "cyclops-core"
 project_id = 232758
-file_id = 2483504
+file_id = 2487387
 
 [[mods]]
 name = "Dark Utilities"
@@ -419,7 +419,7 @@ name = "Immersive Engineering"
 author = "BluSunrize"
 slug = "immersive-engineering"
 project_id = 231951
-file_id = 2479843
+file_id = 2488414
 
 [[mods]]
 name = "Immersive Petroleum"
@@ -538,7 +538,7 @@ name = "ModTweaker"
 author = "jaredlll08"
 slug = "modtweaker"
 project_id = 220954
-file_id = 2476999
+file_id = 2488060
 
 [[mods]]
 name = "More Overlays"
@@ -573,7 +573,7 @@ name = "Mystical Agriculture"
 author = "BlakeBr0"
 slug = "mystical-agriculture"
 project_id = 246640
-file_id = 2481507
+file_id = 2488358
 
 [[mods]]
 name = "Nature's Compass"
