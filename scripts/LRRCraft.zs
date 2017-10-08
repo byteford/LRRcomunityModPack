@@ -195,6 +195,10 @@ mods.thermalexpansion.Insolator.addRecipe(<mysticalagriculture:electrum_essence>
 mods.thermalexpansion.Insolator.addRecipe(<mysticalagriculture:electrum_essence> * 3,<mysticalagriculture:electrum_seeds>,rpg,10000,<mysticalagriculture:electrum_seeds>,5);
 mods.thermalexpansion.Insolator.addRecipe(<mysticalagriculture:electrum_essence> * 5,<mysticalagriculture:electrum_seeds>,fpg,15000,<mysticalagriculture:electrum_seeds>,5);
 
+mods.thermalexpansion.Insolator.addRecipe(<mysticalagriculture:elementium_essence>,<mysticalagriculture:elementium_seeds>,pg,5000,<mysticalagriculture:elementium_seeds>,5);
+mods.thermalexpansion.Insolator.addRecipe(<mysticalagriculture:elementium_essence> * 3,<mysticalagriculture:elementium_seeds>,rpg,10000,<mysticalagriculture:elementium_seeds>,5);
+mods.thermalexpansion.Insolator.addRecipe(<mysticalagriculture:elementium_essence> * 5,<mysticalagriculture:elementium_seeds>,fpg,15000,<mysticalagriculture:elementium_seeds>,5);
+
 mods.thermalexpansion.Insolator.addRecipe(<mysticalagriculture:emerald_essence>,<mysticalagriculture:emerald_seeds>,pg,5000,<mysticalagriculture:emerald_seeds>,5);
 mods.thermalexpansion.Insolator.addRecipe(<mysticalagriculture:emerald_essence> * 3,<mysticalagriculture:emerald_seeds>,rpg,10000,<mysticalagriculture:emerald_seeds>,5);
 mods.thermalexpansion.Insolator.addRecipe(<mysticalagriculture:emerald_essence> * 5,<mysticalagriculture:emerald_seeds>,fpg,15000,<mysticalagriculture:emerald_seeds>,5);
@@ -359,6 +363,14 @@ mods.thermalexpansion.Insolator.addRecipe(<mysticalagriculture:skeleton_essence>
 mods.thermalexpansion.Insolator.addRecipe(<mysticalagriculture:skeleton_essence> * 3,<mysticalagriculture:skeleton_seeds>,rpg,10000,<mysticalagriculture:skeleton_seeds>,5);
 mods.thermalexpansion.Insolator.addRecipe(<mysticalagriculture:skeleton_essence> * 5,<mysticalagriculture:skeleton_seeds>,fpg,15000,<mysticalagriculture:skeleton_seeds>,5);
 
+mods.thermalexpansion.Insolator.addRecipe(<mysticalagriculture:sky_stone_essence>,<mysticalagriculture:sky_stone_seeds>,pg,5000,<mysticalagriculture:sky_stone_seeds>,5);
+mods.thermalexpansion.Insolator.addRecipe(<mysticalagriculture:sky_stone_essence> * 3,<mysticalagriculture:sky_stone_seeds>,rpg,10000,<mysticalagriculture:sky_stone_seeds>,5);
+mods.thermalexpansion.Insolator.addRecipe(<mysticalagriculture:sky_stone_essence> * 5,<mysticalagriculture:sky_stone_seeds>,fpg,15000,<mysticalagriculture:sky_stone_seeds>,5);
+
+mods.thermalexpansion.Insolator.addRecipe(<mysticalagriculture:slate_essence>,<mysticalagriculture:slate_seeds>,pg,5000,<mysticalagriculture:slate_seeds>,5);
+mods.thermalexpansion.Insolator.addRecipe(<mysticalagriculture:slate_essence> * 3,<mysticalagriculture:slate_seeds>,rpg,10000,<mysticalagriculture:slate_seeds>,5);
+mods.thermalexpansion.Insolator.addRecipe(<mysticalagriculture:slate_essence> * 5,<mysticalagriculture:slate_seeds>,fpg,15000,<mysticalagriculture:slate_seeds>,5);
+
 mods.thermalexpansion.Insolator.addRecipe(<mysticalagriculture:slime_essence>,<mysticalagriculture:slime_seeds>,pg,5000,<mysticalagriculture:slime_seeds>,5);
 mods.thermalexpansion.Insolator.addRecipe(<mysticalagriculture:slime_essence> * 3,<mysticalagriculture:slime_seeds>,rpg,10000,<mysticalagriculture:slime_seeds>,5);
 mods.thermalexpansion.Insolator.addRecipe(<mysticalagriculture:slime_essence> * 5,<mysticalagriculture:slime_seeds>,fpg,15000,<mysticalagriculture:slime_seeds>,5);
@@ -448,7 +460,6 @@ recipes.remove(<mysticalagriculture:charm:9>);
 
 #Add water -> salt recipe
 recipes.addShapeless(<xlfoodmod:salt> * 2,[<minecraft:water_bucket>]);
-
 
 #Add Magma Block recipe for Mystical Agriculture
 recipes.addShaped(<minecraft:magma> * 16, [[null,<mysticalagriculture:nether_essence>,null],[<mysticalagriculture:nether_essence>,<mysticalagriculture:fire_essence>,<mysticalagriculture:nether_essence>],[null,<mysticalagriculture:nether_essence>,null]]);
