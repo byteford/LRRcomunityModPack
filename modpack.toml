@@ -1,7 +1,7 @@
 [pack_meta]
 title = "SnorshCraft"
 author = "byteford"
-version = "1.3.3"
+version = "1.4.0"
 override_dir = "overrides"
 
 [minecraft]
@@ -48,7 +48,7 @@ name = "Aroma1997Core"
 author = "Aroma1997"
 slug = "aroma1997core"
 project_id = 223735
-file_id = 2486142
+file_id = 2489599
 
 [[mods]]
 name = "Aroma1997s Dimensional World"
@@ -195,7 +195,7 @@ name = "CoFH Core"
 author = "TeamCoFH"
 slug = "cofhcore"
 project_id = 69162
-file_id = 2469614
+file_id = 2489695
 
 [[mods]]
 name = "CoFH World"
@@ -398,7 +398,7 @@ name = "GPS Mod / Stalker mod"
 author = "Aroma1997"
 slug = "gps-mod-stalker-mod"
 project_id = 247855
-file_id = 2470263
+file_id = 2489637
 
 [[mods]]
 name = "Grue"
@@ -643,7 +643,7 @@ name = "Reborn Core"
 author = "modmuss50"
 slug = "reborncore"
 project_id = 237903
-file_id = 2488790
+file_id = 2489708
 
 [[mods]]
 name = "Reborn Storage"
@@ -664,7 +664,7 @@ name = "Redstone Arsenal"
 author = "TeamCoFH"
 slug = "redstone-arsenal"
 project_id = 70631
-file_id = 2469625
+file_id = 2489697
 
 [[mods]]
 name = "Redstone Flux"
@@ -804,21 +804,21 @@ name = "Thermal Dynamics"
 author = "TeamCoFH"
 slug = "thermal-dynamics"
 project_id = 227443
-file_id = 2469621
+file_id = 2489703
 
 [[mods]]
 name = "Thermal Expansion"
 author = "TeamCoFH"
 slug = "thermalexpansion"
 project_id = 69163
-file_id = 2469736
+file_id = 2489700
 
 [[mods]]
 name = "Thermal Foundation"
 author = "TeamCoFH"
 slug = "thermal-foundation"
 project_id = 222880
-file_id = 2469615
+file_id = 2489696
 
 [[mods]]
 name = "Tinkers Construct"
@@ -881,7 +881,7 @@ name = "Waystones"
 author = "BlayTheNinth"
 slug = "waystones"
 project_id = 245755
-file_id = 2464463
+file_id = 2489635
 
 [[mods]]
 name = "Wearable Backpacks"
