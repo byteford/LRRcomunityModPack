@@ -41,7 +41,7 @@ name = "Applied Energistics 2"
 author = "AlgorithmX2"
 slug = "applied-energistics-2"
 project_id = 223794
-file_id = 2486738
+file_id = 2488736
 
 [[mods]]
 name = "Aroma1997Core"
@@ -489,7 +489,7 @@ name = "Just Enough Items (JEI)"
 author = "mezz"
 slug = "just-enough-items-jei"
 project_id = 238222
-file_id = 2486866
+file_id = 2487152
 
 [[mods]]
 name = "Just Enough Resources (JER)"
@@ -643,7 +643,7 @@ name = "Reborn Core"
 author = "modmuss50"
 slug = "reborncore"
 project_id = 237903
-file_id = 2486707
+file_id = 2488790
 
 [[mods]]
 name = "Reborn Storage"
@@ -678,7 +678,7 @@ name = "Refined Storage"
 author = "raoulvdberge"
 slug = "refined-storage"
 project_id = 243076
-file_id = 2477560
+file_id = 2489086
 
 [[mods]]
 name = "Resource Loader"
@@ -692,7 +692,7 @@ name = "RFTools"
 author = "McJty"
 slug = "rftools"
 project_id = 224641
-file_id = 2465110
+file_id = 2489583
 
 [[mods]]
 name = "RFTools Dimensions"
@@ -846,7 +846,7 @@ name = "TorchMaster"
 author = "xalcon"
 slug = "torchmaster"
 project_id = 254268
-file_id = 2462030
+file_id = 2489361
 
 [[mods]]
 name = "Traverse"
