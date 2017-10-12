@@ -184,6 +184,13 @@ project_id = 231095
 file_id = 2483470
 
 [[mods]]
+name = "Chunk-Pregenerator"
+author = "Speiger"
+slug = "chunkpregenerator"
+project_id = 267193
+file_id = 2489340
+
+[[mods]]
 name = "CodeChicken Lib 1.8.+"
 author = "covers1624"
 slug = "codechicken-lib-1-8"
@@ -448,6 +455,13 @@ author = "Kobata"
 slug = "inventory-tweaks"
 project_id = 223094
 file_id = 2463769
+
+[[mods]]
+name = "Iron Backpacks"
+author = "gr8pefish"
+slug = "iron-backpacks"
+project_id = 227049
+file_id = 2489882
 
 [[mods]]
 name = "Iron Chests"
