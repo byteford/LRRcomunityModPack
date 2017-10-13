@@ -83,7 +83,7 @@ name = "Bad Wither No Cookie - Reloaded"
 author = "kreezxil"
 slug = "bad-wither-no-cookie-reloaded"
 project_id = 261251
-file_id = 2464169
+file_id = 2488095
 
 [[mods]]
 name = "Baubles"
@@ -118,7 +118,7 @@ name = "BetterFps"
 author = "Guichaguri"
 slug = "betterfps"
 project_id = 229876
-file_id = 2469845
+file_id = 2483393
 
 [[mods]]
 name = "BiblioCraft"
@@ -132,7 +132,7 @@ name = "Bookshelf"
 author = "darkh4x"
 slug = "bookshelf"
 project_id = 228525
-file_id = 2487954
+file_id = 2488431
 
 [[mods]]
 name = "Botania"
@@ -272,7 +272,7 @@ name = "Custom Main Menu"
 author = "lumien231"
 slug = "custom-main-menu"
 project_id = 226406
-file_id = 2476121
+file_id = 2482584
 
 [[mods]]
 name = "Cyclops Core"
@@ -286,7 +286,7 @@ name = "Dark Utilities"
 author = "darkh4x"
 slug = "dark-utilities"
 project_id = 242195
-file_id = 2487968
+file_id = 2488373
 
 [[mods]]
 name = "Deep Resonance"
@@ -461,7 +461,7 @@ name = "Inventory Tweaks"
 author = "Kobata"
 slug = "inventory-tweaks"
 project_id = 223094
-file_id = 2463769
+file_id = 2482481
 
 [[mods]]
 name = "Iron Backpacks"
@@ -475,7 +475,7 @@ name = "Iron Chests"
 author = "progwml6"
 slug = "iron-chests"
 project_id = 228756
-file_id = 2442829
+file_id = 2487724
 
 [[mods]]
 name = "IvToolkit"
@@ -517,7 +517,7 @@ name = "Just Enough Resources (JER)"
 author = "Way2muchnoise"
 slug = "just-enough-resources-jer"
 project_id = 240630
-file_id = 2463648
+file_id = 2482536
 
 [[mods]]
 name = "KleeSlabs"
@@ -867,7 +867,7 @@ name = "Tomb Many Graves 2"
 author = "M4thG33k"
 slug = "tomb-many-graves-2"
 project_id = 262823
-file_id = 2469850
+file_id = 2490167
 
 [[mods]]
 name = "TOP Addons"
@@ -944,4 +944,4 @@ name = "ZeroCore"
 author = "ZeroNoRyouki"
 slug = "zerocore"
 project_id = 247921
-file_id = 2442435
+file_id = 2482156
