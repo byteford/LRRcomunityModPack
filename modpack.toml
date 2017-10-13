@@ -48,7 +48,7 @@ name = "Aroma1997Core"
 author = "Aroma1997"
 slug = "aroma1997core"
 project_id = 223735
-file_id = 2489599
+file_id = 2490298
 
 [[mods]]
 name = "Aroma1997s Dimensional World"
@@ -405,7 +405,7 @@ name = "GPS Mod / Stalker mod"
 author = "Aroma1997"
 slug = "gps-mod-stalker-mod"
 project_id = 247855
-file_id = 2489637
+file_id = 2490287
 
 [[mods]]
 name = "Grue"
@@ -713,7 +713,7 @@ name = "RFTools"
 author = "McJty"
 slug = "rftools"
 project_id = 224641
-file_id = 2489925
+file_id = 2490208
 
 [[mods]]
 name = "RFTools Dimensions"
