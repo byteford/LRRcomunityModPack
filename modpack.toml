@@ -657,7 +657,7 @@ name = "Reborn Core"
 author = "modmuss50"
 slug = "reborncore"
 project_id = 237903
-file_id = 2489708
+file_id = 2490127
 
 [[mods]]
 name = "Reborn Storage"
@@ -706,7 +706,7 @@ name = "RFTools"
 author = "McJty"
 slug = "rftools"
 project_id = 224641
-file_id = 2489583
+file_id = 2489925
 
 [[mods]]
 name = "RFTools Dimensions"
