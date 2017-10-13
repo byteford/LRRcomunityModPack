@@ -436,6 +436,13 @@ project_id = 268250
 file_id = 2460649
 
 [[mods]]
+name = "Industrial Foregoing"
+author = "Buuz135"
+slug = "industrial-foregoing"
+project_id = 266515
+file_id = 2490076
+
+[[mods]]
 name = "Integrated Dynamics"
 author = "kroeser"
 slug = "integrated-dynamics"
@@ -737,6 +744,13 @@ project_id = 252319
 file_id = 2444248
 
 [[mods]]
+name = "Shadowfacts' Forgelin"
+author = "shadowfactsmc"
+slug = "shadowfacts-forgelin"
+project_id = 248453
+file_id = 2453708
+
+[[mods]]
 name = "SimpleHarvest"
 author = "TehNut"
 slug = "simpleharvest"
@@ -784,6 +798,13 @@ author = "senpaisubaraki"
 slug = "sublib"
 project_id = 251678
 file_id = 2454127
+
+[[mods]]
+name = "Tesla Core Lib"
+author = "Face_of_Cat"
+slug = "tesla-core-lib"
+project_id = 254602
+file_id = 2480965
 
 [[mods]]
 name = "The Lost Cities"
