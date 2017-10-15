@@ -41,7 +41,7 @@ name = "Applied Energistics 2"
 author = "AlgorithmX2"
 slug = "applied-energistics-2"
 project_id = 223794
-file_id = 2488736
+file_id = 2490639
 
 [[mods]]
 name = "Aroma1997Core"
@@ -69,7 +69,7 @@ name = "AutoRegLib"
 author = "Vazkii"
 slug = "autoreglib"
 project_id = 250363
-file_id = 2445828
+file_id = 2490431
 
 [[mods]]
 name = "Baby Animals Model Swapper"
@@ -279,7 +279,7 @@ name = "Cyclops Core"
 author = "kroeser"
 slug = "cyclops-core"
 project_id = 232758
-file_id = 2487387
+file_id = 2490872
 
 [[mods]]
 name = "Dark Utilities"
@@ -349,7 +349,7 @@ name = "EvilCraft"
 author = "kroeser"
 slug = "evilcraft"
 project_id = 74610
-file_id = 2483512
+file_id = 2490884
 
 [[mods]]
 name = "Exchangers"
@@ -363,7 +363,7 @@ name = "Extra Utilities"
 author = "RWTema"
 slug = "extra-utilities"
 project_id = 225561
-file_id = 2481036
+file_id = 2490659
 
 [[mods]]
 name = "Flux Networks"
@@ -447,14 +447,14 @@ name = "Integrated Dynamics"
 author = "kroeser"
 slug = "integrated-dynamics"
 project_id = 236307
-file_id = 2483520
+file_id = 2490880
 
 [[mods]]
 name = "Integrated Tunnels"
 author = "kroeser"
 slug = "integrated-tunnels"
 project_id = 251389
-file_id = 2474021
+file_id = 2490876
 
 [[mods]]
 name = "Inventory Tweaks"
@@ -538,14 +538,14 @@ name = "MalisisCore"
 author = "Ordinastie"
 slug = "malisiscore"
 project_id = 223896
-file_id = 2486336
+file_id = 2490859
 
 [[mods]]
 name = "MalisisDoors"
 author = "Ordinastie"
 slug = "malisisdoors"
 project_id = 223891
-file_id = 2486136
+file_id = 2490863
 
 [[mods]]
 name = "Mantle"
@@ -643,14 +643,14 @@ name = "Psi"
 author = "Vazkii"
 slug = "psi"
 project_id = 241665
-file_id = 2486281
+file_id = 2490792
 
 [[mods]]
 name = "Quark"
 author = "Vazkii"
 slug = "quark"
 project_id = 243121
-file_id = 2486309
+file_id = 2490690
 
 [[mods]]
 name = "Ranged Pumps"
@@ -713,7 +713,7 @@ name = "RFTools"
 author = "McJty"
 slug = "rftools"
 project_id = 224641
-file_id = 2490208
+file_id = 2490849
 
 [[mods]]
 name = "RFTools Dimensions"
@@ -860,7 +860,7 @@ name = "Tinkers Construct"
 author = "mDiyo"
 slug = "tinkers-construct"
 project_id = 74072
-file_id = 2476509
+file_id = 2490867
 
 [[mods]]
 name = "Tomb Many Graves 2"
