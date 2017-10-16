@@ -608,7 +608,7 @@ name = "MTLib"
 author = "jaredlll08"
 slug = "mtlib"
 project_id = 253211
-file_id = 2453543
+file_id = 2491141
 
 [[mods]]
 name = "Mystical Agriculture"
@@ -650,7 +650,7 @@ name = "Psi"
 author = "Vazkii"
 slug = "psi"
 project_id = 241665
-file_id = 2490792
+file_id = 2491072
 
 [[mods]]
 name = "Quantum Lights"
@@ -958,7 +958,7 @@ name = "XNet"
 author = "McJty"
 slug = "xnet"
 project_id = 260912
-file_id = 2464091
+file_id = 2491279
 
 [[mods]]
 name = "ZeroCore"
