@@ -436,6 +436,13 @@ project_id = 268250
 file_id = 2460649
 
 [[mods]]
+name = "Immersive Tech"
+author = "FerroO2000"
+slug = "immersive-tech"
+project_id = 274159
+file_id = 2491360
+
+[[mods]]
 name = "Industrial Foregoing"
 author = "Buuz135"
 slug = "industrial-foregoing"
@@ -646,6 +653,13 @@ project_id = 241665
 file_id = 2490792
 
 [[mods]]
+name = "Quantum Lights"
+author = "DarkMorford"
+slug = "quantum-lights"
+project_id = 279709
+file_id = 2491342
+
+[[mods]]
 name = "Quark"
 author = "Vazkii"
 slug = "quark"
@@ -749,6 +763,13 @@ author = "shadowfactsmc"
 slug = "shadowfacts-forgelin"
 project_id = 248453
 file_id = 2453708
+
+[[mods]]
+name = "Simple Chunks"
+author = "DarkMorford"
+slug = "simple-chunks"
+project_id = 279820
+file_id = 2491343
 
 [[mods]]
 name = "SimpleHarvest"
