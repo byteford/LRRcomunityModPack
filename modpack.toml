@@ -842,6 +842,13 @@ project_id = 245211
 file_id = 2469334
 
 [[mods]]
+name = "The Twilight Forest"
+author = "Benimatic"
+slug = "the-twilight-forest"
+project_id = 227639
+file_id = 2489489
+
+[[mods]]
 name = "TheBOMPlugin"
 author = "osum4est"
 slug = "thebomplugin"
