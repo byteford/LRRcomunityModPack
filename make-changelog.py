@@ -37,7 +37,7 @@ changelog_template = """\
 <h2>Config Changes</h2>
 <ul>
 {% for line in configs %}
-<li>{{ line }}</li>
+<li>{{ line.text }} ({{ line.author.name }})</li>
 {% endfor %}
 </ul>
 {% endif %}
@@ -45,33 +45,44 @@ changelog_template = """\
 
 def parse_commit_message(msg, author):
 	changes = []
-
-	mod_regex = r"^\[(ADD|UPD)\]\s+(.*)\s+\((.*)\)$"
-	for change in re.finditer(mod_regex, msg, re.MULTILINE):
-		tag, mod, version = change.groups()
-		changes.append((tag, mod, version))
-		
-	config_regex = r"^\[(CFG|DEL)\]\s+(.*)$"
-	for change in re.finditer(config_regex, msg, re.MULTILINE):
-		tag, desc = change.groups()
-		if tag == "CFG":
-			desc += " (%s)" % author.name
-		changes.append((tag, desc))
+	
+	regex = r"^\[([A-Z]+)\]\s+(.*)$"
+	for change in re.finditer(regex, msg, re.MULTILINE):
+		change_dict = parse_commit_line(*change.groups(), author)
+		if (change_dict):
+			changes.append(change_dict)
 		
 	return changes
+	
+def parse_commit_line(action, text, author):
+	change = {}
+	
+	change["action"] = action;
+	change["author"] = author;
+	
+	if action in ["ADD", "UPD"]:
+		change["name"], change["version"] = re.search(r"^(.+)\s+\((.+)\)$", text).groups()
+	elif action in ["DEL"]:
+		change["name"] = text
+	elif action in ["CFG"]:
+		change["text"] = text
+	else:
+		return None
+	
+	return change
 	
 def process_changelist(changes):
 	changelog = { "added": [], "updated": [], "removed": [], "configs": [] }
 	
 	for change in changes:
-		if change[0] == "ADD":
-			changelog["added"].append({ "name": change[1], "version": change[2] })
-		elif change[0] == "UPD":
-			changelog["updated"].append({ "name": change[1], "version": change[2] })
-		elif change[0] == "DEL":
-			changelog["removed"].append({ "name": change[1] })
-		elif change[0] == "CFG":
-			changelog["configs"].append(change[1])
+		if change["action"] == "ADD":
+			changelog["added"].append(change)
+		elif change["action"] == "UPD":
+			changelog["updated"].append(change)
+		elif change["action"] == "DEL":
+			changelog["removed"].append(change)
+		elif change["action"] == "CFG":
+			changelog["configs"].append(change)
 			
 	changelog["added"] = sorted(changelog["added"], key=itemgetter("name"))
 	changelog["updated"] = sorted(changelog["updated"], key=itemgetter("name"))
@@ -83,10 +94,10 @@ if __name__ == "__main__":
 	repo = git.Repo()
 	
 	changelist = []
-	for commit in repo.iter_commits("tags/1.4.0..HEAD"):
+	for commit in repo.iter_commits("tags/%s..HEAD" % sys.argv[1]):
 		changelist.extend(parse_commit_message(commit.message, commit.author))
-		
+
 	log = process_changelist(changelist)
 	
 	template = jinja2.Template(changelog_template, trim_blocks=True)
-	print(template.render(added=log["added"], updated=log["updated"], removed=log["removed"], configs=log["configs"]))
+	print(template.render(added=log["added"], updated=log["updated"], removed=log["removed"], configs=log["configs"]), end="")
