@@ -137,11 +137,6 @@
     },
     {
       "target": "light_blue",
-      "weight": 10,
-      "id": "OD:oreMithril"
-    },
-    {
-      "target": "light_blue",
       "weight": 11,
       "id": "OD:oreOsmium"
     },
@@ -224,11 +219,6 @@
       "target": "pink",
       "weight": 11,
       "id": "OD:oreZinc"
-    },
-    {
-      "target": "white",
-      "weight": 9,
-      "id": "OD:oreIridium"
     },
     {
       "target": "black",
