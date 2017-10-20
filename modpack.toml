@@ -41,7 +41,7 @@ name = "Applied Energistics 2"
 author = "AlgorithmX2"
 slug = "applied-energistics-2"
 project_id = 223794
-file_id = 2490639
+file_id = 2492787
 
 [[mods]]
 name = "Aroma1997Core"
@@ -62,7 +62,7 @@ name = "Astral Sorcery"
 author = "HellFirePvP"
 slug = "astral-sorcery"
 project_id = 241721
-file_id = 2452200
+file_id = 2492673
 
 [[mods]]
 name = "AutoRegLib"
@@ -132,7 +132,7 @@ name = "Bookshelf"
 author = "darkh4x"
 slug = "bookshelf"
 project_id = 228525
-file_id = 2488431
+file_id = 2490230
 
 [[mods]]
 name = "Botania"
@@ -181,7 +181,7 @@ name = "Chisels & Bits"
 author = "AlgorithmX2"
 slug = "chisels-bits"
 project_id = 231095
-file_id = 2483470
+file_id = 2492712
 
 [[mods]]
 name = "Chunk-Pregenerator"
@@ -307,7 +307,7 @@ name = "Doggy Talents"
 author = "Percivalalb"
 slug = "doggy-talents"
 project_id = 271050
-file_id = 2484373
+file_id = 2492786
 
 [[mods]]
 name = "Dynamic Surroundings"
@@ -391,7 +391,7 @@ name = "FTBLib"
 author = "FTB"
 slug = "ftblib"
 project_id = 237167
-file_id = 2491982
+file_id = 2492213
 
 [[mods]]
 name = "Global XP - Share XP levels with your friends"
