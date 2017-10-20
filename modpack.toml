@@ -447,7 +447,7 @@ name = "Industrial Foregoing"
 author = "Buuz135"
 slug = "industrial-foregoing"
 project_id = 266515
-file_id = 2490076
+file_id = 2492314
 
 [[mods]]
 name = "Integrated Dynamics"
@@ -496,7 +496,7 @@ name = "JourneyMap"
 author = "techbrew"
 slug = "journeymap"
 project_id = 32274
-file_id = 2482291
+file_id = 2492375
 
 [[mods]]
 name = "Just a Few Fish"
@@ -713,7 +713,7 @@ name = "Refined Storage"
 author = "raoulvdberge"
 slug = "refined-storage"
 project_id = 243076
-file_id = 2489086
+file_id = 2492323
 
 [[mods]]
 name = "Resource Loader"
