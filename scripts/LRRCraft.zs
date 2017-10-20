@@ -464,9 +464,6 @@ recipes.addShapeless(<xlfoodmod:salt> * 2,[<minecraft:water_bucket>]);
 #Add Magma Block recipe for Mystical Agriculture
 recipes.addShaped(<minecraft:magma> * 16, [[null,<mysticalagriculture:nether_essence>,null],[<mysticalagriculture:nether_essence>,<mysticalagriculture:fire_essence>,<mysticalagriculture:nether_essence>],[null,<mysticalagriculture:nether_essence>,null]]);
 
-#Disable crafting recipe for the Refined Storage Crafter due to server crashes
-recipes.remove(<refinedstorage:crafter>);
-
 #Add missing ETech Magenta Lens recipe
 recipes.addShapeless(<environmentaltech:laser_lens_colored:2>,[<ore:etLaserLens>,<ore:dyeMagenta>]);
 
