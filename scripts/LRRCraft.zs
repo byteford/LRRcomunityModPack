@@ -133,3 +133,7 @@ mods.actuallyadditions.Crusher.addRecipe(<appliedenergistics2:material:46>, <min
 mods.extrautils2.Crusher.add(<appliedenergistics2:material:46>, <minecraft:ender_pearl>);
 mods.thermalexpansion.Pulverizer.addRecipe(<appliedenergistics2:material:46>, <minecraft:ender_pearl>, 4000);
 
+#Disable some Industrial Foregoing things
+recipes.remove(<industrialforegoing:black_hole_unit>);
+recipes.remove(<industrialforegoing:black_hole_tank>);
+recipes.remove(<industrialforegoing:mob_duplicator>);
