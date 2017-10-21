@@ -384,14 +384,14 @@ name = "FTB Utilities"
 author = "FTB"
 slug = "ftb-utilities"
 project_id = 237102
-file_id = 2491983
+file_id = 2492969
 
 [[mods]]
 name = "FTBLib"
 author = "FTB"
 slug = "ftblib"
 project_id = 237167
-file_id = 2492213
+file_id = 2492968
 
 [[mods]]
 name = "Global XP - Share XP levels with your friends"
@@ -447,7 +447,7 @@ name = "Industrial Foregoing"
 author = "Buuz135"
 slug = "industrial-foregoing"
 project_id = 266515
-file_id = 2492314
+file_id = 2493181
 
 [[mods]]
 name = "Integrated Dynamics"
