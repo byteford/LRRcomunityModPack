@@ -140,7 +140,7 @@
     "eItem": "minecraft:end_stone"
   },
   {
-    "eName": "astralsorcery:enchantment.as.smelting",
+    "eName": "cofhcore:smelting",
     "eMaxLevel": 1,
     "eItem": "minecraft:lava_bucket"
   },
@@ -165,9 +165,19 @@
     "eItem": "thermalfoundation:material:512"
   },
   {
-    "eName": "evilcraft:life_stealing",
+    "eName": "cofhcore:insight",
     "eMaxLevel": 3,
-    "eItem": "evilcraft:dark_gem"
+    "eItem": "minecraft:dye:4"
+  },
+  {
+    "eName": "cofhcore:leech",
+    "eMaxLevel": 4,
+    "eItem": "minecraft:golden_apple"
+  },
+  {
+    "eName": "cofhcore:vorpal",
+    "eMaxLevel": 3,
+    "eItem": "thermalfoundation:material:134"
   },
   {
     "eName": "evilcraft:poison_tip",
