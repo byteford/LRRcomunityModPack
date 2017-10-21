@@ -207,7 +207,7 @@
   {
     "eName": "extrautils2:xu.kaboomerang",
     "eMaxLevel": 3,
-    "eItem": "tconstruct:throwball"
+    "eItem": "tconstruct:throwball:1"
   },
   {
     "eName": "extrautils2:xu.zoomerang",
@@ -216,7 +216,7 @@
   },
   {
     "eName": "glasshearts:sapping",
-    "eMaxLevel": 1,
+    "eMaxLevel": 10,
     "eItem": "glasshearts:gem:5"
   },
   {
