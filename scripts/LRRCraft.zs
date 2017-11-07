@@ -80,23 +80,23 @@ recipes.remove(<rustic:iron_lattice>);
 
 val plank=<ore:plankWood>;
 
-recipes.addShaped(<rustic:painted_wood_white>,[[plank,plank,plank],[null,<ore:dyeWhite>,null],[plank,plank,plank]]);
-recipes.addShaped(<rustic:painted_wood_orange>,[[plank,plank,plank],[null,<ore:dyeOrange>,null],[plank,plank,plank]]);
-recipes.addShaped(<rustic:painted_wood_magenta>,[[plank,plank,plank],[null,<ore:dyeMagenta>,null],[plank,plank,plank]]);
-recipes.addShaped(<rustic:painted_wood_light_blue>,[[plank,plank,plank],[null,<ore:dyeLightBlue>,null],[plank,plank,plank]]);
-recipes.addShaped(<rustic:painted_wood_yellow>,[[plank,plank,plank],[null,<ore:dyeYellow>,null],[plank,plank,plank]]);
-recipes.addShaped(<rustic:painted_wood_lime>,[[plank,plank,plank],[null,<ore:dyeLime>,null],[plank,plank,plank]]);
-recipes.addShaped(<rustic:painted_wood_pink>,[[plank,plank,plank],[null,<ore:dyePink>,null],[plank,plank,plank]]);
-recipes.addShaped(<rustic:painted_wood_gray>,[[plank,plank,plank],[null,<ore:dyeGray>,null],[plank,plank,plank]]);
-recipes.addShaped(<rustic:painted_wood_cyan>,[[plank,plank,plank],[null,<ore:dyeCyan>,null],[plank,plank,plank]]);
-recipes.addShaped(<rustic:painted_wood_purple>,[[plank,plank,plank],[null,<ore:dyePurple>,null],[plank,plank,plank]]);
-recipes.addShaped(<rustic:painted_wood_blue>,[[plank,plank,plank],[null,<ore:dyeBlue>,null],[plank,plank,plank]]);
-recipes.addShaped(<rustic:painted_wood_green>,[[plank,plank,plank],[null,<ore:dyeGreen>,null],[plank,plank,plank]]);
-recipes.addShaped(<rustic:painted_wood_red>,[[plank,plank,plank],[null,<ore:dyeRed>,null],[plank,plank,plank]]);
-recipes.addShaped(<rustic:painted_wood_black>,[[plank,plank,plank],[null,<ore:dyeBlack>,null],[plank,plank,plank]]);
-recipes.addShaped(<rustic:painted_wood_brown>,[[plank,plank,plank],[null,<ore:dyeBrown>,null],[plank,plank,plank]]);
-recipes.addShaped(<rustic:painted_wood_silver>,[[plank,plank,plank],[null,<ore:dyeLightGray>,null],[plank,plank,plank]]);
-recipes.addShaped(<rustic:iron_lattice>,[[<minecraft:iron_ingot>,null,<minecraft:iron_ingot>],[null,<minecraft:iron_ingot>,null],[<minecraft:iron_ingot>,null,<minecraft:iron_ingot>]]);
+recipes.addShaped(<rustic:painted_wood_white> * 6,[[plank,plank,plank],[null,<ore:dyeWhite>,null],[plank,plank,plank]]);
+recipes.addShaped(<rustic:painted_wood_orange> * 6,[[plank,plank,plank],[null,<ore:dyeOrange>,null],[plank,plank,plank]]);
+recipes.addShaped(<rustic:painted_wood_magenta> * 6,[[plank,plank,plank],[null,<ore:dyeMagenta>,null],[plank,plank,plank]]);
+recipes.addShaped(<rustic:painted_wood_light_blue> * 6,[[plank,plank,plank],[null,<ore:dyeLightBlue>,null],[plank,plank,plank]]);
+recipes.addShaped(<rustic:painted_wood_yellow> * 6,[[plank,plank,plank],[null,<ore:dyeYellow>,null],[plank,plank,plank]]);
+recipes.addShaped(<rustic:painted_wood_lime> * 6,[[plank,plank,plank],[null,<ore:dyeLime>,null],[plank,plank,plank]]);
+recipes.addShaped(<rustic:painted_wood_pink> * 6,[[plank,plank,plank],[null,<ore:dyePink>,null],[plank,plank,plank]]);
+recipes.addShaped(<rustic:painted_wood_gray> * 6,[[plank,plank,plank],[null,<ore:dyeGray>,null],[plank,plank,plank]]);
+recipes.addShaped(<rustic:painted_wood_cyan> * 6,[[plank,plank,plank],[null,<ore:dyeCyan>,null],[plank,plank,plank]]);
+recipes.addShaped(<rustic:painted_wood_purple> * 6,[[plank,plank,plank],[null,<ore:dyePurple>,null],[plank,plank,plank]]);
+recipes.addShaped(<rustic:painted_wood_blue> * 6,[[plank,plank,plank],[null,<ore:dyeBlue>,null],[plank,plank,plank]]);
+recipes.addShaped(<rustic:painted_wood_green> * 6,[[plank,plank,plank],[null,<ore:dyeGreen>,null],[plank,plank,plank]]);
+recipes.addShaped(<rustic:painted_wood_red> * 6,[[plank,plank,plank],[null,<ore:dyeRed>,null],[plank,plank,plank]]);
+recipes.addShaped(<rustic:painted_wood_black> * 6,[[plank,plank,plank],[null,<ore:dyeBlack>,null],[plank,plank,plank]]);
+recipes.addShaped(<rustic:painted_wood_brown> * 6,[[plank,plank,plank],[null,<ore:dyeBrown>,null],[plank,plank,plank]]);
+recipes.addShaped(<rustic:painted_wood_silver> * 6,[[plank,plank,plank],[null,<ore:dyeLightGray>,null],[plank,plank,plank]]);
+recipes.addShaped(<rustic:iron_lattice> * 16,[[<minecraft:iron_ingot>,null,<minecraft:iron_ingot>],[null,<minecraft:iron_ingot>,null],[<minecraft:iron_ingot>,null,<minecraft:iron_ingot>]]);
 
 #Disable Mystical Agriculture Armor Charms
 recipes.remove(<mysticalagriculture:charm:1>);
