@@ -13,85 +13,99 @@
         "language": {
             "text": "",
             "posX": -210,
-            "posY": 100,
+            "posY": -40,
             "width": 20,
             "height": 20,
             "action": {
                 "type": "openGui",
                 "gui": "languages"
             },
-            "alignment": "center"
+            "alignment": "bottom_center"
         },
         "singleplayer": {
             "text": "menu.singleplayer",
             "posX": -185,
-            "posY": 100,
+            "posY": -40,
             "width": 70,
             "height": 20,
             "action": {
                 "type": "openGui",
                 "gui": "singleplayer"
             },
-            "alignment": "center"
+            "alignment": "bottom_center"
         },
         "multiplayer": {
             "text": "menu.multiplayer",
             "posX": -110,
-            "posY": 100,
+            "posY": -40,
             "width": 70,
             "height": 20,
             "action": {
                 "type": "openGui",
                 "gui": "multiplayer"
             },
-            "alignment": "center"
+            "alignment": "bottom_center"
         },
         "mods": {
             "text": "fml.menu.mods",
             "posX": -35,
-            "posY": 100,
+            "posY": -40,
             "width": 70,
             "height": 20,
             "action": {
                 "type": "openGui",
                 "gui": "mods"
             },
-            "alignment": "center"
+            "alignment": "bottom_center"
         },
         "options": {
             "text": "menu.options",
             "posX": 40,
-            "posY": 100,
+            "posY": -40,
             "width": 70,
             "height": 20,
             "action": {
                 "type": "openGui",
                 "gui": "options"
             },
-            "alignment": "center"
+            "alignment": "bottom_center"
         },
         "quit": {
             "text": "menu.quit",
             "posX": 115,
-            "posY": 100,
+            "posY": -40,
             "width": 70,
             "height": 20,
             "action": {
                 "type": "quit"
             },
-            "alignment": "center"
+            "alignment": "bottom_center"
+        },
+        "drivername": {
+            "posX": 0,
+            "posY": 0,
+            "textOffsetX": 0,
+            "textOffsetY": 3,
+            "normalTextColor": 0,
+            "hoverTextColor": 0,
+            "width": 152,
+            "height": 35,
+            "alignment": "top_left",
+            "texture": "snorshcraft:textures/gui/driver.png",
+            "text": ["BILL","HUBRIS","DIO","KANYE","STEPTO","KAWWW","GERMSY","BUSKING","JOCKO","BATMANAA","HUMAN","EVA OI","BEARFRCE","TEATIME","KOCKO","JEEJO"],
+            "shadow": false
         },
         "refresh": {
             "text": "",
             "posX": 190,
-            "posY": 100,
+            "posY": -40,
             "width": 20,
             "height": 20,
             "texture": "custommainmenu:textures/gui/buttons.png",
             "action": {
                 "type": "refresh"
             },
-            "alignment": "center"
+            "alignment": "bottom_center"
         }
     },
     "labels": {
@@ -108,8 +122,8 @@
             }
         },
         "packcredits": {
-            "text": "SnorshCraft V1.4: Twilight Terror Edition",
-            "hoverText": "§nSnorshCraft V1.4: Twilight Terror Edition",
+            "text": "SnorshCraft V1.4: Post-Bus Update",
+            "hoverText": "§nSnorshCraft V1.4: Post-Bus Update",
             "posX": 2,
             "posY": -10,
             "color": -1,
