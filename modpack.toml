@@ -1,12 +1,12 @@
 [pack_meta]
 title = "SnorshCraft"
 author = "byteford"
-version = "1.4.1"
+version = "1.4.2"
 override_dir = "overrides"
 
 [minecraft]
 version = "1.12.2"
-forge_version = "14.23.0.2512"
+forge_version = "14.23.1.2555"
 
 [[mods]]
 name = "Actually Additions"
@@ -14,6 +14,13 @@ author = "Ellpeck"
 slug = "actually-additions"
 project_id = 228404
 file_id = 2496940
+
+[[mods]]
+name = "Advanced Generators"
+author = "bdew"
+slug = "advanced-generators"
+project_id = 223622
+file_id = 2494379
 
 [[mods]]
 name = "Akashic Tome"
@@ -359,6 +366,13 @@ project_id = 270183
 file_id = 2497446
 
 [[mods]]
+name = "ExtraCells2"
+author = "Destroyer7128"
+slug = "extracells2"
+project_id = 229218
+file_id = 2504766
+
+[[mods]]
 name = "Extra Utilities"
 author = "RWTema"
 slug = "extra-utilities"
@@ -576,6 +590,13 @@ project_id = 233105
 file_id = 2501450
 
 [[mods]]
+name = "MeeCreeps"
+author = "McJty"
+slug = "meecreeps"
+project_id = 281390
+file_id = 2506998
+
+[[mods]]
 name = "Mod Name Tooltip"
 author = "mezz"
 slug = "mod-name-tooltip"
@@ -737,6 +758,13 @@ project_id = 224641
 file_id = 2501452
 
 [[mods]]
+name = "RFTools Control"
+author = "McJty"
+slug = rftools-control
+project_id = 250763
+file_id = 2503244
+
+[[mods]]
 name = "RFTools Dimensions"
 author = "McJty"
 slug = "rftools-dimensions"
@@ -798,6 +826,13 @@ author = "Ollie_Lansdell"
 slug = "sonar-core"
 project_id = 239418
 file_id = 2487735
+
+[[mods]]
+name = "Soot"
+author = "BordListian"
+slug = "soot"
+project_id = 281528
+file_id = 2499889
 
 [[mods]]
 name = "Steve's Carts Reborn"
