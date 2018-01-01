@@ -2,10 +2,10 @@
     "images": {
         "transparent": {
             "image": "snorshcraft:textures/gui/transparent.png",
-            "posX": -120,
-            "posY": -40,
-            "width": 240,
-            "height": 90,
+            "posX": -121,
+            "posY": -67,
+            "width": 244,
+            "height": 144,
             "alignment": "center"
         },
         "title": {
@@ -179,8 +179,8 @@
             }
         },
         "packcredits": {
-            "text": "SnorshCraft V1.4: Post-Bus Update",
-            "hoverText": "§nSnorshCraft V1.4: Post-Bus Update",
+            "text": "SnorshCraft V1.5: Now With Flight Options!",
+            "hoverText": "§nSnorshCraft V1.5: Now With Flight Options!",
             "posX": 2,
             "posY": -10,
             "color": -1,
