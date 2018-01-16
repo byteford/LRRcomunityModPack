@@ -1,12 +1,12 @@
 [pack_meta]
 title = "SnorshCraft"
 author = "byteford"
-version = "1.4.2"
+version = "1.4.3"
 override_dir = "overrides"
 
 [minecraft]
 version = "1.12.2"
-forge_version = "14.23.1.2555"
+forge_version = "14.23.1.2571"
 
 [[mods]]
 name = "Actually Additions"
