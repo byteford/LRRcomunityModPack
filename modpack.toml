@@ -429,13 +429,6 @@ project_id = 247855
 file_id = 2490287
 
 [[mods]]
-name = "Grue"
-author = "Shinoow"
-slug = "grue"
-project_id = 235133
-file_id = 2450761
-
-[[mods]]
 name = "IKWID (I Know What I'm Doing)"
 author = "InsomniaKitten"
 slug = "i-know-what-im-doing"
@@ -525,13 +518,6 @@ author = "techbrew"
 slug = "journeymap"
 project_id = 32274
 file_id = 2498312
-
-[[mods]]
-name = "Just a Few Fish"
-author = "Tmtravlr"
-slug = "just-a-few-fish"
-project_id = 235261
-file_id = 2448283
 
 [[mods]]
 name = "Just Another Snad"
