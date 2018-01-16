@@ -13,14 +13,14 @@ name = "Actually Additions"
 author = "Ellpeck"
 slug = "actually-additions"
 project_id = 228404
-file_id = 2496940
+file_id = 2520316
 
 [[mods]]
 name = "Advanced Generators"
 author = "bdew"
 slug = "advanced-generators"
 project_id = 223622
-file_id = 2494379
+file_id = 2516219
 
 [[mods]]
 name = "Akashic Tome"
@@ -48,7 +48,7 @@ name = "Applied Energistics 2"
 author = "AlgorithmX2"
 slug = "applied-energistics-2"
 project_id = 223794
-file_id = 2503759
+file_id = 2520222
 
 [[mods]]
 name = "Aroma1997Core"
@@ -69,7 +69,7 @@ name = "Astral Sorcery"
 author = "HellFirePvP"
 slug = "astral-sorcery"
 project_id = 241721
-file_id = 2506796
+file_id = 2509051
 
 [[mods]]
 name = "AutoRegLib"
@@ -97,14 +97,14 @@ name = "Baubles"
 author = "azanor"
 slug = "baubles"
 project_id = 227083
-file_id = 2459083
+file_id = 2518667
 
 [[mods]]
 name = "BdLib"
 author = "bdew"
 slug = "bdlib"
 project_id = 70496
-file_id = 2490042
+file_id = 2518031
 
 [[mods]]
 name = "Bed Bugs"
@@ -146,14 +146,14 @@ name = "Bookshelf"
 author = "darkh4x"
 slug = "bookshelf"
 project_id = 228525
-file_id = 2501718
+file_id = 2520456
 
 [[mods]]
 name = "Botania"
 author = "Vazkii"
 slug = "botania"
 project_id = 225643
-file_id = 2499195
+file_id = 2507921
 
 [[mods]]
 name = "Chameleon"
@@ -188,7 +188,7 @@ name = "Chisel"
 author = "tterrag1098"
 slug = "chisel"
 project_id = 235279
-file_id = 2479333
+file_id = 2516679
 
 [[mods]]
 name = "Chisels & Bits"
@@ -202,28 +202,28 @@ name = "Chunk-Pregenerator"
 author = "Speiger"
 slug = "chunkpregenerator"
 project_id = 267193
-file_id = 2503584
+file_id = 2519248
 
 [[mods]]
 name = "CodeChicken Lib 1.8.+"
 author = "covers1624"
 slug = "codechicken-lib-1-8"
 project_id = 242818
-file_id = 2485334
+file_id = 2509819
 
 [[mods]]
 name = "CoFH Core"
 author = "TeamCoFH"
 slug = "cofhcore"
 project_id = 69162
-file_id = 2505973
+file_id = 2519297
 
 [[mods]]
 name = "CoFH World"
 author = "TeamCoFH"
 slug = "cofh-world"
 project_id = 271384
-file_id = 2504538
+file_id = 2513671
 
 [[mods]]
 name = "Common Capabilities"
@@ -237,14 +237,14 @@ name = "ConnectedTexturesMod"
 author = "tterrag1098"
 slug = "ctm"
 project_id = 267602
-file_id = 2485010
+file_id = 2519601
 
 [[mods]]
 name = "Controlling"
 author = "jaredlll08"
 slug = "controlling"
 project_id = 250398
-file_id = 2497510
+file_id = 2509063
 
 [[mods]]
 name = "Cooking for Blockheads"
@@ -258,7 +258,7 @@ name = "CraftTweaker"
 author = "jaredlll08"
 slug = "crafttweaker"
 project_id = 239197
-file_id = 2501290
+file_id = 2513460
 
 [[mods]]
 name = "Creeper Confetti"
@@ -279,7 +279,7 @@ name = "Cucumber"
 author = "BlakeBr0"
 slug = "cucumber"
 project_id = 272335
-file_id = 2499635
+file_id = 2520478
 
 [[mods]]
 name = "Custom Main Menu"
@@ -293,7 +293,7 @@ name = "Cyclops Core"
 author = "kroeser"
 slug = "cyclops-core"
 project_id = 232758
-file_id = 2499675
+file_id = 2519785
 
 [[mods]]
 name = "Dark Utilities"
@@ -307,7 +307,7 @@ name = "Deep Resonance"
 author = "McJty"
 slug = "deep-resonance"
 project_id = 233398
-file_id = 2450473
+file_id = 2514028
 
 [[mods]]
 name = "Diet Hoppers"
@@ -321,7 +321,7 @@ name = "Doggy Talents"
 author = "Percivalalb"
 slug = "doggy-talents"
 project_id = 271050
-file_id = 2492786
+file_id = 2507106
 
 [[mods]]
 name = "Dynamic Surroundings"
@@ -335,7 +335,7 @@ name = "ElecCore | Rendering Library"
 author = "Elec332"
 slug = "eleccore-rendering-library"
 project_id = 227391
-file_id = 2500478
+file_id = 2510914
 
 [[mods]]
 name = "Embers"
@@ -349,42 +349,42 @@ name = "Ender Storage 1.8.+"
 author = "covers1624"
 slug = "ender-storage-1-8"
 project_id = 245174
-file_id = 2468431
+file_id = 2509842
 
 [[mods]]
 name = "Environmental Tech"
 author = "ValkyrieofNight"
 slug = "environmental-tech"
 project_id = 245453
-file_id = 2504990
+file_id = 2512886
 
 [[mods]]
 name = "EvilCraft"
 author = "kroeser"
 slug = "evilcraft"
 project_id = 74610
-file_id = 2499706
+file_id = 2519794
 
 [[mods]]
 name = "Exchangers"
 author = "Jacky1356400"
 slug = "exchangers"
 project_id = 270183
-file_id = 2497446
+file_id = 2519378
 
 [[mods]]
 name = "ExtraCells2"
 author = "Destroyer7128"
 slug = "extracells2"
 project_id = 229218
-file_id = 2504766
+file_id = 2512993
 
 [[mods]]
 name = "Extra Utilities"
 author = "RWTema"
 slug = "extra-utilities"
 project_id = 225561
-file_id = 2504264
+file_id = 2512406
 
 [[mods]]
 name = "Flux Networks"
