@@ -352,6 +352,13 @@ project_id = 245174
 file_id = 2509842
 
 [[mods]]
+name = "Ender Zoo"
+author = "tterrag1098"
+slug = "ender-zoo"
+project_id = 225247
+file_id = 2484148
+
+[[mods]]
 name = "Environmental Tech"
 author = "ValkyrieofNight"
 slug = "environmental-tech"
@@ -434,6 +441,13 @@ author = "InsomniaKitten"
 slug = "i-know-what-im-doing"
 project_id = 271492
 file_id = 2469710
+
+[[mods]]
+name = "Immersive Cables"
+author = "SanAndreasP"
+slug = "immersive-cables"
+project_id = 283992
+file_id = 2513800
 
 [[mods]]
 name = "Immersive Engineering"
@@ -548,6 +562,13 @@ project_id = 241895
 file_id = 2443462
 
 [[mods]]
+name = "LagGoggles"
+author = "Terminator_NL_44352929"
+slug = "laggoggles"
+project_id = 283525
+file_id = 2516570
+
+[[mods]]
 name = "Lost Souls"
 author = "McJty"
 slug = "lost-souls"
@@ -660,11 +681,25 @@ project_id = 252354
 file_id = 2464501
 
 [[mods]]
+name = "OpenBlocks"
+author = "OpenMods"
+slug = "openblocks"
+project_id = 228816
+file_id = 2514379
+
+[[mods]]
 name = "OpenBlocks Elevator"
 author = "VsnGamer"
 slug = "openblocks-elevator"
 project_id = 250832
 file_id = 2494729
+
+[[mods]]
+name = "OpenModsLib"
+author = "OpenMods"
+slug = openmodslib
+project_id = 228815
+file_id = 2514375
 
 [[mods]]
 name = "Psi"
@@ -812,6 +847,13 @@ author = "Dyonovan"
 slug = "simply-enchanting"
 project_id = 269948
 file_id = 2445128
+
+[[mods]]
+name = "Simply Jetpacks 2"
+author = "Tomson124"
+slug = "simply-jetpacks-2"
+project_id = 251792
+file_id = 2515837
 
 [[mods]]
 name = "Sonar Core"
@@ -987,6 +1029,20 @@ author = "koppeh"
 slug = "wearable-backpacks"
 project_id = 257572
 file_id = 2522827
+
+[[mods]]
+name = "Whoosh"
+author = "ImbaKnugel"
+slug = "whoosh"
+project_id = 283016
+file_id = 2522236
+
+[[mods]]
+name = "Woot"
+author = "Ipsis"
+slug = "woot"
+project_id = 244049
+file_id = 2519756
 
 [[mods]]
 name = "XL Food Mod"
