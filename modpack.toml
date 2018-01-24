@@ -697,7 +697,7 @@ file_id = 2494729
 [[mods]]
 name = "OpenModsLib"
 author = "OpenMods"
-slug = openmodslib
+slug = "openmodslib"
 project_id = 228815
 file_id = 2514375
 
