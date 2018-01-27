@@ -30,20 +30,6 @@ recipes.addShapeless(<minecraft:chest>, [<quark:custom_chest:2>]);
 recipes.addShapeless(<minecraft:chest>, [<quark:custom_chest:1>]);
 recipes.addShapeless(<minecraft:chest>, [<quark:custom_chest>]);
 
-#Add Lifeforce Magma Crucible Recipes
-mods.thermalexpansion.Crucible.addRecipe(<liquid:glasshearts.lifeforce> * 100, <mysticalagriculture:sheep_essence>, 2000);
-mods.thermalexpansion.Crucible.addRecipe(<liquid:glasshearts.lifeforce> * 100, <mysticalagriculture:slime_essence>, 2000);
-mods.thermalexpansion.Crucible.addRecipe(<liquid:glasshearts.lifeforce> * 100, <mysticalagriculture:pig_essence>, 2000);
-mods.thermalexpansion.Crucible.addRecipe(<liquid:glasshearts.lifeforce> * 100, <mysticalagriculture:chicken_essence>, 2000);
-mods.thermalexpansion.Crucible.addRecipe(<liquid:glasshearts.lifeforce> * 100, <mysticalagriculture:cow_essence>, 2000);
-mods.thermalexpansion.Crucible.addRecipe(<liquid:glasshearts.lifeforce> * 250, <mysticalagriculture:creeper_essence>, 4000);
-mods.thermalexpansion.Crucible.addRecipe(<liquid:glasshearts.lifeforce> * 250, <mysticalagriculture:rabbit_essence>, 4000);
-mods.thermalexpansion.Crucible.addRecipe(<liquid:glasshearts.lifeforce> * 250, <mysticalagriculture:guardian_essence>, 4000);
-mods.thermalexpansion.Crucible.addRecipe(<liquid:glasshearts.lifeforce> * 250, <mysticalagriculture:spider_essence>, 4000);
-mods.thermalexpansion.Crucible.addRecipe(<liquid:glasshearts.lifeforce> * 500, <mysticalagriculture:enderman_essence>, 6000);
-mods.thermalexpansion.Crucible.addRecipe(<liquid:glasshearts.lifeforce> * 500, <mysticalagriculture:ghast_essence>, 6000);
-mods.thermalexpansion.Crucible.addRecipe(<liquid:glasshearts.lifeforce> * 500, <mysticalagriculture:blaze_essence>, 6000);
-
 #Adjust Extra Utilities 2 Culinary Generator recipe
 val culinary = <extrautils2:machine>.onlyWithTag({Type:"extrautils2:generator_culinary"});
 recipes.remove(culinary);
