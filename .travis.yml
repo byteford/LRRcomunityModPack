@@ -4,7 +4,6 @@ python:
 - '3.6'
 install:
 - pip install -r requirements.txt
-
 script:
 - python ./build-pack.py
 - |
@@ -24,3 +23,14 @@ script:
     echo "build contains errors."
     exit 1
   fi
+deploy:
+  provider: releases
+  api_key:
+    secure: sh1xCEs8oXY8LHnmyzy47RBbr6otWogvXSJaW6Bz4ltfd1Zy/c3XeA/s6f53x2fej+8842g70zijJOGThvLG/I2KDB6JzWJKtF9+2NeAeX5YYhIpJOjfshK32DQLgd+2x3sv6jN7OSt25V5j29ziyraPOlZVoZ1pwkcXRFNJhlYoIM3+CBEPqYByHolTxJ8x3nDvkTiDBi/wDt3hMmtzCOJUKuj1VZE3/AHiwKs6mZHD8mOPJmMr3/8gohZkCIYs2m7sVDP9WP8ZfnFUwCaI5kwaUClepChi+VaHk2XWETCk8X+XrJSr7De/VBffzLhMhKyo76+AqPvJhvXvNzjM6rbTz1VRgLTSdHUWpxyT6qSnUosZ/o8l+SHAv6AgOd39s4zNziq/+tjbS4H4VzwRVgt4oxhHMjl/+yr1cn7JWWwo8OSl1O4zh7JR411CigcHWJFL7ELbjTlks6RDzdUOfVZanOd1Obn3lo7CWbNvzVHaW4xRRbw9YhBOhnd0usppcgUFKXsEMrJYq/+yDveFHJFF0h266oQ6/YI71mx86qH2X0XLHF/PWEJAd8GkFftzQ8IYF9LjAIT4mOszSJRglFpwzbYzcz+jCv1NXwkFWi75d/Y72Ganuhag7s8rT0P0tw4Ob3E+gh4n8aeBj7rNuXAn50+HG5Uig1Qz8UKzStw=
+  file_glob: true
+  file: 
+  - SnorshCraft*.zip
+  - ChangeLog.txt
+  on:
+    tags: true
+  skip_cleanup: true
