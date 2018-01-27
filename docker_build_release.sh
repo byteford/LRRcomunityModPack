@@ -3,9 +3,16 @@ python ./build-pack.py
 cp SnorshCraft* /dist
 
 if [ -z "$1" ]; then
-	TAG=$(git describe --abbrev=0 --tags $(git rev-list --tags --skip=1  --max-count=1))
+	if git describe --exact-match --tags HEAD; then
+		# we're on a tag, use the preceding tag as start
+		PREV_TAG=$(git describe --abbrev=0 --tags $(git describe --abbrev=0 --tags)^)
+	else
+		# untagged commit, use the most recent tag as start
+		PREV_TAG=$(git describe --abbrev=0 --tags)
+	fi
 else
-	TAG=$1
+	PREV_TAG=$1
 fi
 
-python make-changelog.py ${TAG} > /dist/ChangeLog.txt
+echo "Creating Changelog from ${PREV_TAG} to HEAD"
+python make-changelog.py ${PREV_TAG} > /dist/ChangeLog.txt

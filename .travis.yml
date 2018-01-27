@@ -9,10 +9,10 @@ script:
 - |
   if git describe --exact-match --tags HEAD; then
     # we're on a tag, use the preceding tag as start
-    PREV_TAG=$(git describe --abbrev=0 --tags $(git rev-list --tags --skip=1  --max-count=1))
+    PREV_TAG=$(git describe --abbrev=0 --tags $(git describe --abbrev=0 --tags)^)
   else
     # untagged commit, use the most recent tag as start
-    PREV_TAG=$(git describe --abbrev=0 --tags $(git rev-list --tags  --max-count=1))
+    PREV_TAG=$(git describe --abbrev=0 --tags)
   fi
   echo "Creating Changelog from ${PREV_TAG} to HEAD"
   python make-changelog.py ${PREV_TAG} > ChangeLog.txt 2> >(tee -a stderr.log >&2)
@@ -26,11 +26,12 @@ script:
 deploy:
   provider: releases
   api_key:
-    secure: sh1xCEs8oXY8LHnmyzy47RBbr6otWogvXSJaW6Bz4ltfd1Zy/c3XeA/s6f53x2fej+8842g70zijJOGThvLG/I2KDB6JzWJKtF9+2NeAeX5YYhIpJOjfshK32DQLgd+2x3sv6jN7OSt25V5j29ziyraPOlZVoZ1pwkcXRFNJhlYoIM3+CBEPqYByHolTxJ8x3nDvkTiDBi/wDt3hMmtzCOJUKuj1VZE3/AHiwKs6mZHD8mOPJmMr3/8gohZkCIYs2m7sVDP9WP8ZfnFUwCaI5kwaUClepChi+VaHk2XWETCk8X+XrJSr7De/VBffzLhMhKyo76+AqPvJhvXvNzjM6rbTz1VRgLTSdHUWpxyT6qSnUosZ/o8l+SHAv6AgOd39s4zNziq/+tjbS4H4VzwRVgt4oxhHMjl/+yr1cn7JWWwo8OSl1O4zh7JR411CigcHWJFL7ELbjTlks6RDzdUOfVZanOd1Obn3lo7CWbNvzVHaW4xRRbw9YhBOhnd0usppcgUFKXsEMrJYq/+yDveFHJFF0h266oQ6/YI71mx86qH2X0XLHF/PWEJAd8GkFftzQ8IYF9LjAIT4mOszSJRglFpwzbYzcz+jCv1NXwkFWi75d/Y72Ganuhag7s8rT0P0tw4Ob3E+gh4n8aeBj7rNuXAn50+HG5Uig1Qz8UKzStw=
+    secure: TDxggeokM6m09cPXjhgIqdfwmtNuL07i14s2SoXmqXAI938TXbwYrs4pA72FbbNwSchZUcJ3hKBxtG3gbeYuNf/ATibGxMOtj0nXLQki6Uk2LGKwRmEv4j//o64r5k5f4vbuuyOHmewcyKeCFXrt87S97ZcPwGUo6mwSGBmPYsKdXQ0FzXxN67DlSk4ArbRIDRTE72alnlnETbT44OMqysFof/S5aw8ajxsccr5JbHckAKDuU9WGw70nUQVOUgMXwDGK4NI7aT2yaNrZZsVIiNJoheLCPfe5CZ5X2wv3JgFxneaKJRddt+4tf5lG0i9syE0GX5nfK6cN8t9ipd/WB0Mf8dBY5ecIuLmVqxixc0WpSli4z4WdyftpFvKDJmab/C1Ca6k8EfOf5OKrlLuCszxt0ibJiwgAbLf8jvRr0kBuujE7to5c1+9mLeuXH2f14QLtjB7N8Cy8fl+M/lNQEGdMcAOARkDvFPiic5MQckP+wEJHPZBZlCHBl1RXNryOXz0iv4DQ6aWp1wIx6tciPq41yebx5k9nfOPNVVkxeN37m5Iu/ns2kcVro3KDqJEAfycIqNHjijipObkbdvpgcCI3zH2YZ8OiQJ84xD26YXCkXA37gllznDw1mnz/6znRlcWn2W4acuF2qM/mU7n1/u56soKD81A22rs+4VDMCTw=
   file_glob: true
   file: 
   - SnorshCraft*.zip
   - ChangeLog.txt
   on:
+    repo: LRRCommunity/LRRcomunityModPack
     tags: true
   skip_cleanup: true
