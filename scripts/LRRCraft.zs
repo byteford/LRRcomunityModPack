@@ -123,3 +123,9 @@ mods.thermalexpansion.Pulverizer.addRecipe(<appliedenergistics2:material:46>, <m
 recipes.remove(<industrialforegoing:black_hole_unit>);
 recipes.remove(<industrialforegoing:black_hole_tank>);
 recipes.remove(<industrialforegoing:mob_duplicator>);
+
+#Add Mystical Agriculture reccipe for Iron Ore
+recipes.addShaped(<minecraft:iron_ore>, [[<mysticalagriculture:stone_essence>, <mysticalagriculture:iron_essence>, <mysticalagriculture:stone_essence>],[<mysticalagriculture:iron_essence>, <mysticalagriculture:iron_essence>, <mysticalagriculture:iron_essence>], [<mysticalagriculture:stone_essence>, <mysticalagriculture:iron_essence>, <mysticalagriculture:stone_essence>]]);
+
+#Fix glider part recipe conflict
+recipes.remove(<openblocks:generic>);
