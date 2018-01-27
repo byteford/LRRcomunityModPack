@@ -1,0 +1,26 @@
+language: python
+cache: pip
+python:
+- '3.6'
+install:
+- pip install -r requirements.txt
+
+script:
+- python ./build-pack.py
+- |
+  if git describe --exact-match --tags HEAD; then
+    # we're on a tag, use the preceding tag as start
+    PREV_TAG=$(git describe --abbrev=0 --tags $(git rev-list --tags --skip=1  --max-count=1))
+  else
+    # untagged commit, use the most recent tag as start
+    PREV_TAG=$(git describe --abbrev=0 --tags $(git rev-list --tags  --max-count=1))
+  fi
+  echo "Creating Changelog from ${PREV_TAG} to HEAD"
+  python make-changelog.py ${PREV_TAG} > ChangeLog.txt 2> >(tee -a stderr.log >&2)
+- cat ChangeLog.txt
+- cat stderr.log
+- |
+  if grep "ERROR: " stderr.log; then
+    echo "build contains errors."
+    exit 1
+  fi
