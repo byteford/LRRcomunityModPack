@@ -129,3 +129,6 @@ recipes.addShaped(<minecraft:iron_ore>, [[<mysticalagriculture:stone_essence>, <
 
 #Fix glider part recipe conflict
 recipes.remove(<openblocks:generic>);
+
+#Add oredict to ImmersiveTech Salt
+<ore:itemSalt>.add(<immersivetech:material>);
