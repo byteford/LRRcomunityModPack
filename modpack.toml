@@ -6,7 +6,7 @@ override_dir = "overrides"
 
 [minecraft]
 version = "1.12.2"
-forge_version = "14.23.1.2571"
+forge_version = "14.23.1.2601"
 
 [[mods]]
 name = "Actually Additions"
