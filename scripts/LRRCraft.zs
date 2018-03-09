@@ -132,3 +132,7 @@ recipes.remove(<openblocks:generic>);
 
 #Add oredict to ImmersiveTech Salt
 <ore:itemSalt>.add(<immersivetech:material>);
+
+#Add recipes for Traverse stones
+recipes.addShaped(<traverse:blue_rock_cobblestone> * 16, [[null, <mysticalagriculture:water_essence>, null],[<mysticalagriculture:stone_essence>, <mysticalagriculture:stone_essence>, <mysticalagriculture:stone_essence>], [null, <mysticalagriculture:stone_essence>, null]]);
+recipes.addShaped(<traverse:red_rock_cobblestone> * 16, [[null, <mysticalagriculture:fire_essence>, null],[<mysticalagriculture:stone_essence>, <mysticalagriculture:stone_essence>, <mysticalagriculture:stone_essence>], [null, <mysticalagriculture:stone_essence>, null]]);
