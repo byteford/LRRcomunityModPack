@@ -32,6 +32,6 @@ deploy:
   - SnorshCraft*.zip
   - ChangeLog.txt
   on:
-    repo: LRRCommunity/LRRcomunityModPack
+    repo: LRRCommunity/LRRCommunityModPack
     tags: true
   skip_cleanup: true
