@@ -1,7 +1,7 @@
 [pack_meta]
 title = "SnorshCraft"
 author = "byteford"
-version = "1.5.3"
+version = "1.5.4"
 override_dir = "overrides"
 
 [minecraft]
@@ -818,7 +818,7 @@ name = "Rustic"
 author = "thatguy3039"
 slug = "rustic"
 project_id = 256141
-file_id = 2538710
+file_id = 2535889
 
 [[mods]]
 name = "Server Tick Monitor"
