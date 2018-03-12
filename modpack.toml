@@ -1,7 +1,7 @@
 [pack_meta]
 title = "SnorshCraft"
 author = "byteford"
-version = "1.5.4"
+version = "1.5.5"
 override_dir = "overrides"
 
 [minecraft]
@@ -436,6 +436,13 @@ project_id = 247855
 file_id = 2524212
 
 [[mods]]
+name = "Guide-API"
+author = "TehNut"
+slug = "guide-api"
+project_id = 228832
+file_id = 2466858
+
+[[mods]]
 name = "IKWID (I Know What I'm Doing)"
 author = "InsomniaKitten"
 slug = "i-know-what-im-doing"
@@ -496,7 +503,7 @@ name = "Integration Foregoing"
 author = "Jacky1356400"
 slug = "integration-foregoing"
 project_id = 277938
-file_id = 2509227
+file_id = 2530959
 
 [[mods]]
 name = "Inventory Tweaks"
@@ -903,6 +910,13 @@ author = "senpaisubaraki"
 slug = "sublib"
 project_id = 251678
 file_id = 2522690
+
+[[mods]]
+name = "TESLA"
+author = "Darkhax"
+slug = "tesla"
+project_id = 244651
+file_id = 2487959
 
 [[mods]]
 name = "Tesla Core Lib"
