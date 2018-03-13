@@ -46,14 +46,15 @@ changelog_template = """\
 
 def parse_commit_message(msg, author):
 	changes = []
-	
-	regex = r"^\[([A-Z]+)\]\s+(.*)$"
-	for change in re.finditer(regex, msg, re.MULTILINE):
-		change_dict = parse_commit_line(*change.groups(), author)
-		if (change_dict):
-			changes.append(change_dict)
-		else:
-			print('WARNING: Unhandled Line: "%s"' % msg, file=sys.stderr)
+	for line in msg.splitlines():
+		regex = r"^\[([A-Z]+)\]\s+(.*)$"
+		change = re.match(regex, line)
+		if change:
+			change_dict = parse_commit_line(*change.groups(), author)
+			if (change_dict):
+				changes.append(change_dict)
+			else:
+				print('WARNING: Unhandled Line: "%s"' % msg, file=sys.stderr)
 
 	return changes
 	
