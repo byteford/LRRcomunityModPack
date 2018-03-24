@@ -65,7 +65,7 @@ def parse_commit_line(action, text, author):
 	change["author"] = author;
 	
 	if action in ["ADD", "UPD"]:
-		match = re.search(r"^(.+)\s+\((.+)\)$", text)
+		match = re.search(r"^(.+)\s+\((.+)\)\s*$", text)
 		if match:
 			change["name"], change["version"] = match.groups()
 		else:
