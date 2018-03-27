@@ -1,7 +1,7 @@
 [pack_meta]
 title = "SnorshCraft"
 author = "byteford"
-version = "1.5.8"
+version = "1.5.9"
 override_dir = "overrides"
 
 [minecraft]
@@ -146,7 +146,7 @@ name = "Bookshelf"
 author = "darkh4x"
 slug = "bookshelf"
 project_id = 228525
-file_id = 2544026
+file_id = 2545402
 
 [[mods]]
 name = "Botania"
@@ -328,14 +328,14 @@ name = "Dynamic Surroundings"
 author = "OreCruncher"
 slug = "dynamic-surroundings"
 project_id = 238891
-file_id = 2540758
+file_id = 2544587
 
 [[mods]]
 name = "Dynamic Trees"
 author = "ferreusveritas"
 slug = "dynamic-trees"
 project_id = 252818
-file_id = 2539430
+file_id = 2544966
 
 [[mods]]
 name = "ElecCore | Rendering Library"
@@ -370,7 +370,7 @@ name = "Environmental Tech"
 author = "ValkyrieofNight"
 slug = "environmental-tech"
 project_id = 245453
-file_id = 2537686
+file_id = 2544733
 
 [[mods]]
 name = "EvilCraft"
@@ -399,6 +399,13 @@ author = "RWTema"
 slug = "extra-utilities"
 project_id = 225561
 file_id = 2542275
+
+[[mods]]
+name = "FoamFix for Minecraft"
+author = "asiekierka"
+slug = "foamfix-for-minecraft"
+project_id = 278494
+file_id = 2545218
 
 [[mods]]
 name = "Flux Networks"
@@ -475,7 +482,7 @@ name = "Immersive Petroleum"
 author = "theFlaxbeard"
 slug = "immersive-petroleum"
 project_id = 268250
-file_id = 2543035
+file_id = 2544919
 
 [[mods]]
 name = "Immersive Tech"
@@ -489,7 +496,7 @@ name = "Industrial Foregoing"
 author = "Buuz135"
 slug = "industrial-foregoing"
 project_id = 266515
-file_id = 2541387
+file_id = 2545545
 
 [[mods]]
 name = "Integrated Dynamics"
@@ -573,7 +580,7 @@ name = "KleeSlabs"
 author = "BlayTheNinth"
 slug = "kleeslabs"
 project_id = 241895
-file_id = 2544172
+file_id = 2545152
 
 [[mods]]
 name = "LagGoggles"
@@ -762,7 +769,7 @@ name = "Reborn Core"
 author = "modmuss50"
 slug = "reborncore"
 project_id = 237903
-file_id = 2544111
+file_id = 2545247
 
 [[mods]]
 name = "Reborn Storage"
@@ -811,7 +818,7 @@ name = "RFTools"
 author = "McJty"
 slug = "rftools"
 project_id = 224641
-file_id = 2541774
+file_id = 2545144
 
 [[mods]]
 name = "RFTools Control"
@@ -839,7 +846,7 @@ name = "Rustic"
 author = "thatguy3039"
 slug = "rustic"
 project_id = 256141
-file_id = 2540265
+file_id = 2545348
 
 [[mods]]
 name = "Server Tick Monitor"
@@ -895,7 +902,7 @@ name = "Soot"
 author = "BordListian"
 slug = "soot"
 project_id = 281528
-file_id = 2544126
+file_id = 2545229
 
 [[mods]]
 name = "Steve's Carts Reborn"
@@ -909,7 +916,7 @@ name = "Storage Drawers"
 author = "jaquadro"
 slug = "storage-drawers"
 project_id = 223852
-file_id = 2536306
+file_id = 2545495
 
 [[mods]]
 name = "Stupid Things"
@@ -1049,14 +1056,14 @@ name = "ValkyrieLib"
 author = "ValkyrieofNight"
 slug = "valkyrielib"
 project_id = 245480
-file_id = 2537682
+file_id = 2544407
 
 [[mods]]
 name = "Waystones"
 author = "BlayTheNinth"
 slug = "waystones"
 project_id = 245755
-file_id = 2543827
+file_id = 2545165
 
 [[mods]]
 name = "Wearable Backpacks"
