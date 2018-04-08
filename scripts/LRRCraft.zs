@@ -124,15 +124,90 @@ recipes.remove(<industrialforegoing:black_hole_unit>);
 recipes.remove(<industrialforegoing:black_hole_tank>);
 recipes.remove(<industrialforegoing:mob_duplicator>);
 
-#Add Mystical Agriculture reccipe for Iron Ore
+#Add Mystical Agriculture recipe for Iron Ore
 recipes.addShaped(<minecraft:iron_ore>, [[<mysticalagriculture:stone_essence>, <mysticalagriculture:iron_essence>, <mysticalagriculture:stone_essence>],[<mysticalagriculture:iron_essence>, <mysticalagriculture:iron_essence>, <mysticalagriculture:iron_essence>], [<mysticalagriculture:stone_essence>, <mysticalagriculture:iron_essence>, <mysticalagriculture:stone_essence>]]);
 
 #Fix glider part recipe conflict
 recipes.remove(<openblocks:generic>);
 
-#Add oredict to ImmersiveTech Salt
-<ore:itemSalt>.add(<immersivetech:material>);
-
 #Add recipes for Traverse stones
 recipes.addShaped(<traverse:blue_rock_cobblestone> * 16, [[null, <mysticalagriculture:water_essence>, null],[<mysticalagriculture:stone_essence>, <mysticalagriculture:stone_essence>, <mysticalagriculture:stone_essence>], [null, <mysticalagriculture:stone_essence>, null]]);
 recipes.addShaped(<traverse:red_rock_cobblestone> * 16, [[null, <mysticalagriculture:fire_essence>, null],[<mysticalagriculture:stone_essence>, <mysticalagriculture:stone_essence>, <mysticalagriculture:stone_essence>], [null, <mysticalagriculture:stone_essence>, null]]);
+
+#Fix recipes for Natura fences and fence gates
+recipes.remove(<natura:darkwood_fence_gate>);
+recipes.remove(<natura:darkwood_fence>);
+recipes.remove(<natura:fusewood_fence_gate>);
+recipes.remove(<natura:fusewood_fence>);
+recipes.remove(<natura:bloodwood_fence_gate>);
+recipes.remove(<natura:bloodwood_fence>);
+recipes.remove(<natura:ghostwood_fence_gate>);
+recipes.remove(<natura:ghostwood_fence>);
+recipes.remove(<natura:redwood_fence_gate>);
+recipes.remove(<natura:redwood_fence>);
+recipes.remove(<natura:sakura_fence_gate>);
+recipes.remove(<natura:sakura_fence>);
+recipes.remove(<natura:hopseed_fence_gate>);
+recipes.remove(<natura:hopseed_fence>);
+recipes.remove(<natura:eucalyptus_fence_gate>);
+recipes.remove(<natura:eucalyptus_fence>);
+recipes.remove(<natura:willow_fence_gate>);
+recipes.remove(<natura:willow_fence>);
+recipes.remove(<natura:tiger_fence_gate>);
+recipes.remove(<natura:tiger_fence>);
+recipes.remove(<natura:amaranth_fence_gate>);
+recipes.remove(<natura:amaranth_fence>);
+recipes.remove(<natura:silverbell_fence_gate>);
+recipes.remove(<natura:silverbell_fence>);
+recipes.remove(<natura:maple_fence_gate>);
+recipes.remove(<natura:maple_fence>);
+recipes.remove(<natura:sticks:12>);
+recipes.remove(<natura:sticks:11>);
+recipes.remove(<natura:sticks:10>);
+recipes.remove(<natura:sticks:9>);
+recipes.remove(<natura:sticks:8>);
+recipes.remove(<natura:sticks:7>);
+recipes.remove(<natura:sticks:6>);
+recipes.remove(<natura:sticks:5>);
+recipes.remove(<natura:sticks:4>);
+recipes.remove(<natura:sticks:3>);
+recipes.remove(<natura:sticks:2>);
+recipes.remove(<natura:sticks:1>);
+recipes.remove(<natura:sticks>);
+recipes.addShaped(<natura:darkwood_fence>, [[null, null, null],[<natura:nether_planks:2>, <minecraft:stick>, <natura:nether_planks:2>], [<natura:nether_planks:2>, <minecraft:stick>, <natura:nether_planks:2>]]);
+recipes.addShaped(<natura:darkwood_fence_gate>, [[null, null, null],[<minecraft:stick>, <natura:nether_planks:2>, <minecraft:stick>], [<minecraft:stick>, <natura:nether_planks:2>, <minecraft:stick>]]);
+recipes.addShaped(<natura:ghostwood_fence>, [[null, null, null],[<natura:nether_planks>, <minecraft:stick>, <natura:nether_planks>], [<natura:nether_planks>, <minecraft:stick>, <natura:nether_planks>]]);
+recipes.addShaped(<natura:ghostwood_fence_gate>, [[null, null, null],[<minecraft:stick>, <natura:nether_planks>, <minecraft:stick>], [<minecraft:stick>, <natura:nether_planks>, <minecraft:stick>]]);
+recipes.addShaped(<natura:fusewood_fence_gate>, [[null, null, null],[<minecraft:stick>, <natura:nether_planks:3>, <minecraft:stick>], [<minecraft:stick>, <natura:nether_planks:3>, <minecraft:stick>]]);
+recipes.addShaped(<natura:bloodwood_fence_gate>, [[null, null, null],[<minecraft:stick>, <natura:nether_planks:1>, <minecraft:stick>], [<minecraft:stick>, <natura:nether_planks:1>, <minecraft:stick>]]);
+recipes.addShaped(<natura:redwood_fence_gate>, [[null, null, null],[<minecraft:stick>, <natura:overworld_planks:8>, <minecraft:stick>], [<minecraft:stick>, <natura:overworld_planks:8>, <minecraft:stick>]]);
+recipes.addShaped(<natura:fusewood_fence>, [[null, null, null],[<natura:nether_planks:3>, <minecraft:stick>, <natura:nether_planks:3>], [<natura:nether_planks:3>, <minecraft:stick>, <natura:nether_planks:3>]]);
+recipes.addShaped(<natura:bloodwood_fence>, [[null, null, null],[<natura:nether_planks:1>, <minecraft:stick>, <natura:nether_planks:1>], [<natura:nether_planks:1>, <minecraft:stick>, <natura:nether_planks:1>]]);
+recipes.addShaped(<natura:redwood_fence>, [[null, null, null],[<natura:overworld_planks:8>, <minecraft:stick>, <natura:overworld_planks:8>], [<natura:overworld_planks:8>, <minecraft:stick>, <natura:overworld_planks:8>]]);
+recipes.addShaped(<natura:sakura_fence_gate>, [[null, null, null],[<minecraft:stick>, <natura:overworld_planks:7>, <minecraft:stick>], [<minecraft:stick>, <natura:overworld_planks:7>, <minecraft:stick>]]);
+recipes.addShaped(<natura:hopseed_fence_gate>, [[null, null, null],[<minecraft:stick>, <natura:overworld_planks:6>, <minecraft:stick>], [<minecraft:stick>, <natura:overworld_planks:6>, <minecraft:stick>]]);
+recipes.addShaped(<natura:eucalyptus_fence_gate>, [[null, null, null],[<minecraft:stick>, <natura:overworld_planks:5>, <minecraft:stick>], [<minecraft:stick>, <natura:overworld_planks:5>, <minecraft:stick>]]);
+recipes.addShaped(<natura:willow_fence_gate>, [[null, null, null],[<minecraft:stick>, <natura:overworld_planks:4>, <minecraft:stick>], [<minecraft:stick>, <natura:overworld_planks:4>, <minecraft:stick>]]);
+recipes.addShaped(<natura:sakura_fence>, [[null, null, null],[<natura:overworld_planks:7>, <minecraft:stick>, <natura:overworld_planks:7>], [<natura:overworld_planks:7>, <minecraft:stick>, <natura:overworld_planks:7>]]);
+recipes.addShaped(<natura:hopseed_fence>, [[null, null, null],[<natura:overworld_planks:6>, <minecraft:stick>, <natura:overworld_planks:6>], [<natura:overworld_planks:6>, <minecraft:stick>, <natura:overworld_planks:6>]]);
+recipes.addShaped(<natura:eucalyptus_fence>, [[null, null, null],[<natura:overworld_planks:5>, <minecraft:stick>, <natura:overworld_planks:5>], [<natura:overworld_planks:5>, <minecraft:stick>, <natura:overworld_planks:5>]]);
+recipes.addShaped(<natura:willow_fence>, [[null, null, null],[<natura:overworld_planks:4>, <minecraft:stick>, <natura:overworld_planks:4>], [<natura:overworld_planks:4>, <minecraft:stick>, <natura:overworld_planks:4>]]);
+recipes.addShaped(<natura:tiger_fence_gate>, [[null, null, null],[<minecraft:stick>, <natura:overworld_planks:3>, <minecraft:stick>], [<minecraft:stick>, <natura:overworld_planks:3>, <minecraft:stick>]]);
+recipes.addShaped(<natura:tiger_fence>, [[null, null, null],[<natura:overworld_planks:3>, <minecraft:stick>, <natura:overworld_planks:3>], [<natura:overworld_planks:3>, <minecraft:stick>, <natura:overworld_planks:3>]]);
+recipes.addShaped(<natura:amaranth_fence_gate>, [[null, null, null],[<minecraft:stick>, <natura:overworld_planks:2>, <minecraft:stick>], [<minecraft:stick>, <natura:overworld_planks:2>, <minecraft:stick>]]);
+recipes.addShaped(<natura:amaranth_fence>, [[null, null, null],[<natura:overworld_planks:2>, <minecraft:stick>, <natura:overworld_planks:2>], [<natura:overworld_planks:2>, <minecraft:stick>, <natura:overworld_planks:2>]]);
+recipes.addShaped(<natura:silverbell_fence_gate>, [[null, null, null],[<minecraft:stick>, <natura:overworld_planks:1>, <minecraft:stick>], [<minecraft:stick>, <natura:overworld_planks:1>, <minecraft:stick>]]);
+recipes.addShaped(<natura:silverbell_fence>, [[null, null, null],[<natura:overworld_planks:1>, <minecraft:stick>, <natura:overworld_planks:1>], [<natura:overworld_planks:1>, <minecraft:stick>, <natura:overworld_planks:1>]]);
+recipes.addShaped(<natura:maple_fence_gate>, [[null, null, null],[<minecraft:stick>, <natura:overworld_planks>, <minecraft:stick>], [<minecraft:stick>, <natura:overworld_planks>, <minecraft:stick>]]);
+recipes.addShaped(<natura:maple_fence>, [[null, null, null],[<natura:overworld_planks>, <minecraft:stick>, <natura:overworld_planks>], [<natura:overworld_planks>, <minecraft:stick>, <natura:overworld_planks>]]);
+
+#Add more enchanted books to the Arcane Esorcellator
+mods.thermalexpansion.Enchanter.addRecipe(<minecraft:enchanted_book>.withTag({StoredEnchantments: [{lvl: 1 as short, id: 23 as short}]}), <minecraft:book>, <minecraft:compass>, 4000, 1000, false);
+mods.thermalexpansion.Enchanter.addRecipe(<minecraft:enchanted_book>.withTag({StoredEnchantments: [{lvl: 1 as short, id: 24 as short}]}), <minecraft:book>, <minecraft:book>, 4000, 1000, false);
+mods.thermalexpansion.Enchanter.addRecipe(<minecraft:enchanted_book>.withTag({StoredEnchantments: [{lvl: 1 as short, id: 30 as short}]}), <minecraft:book>, <minecraft:carrot>, 4000, 1000, false);
+mods.thermalexpansion.Enchanter.addRecipe(<minecraft:enchanted_book>.withTag({StoredEnchantments: [{lvl: 1 as short, id: 25 as short}]}), <minecraft:book>, <minecraft:sticky_piston>, 4000, 1000, false);
+mods.thermalexpansion.Enchanter.addRecipe(<minecraft:enchanted_book>.withTag({StoredEnchantments: [{lvl: 1 as short, id: 11 as short}]}), <minecraft:book>, <tconstruct:throwball:1>, 4000, 1000, false);
+mods.thermalexpansion.Enchanter.addRecipe(<minecraft:enchanted_book>.withTag({StoredEnchantments: [{lvl: 1 as short, id: 12 as short}]}), <minecraft:book>, <thermalfoundation:material:2051>, 4000, 1000, false);
+mods.thermalexpansion.Enchanter.addRecipe(<minecraft:enchanted_book>.withTag({StoredEnchantments: [{lvl: 1 as short, id: 13 as short}]}), <minecraft:book>, <minecraft:flint_and_steel>, 4000, 1000, false);
+mods.thermalexpansion.Enchanter.addRecipe(<minecraft:enchanted_book>.withTag({StoredEnchantments: [{lvl: 1 as short, id: 14 as short}]}), <minecraft:book>, <thermalfoundation:material:163>, 4000, 1000, false);
+mods.thermalexpansion.Enchanter.addRecipe(<minecraft:enchanted_book>.withTag({StoredEnchantments: [{lvl: 1 as short, id: 15 as short}]}), <minecraft:book>, <minecraft:wheat_seeds>, 4000, 1000, false);
