@@ -1,12 +1,12 @@
 [pack_meta]
 title = "SnorshCraft"
 author = "byteford"
-version = "1.5.9"
+version = "1.6.0"
 override_dir = "overrides"
 
 [minecraft]
 version = "1.12.2"
-forge_version = "14.23.2.2611"
+forge_version = "14.23.2.2654"
 
 [[mods]]
 name = "Actually Additions"
@@ -216,7 +216,7 @@ name = "CoFH Core"
 author = "TeamCoFH"
 slug = "cofhcore"
 project_id = 69162
-file_id = 2519297
+file_id = 2549394
 
 [[mods]]
 name = "CoFH World"
@@ -279,7 +279,7 @@ name = "Cucumber"
 author = "BlakeBr0"
 slug = "cucumber"
 project_id = 272335
-file_id = 2520478
+file_id = 2546515
 
 [[mods]]
 name = "Custom Main Menu"
@@ -328,7 +328,7 @@ name = "Dynamic Surroundings"
 author = "OreCruncher"
 slug = "dynamic-surroundings"
 project_id = 238891
-file_id = 2544587
+file_id = 2547833
 
 [[mods]]
 name = "Dynamic Trees"
@@ -370,14 +370,14 @@ name = "Environmental Tech"
 author = "ValkyrieofNight"
 slug = "environmental-tech"
 project_id = 245453
-file_id = 2544733
+file_id = 2546309
 
 [[mods]]
 name = "EvilCraft"
 author = "kroeser"
 slug = "evilcraft"
 project_id = 74610
-file_id = 2543372
+file_id = 2549064
 
 [[mods]]
 name = "Exchangers"
@@ -401,18 +401,18 @@ project_id = 225561
 file_id = 2542275
 
 [[mods]]
-name = "FoamFix for Minecraft"
-author = "asiekierka"
-slug = "foamfix-for-minecraft"
-project_id = 278494
-file_id = 2545218
-
-[[mods]]
 name = "Flux Networks"
 author = "Ollie_Lansdell"
 slug = "flux-networks"
 project_id = 248020
-file_id = 2537059
+file_id = 2549043
+
+[[mods]]
+name = "FoamFix for Minecraft"
+author = "asiekierka"
+slug = "foamfix-for-minecraft"
+project_id = 278494
+file_id = 2548754
 
 [[mods]]
 name = "Food Expansion"
@@ -426,14 +426,14 @@ name = "FTB Utilities"
 author = "FTB"
 slug = "ftb-utilities"
 project_id = 237102
-file_id = 2541125
+file_id = 2548713
 
 [[mods]]
 name = "FTBLib"
 author = "FTB"
 slug = "ftblib"
 project_id = 237167
-file_id = 2541122
+file_id = 2548712
 
 [[mods]]
 name = "Global XP - Share XP levels with your friends"
@@ -485,25 +485,18 @@ project_id = 268250
 file_id = 2544919
 
 [[mods]]
-name = "Immersive Tech"
-author = "FerroO2000"
-slug = "immersive-tech"
-project_id = 274159
-file_id = 2539196
-
-[[mods]]
 name = "Industrial Foregoing"
 author = "Buuz135"
 slug = "industrial-foregoing"
 project_id = 266515
-file_id = 2545545
+file_id = 2548675
 
 [[mods]]
 name = "Integrated Dynamics"
 author = "kroeser"
 slug = "integrated-dynamics"
 project_id = 236307
-file_id = 2543752
+file_id = 2549070
 
 [[mods]]
 name = "Integrated Tunnels"
@@ -517,7 +510,7 @@ name = "Integration Foregoing"
 author = "Jacky1356400"
 slug = "integration-foregoing"
 project_id = 277938
-file_id = 2530959
+file_id = 2546385
 
 [[mods]]
 name = "Inventory Tweaks"
@@ -650,7 +643,7 @@ name = "ModTweaker"
 author = "jaredlll08"
 slug = "modtweaker"
 project_id = 220954
-file_id = 2542884
+file_id = 2548987
 
 [[mods]]
 name = "More Overlays"
@@ -685,7 +678,7 @@ name = "Mystical Agriculture"
 author = "BlakeBr0"
 slug = "mystical-agriculture"
 project_id = 246640
-file_id = 2532297
+file_id = 2547508
 
 [[mods]]
 name = "Natura"
@@ -769,7 +762,7 @@ name = "Reborn Core"
 author = "modmuss50"
 slug = "reborncore"
 project_id = 237903
-file_id = 2545247
+file_id = 2548853
 
 [[mods]]
 name = "Reborn Storage"
@@ -790,7 +783,7 @@ name = "Redstone Arsenal"
 author = "TeamCoFH"
 slug = "redstone-arsenal"
 project_id = 70631
-file_id = 2518221
+file_id = 2549396
 
 [[mods]]
 name = "Redstone Flux"
@@ -818,7 +811,7 @@ name = "RFTools"
 author = "McJty"
 slug = "rftools"
 project_id = 224641
-file_id = 2545144
+file_id = 2549092
 
 [[mods]]
 name = "RFTools Control"
@@ -832,7 +825,7 @@ name = "RFTools Dimensions"
 author = "McJty"
 slug = "rftools-dimensions"
 project_id = 240950
-file_id = 2530525
+file_id = 2549121
 
 [[mods]]
 name = "Roots"
@@ -877,13 +870,6 @@ project_id = 240783
 file_id = 2475234
 
 [[mods]]
-name = "Simply Enchanting"
-author = "Dyonovan"
-slug = "simply-enchanting"
-project_id = 269948
-file_id = 2445128
-
-[[mods]]
 name = "Simply Jetpacks 2"
 author = "Tomson124"
 slug = "simply-jetpacks-2"
@@ -895,14 +881,14 @@ name = "Sonar Core"
 author = "Ollie_Lansdell"
 slug = "sonar-core"
 project_id = 239418
-file_id = 2536247
+file_id = 2548047
 
 [[mods]]
 name = "Soot"
 author = "BordListian"
 slug = "soot"
 project_id = 281528
-file_id = 2545229
+file_id = 2548839
 
 [[mods]]
 name = "Steve's Carts Reborn"
@@ -958,7 +944,7 @@ name = "The One Probe"
 author = "McJty"
 slug = "the-one-probe"
 project_id = 245211
-file_id = 2542295
+file_id = 2549097
 
 [[mods]]
 name = "The Twilight Forest"
@@ -986,21 +972,28 @@ name = "Thermal Dynamics"
 author = "TeamCoFH"
 slug = "thermal-dynamics"
 project_id = 227443
-file_id = 2518224
+file_id = 2549542
 
 [[mods]]
 name = "Thermal Expansion"
 author = "TeamCoFH"
 slug = "thermalexpansion"
 project_id = 69163
-file_id = 2520117
+file_id = 2549865
 
 [[mods]]
 name = "Thermal Foundation"
 author = "TeamCoFH"
 slug = "thermal-foundation"
 project_id = 222880
-file_id = 2518222
+file_id = 2549411
+
+[[mods]]
+name = "Thermal Innovation"
+author = "TeamCoFH"
+slug = "thermal-innovation"
+project_id = 291737
+file_id = 2549439
 
 [[mods]]
 name = "Tinkers Construct"
@@ -1035,7 +1028,7 @@ name = "Traverse"
 author = "ProfessorProspector"
 slug = "traverse"
 project_id = 267769
-file_id = 2478137
+file_id = 2549418
 
 [[mods]]
 name = "Tree Growing Simulator"
@@ -1056,7 +1049,7 @@ name = "ValkyrieLib"
 author = "ValkyrieofNight"
 slug = "valkyrielib"
 project_id = 245480
-file_id = 2544407
+file_id = 2546308
 
 [[mods]]
 name = "Waystones"
@@ -1091,7 +1084,7 @@ name = "XL Food Mod"
 author = "mariot789"
 slug = "xl-food-mod"
 project_id = 247217
-file_id = 2532122
+file_id = 2549094
 
 [[mods]]
 name = "XNet"
@@ -1105,4 +1098,4 @@ name = "ZeroCore"
 author = "ZeroNoRyouki"
 slug = "zerocore"
 project_id = 247921
-file_id = 2482156
+file_id = 2545939
