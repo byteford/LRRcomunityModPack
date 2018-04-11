@@ -1,7 +1,7 @@
 [pack_meta]
 title = "SnorshCraft"
 author = "byteford"
-version = "1.6.1"
+version = "1.6.3"
 override_dir = "overrides"
 
 [minecraft]
@@ -198,13 +198,6 @@ project_id = 231095
 file_id = 2541267
 
 [[mods]]
-name = "Chunk-Pregenerator"
-author = "Speiger"
-slug = "chunkpregenerator"
-project_id = 267193
-file_id = 2535228
-
-[[mods]]
 name = "CodeChicken Lib 1.8.+"
 author = "covers1624"
 slug = "codechicken-lib-1-8"
@@ -398,7 +391,7 @@ name = "Extra Utilities"
 author = "RWTema"
 slug = "extra-utilities"
 project_id = 225561
-file_id = 2542275
+file_id = 2550371
 
 [[mods]]
 name = "Flux Networks"
@@ -623,13 +616,6 @@ author = "McJty"
 slug = "mcjtylib"
 project_id = 233105
 file_id = 2543038
-
-[[mods]]
-name = "MeeCreeps"
-author = "McJty"
-slug = "meecreeps"
-project_id = 281390
-file_id = 2514029
 
 [[mods]]
 name = "Mod Name Tooltip"
