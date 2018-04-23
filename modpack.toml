@@ -1,19 +1,19 @@
 [pack_meta]
 title = "SnorshCraft"
 author = "byteford"
-version = "1.6.4"
+version = "1.6.5"
 override_dir = "overrides"
 
 [minecraft]
 version = "1.12.2"
-forge_version = "14.23.2.2654"
+forge_version = "14.23.3.2673"
 
 [[mods]]
 name = "Actually Additions"
 author = "Ellpeck"
 slug = "actually-additions"
 project_id = 228404
-file_id = 2542819
+file_id = 2554046
 
 [[mods]]
 name = "Advanced Generators"
@@ -146,7 +146,7 @@ name = "Bookshelf"
 author = "darkh4x"
 slug = "bookshelf"
 project_id = 228525
-file_id = 2545402
+file_id = 2550837
 
 [[mods]]
 name = "Botania"
@@ -328,7 +328,7 @@ name = "Dynamic Trees"
 author = "ferreusveritas"
 slug = "dynamic-trees"
 project_id = 252818
-file_id = 2544966
+file_id = 2551512
 
 [[mods]]
 name = "ElecCore | Rendering Library"
@@ -343,6 +343,20 @@ author = "elucent"
 slug = "embers"
 project_id = 251918
 file_id = 2495586
+
+[[mods]]
+name = "Ender Core"
+author = "tterag1098"
+slug = "ender-core"
+project_id = 231868
+file_id = 2552598
+
+[[mods]]
+name = "Ender IO"
+author = "tterag1098"
+slug = "ender-io"
+project_id = 64578
+file_id = 2552714
 
 [[mods]]
 name = "Ender Storage 1.8.+"
@@ -370,7 +384,7 @@ name = "EvilCraft"
 author = "kroeser"
 slug = "evilcraft"
 project_id = 74610
-file_id = 2549064
+file_id = 2553814
 
 [[mods]]
 name = "Exchangers"
@@ -405,7 +419,7 @@ name = "FoamFix for Minecraft"
 author = "asiekierka"
 slug = "foamfix-for-minecraft"
 project_id = 278494
-file_id = 2548754
+file_id = 2550790
 
 [[mods]]
 name = "Food Expansion"
@@ -419,14 +433,14 @@ name = "FTB Utilities"
 author = "FTB"
 slug = "ftb-utilities"
 project_id = 237102
-file_id = 2548713
+file_id = 2551349
 
 [[mods]]
 name = "FTBLib"
 author = "FTB"
 slug = "ftblib"
 project_id = 237167
-file_id = 2548712
+file_id = 2551149
 
 [[mods]]
 name = "Global XP - Share XP levels with your friends"
@@ -482,7 +496,7 @@ name = "Industrial Foregoing"
 author = "Buuz135"
 slug = "industrial-foregoing"
 project_id = 266515
-file_id = 2548675
+file_id = 2554594
 
 [[mods]]
 name = "Integrated Dynamics"
@@ -524,7 +538,7 @@ name = "Iron Chests"
 author = "progwml6"
 slug = "iron-chests"
 project_id = 228756
-file_id = 2533664
+file_id = 2550378
 
 [[mods]]
 name = "IvToolkit"
@@ -552,7 +566,7 @@ name = "Just Enough Items (JEI)"
 author = "mezz"
 slug = "just-enough-items-jei"
 project_id = 238222
-file_id = 2536307
+file_id = 2554301
 
 [[mods]]
 name = "Just Enough Resources (JER)"
@@ -608,7 +622,7 @@ name = "Mantle"
 author = "mDiyo"
 slug = "mantle"
 project_id = 74924
-file_id = 2474052
+file_id = 2550550
 
 [[mods]]
 name = "McJtyLib"
@@ -671,7 +685,7 @@ name = "Natura"
 author = "mDiyo"
 slug = "natura"
 project_id = 74120
-file_id = 2519128
+file_id = 2553697
 
 [[mods]]
 name = "Nature's Compass"
@@ -748,7 +762,7 @@ name = "Reborn Core"
 author = "modmuss50"
 slug = "reborncore"
 project_id = 237903
-file_id = 2548853
+file_id = 2553850
 
 [[mods]]
 name = "Reborn Storage"
@@ -783,7 +797,7 @@ name = "Refined Storage"
 author = "raoulvdberge"
 slug = "refined-storage"
 project_id = 243076
-file_id = 2538885
+file_id = 2554172
 
 [[mods]]
 name = "Resource Loader"
@@ -891,6 +905,13 @@ project_id = 223852
 file_id = 2545495
 
 [[mods]]
+name = "Storage Drawers Extras"
+author = "jaquadro"
+slug = "storage-drawers-extras"
+project_id = 254879
+file_id = 2443623
+
+[[mods]]
 name = "Stupid Things"
 author = "Furgl"
 slug = "stupid-things"
@@ -923,7 +944,7 @@ name = "The Lost Cities"
 author = "McJty"
 slug = "the-lost-cities"
 project_id = 269024
-file_id = 2544136
+file_id = 2550432
 
 [[mods]]
 name = "The One Probe"
@@ -965,14 +986,14 @@ name = "Thermal Expansion"
 author = "TeamCoFH"
 slug = "thermalexpansion"
 project_id = 69163
-file_id = 2549865
+file_id = 2552624
 
 [[mods]]
 name = "Thermal Foundation"
 author = "TeamCoFH"
 slug = "thermal-foundation"
 project_id = 222880
-file_id = 2549411
+file_id = 2552625
 
 [[mods]]
 name = "Thermal Innovation"
@@ -1028,7 +1049,7 @@ name = "Unlimited Chisel Works"
 author = "asiekierka"
 slug = "unlimited-chisel-works"
 project_id = 278493
-file_id = 2522227
+file_id = 2552136
 
 [[mods]]
 name = "ValkyrieLib"
@@ -1056,14 +1077,14 @@ name = "Whoosh"
 author = "ImbaKnugel"
 slug = "whoosh"
 project_id = 283016
-file_id = 2540027
+file_id = 2553471
 
 [[mods]]
 name = "Woot"
 author = "Ipsis"
 slug = "woot"
 project_id = 244049
-file_id = 2542390
+file_id = 2553203
 
 [[mods]]
 name = "XL Food Mod"
