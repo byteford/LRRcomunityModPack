@@ -1,0 +1,23 @@
+{
+	"default_ranks": {
+		"player": "player",
+		"op": "op"
+	},
+	"ranks": {
+		"player": {
+			"parent": "builtin_player",
+			"permissions": {
+				"ftbutilities.chunkloader.max_chunks": 9,
+				"ftbutilities.claims.max_chunks": 50
+			}
+		},
+		"op": {
+			"parent": "builtin_op",
+			"syntax": "<&2$name&r> ",
+			"permissions": {
+				"ftbutilities.chunkloader.max_chunks": 32,
+				"ftbutilities.claims.max_chunks": 50
+			}
+		}
+	}
+}
