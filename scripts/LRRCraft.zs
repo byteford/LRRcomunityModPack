@@ -212,15 +212,25 @@ mods.thermalexpansion.Enchanter.addRecipe(<minecraft:enchanted_book>.withTag({St
 mods.thermalexpansion.Enchanter.addRecipe(<minecraft:enchanted_book>.withTag({StoredEnchantments: [{lvl: 1 as short, id: 14 as short}]}), <minecraft:book>, <thermalfoundation:material:163>, 4000, 1000, false);
 mods.thermalexpansion.Enchanter.addRecipe(<minecraft:enchanted_book>.withTag({StoredEnchantments: [{lvl: 1 as short, id: 15 as short}]}), <minecraft:book>, <minecraft:wheat_seeds>, 4000, 1000, false);
 
-#Disable the Fluxed Jetplate
-recipes.remove(<simplyjetpacks:metaitemmods:18>);
-recipes.remove(<simplyjetpacks:metaitemmods:14>);
-recipes.remove(<simplyjetpacks:metaitemmods:27>);
-recipes.remove(<simplyjetpacks:itemjetpack:18>);
-
 #Add Oil Shale recipe
 recipes.addShaped(<thermalfoundation:ore_fluid:1>, [[<mysticalagriculture:stone_essence>, <mysticalagriculture:water_essence>, <mysticalagriculture:stone_essence>],[<mysticalagriculture:water_essence>, <mysticalagriculture:coal_essence>, <mysticalagriculture:water_essence>], [<mysticalagriculture:stone_essence>, <mysticalagriculture:water_essence>, <mysticalagriculture:stone_essence>]]);
 
 #Add new bucket recipes
 recipes.addShaped(<minecraft:bucket>, [[null, null, null],[<ore:ingotTin>, null, <ore:ingotTin>], [null, <ore:ingotTin>, null]]);
 recipes.addShaped(<minecraft:bucket>, [[null, null, null],[<ore:ingotAluminum>, null, <ore:ingotAluminum>], [null, <ore:ingotAluminum>, null]]);
+
+#Disable Simply Jetpack recipes
+recipes.remove(<simplyjetpacks:metaitemmods:18>);
+recipes.remove(<simplyjetpacks:metaitemmods:14>);
+recipes.remove(<simplyjetpacks:metaitemmods:27>);
+recipes.remove(<simplyjetpacks:itemjetpack:18>);
+
+#Cycle silicon types
+recipes.addShapeless(<appliedenergistics2:material:5>, [<refinedstorage:silicon>]);
+recipes.addShapeless(<refinedstorage:silicon>, [<enderio:item_material:5>]);
+recipes.addShapeless(<enderio:item_material:5>, [<appliedenergistics2:material:5>]);
+
+#Fix Tinker's Construct Item Rack recipe conflict
+recipes.removeShapeless(<tconstruct:rack>, []);
+recipes.addShapeless(<tconstruct:rack:1>, [<tconstruct:rack>]);
+recipes.addShapeless(<tconstruct:rack>, [<tconstruct:rack:1>]);
