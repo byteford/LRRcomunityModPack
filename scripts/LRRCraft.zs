@@ -234,3 +234,9 @@ recipes.addShapeless(<enderio:item_material:5>, [<appliedenergistics2:material:5
 recipes.removeShapeless(<tconstruct:rack>, []);
 recipes.addShapeless(<tconstruct:rack:1>, [<tconstruct:rack>]);
 recipes.addShapeless(<tconstruct:rack>, [<tconstruct:rack:1>]);
+
+#Fix disabled AE2 wooden gear gumming things up
+recipes.remove(<appliedenergistics2:material:40>);
+
+#Fix Natura cactus juice recipe conflict with Food Expansion
+recipes.remove(<natura:edibles:11>);
