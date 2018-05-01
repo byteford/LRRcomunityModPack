@@ -92,8 +92,14 @@
             "height": 35,
             "alignment": "top_left",
             "texture": "snorshcraft:textures/gui/driver.png",
-            "text": ["BILL","HUBRIS","DIO","KANYE","STEPTO","KAWWW","GERMSY","BUSKING","JOCKO","BATMANAA","HUMAN","EVA OI","BEARFRCE","TEATIME","KOCKO","JEEJO"],
+            "text": "",
+            "text_comment": ["BILL","HUBRIS","DIO","KANYE","STEPTO","KAWWW","GERMSY","BUSKING","JOCKO","BATMANAA","HUMAN","EVA OI","BEARFRCE","TEATIME","KOCKO","JEEJO"],
+            "action": {
+                "type": "openLink",
+                "link": "http://lrr.cc/roadquest"
+            },
             "shadow": false
+
         },
         "refresh": {
             "text": "",
@@ -122,8 +128,8 @@
             }
         },
         "packcredits": {
-            "text": "SnorshCraft V1.5: Now With Flight Options!",
-            "hoverText": "§nSnorshCraft V1.5: Now With Flight Options!",
+            "text": "SnorshCraft V1.6.5: Happy Snorsh Tree Day!",
+            "hoverText": "§nSnorshCraft V1.6.5: Happy Snorsh Tree Day!",
             "posX": 2,
             "posY": -10,
             "color": -1,
