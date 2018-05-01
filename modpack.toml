@@ -1,12 +1,12 @@
 [pack_meta]
 title = "SnorshCraft"
 author = "byteford"
-version = "1.6.5"
+version = "1.6.6"
 override_dir = "overrides"
 
 [minecraft]
 version = "1.12.2"
-forge_version = "14.23.3.2673"
+forge_version = "14.23.3.2678"
 
 [[mods]]
 name = "Actually Additions"
@@ -55,28 +55,28 @@ name = "Aroma1997Core"
 author = "Aroma1997"
 slug = "aroma1997core"
 project_id = 223735
-file_id = 2541341
+file_id = 2554530
 
 [[mods]]
 name = "Aroma1997s Dimensional World"
 author = "Aroma1997"
 slug = "aroma1997s-dimensional-world"
 project_id = 60092
-file_id = 2543387
+file_id = 2554521
 
 [[mods]]
 name = "Astral Sorcery"
 author = "HellFirePvP"
 slug = "astral-sorcery"
 project_id = 241721
-file_id = 2523583
+file_id = 2556379
 
 [[mods]]
 name = "AutoRegLib"
 author = "Vazkii"
 slug = "autoreglib"
 project_id = 250363
-file_id = 2544276
+file_id = 2557287
 
 [[mods]]
 name = "Baby Animals Model Swapper"
@@ -146,14 +146,14 @@ name = "Bookshelf"
 author = "darkh4x"
 slug = "bookshelf"
 project_id = 228525
-file_id = 2550837
+file_id = 2554421
 
 [[mods]]
 name = "Botania"
 author = "Vazkii"
 slug = "botania"
 project_id = 225643
-file_id = 2524591
+file_id = 2554929
 
 [[mods]]
 name = "Chameleon"
@@ -202,14 +202,14 @@ name = "CodeChicken Lib 1.8.+"
 author = "covers1624"
 slug = "codechicken-lib-1-8"
 project_id = 242818
-file_id = 2540351
+file_id = 2555141
 
 [[mods]]
 name = "CoFH Core"
 author = "TeamCoFH"
 slug = "cofhcore"
 project_id = 69162
-file_id = 2549394
+file_id = 2556447
 
 [[mods]]
 name = "CoFH World"
@@ -251,7 +251,7 @@ name = "CraftTweaker"
 author = "jaredlll08"
 slug = "crafttweaker"
 project_id = 239197
-file_id = 2539947
+file_id = 2554607
 
 [[mods]]
 name = "Creeper Confetti"
@@ -321,7 +321,7 @@ name = "Dynamic Surroundings"
 author = "OreCruncher"
 slug = "dynamic-surroundings"
 project_id = 238891
-file_id = 2547833
+file_id = 2556333
 
 [[mods]]
 name = "Dynamic Trees"
@@ -349,7 +349,7 @@ name = "Ender Core"
 author = "tterag1098"
 slug = "ender-core"
 project_id = 231868
-file_id = 2552598
+file_id = 2555366
 
 [[mods]]
 name = "Ender IO"
@@ -398,7 +398,7 @@ name = "ExtraCells2"
 author = "Destroyer7128"
 slug = "extracells2"
 project_id = 229218
-file_id = 2521550
+file_id = 2556244
 
 [[mods]]
 name = "Extra Utilities"
@@ -408,18 +408,11 @@ project_id = 225561
 file_id = 2550371
 
 [[mods]]
-name = "Flux Networks"
-author = "Ollie_Lansdell"
-slug = "flux-networks"
-project_id = 248020
-file_id = 2549043
-
-[[mods]]
 name = "FoamFix for Minecraft"
 author = "asiekierka"
 slug = "foamfix-for-minecraft"
 project_id = 278494
-file_id = 2550790
+file_id = 2555017
 
 [[mods]]
 name = "Food Expansion"
@@ -482,7 +475,7 @@ name = "Immersive Engineering"
 author = "BluSunrize"
 slug = "immersive-engineering"
 project_id = 231951
-file_id = 2543992
+file_id = 2554650
 
 [[mods]]
 name = "Immersive Petroleum"
@@ -496,7 +489,7 @@ name = "Industrial Foregoing"
 author = "Buuz135"
 slug = "industrial-foregoing"
 project_id = 266515
-file_id = 2554594
+file_id = 2555991
 
 [[mods]]
 name = "Integrated Dynamics"
@@ -531,7 +524,7 @@ name = "Iron Backpacks"
 author = "gr8pefish"
 slug = "iron-backpacks"
 project_id = 227049
-file_id = 2524324
+file_id = 2556615
 
 [[mods]]
 name = "Iron Chests"
@@ -566,7 +559,7 @@ name = "Just Enough Items (JEI)"
 author = "mezz"
 slug = "just-enough-items-jei"
 project_id = 238222
-file_id = 2554301
+file_id = 2556235
 
 [[mods]]
 name = "Just Enough Resources (JER)"
@@ -580,7 +573,7 @@ name = "KleeSlabs"
 author = "BlayTheNinth"
 slug = "kleeslabs"
 project_id = 241895
-file_id = 2545152
+file_id = 2554835
 
 [[mods]]
 name = "LagGoggles"
@@ -730,6 +723,13 @@ project_id = 228815
 file_id = 2525230
 
 [[mods]]
+name = "Platforms"
+author = "ShetiPhian"
+slug = "platforms"
+project_id = 244786
+file_id = 2539161
+
+[[mods]]
 name = "Psi"
 author = "Vazkii"
 slug = "psi"
@@ -769,7 +769,7 @@ name = "Reborn Storage"
 author = "modmuss50"
 slug = "rebornstorage"
 project_id = 256662
-file_id = 2528695
+file_id = 2554473
 
 [[mods]]
 name = "Recurrent Complex"
@@ -783,7 +783,7 @@ name = "Redstone Arsenal"
 author = "TeamCoFH"
 slug = "redstone-arsenal"
 project_id = 70631
-file_id = 2549396
+file_id = 2556769
 
 [[mods]]
 name = "Redstone Flux"
@@ -856,6 +856,13 @@ project_id = 248453
 file_id = 2505090
 
 [[mods]]
+name = "ShetiPhianCore"
+author = "ShetiPhian"
+slug = "shetiphiancore"
+project_id = 71738
+file_id = 2522314
+
+[[mods]]
 name = "Simple Chunks"
 author = "DarkMorford"
 slug = "simple-chunks"
@@ -863,25 +870,11 @@ project_id = 279820
 file_id = 2491343
 
 [[mods]]
-name = "SimpleHarvest"
-author = "TehNut"
-slug = "simpleharvest"
-project_id = 240783
-file_id = 2475234
-
-[[mods]]
 name = "Simply Jetpacks 2"
 author = "Tomson124"
 slug = "simply-jetpacks-2"
 project_id = 251792
-file_id = 2525262
-
-[[mods]]
-name = "Sonar Core"
-author = "Ollie_Lansdell"
-slug = "sonar-core"
-project_id = 239418
-file_id = 2548047
+file_id = 2555732
 
 [[mods]]
 name = "Soot"
@@ -926,18 +919,11 @@ project_id = 251678
 file_id = 2522690
 
 [[mods]]
-name = "TESLA"
-author = "Darkhax"
-slug = "tesla"
-project_id = 244651
-file_id = 2487959
-
-[[mods]]
 name = "Tesla Core Lib"
 author = "Face_of_Cat"
 slug = "tesla-core-lib"
 project_id = 254602
-file_id = 2536444
+file_id = 2556734
 
 [[mods]]
 name = "The Lost Cities"
@@ -958,7 +944,7 @@ name = "The Twilight Forest"
 author = "Benimatic"
 slug = "the-twilight-forest"
 project_id = 227639
-file_id = 2528109
+file_id = 2555837
 
 [[mods]]
 name = "TheBOMPlugin"
@@ -972,35 +958,35 @@ name = "Thermal Cultivation"
 author = "TeamCoFH"
 slug = "thermal-cultivation"
 project_id = 271835
-file_id = 2518223
+file_id = 2555322
 
 [[mods]]
 name = "Thermal Dynamics"
 author = "TeamCoFH"
 slug = "thermal-dynamics"
 project_id = 227443
-file_id = 2549542
+file_id = 2556768
 
 [[mods]]
 name = "Thermal Expansion"
 author = "TeamCoFH"
 slug = "thermalexpansion"
 project_id = 69163
-file_id = 2552624
+file_id = 2556802
 
 [[mods]]
 name = "Thermal Foundation"
 author = "TeamCoFH"
 slug = "thermal-foundation"
 project_id = 222880
-file_id = 2552625
+file_id = 2556452
 
 [[mods]]
 name = "Thermal Innovation"
 author = "TeamCoFH"
 slug = "thermal-innovation"
 project_id = 291737
-file_id = 2549439
+file_id = 2556453
 
 [[mods]]
 name = "Tinkers Construct"
@@ -1014,14 +1000,14 @@ name = "Tomb Many Graves 2"
 author = "M4thG33k"
 slug = "tomb-many-graves-2"
 project_id = 262823
-file_id = 2490167
+file_id = 2556918
 
 [[mods]]
 name = "TOP Addons"
 author = "DrManganese"
 slug = "top-addons"
 project_id = 247111
-file_id = 2542777
+file_id = 2556737
 
 [[mods]]
 name = "TorchMaster"
@@ -1035,7 +1021,7 @@ name = "Traverse"
 author = "ProfessorProspector"
 slug = "traverse"
 project_id = 267769
-file_id = 2549418
+file_id = 2556922
 
 [[mods]]
 name = "Tree Growing Simulator"
@@ -1063,7 +1049,7 @@ name = "Waystones"
 author = "BlayTheNinth"
 slug = "waystones"
 project_id = 245755
-file_id = 2545165
+file_id = 2556387
 
 [[mods]]
 name = "Wearable Backpacks"
@@ -1077,7 +1063,7 @@ name = "Whoosh"
 author = "ImbaKnugel"
 slug = "whoosh"
 project_id = 283016
-file_id = 2553471
+file_id = 2555656
 
 [[mods]]
 name = "Woot"
