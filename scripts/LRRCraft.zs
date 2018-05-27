@@ -240,3 +240,12 @@ recipes.remove(<appliedenergistics2:material:40>);
 
 #Fix Natura cactus juice recipe conflict with Food Expansion
 recipes.remove(<natura:edibles:11>);
+
+#Fix Olive Oil bottles not being fillable in the Fluid Transposer
+mods.thermalexpansion.Transposer.addFillRecipe(<rustic:fluid_bottle>.withTag({Fluid: {FluidName: "oliveoil", Amount: 1000}}), <minecraft:glass_bottle>, <liquid:oliveoil> * 250, 1000);
+
+#Add XP Droplet to Essence of Knowledge recipe
+mods.thermalexpansion.Crucible.addRecipe(<liquid:experience> * 250, <mysticalagriculture:xp_droplet>, 500);
+
+#Remove EIO Powered Spawner recipe
+recipes.remove(<enderio:block_powered_spawner>);
