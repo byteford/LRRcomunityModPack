@@ -249,3 +249,7 @@ mods.thermalexpansion.Crucible.addRecipe(<liquid:experience> * 250, <mysticalagr
 
 #Remove EIO Powered Spawner recipe
 recipes.remove(<enderio:block_powered_spawner>);
+
+#Add Advanced Gen Advanced Pressure Valve Recipes
+mods.thermalexpansion.InductionSmelter.addRecipe(<advgenerators:advanced_pressure_valve>, <thermalfoundation:material:167> * 8, <advgenerators:pressure_valve>, 50000);
+mods.thermalexpansion.InductionSmelter.addRecipe(<advgenerators:advanced_pressure_valve>, <enderio:item_alloy_ingot:2> * 8, <advgenerators:pressure_valve>, 50000);
