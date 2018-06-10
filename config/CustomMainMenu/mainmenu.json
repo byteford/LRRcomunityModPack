@@ -81,26 +81,6 @@
             },
             "alignment": "bottom_center"
         },
-        "drivername": {
-            "posX": 0,
-            "posY": 0,
-            "textOffsetX": 0,
-            "textOffsetY": 3,
-            "normalTextColor": 0,
-            "hoverTextColor": 0,
-            "width": 152,
-            "height": 35,
-            "alignment": "top_left",
-            "texture": "snorshcraft:textures/gui/driver.png",
-            "text": "",
-            "text_comment": ["BILL","HUBRIS","DIO","KANYE","STEPTO","KAWWW","GERMSY","BUSKING","JOCKO","BATMANAA","HUMAN","EVA OI","BEARFRCE","TEATIME","KOCKO","JEEJO"],
-            "action": {
-                "type": "openLink",
-                "link": "http://lrr.cc/roadquest"
-            },
-            "shadow": false
-
-        },
         "refresh": {
             "text": "",
             "posX": 190,
@@ -128,8 +108,8 @@
             }
         },
         "packcredits": {
-            "text": "SnorshCraft V1.6.6: Happy Snorsh Tree Day!",
-            "hoverText": "§nSnorshCraft V1.6.6: Happy Snorsh Tree Day!",
+            "text": "SnorshCraft V1.7.0: Thaumcraft The Gathering",
+            "hoverText": "§nSnorshCraft V1.7.0: Thaumcraft The Gathering",
             "posX": 2,
             "posY": -10,
             "color": -1,
