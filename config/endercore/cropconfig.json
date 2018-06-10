@@ -444,6 +444,31 @@
       "seed": "xlfoodmod:strawberry_seeds",
       "block": "xlfoodmod:strawberry_plant",
       "optional": true
+    },
+    {
+      "seed": "mysticalagriculture:knightmetal_seeds",
+      "block": "mysticalagriculture:knightmetal_crop",
+      "optional": true
+    },
+    {
+      "seed": "mysticalagriculture:amber_seeds",
+      "block": "mysticalagriculture:amber_crop",
+      "optional": true
+    },
+    {
+      "seed": "mysticalagriculture:quicksilver_seeds",
+      "block": "mysticalagriculture:quicksilver_crop",
+      "optional": true
+    },
+    {
+      "seed": "mysticalagriculture:grains_of_infinity_seeds",
+      "block": "mysticalagriculture:grains_of_infinity_crop",
+      "optional": true
+    },
+    {
+      "seed": "mysticalagriculture:dark_gem_seeds",
+      "block": "mysticalagriculture:dark_gem_crop",
+      "optional": true
     }
   ]
 }
