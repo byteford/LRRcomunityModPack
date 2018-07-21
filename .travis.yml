@@ -1,37 +1,24 @@
-language: python
-cache: pip
-python:
-- '3.6'
-install:
-- pip install -r requirements.txt
+language: java
+before_cache:
+  - rm -f  $HOME/.gradle/caches/modules-2/modules-2.lock
+  - rm -fr $HOME/.gradle/caches/*/plugin-resolution/
+cache:
+  directories:
+    - $HOME/.gradle/caches/
+    - $HOME/.gradle/wrapper/
+
 script:
-- python ./build-pack.py
-- |
-  if git describe --exact-match --tags HEAD; then
-    # we're on a tag, use the preceding tag as start
-    PREV_TAG=$(git describe --abbrev=0 --tags $(git describe --abbrev=0 --tags)^)
-  else
-    # untagged commit, use the most recent tag as start
-    PREV_TAG=$(git describe --abbrev=0 --tags)
-  fi
-  echo "Creating Changelog from ${PREV_TAG} to HEAD"
-  python make-changelog.py ${PREV_TAG} > ChangeLog.txt 2> >(tee -a stderr.log >&2)
-- cat ChangeLog.txt
-- cat stderr.log
-- |
-  if grep "ERROR: " stderr.log; then
-    echo "build contains errors."
-    exit 1
-  fi
+- ./gradlew build
 deploy:
   provider: releases
   api_key:
     secure: TDxggeokM6m09cPXjhgIqdfwmtNuL07i14s2SoXmqXAI938TXbwYrs4pA72FbbNwSchZUcJ3hKBxtG3gbeYuNf/ATibGxMOtj0nXLQki6Uk2LGKwRmEv4j//o64r5k5f4vbuuyOHmewcyKeCFXrt87S97ZcPwGUo6mwSGBmPYsKdXQ0FzXxN67DlSk4ArbRIDRTE72alnlnETbT44OMqysFof/S5aw8ajxsccr5JbHckAKDuU9WGw70nUQVOUgMXwDGK4NI7aT2yaNrZZsVIiNJoheLCPfe5CZ5X2wv3JgFxneaKJRddt+4tf5lG0i9syE0GX5nfK6cN8t9ipd/WB0Mf8dBY5ecIuLmVqxixc0WpSli4z4WdyftpFvKDJmab/C1Ca6k8EfOf5OKrlLuCszxt0ibJiwgAbLf8jvRr0kBuujE7to5c1+9mLeuXH2f14QLtjB7N8Cy8fl+M/lNQEGdMcAOARkDvFPiic5MQckP+wEJHPZBZlCHBl1RXNryOXz0iv4DQ6aWp1wIx6tciPq41yebx5k9nfOPNVVkxeN37m5Iu/ns2kcVro3KDqJEAfycIqNHjijipObkbdvpgcCI3zH2YZ8OiQJ84xD26YXCkXA37gllznDw1mnz/6znRlcWn2W4acuF2qM/mU7n1/u56soKD81A22rs+4VDMCTw=
   file_glob: true
   file: 
-  - SnorshCraft*.zip
-  - ChangeLog.txt
+  - build/distributions/SnorshCraft*.zip
+#  - ChangeLog.txt
   on:
     repo: LRRCommunity/LRRCommunityModPack
     tags: true
   skip_cleanup: true
+
