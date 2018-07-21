@@ -39,3 +39,11 @@ usernamecache.json
 usercache.json
 JAS.psd
 /dist
+
+# IDE and Gradle
+.idea
+*.iml
+*.ipr
+*.iws
+build
+.gradle
