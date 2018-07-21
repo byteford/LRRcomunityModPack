@@ -6,6 +6,11 @@
       "id": "OD:oreCoal"
     },
     {
+      "target": "black",
+      "weight": 4,
+      "id": "environmentaltech:lonsdaleite_crystal"
+    },
+    {
       "target": "white",
       "weight": 48,
       "id": "OD:oreIron"

@@ -1,0 +1,84 @@
+import groovy.json.JsonSlurper
+import org.ajoberstar.grgit.Grgit
+import org.eclipse.jgit.lib.*
+import org.eclipse.jgit.revwalk.*
+import org.eclipse.jgit.treewalk.*
+import org.eclipse.jgit.lib.ObjectReader
+import org.eclipse.jgit.treewalk.filter.PathFilter
+
+plugins {
+    id 'base'
+    id 'org.ajoberstar.grgit' version "1.7.2"
+}
+
+def modManifest = new JsonSlurper().parseText(file('manifest.json').text)
+version = modManifest.version
+ext.packName = modManifest.name
+
+def overrides = ['config/**', 'local/**', 'mods/**', 'resources/**', 'scripts/**']
+task distZip(type: Zip) {
+    description = "Builds the pack distribution"
+    group = "distribution"
+    inputs.property("overrides", overrides)
+    baseName = packName
+
+    into('/') {
+        from(file(projectDir)).include 'manifest.json'
+    }
+    into('/overrides') {
+        from(file(projectDir)).include overrides
+    }
+}
+
+build.dependsOn "distZip"
+
+
+
+task changeLog {
+
+    doLast {
+        def tempDir = temporaryDir
+        // determine last tag version
+        def lastCommit = findPrevTag()
+        // load the file
+        checkoutFile(grgit.repository.jgit.repository, lastCommit, "modpack.toml", file("$tempDir/modpack.toml.old"))
+
+        // compare the files list
+
+        // perform a lookup for file details
+
+        // parse the changelist for UPD messages
+
+        // write the changelog file
+
+    }
+
+}
+
+
+def checkoutFile(Repository repository, String commit, String file, File destination) {
+    ObjectId ref = repository.resolve(commit)
+    RevWalk revWalk = new RevWalk(repository)
+    RevCommit revCommit = revWalk.parseCommit(ref)
+    TreeWalk tree = new TreeWalk(repository)
+    tree.addTree(revCommit.getTree())
+    tree.setRecursive(true)
+    tree.setFilter(PathFilter.create(file))
+
+    ObjectReader objectReader = repository.newObjectReader().with {
+        while (tree.next()) {
+            String fileName = tree.getPathString()
+            println fileName
+            destination.bytes = it.open(tree.getObjectId(0)).getBytes()
+        }
+    }
+}
+
+def findPrevTag() {
+    def desc = grgit.repository.jgit.describe().setLong(true).call()
+    def group = (desc =~ /^(.*)-0-g.{7}$/)
+    if (group.matches())
+        return grgit.repository.jgit.describe().setTarget("${group[0][1]}^").call()
+    else
+        return grgit.describe()
+}

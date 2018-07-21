@@ -89,20 +89,6 @@
             },
             "alignment": "bottom_center"
         },
-        "drivername": {
-            "posX": 0,
-            "posY": 0,
-            "textOffsetX": 0,
-            "textOffsetY": 3,
-            "normalTextColor": 0,
-            "hoverTextColor": 0,
-            "width": 152,
-            "height": 35,
-            "alignment": "top_left",
-            "texture": "snorshcraft:textures/gui/driver.png",
-            "text": ["BILL","HUBRIS","DIO","KANYE","STEPTO","KAWWW","GERMSY","BUSKING","JOCKO","BATMANAA","HUMAN","EVA OI","BEARFRCE","TEATIME","KOCKO","JEEJO"],
-            "shadow": false
-        },
         "refresh": {
             "text": "",
             "posX": 190,
@@ -135,6 +121,13 @@
             "text": "Logo by Featherweight Creations",
             "posX": -83,
             "posY": -19,
+            "color": -1,
+            "alignment": "center"
+        },
+        "SAJewers": {
+            "text": "Main Menu by SAJewers",
+            "posX": -55,
+            "posY": -9,
             "color": -1,
             "alignment": "center"
         },
@@ -179,8 +172,8 @@
             }
         },
         "packcredits": {
-            "text": "SnorshCraft V1.5: Now With Flight Options!",
-            "hoverText": "§nSnorshCraft V1.5: Now With Flight Options!",
+            "text": "SnorshCraft V1.7.0: Thaumcraft The Gathering",
+            "hoverText": "§nSnorshCraft V1.7.0: Thaumcraft The Gathering",
             "posX": 2,
             "posY": -10,
             "color": -1,
@@ -197,6 +190,7 @@
             "posY": 35,
             "color": -256,
             "alignment": "top_center",
+            "synced": "true",
             "texts": "file:snorshcraft:texts/splashes.txt"
         },
         "background": {

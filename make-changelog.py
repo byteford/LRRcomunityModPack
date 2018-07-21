@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+from __future__ import print_function
 
 import git
 import jinja2
@@ -45,13 +46,16 @@ changelog_template = """\
 
 def parse_commit_message(msg, author):
 	changes = []
-	
-	regex = r"^\[([A-Z]+)\]\s+(.*)$"
-	for change in re.finditer(regex, msg, re.MULTILINE):
-		change_dict = parse_commit_line(*change.groups(), author)
-		if (change_dict):
-			changes.append(change_dict)
-		
+	for line in msg.splitlines():
+		regex = r"^\[([A-Z]+)\]\s+(.*)$"
+		change = re.match(regex, line)
+		if change:
+			change_dict = parse_commit_line(*change.groups(), author)
+			if (change_dict):
+				changes.append(change_dict)
+			else:
+				print('WARNING: Unhandled Line: "%s"' % msg, file=sys.stderr)
+
 	return changes
 	
 def parse_commit_line(action, text, author):
@@ -61,7 +65,12 @@ def parse_commit_line(action, text, author):
 	change["author"] = author;
 	
 	if action in ["ADD", "UPD"]:
-		change["name"], change["version"] = re.search(r"^(.+)\s+\((.+)\)$", text).groups()
+		match = re.search(r"^(.+)\s+\((.+)\)\s*$", text)
+		if match:
+			change["name"], change["version"] = match.groups()
+		else:
+			print('ERROR: Invalid ADD/UPD Line: "%s"' % text, file=sys.stderr)
+			return None
 	elif action in ["DEL"]:
 		change["name"] = text
 	elif action in ["CFG"]:

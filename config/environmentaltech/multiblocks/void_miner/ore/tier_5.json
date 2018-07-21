@@ -6,6 +6,11 @@
       "id": "environmentaltech:litherite_crystal"
     },
     {
+      "target": "black",
+      "weight": 4,
+      "id": "environmentaltech:lonsdaleite_crystal"
+    },
+    {
       "target": "magenta",
       "weight": 20,
       "id": "environmentaltech:erodium_crystal"
